@@ -2127,8 +2127,8 @@ section {
 .IneffectiveHeader, .EmergingHeader, .EffectiveHeader, .HighlyEffectiveHeader { width:20%; color:#fff; font-weight:bold; text-align:center; font-size:20px; padding: 5px; }
 .IneffectiveHeader {background-color:#ea9999; }  
 .EmergingHeader {background-color:#f9cb9c; }    
-.EffectiveHeader { background-color: #b7d7a8; }    
-.HighlyEffectiveHeader { background-color:#a0c5e8; }    
+.EffectiveHeader { background-color: #b7d7a8; }   
+.HighlyEffectiveHeader { background-color:#a0c5e8; }
 
 .IneffectiveDescription, .EmergingDescription, .EffectiveDescription, .HighlyEffectiveDescription { padding:5px; font-size:12px; }
 .IneffectiveDescription { background-color:#f5cbcc; } 
