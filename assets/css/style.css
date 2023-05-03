@@ -2119,7 +2119,7 @@ section {
 /* ESB Framework Instrument */
 .InstrumentTable {}
 
-.InstrumentTable td { font-family:arial; vertical-align:top; }
+.InstrumentTable td { font-family:arial; vertical-align:top; } 
 
 .InstrumentTable table { border: 1px #666 solid; margin:0px; padding:0px; }
 .PageHeader { background-color: #666; color:#fff; font-weight:bold; font-size:25px; padding:10px; }
