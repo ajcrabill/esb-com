@@ -2118,5 +2118,9 @@ section {
 
 
 .footer-contact .email-addresses a:hover {
-  color:#fff;
+  color:#999;
 }
+
+
+.inner-page .container .get-started-btn a:hover { background-color:#666; }
+
