@@ -1958,12 +1958,12 @@ section {
 #footer {
   color: #fff;
   font-size: 14px;
-  background: #2d3e6e;
+  background: #111111;
 }
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #1b1b1b;
+  background: #2d3e6e;
 }
 
 #footer .footer-top .footer-contact {
