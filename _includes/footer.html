@@ -1,0 +1,80 @@
+ <!-- ======= Footer ======= -->
+ <footer id="footer"  class="site-footer h-card">
+
+  <div class="footer-top">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-3 col-md-6 footer-contact">
+          <a href="/"><img src="/assets/img/1sq-logo-green.png" width="150px" alt=""></a>
+          <p class="email-addresses">
+            <strong>General Inquiries:</strong> <a href="mailto:info@1squint.org?subject=Re:+General+Inquiries">info at 1squint.org</a><br/><br/><br/>
+          </p>
+        </div>
+
+        <div class="col-lg-2 col-md-6 footer-links">
+          <h4>Non-Fiction</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="/non-fiction/future-of-education">Future of Education</a></li>
+          </ul>
+        </div>        
+
+        <div class="col-lg-2 col-md-6 footer-links">
+          <h4>Fiction</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="/fiction/joining-community">Joining Community</a></li>
+          </ul>
+
+          <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+          <div class="wrapper">
+        
+            <div class="footer-col-wrapper">
+              <div class="footer-col">
+                <!--<p class="feed-subscribe">
+                  <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
+                    <svg class="svg-icon orange">
+                      <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+                    </svg><span>Subscribe</span>
+                  </a>
+                </p>-->
+              {%- if site.author %}
+                <ul class="contact-list">
+                  {% if site.author.name -%}
+                    <li class="p-name">{{ site.author.name | escape }}</li>
+                  {% endif -%}
+                  {% if site.author.email -%}
+                    <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+                  {%- endif %}
+                </ul>
+              {%- endif %}
+              </div>
+              <div class="footer-col">
+                <p>{{ site.description | escape }}</p>
+              </div>
+            </div>
+        
+            <div class="social-links">
+              {%- include social.html -%}
+            </div>
+        
+          </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="container d-md-flex py-4">
+
+    <div class="me-md-auto text-center text-md-start">
+      <!--<div class="copyright">
+        &copy; Copyright <strong><span>airick journey crabill</span></strong>. All Rights Reserved
+      </div>-->
+    </div>
+
+
+  </div>
+</footer><!-- End Footer -->
+
+
+

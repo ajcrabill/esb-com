@@ -1,0 +1,8 @@
+theme: minima
+title: "1SQuint"
+gems:
+- jekyll-seo-tag
+permalink: date
+posts:
+  output: true
+  
