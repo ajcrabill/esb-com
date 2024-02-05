@@ -37,14 +37,14 @@ DoL for mindset competencies is coach observation with rubric. Alternative DoLs 
 <li>Summarize observations of at least 2 ESB workshops that are led by at least 2 different ESB coaches</li>
 <li>Summarize the similarities and differences of the accountability systems for school systems for five different states</li>
 <li>Summarize the similarities and differences of the statutory frameworks for school boards for five different states</li>
-<li>Individually summarize learnings from each of the following five ESB recommended readings:<ol type="a">
+<li>Individually summarize learnings from each of the following five ESB recommended readings:
+<ol type="a">
 <li>Great On Their Behalf: Chapters 1, 7, 8, 9 and 10</li>
 <li>Four Disciplines of Execution</li>
 <li>Boards That Make A Difference</li>
 <li>A Framework for School Governance</li>
 <li>School District Leadership That Works</li>
-</ol>
-</li>
+</ol></li>
 </ol><br/>
 
 <h5>Governance Skills</h5>
@@ -109,7 +109,7 @@ DoL for mindset competencies is coach observation with rubric. Alternative DoLs 
 <li>Communicate the intention behind, “I as Genesis”</li>
 <li>Communicate the intention behind, “Integrity as Access”</li>
 <li>Facilitate at least 2 conversations on Governance Mindset 1-3 and Coaching Mindset 1-4 without a script</li>
-<li>Facilitate at least 1 ESB 2-day workshop</li>
+<li>Facilitate at least 1 ESB 2-day workshop
   <ol type="a">
 <li>Integrity: Being your word</li>
 <li>Knowledge/Skill: Being accurate about the material</li>
