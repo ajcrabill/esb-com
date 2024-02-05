@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Book"
+title: "Great On Their Behalf"
 summary: "Great On Their Behalf"
 toplevel: Book
 # toplevellink: /contact
@@ -10,7 +10,7 @@ toplevel: Book
 <div class="row"><center>
 <div class="align-items-center">
 <div>
-<img class="hero-img" src="assets/img/book-cover.png">
+<img class="hero-img" src="/assets/img/book-cover.png">
 </div>
 <div>
 <h1>We are accelerating the transition<br/>
@@ -29,8 +29,9 @@ from adult inputs focused to<br/>student outcomes focused. Join us.</h1>
 </center></div>
 </div>
 
-
+<br/><br/><br/><br/>
 <div class="container">
+<h5>About the Author</h5>
 <a href="../" style="clear: left; display: inline !important; float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="1500" data-original-width="1000" height="320" src="/assets/img/ajc-headshot-small.jpeg" width="213" /></a>
 Improving student outcomes is airick journey crabill's relentless focus. He currently serves as the Conservator at DeSoto, Texas, Independent School District. During his guidance, DeSoto made double digit literacy gains and improved from having F ratings in areas of academics, finance, and governance to the district earning B ratings. He&#8217;s also Faculty at the Leadership Institution of Nevada; Collaborator with the Effective School Boards Initiative; and National Director of Governance at the Council of the Great City Schools in Washington, DC.
 
