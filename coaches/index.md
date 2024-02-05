@@ -6,7 +6,7 @@ toplevel: Coaches
 # toplevellink: /coaches
 ---
 
-Want to talk to a Nationally Certified ESB Coach? Curious about <a href="https://tinyurl.com/ESB-Why-Coaching-Matters">why coaching matters</a>? Need a consultation for your school board? Curious about becoming a coach yourself? Fill out the <a href="/contact/">contact form</a> or email us directly at <a href="mailto:coach@effectiveschoolboards.com?subject=Inquiry">coach@effectiveschoolboards.com</a><br/>
+Want to talk to a Nationally Certified ESB Coach? Curious about <a href="https://tinyurl.com/ESB-Why-Coaching-Matters">why coaching matters</a>? Need a consultation for your school board? Curious about becoming a coach yourself? Fill out the <a href="/contact/">contact form</a> or email us directly at <a href="mailto:coach@effectiveschoolboards.com?subject=Inquiry">coach@effectiveschoolboards.com</a>.<br/>
 <br/>
 
 Here is the current list of Nationally Certified ESB Coaches. 
