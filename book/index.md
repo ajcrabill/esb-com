@@ -10,7 +10,7 @@ toplevel: Book
 <div class="row"><center>
 <div class="align-items-center">
 <div>
-<img class="hero-img" src="/assets/img/book-cover.png">
+<img class="hero-book-img" src="/assets/img/book-cover.png">
 </div>
 <div>
 <h1>We are accelerating the transition<br/>
