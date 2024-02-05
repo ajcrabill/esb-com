@@ -409,6 +409,7 @@ h6 {
   border-color: #fff;
 }
 
+
 @media (max-width: 768px) {
   #hero {
     text-align: center;
@@ -429,6 +430,28 @@ h6 {
   #hero {
     height: 120vh;
   }
+}
+
+.hero-book-img { height:300px; }
+
+/* PHONE OR TABLET IN PORTRAIT */
+@media screen and (orientation: portrait) and (min-width: 0px) and (max-width:1000px) { 
+  .hero-book-img { padding-top:30px; height:200px; }
+}
+
+/* PHONE OR TABLET IN LANDSCAPE */
+@media screen and (orientation: landscape) and (min-width: 0px) and (max-width:1000px) {  
+  .hero-book-img { display:none; }
+}
+
+/* DESKTOP OR LAPTOP */
+@media screen and (min-width: 1001px) and (max-width:1600px) {      
+  .hero-book-img { height:300px; }
+}
+
+/* WIDESCREEN DESKTOP OR LAPTOP */
+@media (min-width: 1600px){      
+  .hero-book-img { height:300px; }
 }
 
 /*--------------------------------------------------------------
