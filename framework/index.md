@@ -6,16 +6,13 @@ toplevel: Framework
 # toplevellink: /framework
 ---
 
-
-        
-
-        <h5>Using the Framework</h5>
-        This instrument is best used by the full governing team -- the school board and superintendent &#8212; with guidance from a coach specifically certified in its application. After receiving an orientation to the framework, each individual school board member and the superintendent should give the school board a score for each practice area. When the score for each practice area is added together, this will reveal an overall score between 0 and 100, where a 0 indicates that the school board is ineffectively focusing on its goals for improving student outcomes and a 100 which indicates that the school board is highly effective at focusing on its goals for improving student outcomes. After each member of the governing team have scored the school board individually, then the coach will lead the governing team collectively through a process of scoring the school board for the first time. This will create the school board’s starting point data which, in addition to providing a measurable score, provides the school board with clarity about its strengths and weaknesses relative to being an effective school board. 
-        <br/><br/>
-        Once a starting point has been set, the school board should schedule time during a public meeting every three months to go through this process again as a means of self evaluating over time. Ideally each quarter the school board’s focus on improving student outcomes meaningfully increases. When using the instrument to conduct an evaluation, most indicators should be evaluated for the previous three month period unless indicated otherwise. Indicators that are about training and listening should generally be evaluated for the previous thirty-six month period unless indicated otherwise.
-        <br/><br/>
-        It is typical to go from a score of 0 to a score of 80+ over the course of two years, but only with the aid of a coach certified in this work. School boards that attempt this work without the support of a coach almost always fail; the adult behavior changes required are simply too great.  
-        <br/><br/>
+<h5>Using the Framework</h5>
+ This instrument is best used by the full governing team -- the school board and superintendent &#8212; with guidance from a coach specifically certified in its application. After receiving an orientation to the framework, each individual school board member and the superintendent should give the school board a score for each practice area. When the score for each practice area is added together, this will reveal an overall score between 0 and 100, where a 0 indicates that the school board is ineffectively focusing on its goals for improving student outcomes and a 100 which indicates that the school board is highly effective at focusing on its goals for improving student outcomes. After each member of the governing team have scored the school board individually, then the coach will lead the governing team collectively through a process of scoring the school board for the first time. This will create the school board’s starting point data which, in addition to providing a measurable score, provides the school board with clarity about its strengths and weaknesses relative to being an effective school board. 
+<br/><br/>
+Once a starting point has been set, the school board should schedule time during a public meeting every three months to go through this process again as a means of self evaluating over time. Ideally each quarter the school board’s focus on improving student outcomes meaningfully increases. When using the instrument to conduct an evaluation, most indicators should be evaluated for the previous three month period unless indicated otherwise. Indicators that are about training and listening should generally be evaluated for the previous thirty-six month period unless indicated otherwise.
+<br/><br/>
+It is typical to go from a score of 0 to a score of 80+ over the course of two years, but only with the aid of a coach certified in this work. School boards that attempt this work without the support of a coach almost always fail; the adult behavior changes required are simply too great.  
+<br/><br/>
         
 
 <style type="text/css">
