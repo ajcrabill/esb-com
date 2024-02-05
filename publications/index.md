@@ -27,7 +27,7 @@ from adult inputs focused to<br/>student outcomes focused. Join us.</h3>
 
 </div>
 </div>
-</center></div>
+</center></div> 
 </div>
 
 <br/><br/><br/><br/>
