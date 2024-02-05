@@ -6,7 +6,8 @@ toplevel: Coaches
 # toplevellink: /coaches
 ---
 
-Want to talk to a Nationally Certified ESB Coach? Curious about <a href="https://tinyurl.com/ESB-Why-Coaching-Matters">why coaching matters</a>? Need a consultation for your school board? Curious about becoming a coach yourself? Fill out the <a href="/contact/">contact form</a> or email us directly at <a href="mailto:coach@effectiveschoolboards.com?subject=Inquiry">coach@effectiveschoolboards.com</a><br/><br/
+Want to talk to a Nationally Certified ESB Coach? Curious about <a href="https://tinyurl.com/ESB-Why-Coaching-Matters">why coaching matters</a>? Need a consultation for your school board? Curious about becoming a coach yourself? Fill out the <a href="/contact/">contact form</a> or email us directly at <a href="mailto:coach@effectiveschoolboards.com?subject=Inquiry">coach@effectiveschoolboards.com</a><br/>
+<br/>
 
 Here is the current list of Nationally Certified ESB Coaches. 
 
@@ -27,7 +28,7 @@ Here is the current list of Nationally Certified ESB Coaches.
 <tr>
 <!--<td colspan="1">7136</td>-->
 <td colspan="1">Grant, Leslie</td>
-<td colspan="1">CGCS</td> o
+<td colspan="1">CGCS</td> 
 <td colspan="1">Georgia</td>
 <td colspan="1" align="right">4.6.26</td>
 </tr>
