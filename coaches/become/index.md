@@ -43,7 +43,8 @@ DoL for mindset competencies is coach observation with rubric. Alternative DoLs 
 <li>Boards That Make A Difference</li>
 <li>A Framework for School Governance</li>
 <li>School District Leadership That Works</li>
-</ol></li>
+</ol>
+</li>
 </ol><br/>
 
 <h5>Governance Skills</h5>
@@ -113,7 +114,8 @@ DoL for mindset competencies is coach observation with rubric. Alternative DoLs 
 <li>Integrity: Being your word</li>
 <li>Knowledge/Skill: Being accurate about the material</li>
 <li>Skill/Mindset: Being a safe and firm guide to support participant self-reflection</li>
-</ol></li>
+</ol>
+</li>
 </ol><br/>
 
 

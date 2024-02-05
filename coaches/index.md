@@ -18,7 +18,7 @@ Here is the current list of Nationally Certified ESB Coaches.
 <!--<th width="126" align="left" id="CoachID" >Coach ID</th>-->
 <th width="125" align="left" id="Name">Name</th>
 <th width="125" align="left" id="Affiliation">Affiliation</th>
-<th width="50" align="left" id="Location">Location</th>
+<th width="50" align="left" id="Location">Location</th> 
 <th width="50" align="right" id="Valid">Cert Exp Date</th>
 </tr>
 </thead>
