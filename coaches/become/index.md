@@ -1,0 +1,165 @@
+---
+layout: base
+title: "Become An ESB Coach"
+summary: "Become An ESB Coach"
+toplevel: Coaches
+# toplevellink: /coaches
+---
+
+Certification as a national ESB Coach last three years and requires a deep understanding of the Effective School Boards framework, 
+the ability to demonstrate that understanding in practice, and the ability to support governance teams through its implementation. 
+These competencies are revealed through demonstrations of learning regarding:
+<ul>
+  <li>Governance Knowledge (GK 1-12)</li>
+  <li>Governance Skill (GS 1-10) </li>
+  <li>Governance Mindset (GM 1-4)</li>
+  <li>Coaching Knowledge (CK 1-7)</li>
+  <li>Coaching Skill (CS 1-7)</li>
+  <li>Coaching Mindset (CM 1-6)</li> 
+</ul><br />
+
+Unless there is a 
+demonstration of learning (DoL) defined in the competency, each competency type relies on a default DoL. The default DoL for 
+knowledge competencies is a one page writing. The default DoL for skills competencies is an in-person demonstration or video artifact. The default 
+DoL for mindset competencies is coach observation with rubric. Alternative DoLs can be determined by a Senior Coach.
+<br/><br/>
+
+<h5>Governance Knowledge</h5>
+<ol>
+<li>Distinguish between inputs, outputs, and outcomes</li>
+<li>Distinguish between adult outcomes and student outcomes</li>
+<li>Distinguish between customer service and owner service</li>
+<li>Distinguish between low and high quality goals</li>
+<li>Distinguish between board work and superintendent work</li>
+<li>Distinguish between low and high quality monitoring reports</li>
+<li>Summarize similarities and differences between the policy governance principles and ESB
+<li>Summarize observations of at least 20 school board meetings from at least 5 different school boards and in at least 5 different states</li>
+<li>Summarize observations of at least 2 ESB workshops that are led by at least 2 different ESB coaches</li>
+<li>Summarize the similarities and differences of the accountability systems for school systems for five different states</li>
+<li>Summarize the similarities and differences of the statutory frameworks for school boards for five different states</li>
+<li>Individually summarize learnings from each of the following five ESB recommended readings:<ol type="a">
+<li>Great On Their Behalf: Chapters 1, 7, 8, 9 and 10</li>
+<li>Four Disciplines of Execution</li>
+<li>Boards That Make A Difference</li>
+<li>A Framework for School Governance</li>
+<li>School District Leadership That Works</li>
+  </ol></li>
+</ol><br/>
+
+<h5>Governance Skills</h5>
+<ol>
+<li>Communicate the difference between inputs, outputs, outcomes, and why it matters</li>
+<li>Communicate the difference between adult outcomes and student outcomes, and why it matters</li>
+<li>Conduct a time use evaluation for at least 3 school board meetings from at least 3 different school boards and in at least 3 different states</li>
+<li>Conduct an agenda evaluation for at least 3 school board meetings from at least 3 different school boards and in at least 3 different states</li>
+<li>Conduct a committee diet sample (at least 3 committees) for at least 3 different school boards and in at least 3 different states</li>
+<li>Create a draft implementation timeline</li>
+<li>Create a draft set of goals, guardrails, interim goals, and interim guardrails</li>
+<li>Conduct a policy diet sample (at least 10 policies) for at least 3 different school boards and in at least 3 different states</li>
+<li>Conduct a quarterly self evaluation sample (at least Clarify Priorities 1 & 2, and Monitor Progress sections) for at least 3 different school boards and in at least 3 different states</li>
+<li>Individually summarize learnings from each of the following four ESB recommended readings:<ol type="a">
+  <li>Great On Their Behalf: Chapters 2, 11, 12, 13, 14, 15, 16, 17</li>
+  <li>Policy Governance Consistency Framework</li>
+  <li>The Relationship Between School Board Governance Behaviors & Student Achievement</li>
+  <li>Eight Characteristics of Effective School Boards</li>
+</ol></li>
+</ol><br/>
+
+<h5>Governance Mindset</h5>
+<ol>
+<li>Communicate why school systems exist</li>
+<li>Communicate why school boards exist</li>
+<li>Communicate the intention behind, “student outcomes don’t change until adult behaviors change”</li>
+<li>Individually summarize learnings from each of the following five ESB recommended readings:<ol type="a">
+  <li>Great On Their Behalf: Introduction and Chapters 3, 4, 5, 6</li>
+  <li>Leadership & Self-Deception</li>
+  <li>Immunity To Change</li>
+  <li>School Governance Matters</li>
+  <li>Is Discord Detrimental</li>
+</ol></li>
+</ol><br/>
+
+<h5>Coaching Knowledge</h5>
+<ol>
+<li>Distinguish between feedback and criticism</li>
+<li>Distinguish between project management and performance management </li>
+<li>Distinguish between diagnostic, formative, interim, and summative assessment</li>
+<li>Distinguish between norm-referenced and criterion-referenced assessment scoring</li>
+<li>Distinguish between proficiency, growth, and comparison goal types</li>
+<li>Distinguish between static and cohort goal types</li>
+<li>Distinguish between low and high quality interim goals/interim guardrails</li>
+</ol><br/>
+
+<h5>Coaching Skills</h5>
+<ol>
+<li>Facilitate at least 2 conversations on Governance Knowledge 1-12 without a script</li>
+<li>Facilitate at least 2 conversations on Governance Skills 1-9 without a script</li>
+<li>Demonstrate the use of SCP & ICP</li>
+<li>Demonstrate the use of Blooms & ICAP</li>
+<li>Complete a Knowledge & Skills workshop</li>
+<li>Create a 1-3 page coaching recommendations memo for a board chair and superintendent based on observations than span at least 3 months</li>
+<li>Participate, under the guidance of a certified ESB Coach, in the support of at least three school boards</li>
+</ol><br/>
+
+<h5>Coaching Mindset</h5>
+<ol>
+<li>Complete at least 5 ESB mindset practices within 14 days</li>
+<li>Complete a Mindset workshop</li>
+<li>Communicate the intention behind, “I as Genesis”</li>
+<li>Communicate the intention behind, “Integrity as Access”</li>
+<li>Facilitate at least 2 conversations on Governance Mindset 1-3 and Coaching Mindset 1-4 without a script</li>
+<li>Facilitate at least 1 ESB 2-day workshop</li>
+  <ol type="a">
+<li>Integrity: Being your word</li>
+<li>Knowledge/Skill: Being accurate about the material</li>
+<li>Skill/Mindset: Being a safe and firm guide to support participant self-reflection</li>
+</ol></li>
+  </ol><br/>
+
+
+<h5>Certification Maintenance Requirements</h5>
+Maintenance of ESB Coach certification requires earning 10 points per year. If a coach does not earn at least 10 points per 
+year, their certification will lapse and they will need to complete the full certification process again from the beginning. 
+Where pre-approval or determination of effectiveness is required, a Senior ESB Coach is able to provide.
+<br/><br/>
+
+Coaches earn points in any of the following ways:
+<ul>
+<li>Effectively lead a pre-approved ESB 2-day workshop for at least 16 participants (10pts)</li>
+<li>Effectively coach a board as demonstrated by at least one board you are lead coach for being at 80+ points on their quarterly eval (25pts)</li>
+<li>Effectively lead a pre-approved 3hr continuing education unit (CEU) for at least 8 coaches (5pts)</li>
+<li>Complete a pre-approved 3hr CEU/professional development session for coaches (3pts)</li>
+<li>Develop pre-approved curriculum -- whether written or video -- for coaches to use (5pts)</li>
+</ul><br/>
+
+
+<h5>Certification Renewal Requirements</h5>
+Renewal of ESB Coach certification requires earning at least 50 points during the term of certification and at least 30 
+days prior to the expiration of their existing certification. If this has not been completed, then certification lapses and 
+the coach will need to complete the full certification process again from the beginning.
+  <br/><br/>
+
+
+
+<h5>Certification Revocation</h5>
+Revocation of ESB Coach certification may happen at any time and is a decision of the majority of currently certified Senior 
+ESB Coaches. Prior to revocation, a progressive approach to addressing unacceptable behavior is preferable. Initial certification may also 
+be withheld if, at the time that certification ordinarily would have been conveyed, the individual is determined by a majority of the 
+Senior ESB Coaches to be out of compliance with any of the following revocation criteria. Revocation may be warranted for circumstances 
+that include, but are not limited to:
+<ul>
+  <li>Deficiencies identified in evaluations or other communications by a Senior ESB Coach.</li>
+  <li>Neglect of duties or responsibilities, or the conduct of other business that is deemed incompatible with ESB certification.</li>
+  <li>Incompetence or inefficiency in the performance of expected duties;</li>
+  <li>Failure to comply with laws or with ESB's policies.</li>
+  <li>Drunkenness or excessive use of alcoholic beverages; illegal use of drugs, hallucinogens, or other controlled substances; 
+ the possession, use, or being under the influence of alcohol, alcoholic beverages, drugs or controlled substances -- any of the aforementioned behaviors -- while 
+on school property, acting within the scope of a certified coach's duties, or attending any school or school system-sponsored activity.</li>
+  <li>Conviction of a felony or any crime involving moral turpitude.</li>
+  <li>Failure to meet the ESB's standards of professional conduct.</li>
+  <li>Immorality, which is conduct the majority of Senior ESB Coaches determine is not in conformity with the accepted moral 
+standards of the community of ESB Coaches.</li>
+
+</ul>
+ 
+ 

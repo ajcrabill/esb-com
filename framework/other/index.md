@@ -23,7 +23,7 @@ toplevel: Framework
    <h5>Effective School Boards, EffectiveSchoolBoards.com</h5> 
    <ul>
 <li><strong>Origin: </strong>Created by school board coaches in 2021, this framework was popularized 
-  by the book, <a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/">Great On Their Behalf</a> and has been 
+  by the book, <a target="_blank" href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325">Great On Their Behalf</a> and has been 
 utilized by school boards is several countries and in states all across the US.</li>
 <li><strong>Page-by-Page Structure: </strong>This framework is based on the five-step continuous improvement
 cycle described in Great On Their Behalf.</li>
