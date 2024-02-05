@@ -15,10 +15,10 @@ Here is the current list of Nationally Certified ESB Coaches.
 <thead>
 <tr>
 <!--<th width="126" align="left" id="CoachID" >Coach ID</th>-->
-<th width="125px" align="left" id="Name">Name</th>
-<th width="125px" align="left" id="Affiliation">Affiliation</th>
-<th width="50px" align="left" id="Location">Location</th>
-<th width="50px" align="right" id="Valid">Cert Exp Date</th>
+<th width="125" align="left" id="Name">Name</th>
+<th width="125" align="left" id="Affiliation">Affiliation</th>
+<th width="50" align="left" id="Location">Location</th>
+<th width="50" align="right" id="Valid">Cert Exp Date</th>
 </tr>
 </thead>
 
@@ -27,7 +27,7 @@ Here is the current list of Nationally Certified ESB Coaches.
 <tr>
 <!--<td colspan="1">7136</td>-->
 <td colspan="1">Grant, Leslie</td>
-<td colspan="1">CGCS</td>
+<td colspan="1">CGCS</td> o
 <td colspan="1">Georgia</td>
 <td colspan="1" align="right">4.6.26</td>
 </tr>

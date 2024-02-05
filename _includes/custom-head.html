@@ -1,8 +1,8 @@
 {% comment %}
-  Placeholder to allow defining custom head, in principle, you can add anything here, e.g. favicons:
+Placeholder to allow defining custom head, in principle, you can add anything here, e.g. favicons:
 
-  1. Head over to https://realfavicongenerator.net/ to add your own favicons.
-  2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
+1. Head over to https://realfavicongenerator.net/ to add your own favicons.
+2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
 {% endcomment %}
 
 <file src="includes/custom-head.html" />
@@ -27,3 +27,41 @@
 <!-- Template Main CSS File -->
 <link href="/assets/css/style.css" rel="stylesheet">
 
+<link href="/assets/css/font-awesome.min.css" rel="stylesheet" />
+<link href="/assets/css/jquery.dataTables.min.css" type="text/css" rel="stylesheet" />
+
+
+ <script src="/assets/js/jquery-1.12.0.min.js"></script>
+ <script src="/assets/js/jquery.dataTables.min.js" language="javascript" type="text/javascript"></script>
+<script type="text/javascript"><!--
+$(document).ready(function() {
+		
+		
+		
+ var table = $('#datatable').DataTable( {
+"iDisplayLength": 10,
+ "order": [[ 1, "asc" ]]
+} );
+
+for (var i = 6; i < 12; i++) {
+table.column(i).visible(false, false);
+}
+
+table.columns.adjust().draw(false); // adjust column sizing and redraw 
+
+$('a.toggle-vis').hover(function() {
+$(this).css('cursor', 'pointer');
+});
+
+$('a.toggle-vis').on('click', function(e) {
+e.preventDefault(); // Get the column API object 
+
+var column = table.column($(this).attr('data-column'));
+
+// Toggle the visibility
+column.visible(!column.visible());
+	
+	} );
+	
+} );
+//--></script>
