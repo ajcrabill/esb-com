@@ -6,7 +6,7 @@ toplevel: Publications
 # toplevellink: /publications
 ---
 
-<div class="container" data-aos="zoom-out" data-aos-delay="100"> 
+<div class="container" data-aos="zoom-out" data-aos-delay="50"> 
 <div class="row"><center>
 <div class="align-items-center">
 <div>
