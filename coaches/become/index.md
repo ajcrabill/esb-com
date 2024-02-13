@@ -44,7 +44,7 @@ DoL for mindset competencies is coach observation with rubric. Alternative DoLs 
 <li>A Framework for School Governance</li>
 <li>School District Leadership That Works</li>
 </ol></li>
-</ol><br/>
+<br/>
 
 <h5>Governance Skills</h5>
 <ol>
