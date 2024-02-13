@@ -16,7 +16,7 @@ These competencies are revealed through demonstrations of learning regarding:
   <li>Coaching Knowledge (CK 1-7)</li>
   <li>Coaching Skill (CS 1-7)</li>
   <li>Coaching Mindset (CM 1-6)</li> 
-</ul><br />
+</ul><br/>
 
 Unless there is a 
 demonstration of learning (DoL) defined in the competency, each competency type relies on a default DoL. The default DoL for 
@@ -43,7 +43,7 @@ DoL for mindset competencies is coach observation with rubric. Alternative DoLs 
 <li>Boards That Make A Difference</li>
 <li>A Framework for School Governance</li>
 <li>School District Leadership That Works</li>
-</ol></li></ol>
+</ol></ol></li></ol>
 <br/>
 
 <h5>Governance Skills</h5>
