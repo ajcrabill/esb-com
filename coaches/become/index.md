@@ -32,7 +32,7 @@ DoL for mindset competencies is coach observation with rubric. Alternative DoLs 
 <li>Distinguish between low and high quality goals</li>
 <li>Distinguish between board work and superintendent work</li>
 <li>Distinguish between low and high quality monitoring reports</li>
-<li>Summarize similarities and differences between the policy governance principles and ESB
+<li>Summarize similarities and differences between the policy governance principles and ESB</li>
 <li>Summarize observations of at least 20 school board meetings from at least 5 different school boards and in at least 5 different states</li>
 <li>Summarize observations of at least 2 ESB workshops that are led by at least 2 different ESB coaches</li>
 <li>Summarize the similarities and differences of the accountability systems for school systems for five different states</li>
@@ -43,11 +43,12 @@ DoL for mindset competencies is coach observation with rubric. Alternative DoLs 
 <li>Boards That Make A Difference</li>
 <li>A Framework for School Governance</li>
 <li>School District Leadership That Works</li>
-</ol></li></ol>
+</ol></li>
+</ol><br/>
 
 
 
-<br/><h5>Governance Skills</h5>
+<h5>Governance Skills</h5>
 <ol>
 <li>Communicate the difference between inputs, outputs, outcomes, and why it matters</li>
 <li>Communicate the difference between adult outcomes and student outcomes, and why it matters</li>
