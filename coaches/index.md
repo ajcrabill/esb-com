@@ -27,6 +27,14 @@ Here is the current list of Nationally Certified ESB Coaches.
 
 <tr>
 <!--<td colspan="1">7136</td>-->
+<td colspan="1">Hilde, Alisha</td>
+<td colspan="1">CGCS</td> 
+<td colspan="1">Alaska</td>
+<td colspan="1" align="right">2.13.27</td>
+</tr>
+
+<tr>
+<!--<td colspan="1">7136</td>-->
 <td colspan="1">Grant, Leslie</td>
 <td colspan="1">CGCS</td> 
 <td colspan="1">Georgia</td>
@@ -86,7 +94,7 @@ Here is the current list of Nationally Certified ESB Coaches.
 <td colspan="1">Mackey, Ben</td>
 <td colspan="1">CGCS</td>
 <td colspan="1">Texas</td>
-<td colspan="1" align="right">2.1 .26</td>
+<td colspan="1" align="right">2.1 .27</td>
 </tr>
 
 <tr>
