@@ -26,7 +26,7 @@ from adult inputs focused to<br/>student outcomes focused. Join us.</h3>
 </form>
 
 </div>
-</div>
+</div><br/><br/>
 <p>Join the <a href="https://www.facebook.com/groups/GreatOnTheirBehalf">private facebook group</a> where we discuss the book and strategies for improving student outcomes.</p>
 
 </center></div> 
