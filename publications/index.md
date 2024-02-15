@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Great On Their Behalf"
+title: "ESB-Aligned Publications"
 summary: "Great On Their Behalf"
 toplevel: Publications
 # toplevellink: /publications
