@@ -34,7 +34,7 @@ Available in:
 <div class="container">
 <h4>Join the Community</h4>
 
-<a style="clear: left; display: inline !important; float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;" href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/new-gotb-cover.jpg"></a>
+<a style="clear: left; display: inline !important; float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;" href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/new-gotb-cover.jpg" height="320" width="213"></a>
 
 <ul>
 <li>Receive the first chapter for free today!<br/>
