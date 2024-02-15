@@ -9,7 +9,6 @@ toplevel: Publications
 <div class="container" data-aos="zoom-out" data-aos-delay="50"> 
 <div class="row"><center>
 <div class="align-items-center">
-<div>
 <a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img class="hero-book-img" src="/assets/img/book-cover.png"></a>
 </div>
 <div>
@@ -25,24 +24,26 @@ Available in:
 
 <a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1398389765/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Paperback</a>
 
-
-
 <br/><br/>
-<h4>Receive the first chapter for free today!</h4><br/>
-<form action="https://formspree.io/f/xayzdydv" method="POST"><input type="hidden" value="gotb subscribe form" name="form">
-<input type="email" value="enter email" name="email"><button type="submit">Get Free Chapter</button>
-</form>
-
 </div>
-</div><br/><br/>
-<p>Join the <a href="https://www.facebook.com/groups/GreatOnTheirBehalf">private facebook group</a> where we discuss the book and strategies for improving student outcomes.</p>
-
 </center></div> 
 </div>
 
+
+
+<h4>Join the Community</h4>
+<ol>
+<li>Receive the first chapter for free today!<br/>
+<form action="https://formspree.io/f/xayzdydv" method="POST"><input type="hidden" value="gotb subscribe form" name="form">
+<input type="email" value="enter email" name="email"><button type="submit">Join the mailing list!</button>
+</form></li>
+<li>Join the <a href="https://www.facebook.com/groups/GreatOnTheirBehalf">private facebook group</a> where we discuss the book and strategies for improving student outcomes.</li>
+</ol>
+
+
 <br/><br/><br/><br/>
 <div class="container">
-<h5>About the Author</h5>
+<h4>About the Author</h4>
 <a href="/" style="clear: left; display: inline !important; float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="1500" data-original-width="1000" height="320" src="/assets/img/ajc-headshot-small.jpeg" width="213" /></a>
 Improving student outcomes is aj crabill’s relentless focus. He currently serves as the National Director of Governance at the Council of the Great City Schools in Washington, DC, as Senior Coach at EffectiveSchoolBoards.com, and as Education Faculty at the Leadership Institute of Nevada. Until recently, AJ served as Conservator at DeSoto, Texas, Independent School District. During his guidance, DeSoto made double digit literacy gains and improved from having F ratings in areas of academics, finance, and governance to the district earning B ratings.<br/><br/>
 
