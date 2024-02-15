@@ -6,7 +6,7 @@ toplevel: Publications
 # toplevellink: /publications
 ---
 
-<div class="container" data-aos="zoom-out" data-aos-delay="50"> 
+<div class="container"> 
 <div class="row"><center>
 <div class="align-items-center">
 <a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img class="hero-book-img" src="/assets/img/new-gotb-cover.jpg"></a>
