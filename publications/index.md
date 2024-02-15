@@ -36,13 +36,11 @@ Available in:
 
 <a style="clear: left; display: inline !important; float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;" href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/new-gotb-cover.jpg" height="320" width="213"></a>
 
-<ul>
-<li>Receive the first chapter for free today!<br/>
+<Receive the first chapter for free today!<br/>
 <form action="https://formspree.io/f/xayzdydv" method="POST"><input type="hidden" value="gotb subscribe form" name="form">
 <input type="email" value="enter email" name="email"><button type="submit">Join the mailing list!</button>
-</form><br/><br/></li>
-<li>Join the <a href="https://www.facebook.com/groups/GreatOnTheirBehalf">private facebook group</a> where we discuss the book and strategies for improving student outcomes.</li>
-</ul>
+</form><br/><br/>
+Join the <a href="https://www.facebook.com/groups/GreatOnTheirBehalf">private facebook group</a> where we discuss the book and strategies for improving student outcomes. 
 </span>
 
 
