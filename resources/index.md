@@ -50,7 +50,7 @@ toplevel: Resources
 
 <h5>Books</h5>
 <ul>
-<li><a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325">Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective</a>, airick journey crabill</li>
+<li><a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1398389765/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325">Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective</a>, airick journey crabill</li>
 <li><a href="https://www.amazon.com/dp/0999419307/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325">A Framework for School Governance</a>, Rick Maloney</li>
 <li><a href="https://www.amazon.com/dp/B005FLODJ8/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325">The 4 Disciplines of Execution</a>, Chris McChesney, Sean Covey, & Jim Huling </li> 
 <li><a href="https://www.amazon.com/dp/B008L01JWO/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325">Boards That Make A Difference</a>, John Carver</li> 
@@ -86,7 +86,7 @@ toplevel: Resources
 <h5>Related Documents</h5>
 <ul style="text-align: left;">
 <li><a href="/publications/conversation">Great On Their Behalf: Conversation Guide</a></li>
-<li><a href="/framework/">Effective School Board (ESB) Framework Implementation Guide</a></li>
+<li><a href="/framework/">ESB Framework</a></li>
 <li><a href="/resources/toolkit">State ESB Toolkit</a></li>
 <li><a href="/resources/glossary">ESB Glossary</a></li>
 <li><a href="/resources/time-use/">ESB Board Time Use Evaluation Guide</a></li>
