@@ -16,11 +16,11 @@ toplevel: Resources
 <li><a href="/resources/time-use/">Time Use Evaluation Instrument</a></li>
 <li><a href="/resources/supt-search/">Superintendent Search Process</a></li>
 <li><a href="/resources/supt-eval/">Superintendent Evaluation Process</a></li>
-<li>Budget Process</li>
+<!--<li>Budget Process</li>
 <li>Staff Allocation Process</li>
 <li>Agenda Diet Process</li>
 <li>Committee Diet Process</li>
-<li>Policy Diet Process</li>
+<li>Policy Diet Process</li>-->
 <li><a href="/resources/onboarding">Board Member Onboarding</a></li>
 <li><a href="/resources/toolkit">State ESB Toolkit</a></li>
 <li><a href="/resources/research">Evaluating Research</a></li>
@@ -74,11 +74,11 @@ toplevel: Resources
 <li>Chapter 14: <a href="https://tinyurl.com/ESBF-BoardTimeUseEval ">Time Use Evaluation Instrument</a></li>
 <li>Chapter 15: <a href="/resources/supt-search/">Superintendent Search Process</a></li>
 <li>Chapter 15: <a href="/resources/supt-eval/">Superintendent Evaluation Process</a></li>
-<li>Chapter 15: Budget Process</li>
+<!--<li>Chapter 15: Budget Process</li>
 <li>Chapter 15: Staff Allocation Process</li>
 <li>Chapter 15: Agenda Diet Process</li>
 <li>Chapter 15: Committee Diet Process</li>
-<li>Chapter 15: Policy Diet Process</li>
+<li>Chapter 15: Policy Diet Process</li>-->
 <li>Chapter 16: <a href="/resources/priority-examples/">Goal & Guardrail Examples</a></li>
 <li>Conclusion: <a href="/resources/time-use/">Time Use Evaluation Process</a></li>
 </ul><br/>
