@@ -12,5 +12,5 @@ improvement and the coach support needed to implement over time.<br/><br/>
 ESB is the place for both.</h2><br/>
 
 <a href="/coaches" class="btn-get-started scrollto">Find A <br/>Certified Coach</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="/framework" class="btn-get-started scrollto">Read the Effective<br/> School Boards Framework</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="/framework" class="btn-get-started scrollto">View the Effective<br/> School Boards Framework</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="/publications" class="btn-get-started scrollto">Get the Newly Revised<br/>Book, "Great On Their Behalf"</a>
