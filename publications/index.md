@@ -15,14 +15,15 @@ toplevel: Publications
 <h3>We are accelerating the transition<br/>
 from adult inputs focused to<br/>student outcomes focused. Join us.</h3>
 <br/><br/>
-Available in:
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Hardcover</a>
+Available In:
 
 <a href="https://www.amazon.com/dp/B0CVNLVSJ3/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Audiobook</a>
 
 <a href="https://www.amazon.com/Great-Their-Behalf-School-Effective-ebook/dp/B0CNCK9JN9/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Kindle Ebook</a>
 
 <a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1398389765/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Paperback</a>
+
+<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Hardcover</a>
 
 <br/><br/>
 </div>
