@@ -25,6 +25,24 @@ toplevel: Publications
 <li>What came up for you as you read the analysis of school board conference sessions? What would make a difference?</li>
 <li>What came up for you as you read the analysis of school board training requirements? What would make a difference?</li>
 <li>At the end of the chapter, there are some potentially controversial ideas about systemic reforms. Which ones might work or not work? What are better ideas?</li>
-</ul><p></p>
+</ul><br/>
 
 
+<h5>Chapter 4 Questions</h5>
+<ul>
+<li>As you read the story about Ignaz Semmelweis, what connections are you drawing between his story and education in general? In your school district?</li>
+<li>As you read the remainder of the chapter, reflect on the question prompts within the text and "replay your personal video" to come up with examples of your own behaviors as an educational leader. What are you noticing?</li>
+</ul><br/>
+
+
+<h5>Chapter 5 Questions</h5>
+<ul>
+<li>BEFORE you read this chapter write down your answers to these questions:<ul>
+    <li>Why do school systems exist?</li>
+    <li>Why do school boards exist? (What's the job of the board?)</li>
+    <li>As you read the first section of this chapter (Adult Inputs or Student Outcomes?), what similarities to your district do you see?</li>
+    <li>What are the divergent mindsets that seem familiar to you?</li>
+    <li>What impact do you think your answers to questions 2 & 3 have on your students?</li> 
+</ul>
+<li>AFTER you read this chapter, how did your answers to the first 2 questions above change?</li>
+</ul><br/>
