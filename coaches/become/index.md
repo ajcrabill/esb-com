@@ -18,10 +18,9 @@ These competencies are revealed through demonstrations of learning regarding:
   <li>Coaching Mindset (CM 1-6)</li> 
 </ul><br/>
 
-Unless there is a 
-demonstration of learning (DoL) defined in the competency, each competency type relies on a default DoL. The default DoL for 
-knowledge competencies is a one page writing. The default DoL for skills competencies is an in-person demonstration or video artifact. The default 
-DoL for mindset competencies is coach observation with rubric. Alternative DoLs can be determined by a Senior Coach.
+Unless there is a demonstration of learning (DoL) defined in the competency, each competency type relies on a default DoL. The default DoL for knowledge competencies is a writing or video artifact. The default DoL for skills competencies is coach observation in-person or via video artifact. The default DoL for mindset competencies is coach observation in-person or via video artifact. When providing a written artifact, if summarizing a document like an article or dissertation the expectation is a one page summary. If summarizing a book, the expectation is 1-2 paragraphs per chapter. When providing a video artifact, if demonstrating knowledge the expectation is a 1-2 minute explainer per competency. If demonstrating skill or mindset, it takes however long it takes per competency. Alternative DoLs can be determined by a Senior Coach (as is the case with aspiring coach cohorts).
+
+
 <br/><br/>
 
 <h5>Governance Knowledge</h5>
