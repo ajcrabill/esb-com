@@ -14,7 +14,7 @@ These competencies are revealed through demonstrations of learning regarding:
   <li>Governance Skill (GS 1-10) </li>
   <li>Governance Mindset (GM 1-4)</li>
   <li>Coaching Knowledge (CK 1-7)</li>
-  <li>Coaching Skill (CS 1-7)</li>
+  <li>Coach ing Skill (CS 1-7)</li>
   <li>Coaching Mindset (CM 1-6)</li> 
 </ul><br/> 
 
