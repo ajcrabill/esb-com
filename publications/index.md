@@ -44,7 +44,9 @@ Receive the first chapter for free today!<br/>
 <form action="https://formspree.io/f/xayzdydv" method="POST"><input type="hidden" value="gotb subscribe form" name="form">
 <input type="email" value="enter email" name="email"> &nbsp; <button type="submit">Join the mailing list!</button>
 </form><br/><br/>
-Join the <a href="https://www.facebook.com/groups/GreatOnTheirBehalf">private facebook group</a> where we discuss the book and strategies for improving student outcomes. 
+Join the <a href="https://www.facebook.com/groups/GreatOnTheirBehalf">private facebook group</a> where we discuss the book and strategies for improving student outcomes. <br/><br/>
+
+Or host your own <a href="https://effectiveschoolboards.com/publications/conversation/">guided conversation</a> about the book.
 </td></tr>
 </table>
 
