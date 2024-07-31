@@ -59,12 +59,12 @@ Or host your own <a href="https://effectiveschoolboards.com/publications/convers
  </td></tr>
 
 <tr><td valign="top">
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/goal-setting-cover.jpg" height="320" width="213"></a>
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/leading-cover.jpg" height="320" width="213"></a>
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/board-eval-cover.jpg" height="320" width="213"></a>
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/supt-eval-cover.jpg" height="320" width="213"></a>
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/cascading-cover.jpg" height="320" width="213"></a>
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/budgeting-cover.jpg" height="320" width="213"></a>
+<a href="https://www.amazon.com/dp/B0DBMQMY36/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/goal-setting-cover.jpg" height="320" width="213"></a>
+<a href="https://www.amazon.com/dp/B0CXF257VS/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/leading-cover.jpg" height="320" width="213"></a>
+<a href="https://www.amazon.com/dp/B0DBMXKW1S/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/board-eval-cover.jpg" height="320" width="213"></a>
+<a href="https://www.amazon.com/dp/B0DBPJYNZD/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/supt-eval-cover.jpg" height="320" width="213"></a>
+<a href="https://www.amazon.com/dp/B0DBP36BFZ/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/cascading-cover.jpg" height="320" width="213"></a>
+<a href="https://www.amazon.com/dp/B0DBP6J3D6/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/budgeting-cover.jpg" height="320" width="213"></a>
 
 </td></tr>
 </table>
