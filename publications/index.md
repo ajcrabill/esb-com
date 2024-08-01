@@ -34,7 +34,7 @@ Available In:
 <br/><br/>
 
 
-<table border="0" cellpadding="5" style="border:1px #000 solid;">
+<table border="0" cellpadding="5">
 <tr><td valign="top">
 <a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/new-gotb-cover.jpg" height="320" width="213"></a>
 </td>
@@ -53,7 +53,7 @@ Or host your own <a href="https://effectiveschoolboards.com/publications/convers
 <br/><br/>
 
 
-<table border="0" cellpadding="5" style="border:1px #000 solid;">
+<table border="0" cellpadding="5">
  <tr> <td valign="top">
 <h4>The Implementation Guide Series has arrived!</h4>
  </td></tr>
@@ -73,7 +73,7 @@ Or host your own <a href="https://effectiveschoolboards.com/publications/convers
 <br/><br/>
 
 
-<table border="0" cellpadding="5" style="border:1px #000 solid;">
+<table border="0" cellpadding="5">
  <tr> <td valign="top">
 <h4>Planned additions to the Implementation Guide Series</h4>
  </td></tr>
@@ -92,7 +92,7 @@ Or host your own <a href="https://effectiveschoolboards.com/publications/convers
 
 <br/><br/>
 
-<table border="0" cellpadding="5" style="border:1px #000 solid;">
+<table border="0" cellpadding="5">
 <tr><td valign="top">
 <a href="http://www.ajc7.com"><img border="0" data-original-height="1500" data-original-width="1000" height="320" src="/assets/img/ajc-headshot-small.jpeg" width="213" /></a>
 </td>
