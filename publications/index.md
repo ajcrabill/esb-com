@@ -36,7 +36,7 @@ Available In:
 
 <table border="0" cellpadding="5">
 <tr><td valign="top">
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/new-gotb-cover.jpg" height="320" width="213"></a>
+<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1398389765/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn"><img border="0" src="/assets/img/new-gotb-cover.jpg" height="320" width="213"></a>
 </td>
 <td valign="top">
 <h4>Join the Community</h4><br/>
