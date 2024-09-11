@@ -280,11 +280,11 @@ Next Step, Who's Responsible & By When:
   <br/><br/>
   &#9723;  The Board included students, parents, staff, and community members in the guardrail development process.
   <br/><br/>
-  &#9723;  The Board publicly posted the guardrails for public comment prior to adoption.
-  <br/><br/>
   &#9723;  The Board has developed, in collaboration with the Superintendent, guardrails based on the community’s values and that do not hinder pursuit of the goals. Each guardrail describes a single operational action or class of actions the Superintendent may not use or allow in pursuit of the goals.
   <br/><br/>
   &#9723;  The Board has developed no fewer than one and no more than five guardrails. A max of three is recommended because fewer guardrails allow for greater focus; more allow for less.
+  <br/><br/>
+  &#9723;  The Board publicly posted the guardrails for public comment prior to adoption.
 
   </td>
   <td class="EffectiveBody">
