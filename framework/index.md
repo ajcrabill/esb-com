@@ -285,8 +285,7 @@ Next Step, Who's Responsible & By When:
   &#9723;  The Board has developed, in collaboration with the Superintendent, guardrails based on the community’s values and that do not hinder pursuit of the goals. Each guardrail describes a single operational action or class of actions the Superintendent may not use or allow in pursuit of the goals.
   <br/><br/>
   &#9723;  The Board has developed no fewer than one and no more than five guardrails. A max of three is recommended because fewer guardrails allow for greater focus; more allow for less.
-  <br/><br/>
-  &#9723;  The Board publicly posted the guardrails for public comment prior to adoption.
+
   </td>
   <td class="EffectiveBody">
 &#9723;  All of the interim guardrails are predictive of their respective guardrails, and are influenceable by the Superintendent (and the Superintendent’s team). Predictive suggests that there is some evidence of a correlation between the interim guardrail and the guardrail. Influenceable suggests that the Superintendent &#8212; and through them, the staff &#8212; has authority over roughly 80% of whatever the interim guardrail is measuring.
