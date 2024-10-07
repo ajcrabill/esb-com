@@ -17,6 +17,6 @@ Your browser does not support the audio element.
 
 <br/><br/>
 
-To learn more about the book, visit <a href="/book/">www.StudentLedRP.org/book/</a><br/><br/>
+To learn more about the book, visit <a href="/publications/">www.EffectiveSchoolBoards.com/publications/</a><br/><br/>
 
 This podcast-style summary was created by <a href="http://notebooklm.google.com">NotebookLM</a>.
