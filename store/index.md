@@ -8,7 +8,7 @@ toplevel: Store
 
 Buy the book here in bulk and get a large discount!
 
-<table border=0><tr><td>
+<table border=0><tr><td width="30%">
   
 <div id='product-component-1732670832008'></div>
 <script type="text/javascript">
@@ -102,7 +102,7 @@ Buy the book here in bulk and get a large discount!
 </script>
 
 </td>
-<td>
+<td width="30%">
 
 <div id='product-component-1732673433840'></div>
 <script type="text/javascript">
