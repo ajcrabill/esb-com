@@ -196,8 +196,6 @@ toplevel: Store
 
 </td><td>
 
-  
-</td>
 <div id='product-component-1733617886429'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
