@@ -97,3 +97,7 @@ toplevel: Store
 })();
 /*]]>*/
 </script>
+
+<br/><br/><br/>
+
+When these 500 copies run out, you can still <a href="/publications/">buy copies</a> for the regular price.
