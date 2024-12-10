@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Newsleter"
+title: "Newsletter"
 summary: "Newsletter"
 toplevel: Newsletter
 # toplevellink: /Newsletter
