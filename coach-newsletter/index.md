@@ -175,12 +175,12 @@ toplevel: "Newsletter"
     <!-- Basic Plan -->
   <div class="plan">
       <h3 class="plan-title">Basic</h3>
-      <p class="plan-subtitle">Get all the basics of understanding effective school boards.</p>
+      <p class="plan-subtitle">Get all the basics of understanding effective school boards.<br/><br/></p>
       <div class="price-container">
         <span class="price">$119</span><span class="price-term">/mo*</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="#" class="cta-button">Get Started →</a>
+      <a href="#" class="cta-button">Get Started →</a><br/>
       You'll get all of the Free membership perks plus:
       <ul class="features">
         <li>Weekly paid version of, "The Effective School Board Member" newsletter</li>
@@ -195,12 +195,12 @@ toplevel: "Newsletter"
   <div class="plan most-popular">
       <div class="badge">Most Popular</div>
       <h3 class="plan-title">Premium</h3>
-      <p class="plan-subtitle">Get the support you need to lead effectively!</p>
+      <p class="plan-subtitle">Get the support you need to lead effectively, in the boardroom and beyond!</p>
       <div class="price-container">
         <span class="price">$10</span><span class="price-term">/mo*</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="#" class="cta-button">Get Started →</a>
+      <a href="#" class="cta-button">Get Started →</a><br/>
       You'll get all of the Basic membership perks plus:
       <ul class="features">
         <li>Free access to the monthly group video coaching session</li>
@@ -214,12 +214,12 @@ toplevel: "Newsletter"
     <!-- Masterclass Plan -->
   <div class="plan">
       <h3 class="plan-title">Masterclass</h3>
-      <p class="plan-subtitle">Get full access to the regular support and coaching the most effective school board members have!</p>
+      <p class="plan-subtitle">Get full access to the support and coaching the most effective school board members have!</p>
       <div class="price-container">
         <span class="price">$50</span><span class="price-term">/mo*</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="#" class="cta-button">Get Started →</a>
+      <a href="#" class="cta-button">Get Started →</a><br/>
       You'll get all of the Premium membership perks plus:
       <ul class="features">
         <li>Free access to a 1-on-1 coaching session</li>
