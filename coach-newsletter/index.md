@@ -1,8 +1,8 @@
 ---
 layout: base
-title: "Newsletter"
+title: "The Effeective School Board Coach"
 summary: "The Effective School Board Coach Newsletter Landing Page"
-toplevel: "The Effeective School Board Coach"
+toplevel: "Newsletter"
 # toplevellink: /Newsletter
 ---
 
@@ -157,80 +157,76 @@ toplevel: "The Effeective School Board Coach"
     <!-- Free Plan -->
   <div class="plan">
       <h3 class="plan-title">Free</h3>
-      <p class="plan-subtitle">Get the foundations right to set up your business.</p>
+      <p class="plan-subtitle">Join the national conversation!</p>
       <div class="price-container">
-        <span class="price">$55</span><span class="price-term">/mo*</span>
+        <span class="price">$0</span><span class="price-term">/mo*</span>
       </div>
-      <p class="billed-annually">Billed annually <span class="original-price">$69/mo</span></p>
+      <p class="billed-annually">Always free!</p>
       <a href="#" class="cta-button">Get Started →</a>
       <ul class="features">
-        <li>0% Transaction Fee</li>
-        <li>50 Landing Pages</li>
-        <li>1,250 Marketing Emails</li>
-        <li>1 Product</li>
-        <li>250 Contacts</li>
-        <li>1 Website</li>
+        <li>Free weekly newsletter with real answers to tough questions</li>
+        <li>Early access to upcoming Effective School Board courses and events</li>
+        <li>Access to The Effective School Board Member merchandise</li>
+        <li>Ability to submit questions to be answered each week</li>
       </ul>
-      <p class="note">*+ applicable taxes. Only available to new users.</p>
+      <p class="note"></p>
     </div>
 
     <!-- Basic Plan -->
   <div class="plan">
       <h3 class="plan-title">Basic</h3>
-      <p class="plan-subtitle">Everything you need to start your business.</p>
+      <p class="plan-subtitle">Get all the basics of understanding effective school boards.</p>
       <div class="price-container">
         <span class="price">$119</span><span class="price-term">/mo*</span>
       </div>
-      <p class="billed-annually">Billed annually <span class="original-price">$149/mo</span></p>
+      <p class="billed-annually">Billed annually</p>
       <a href="#" class="cta-button">Get Started →</a>
+      You'll get all of the Free membership perks plus:
       <ul class="features">
-        <li>0% Transaction Fee</li>
-        <li>Unlimited Landing Pages</li>
-        <li>Unlimited Marketing Emails</li>
-        <li>3 Products</li>
-        <li>10,000 Contacts</li>
-        <li>1 Website</li>
+        <li>Weekly paid version of, "The Effective School Board Member" newsletter</li>
+        <li>Access to The Effective School Board Member's Member Lounge</li>
+        <li>Access to discounts of The Effective School Board Member merchandise</li>
+        <li>Higher priority for submission of questions to appear in the weekly newsletter</li>
       </ul>
-      <p class="note">*+ applicable taxes</p>
+      <p class="note"></p>
     </div>
 
     <!-- Premium Plan -->
   <div class="plan most-popular">
       <div class="badge">Most Popular</div>
       <h3 class="plan-title">Premium</h3>
-      <p class="plan-subtitle">Expand your business and get serious about growing.</p>
+      <p class="plan-subtitle">Get the support you need to lead effectively!</p>
       <div class="price-container">
-        <span class="price">$159</span><span class="price-term">/mo*</span>
+        <span class="price">$10</span><span class="price-term">/mo*</span>
       </div>
-      <p class="billed-annually">Billed annually <span class="original-price">$199/mo</span></p>
+      <p class="billed-annually">Billed annually</p>
       <a href="#" class="cta-button">Get Started →</a>
+      You'll get all of the Basic membership perks plus:
       <ul class="features">
-        <li>0% Transaction Fee</li>
-        <li>Unlimited Landing Pages</li>
-        <li>Unlimited Marketing Emails</li>
-        <li>15 Products</li>
-        <li>25,000 Contacts</li>
-        <li>1 Website</li>
+        <li>Free access to the monthly group video coaching session</li>
+        <li>Early access to new Effective School Board content</li>
+        <li>Early admission to Effective School Board in-person workshops and retreats</li>
+        <li>Higher priority for submission of school board meetings to be spotlighted</li>
       </ul>
-      <p class="note">*+ applicable taxes</p>
+      <p class="note"></p>
     </div>
 
     <!-- Masterclass Plan -->
   <div class="plan">
       <h3 class="plan-title">Masterclass</h3>
-      <p class="plan-subtitle">Scale your business with advanced features.</p>
+      <p class="plan-subtitle">Get full access to the regular support and coaching the most effective school board members have!</p>
       <div class="price-container">
-        <span class="price">$319</span><span class="price-term">/mo*</span>
+        <span class="price">$50</span><span class="price-term">/mo*</span>
       </div>
-      <p class="billed-annually">Billed annually <span class="original-price">$399/mo</span></p>
+      <p class="billed-annually">Billed annually</p>
       <a href="#" class="cta-button">Get Started →</a>
+      You'll get all of the Premium membership perks plus:
       <ul class="features">
-        <li>0% Transaction Fee</li>
-        <li>Unlimited Landing Pages</li>
-        <li>Unlimited Marketing Emails</li>
-        <li>100 Products</li>
-        <li>100,000 Contacts</li>
-        <li>3 Websites</li>
+        <li>Free access to a 1-on-1 coaching session</li>
+        <li>Highest priority for submission of questions to appear in the weekly newsletter</li>
+        <li>Highest priority for submission of school board meetings to be spotlighted</li>
+        <li>Highest priority for submission of school board members to be spotlighted</li>
+        <li>Signed copy of, "Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective"</li>
       </ul>
       <p class="note">*+ applicable taxes</p>
     </div>
