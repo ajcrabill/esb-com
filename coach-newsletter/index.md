@@ -163,7 +163,7 @@ toplevel: "Newsletter"
       <h3 class="plan-title">Free</h3>
       <p class="plan-subtitle">Join the national conversation!<br/><br/><br/></p>
       <div class="price-container">
-        <span class="price">$0</span><span class="price-term">/mo*</span>
+        <span class="price">$0</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Always free!</p>
       <a href="#" class="cta-button">Get Started →</a>
@@ -182,7 +182,7 @@ toplevel: "Newsletter"
       <h3 class="plan-title">Basic</h3>
       <p class="plan-subtitle">Get all the basics of understanding effective school boards.<br/></p>
       <div class="price-container">
-        <span class="price">$5</span><span class="price-term">/mo*</span>
+        <span class="price">$5</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
       <a href="https://www1.effectiveschoolboards.com/offers/NFhgHZS2/checkout" class="cta-button">Get Started →</a><br/>
@@ -202,7 +202,7 @@ toplevel: "Newsletter"
       <h3 class="plan-title">Premium</h3>
       <p class="plan-subtitle">Get the support you need to lead effectively, in the boardroom and beyond!</p>
       <div class="price-container">
-        <span class="price">$10</span><span class="price-term">/mo*</span>
+        <span class="price">$10</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
       <a href="#" class="cta-button">Get Started →</a><br/>
@@ -221,7 +221,7 @@ toplevel: "Newsletter"
       <h3 class="plan-title">Masterclass</h3>
       <p class="plan-subtitle">Get access to the depth support and coaching the most effective school board members have!</p>
       <div class="price-container">
-        <span class="price">$50</span><span class="price-term">/mo*</span>
+        <span class="price">$50</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
       <a href="#" class="cta-button">Get Started →</a><br/>
