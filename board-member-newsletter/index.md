@@ -174,8 +174,8 @@ Each newsletter will provide 3-5 articles -- such as analysis of a recent news s
         <li>Early access to upcoming Effective School Board courses and events</li>
         <li>Access to The Effective School Board Member merchandise</li>
         <li>Ability to submit questions to be answered each week</li>
-      </ul>
-      <p class="note">Get your Free subscription now!</p>
+      </ul><br/>
+      <p class="note">Get your  <a href="https://www1.effectiveschoolboards.com/offers/epUGjHD7"><strong>Free Subscription</strong></a> now!</p>
     </div>
 
     <!-- Basic Plan -->
@@ -193,8 +193,8 @@ Each newsletter will provide 3-5 articles -- such as analysis of a recent news s
         <li>Access to The Effective School Board Member's Member Lounge</li>
         <li>Access to discounts of The Effective School Board Member merchandise</li>
         <li>Higher priority for submission of questions to appear in the weekly newsletter</li>
-      </ul>
-      <p class="note">Get your Basic subscription now!</p>
+      </ul><br/>
+      <p class="note">Get your <a href="https://www1.effectiveschoolboards.com/offers/NFhgHZS2/checkout"><strong>Basic Subscription</strong></a> now!</p>
     </div>
 
     <!-- Premium Plan -->
@@ -213,8 +213,8 @@ Each newsletter will provide 3-5 articles -- such as analysis of a recent news s
         <li>Early access to new Effective School Board content</li>
         <li>Early admission to Effective School Board in-person workshops and retreats</li>
         <li>Higher priority for submission of school board meetings to be spotlighted</li>
-      </ul>
-      <p class="note">Get your Premium subscription now!</p>
+      </ul><br/>
+      <p class="note">Get your  <a href="https://www1.effectiveschoolboards.com/offers/64LrZGwd"><strong>Premium Subscription</strong></a> now!</p>
     </div>
 
     <!-- Masterclass Plan -->
@@ -234,8 +234,8 @@ Each newsletter will provide 3-5 articles -- such as analysis of a recent news s
         <li>Highest priority for submission of school board meetings to be spotlighted</li>
         <li>Highest priority for submission of school board members to be spotlighted</li>
         <li>Signed copy of, "Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective"</li>
-      </ul>
-      <p class="note">Get your Masterclass subscription now!</p>
+      </ul><br/>
+      <p class="note">Get your  <a href="https://www1.effectiveschoolboards.com/offers/STbxLcEa"><strong>Masterclass Subscription</strong></a> now!</p>
     </div>
 
   </div>
