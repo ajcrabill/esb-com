@@ -209,6 +209,7 @@ toplevel: "Newsletter"
       You'll get all of the Basic membership perks plus:
       <ul class="features">
         <li>Free access to the monthly group virtual coaching session</li>
+        <li>Quarterly virtual support with the national coach certificaiton process</li>
         <li>Early access to new Effective School Board content</li>
         <li>Early admission to Effective School Board in-person workshops and retreats</li>
         <li>Higher priority for submission of school board meetings to be spotlighted</li>
@@ -229,6 +230,7 @@ toplevel: "Newsletter"
       You'll get all of the Premium membership perks plus:
       <ul class="features">
         <li>Free access to a 1-on-1 virtual coaching session</li>
+        <li>Monthly virtual support with the national coach certificaiton process</li>
         <li>Discounted rates for additional 1-on-1 virtual coaching sessions</li>
         <li>Access to once-per-month support with quarterly self evaluation for one board</li>
         <li>Highest priority for submission of questions to appear in the monthly newsletter</li>
