@@ -151,8 +151,8 @@ toplevel: "Newsletter"
 
 </style>
 
-<h4>Want Weekly Answers To Tough School Board Questions?</h4>
-<h5>Join the nationwide conversation about how school board members can help improve student outcomes by subscribing to, "<strong>The Effective School Board Member</strong>" newsletter. Sign up now to submit questions you'd like to see answered!</h5>
+<h4>Want Monthly Check-Ins With The Nation's Strongest Team of School Board Coaches?</h4>
+<h5>Join the nationwide conversation about how school board coaches can help improve student outcomes by subscribing to, "<strong>The Effective School Board Coach</strong>" newsletter. Sign up now to submit questions you'd like to see answered!</h5>
 
 
 <section class="pricing-section">
@@ -168,11 +168,11 @@ toplevel: "Newsletter"
       <p class="billed-annually">Always free!</p>
       <a href="https://www1.effectiveschoolboards.com/offers/epUGjHD7" class="cta-button">Get Started →</a>
       <ul class="features">
-        <li>Free weekly newsletter with real answers to tough questions</li>
-        <li>A newsletter that is for, by, and about school board members and people who care about school boards being effective</li>
-        <li>Early access to upcoming Effective School Board courses and events</li>
-        <li>Access to The Effective School Board Member merchandise</li>
-        <li>Ability to submit questions to be answered each week</li>
+        <li>Free monthly newsletter with real answers to tough coaching situations</li>
+        <li>A newsletter that is for, by, and about school board coaches</li>
+        <li>Early access to upcoming Effective School Board courses and events for coaches</li>
+        <li>Access to The Effective School Board Coach merchandise</li>
+        <li>Ability to submit questions to be answered each month</li>
       </ul>
       <p class="note"></p>
     </div>
@@ -180,7 +180,7 @@ toplevel: "Newsletter"
     <!-- Basic Plan -->
   <div class="plan">
       <h3 class="plan-title">Basic</h3>
-      <p class="plan-subtitle">Get all the basics of understanding effective school boards.<br/></p>
+      <p class="plan-subtitle">Get all the basics of supporting effective school boards.<br/></p>
       <div class="price-container">
         <span class="price">$5</span><span class="price-term">/mo</span>
       </div>
@@ -188,10 +188,10 @@ toplevel: "Newsletter"
       <a href="https://www1.effectiveschoolboards.com/offers/NFhgHZS2/checkout" class="cta-button">Get Started →</a><br/>
       You'll get all of the Free membership perks plus:
       <ul class="features">
-        <li>Weekly paid version of, "The Effective School Board Member" newsletter</li>
-        <li>Access to The Effective School Board Member's Member Lounge</li>
-        <li>Access to discounts of The Effective School Board Member merchandise</li>
-        <li>Higher priority for submission of questions to appear in the weekly newsletter</li>
+        <li>Monthly paid version of, "The Effective School Board Coach" newsletter</li>
+        <li>Access to The Effective School Board Coach's Coach Lounge</li>
+        <li>Access to discounts of The Effective School Board Coach merchandise</li>
+        <li>Higher priority for submission of questions to appear in the monthly newsletter</li>
       </ul>
       <p class="note"></p>
     </div>
@@ -200,9 +200,9 @@ toplevel: "Newsletter"
   <div class="plan most-popular">
       <div class="badge">Most Popular</div>
       <h3 class="plan-title">Premium</h3>
-      <p class="plan-subtitle">Get the support you need to lead effectively, in the boardroom and beyond!</p>
+      <p class="plan-subtitle">Get the support you need to coach effectively, in the boardroom and beyond!</p>
       <div class="price-container">
-        <span class="price">$10</span><span class="price-term">/mo</span>
+        <span class="price">$25</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
       <a href="https://www1.effectiveschoolboards.com/offers/64LrZGwd" class="cta-button">Get Started →</a><br/>
@@ -212,6 +212,7 @@ toplevel: "Newsletter"
         <li>Early access to new Effective School Board content</li>
         <li>Early admission to Effective School Board in-person workshops and retreats</li>
         <li>Higher priority for submission of school board meetings to be spotlighted</li>
+        <li>Access to once-per-month support with time use coaching for one board</li>
       </ul>
       <p class="note"></p>
     </div>
@@ -219,9 +220,9 @@ toplevel: "Newsletter"
     <!-- Masterclass Plan -->
   <div class="plan">
       <h3 class="plan-title">Masterclass</h3>
-      <p class="plan-subtitle">Get access to the depth support and coaching the most effective school board members have!</p>
+      <p class="plan-subtitle">Get access to the in-depth support the most effective school board coaches have!</p>
       <div class="price-container">
-        <span class="price">$50</span><span class="price-term">/mo</span>
+        <span class="price">$100</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
       <a href="https://www1.effectiveschoolboards.com/offers/STbxLcEa" class="cta-button">Get Started →</a><br/>
@@ -229,10 +230,12 @@ toplevel: "Newsletter"
       <ul class="features">
         <li>Free access to a 1-on-1 virtual coaching session</li>
         <li>Discounted rates for additional 1-on-1 virtual coaching sessions</li>
-        <li>Highest priority for submission of questions to appear in the weekly newsletter</li>
+        <li>Access to once-per-month support with quarterly self evaluation for one board</li>
+        <li>Highest priority for submission of questions to appear in the monthly newsletter</li>
         <li>Highest priority for submission of school board meetings to be spotlighted</li>
-        <li>Highest priority for submission of school board members to be spotlighted</li>
+        <li>Highest priority for submission of school boards to be spotlighted</li>
         <li>Signed copy of, "Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective"</li>
+        <li>Signed copy of the Effective School Board Implementation Workbooks</li>
       </ul>
       <p class="note"></p>
     </div>
