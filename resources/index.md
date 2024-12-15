@@ -25,7 +25,7 @@ toplevel: Resources
 <li><a href="/resources/toolkit">State ESB Toolkit</a></li>
 <li><a href="/resources/research">Evaluating Research</a></li>
 <li><a href="/resources/glossary">Glossary</a></li>
-<li><a href="https://chatgpt.com/g/g-rGMIdzZJh-effective-school-boards-guide">ESB Chatbot</a> (requires ChatGPT login)</li>
+<li><a href="https://chatgpt.com/g/g-rGMIdzZJh-effective-school-boards-guide">ESB Chatbot</a> (experimental; requires ChatGPT login)</li>
 </ul>
 
 <h5>Research Articles</h5>
