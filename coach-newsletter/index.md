@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "The Effeective School Board Coach"
+title: "The Effective School Board Coach"
 summary: "The Effective School Board Coach Newsletter Landing Page"
 toplevel: "Newsletter"
 # toplevellink: /Newsletter
@@ -33,7 +33,7 @@ toplevel: "Newsletter"
 }
 
 .plan.most-popular {
-  background: linear-gradient(to bottom, #ffe3ee, #ffeaf3);
+  background: linear-gradient(to bottom, #ccebff, #e6f5ff);
   border: 2px solid #f2c0d2;
 }
 
@@ -121,7 +121,7 @@ toplevel: "Newsletter"
   content: '✓';
   position: absolute;
   left: 0;
-  color: #ff5da0;
+  color: #0099ff;
   font-weight: bold;
 }
 
@@ -157,7 +157,7 @@ toplevel: "Newsletter"
     <!-- Free Plan -->
   <div class="plan">
       <h3 class="plan-title">Free</h3>
-      <p class="plan-subtitle">Join the national conversation!<br/><br/></p>
+      <p class="plan-subtitle">Join the national conversation!<br/><br/><br/></p>
       <div class="price-container">
         <span class="price">$0</span><span class="price-term">/mo*</span>
       </div>
@@ -203,7 +203,7 @@ toplevel: "Newsletter"
       <a href="#" class="cta-button">Get Started →</a><br/>
       You'll get all of the Basic membership perks plus:
       <ul class="features">
-        <li>Free access to the monthly group video coaching session</li>
+        <li>Free access to the monthly group virtual coaching session</li>
         <li>Early access to new Effective School Board content</li>
         <li>Early admission to Effective School Board in-person workshops and retreats</li>
         <li>Higher priority for submission of school board meetings to be spotlighted</li>
@@ -214,7 +214,7 @@ toplevel: "Newsletter"
     <!-- Masterclass Plan -->
   <div class="plan">
       <h3 class="plan-title">Masterclass</h3>
-      <p class="plan-subtitle">Get full access to the support and coaching the most effective school board members have!</p>
+      <p class="plan-subtitle">Get access to the depth support and coaching the most effective school board members have!</p>
       <div class="price-container">
         <span class="price">$50</span><span class="price-term">/mo*</span>
       </div>
@@ -222,7 +222,8 @@ toplevel: "Newsletter"
       <a href="#" class="cta-button">Get Started →</a><br/>
       You'll get all of the Premium membership perks plus:
       <ul class="features">
-        <li>Free access to a 1-on-1 coaching session</li>
+        <li>Free access to a 1-on-1 virtual coaching session</li>
+        <li>Discounted rates for additional 1-on-1 virtual coaching sessions</li>
         <li>Highest priority for submission of questions to appear in the weekly newsletter</li>
         <li>Highest priority for submission of school board meetings to be spotlighted</li>
         <li>Highest priority for submission of school board members to be spotlighted</li>
