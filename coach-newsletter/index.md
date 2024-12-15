@@ -153,7 +153,7 @@ toplevel: "Newsletter"
 
 <h4>Want Monthly Check-Ins With The Nation's Strongest Team of School Board Coaches?</h4>
 <h5>Join the nationwide conversation about how school board coaches can help improve student outcomes by subscribing to, "<strong>The Effective School Board Coach</strong>" newsletter. Sign up now to submit questions you'd like to see answered!<br/><br/>
-Each newsletter will provide 3-5 articles -- such as analysis of a recent news stories, analysis of recent research, examples of implementation practices, and answers to questions submitted by fellow coaches -- as well as other tools, resources and recognitions.</h5>
+Each newsletter will provide 3-5 articles -- such as policy examples, analysis of a recent news story, analysis of recent research, examples of implementation practices, and answers to questions submitted by fellow coaches -- as well as other tools, resources and recognitions.</h5>
 
 
 <section class="pricing-section">
