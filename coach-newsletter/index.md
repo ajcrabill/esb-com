@@ -166,7 +166,7 @@ toplevel: "Newsletter"
         <span class="price">$0</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Always free!</p>
-      <a href="https://www1.effectiveschoolboards.com/offers/epUGjHD7" class="cta-button">Get Started →</a>
+      <a href="https://www1.effectiveschoolboards.com/offers/QJZbEFLC" class="cta-button">Get Started →</a>
       <ul class="features">
         <li>Free monthly newsletter with real answers to tough coaching situations</li>
         <li>A newsletter that is for, by, and about school board coaches</li>
@@ -180,12 +180,12 @@ toplevel: "Newsletter"
     <!-- Basic Plan -->
   <div class="plan">
       <h3 class="plan-title">Basic</h3>
-      <p class="plan-subtitle">Get all the basics of supporting effective school boards.<br/></p>
+      <p class="plan-subtitle">Get all the basics of supporting effective school boards.<br/><br/></p>
       <div class="price-container">
         <span class="price">$5</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="https://www1.effectiveschoolboards.com/offers/NFhgHZS2/checkout" class="cta-button">Get Started →</a><br/>
+      <a href="https://www1.effectiveschoolboards.com/offers/C6nx3889" class="cta-button">Get Started →</a><br/>
       You'll get all of the Free membership perks plus:
       <ul class="features">
         <li>Monthly paid version of, "The Effective School Board Coach" newsletter</li>
@@ -205,7 +205,7 @@ toplevel: "Newsletter"
         <span class="price">$25</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="https://www1.effectiveschoolboards.com/offers/64LrZGwd" class="cta-button">Get Started →</a><br/>
+      <a href="https://www1.effectiveschoolboards.com/offers/ggJwbFoB" class="cta-button">Get Started →</a><br/>
       You'll get all of the Basic membership perks plus:
       <ul class="features">
         <li>Free access to the monthly group virtual coaching session</li>
@@ -225,7 +225,7 @@ toplevel: "Newsletter"
         <span class="price">$100</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="https://www1.effectiveschoolboards.com/offers/STbxLcEa" class="cta-button">Get Started →</a><br/>
+      <a href="https://www1.effectiveschoolboards.com/offers/T6KajpSx" class="cta-button">Get Started →</a><br/>
       You'll get all of the Premium membership perks plus:
       <ul class="features">
         <li>Free access to a 1-on-1 virtual coaching session</li>
