@@ -169,7 +169,7 @@ toplevel: "Newsletter"
       <a href="#" class="cta-button">Get Started →</a>
       <ul class="features">
         <li>Free weekly newsletter with real answers to tough questions</li>
-        <li>A newsletter that is for, by, and about school board members and people who care about school boards being effective
+        <li>A newsletter that is for, by, and about school board members and people who care about school boards being effective</li>
         <li>Early access to upcoming Effective School Board courses and events</li>
         <li>Access to The Effective School Board Member merchandise</li>
         <li>Ability to submit questions to be answered each week</li>
