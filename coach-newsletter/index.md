@@ -157,7 +157,7 @@ toplevel: "Newsletter"
     <!-- Free Plan -->
   <div class="plan">
       <h3 class="plan-title">Free</h3>
-      <p class="plan-subtitle">Join the national conversation!</p>
+      <p class="plan-subtitle">Join the national conversation!<br/><br/></p>
       <div class="price-container">
         <span class="price">$0</span><span class="price-term">/mo*</span>
       </div>
@@ -175,9 +175,9 @@ toplevel: "Newsletter"
     <!-- Basic Plan -->
   <div class="plan">
       <h3 class="plan-title">Basic</h3>
-      <p class="plan-subtitle">Get all the basics of understanding effective school boards.<br/><br/></p>
+      <p class="plan-subtitle">Get all the basics of understanding effective school boards.<br/></p>
       <div class="price-container">
-        <span class="price">$119</span><span class="price-term">/mo*</span>
+        <span class="price">$5</span><span class="price-term">/mo*</span>
       </div>
       <p class="billed-annually">Billed annually</p>
       <a href="#" class="cta-button">Get Started →</a><br/>
