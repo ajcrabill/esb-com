@@ -152,7 +152,8 @@ toplevel: "Newsletter"
 </style>
 
 <h4>Want Weekly Answers To Tough School Board Questions?</h4>
-<h5>Join the nationwide conversation about how school board members can help improve student outcomes by subscribing to, "<strong>The Effective School Board Member</strong>" newsletter. Sign up now to submit questions you'd like to see answered!</h5>
+<h5>Join the nationwide conversation about how school board members can help improve student outcomes by subscribing to, "<strong>The Effective School Board Member</strong>" newsletter. Sign up now to submit questions you'd like to see answered!<br/><br/>
+Each newsletter will provide 3-5 articles -- such as analysis of a recent news stories, analysis of recent research, and answers to questions submitted by readers -- as well as other tools, resources and recognitions.</h5>
 
 
 <section class="pricing-section">
@@ -174,7 +175,7 @@ toplevel: "Newsletter"
         <li>Access to The Effective School Board Member merchandise</li>
         <li>Ability to submit questions to be answered each week</li>
       </ul>
-      <p class="note"></p>
+      <p class="note">Get your Free subscription now!</p>
     </div>
 
     <!-- Basic Plan -->
@@ -193,7 +194,7 @@ toplevel: "Newsletter"
         <li>Access to discounts of The Effective School Board Member merchandise</li>
         <li>Higher priority for submission of questions to appear in the weekly newsletter</li>
       </ul>
-      <p class="note"></p>
+      <p class="note">Get your Basic subscription now!</p>
     </div>
 
     <!-- Premium Plan -->
@@ -213,7 +214,7 @@ toplevel: "Newsletter"
         <li>Early admission to Effective School Board in-person workshops and retreats</li>
         <li>Higher priority for submission of school board meetings to be spotlighted</li>
       </ul>
-      <p class="note"></p>
+      <p class="note">Get your Premium subscription now!</p>
     </div>
 
     <!-- Masterclass Plan -->
@@ -234,7 +235,7 @@ toplevel: "Newsletter"
         <li>Highest priority for submission of school board members to be spotlighted</li>
         <li>Signed copy of, "Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective"</li>
       </ul>
-      <p class="note"></p>
+      <p class="note">Get your Masterclass subscription now!</p>
     </div>
 
   </div>
