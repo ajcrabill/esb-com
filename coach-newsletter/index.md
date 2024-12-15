@@ -238,6 +238,7 @@ Each newsletter will provide 3-5 articles -- such as policy examples, analysis o
         <li>Highest priority for submission of questions to appear in the monthly newsletter</li>
         <li>Highest priority for submission of school board meetings to be spotlighted</li>
         <li>Highest priority for submission of school boards to be spotlighted</li>
+        <li>Invitation to a "50% Mindset" sprint with a senior coach</li>
         <li>Signed copy of, "Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective"</li>
         <li>Signed copy of the Effective School Board Implementation Workbooks</li>
       </ul><br/>
