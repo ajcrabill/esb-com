@@ -152,7 +152,8 @@ toplevel: "Newsletter"
 </style>
 
 <h4>Want Monthly Check-Ins With The Nation's Strongest Team of School Board Coaches?</h4>
-<h5>Join the nationwide conversation about how school board coaches can help improve student outcomes by subscribing to, "<strong>The Effective School Board Coach</strong>" newsletter. Sign up now to submit questions you'd like to see answered!</h5>
+<h5>Join the nationwide conversation about how school board coaches can help improve student outcomes by subscribing to, "<strong>The Effective School Board Coach</strong>" newsletter. Sign up now to submit questions you'd like to see answered!<br/><br/>
+Each newsletter will provide 3-5 articles -- such as analysis of a recent news stories, analysis of recent research, examples of implementation practices, and answers to questions submitted by fellow coaches -- as well as other tools, resources and recognitions.</h5>
 
 
 <section class="pricing-section">
@@ -173,8 +174,8 @@ toplevel: "Newsletter"
         <li>Early access to upcoming Effective School Board courses and events for coaches</li>
         <li>Access to The Effective School Board Coach merchandise</li>
         <li>Ability to submit questions to be answered each month</li>
-      </ul>
-      <p class="note"></p>
+      </ul><br/>
+      <p class="note">Get your <a href="https://www1.effectiveschoolboards.com/offers/QJZbEFLC"><strong>Free Subscription</strong></a> now!</p>
     </div>
 
     <!-- Basic Plan -->
@@ -192,8 +193,8 @@ toplevel: "Newsletter"
         <li>Access to The Effective School Board Coach's Coach Lounge</li>
         <li>Access to discounts of The Effective School Board Coach merchandise</li>
         <li>Higher priority for submission of questions to appear in the monthly newsletter</li>
-      </ul>
-      <p class="note"></p>
+      </ul><br/>
+      <p class="note">Get your <a href="https://www1.effectiveschoolboards.com/offers/C6nx3889"><strong>Basic Subscription</strong></a> now!</p>
     </div>
 
     <!-- Premium Plan -->
@@ -214,8 +215,8 @@ toplevel: "Newsletter"
         <li>Early admission to Effective School Board in-person workshops and retreats</li>
         <li>Higher priority for submission of school board meetings to be spotlighted</li>
         <li>Access to once-per-month support with time use coaching for one board</li>
-      </ul>
-      <p class="note"></p>
+      </ul><br/>
+      <p class="note">Get your <a href="https://www1.effectiveschoolboards.com/offers/ggJwbFoB"><strong>Premium Subscription</strong></a> now!</p>
     </div>
 
     <!-- Masterclass Plan -->
@@ -238,8 +239,8 @@ toplevel: "Newsletter"
         <li>Highest priority for submission of school boards to be spotlighted</li>
         <li>Signed copy of, "Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective"</li>
         <li>Signed copy of the Effective School Board Implementation Workbooks</li>
-      </ul>
-      <p class="note"></p>
+      </ul><br/>
+      <p class="note">Get your <a href="https://www1.effectiveschoolboards.com/offers/T6KajpSx"><strong>Masterclass Subscription</strong></a> now!</p>
     </div>
 
   </div>
@@ -247,7 +248,7 @@ toplevel: "Newsletter"
 
 <br/><br/>
 
-<h4>Are you a school board member?</h4>
+<h4>Are you a school board member or want to learn more about how effective school boards function?</h4>
 <h5>Join the nationwide conversation for school board members by subscribing to, "<strong><a href="/board-member-newsletter/">The Effective School Board Member</a></strong>" newsletter.</h5>
 
 
