@@ -244,3 +244,10 @@ toplevel: "Newsletter"
 
   </div>
 </section>
+
+<br/><br/>
+
+<h4>Are you a school board member?</h4>
+<h5>Join the nationwide conversation for school board members by subscribing to, "<strong><a href="/board-member-newsletter/">The Effective School Board Member</a></strong>" newsletter.</h5>
+
+
