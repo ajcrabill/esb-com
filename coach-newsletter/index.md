@@ -232,7 +232,7 @@ Each newsletter will provide 3-5 articles -- such as policy examples, analysis o
       <ul class="features">
         <li>Free access to a 1-on-1 virtual coaching session</li>
         <li>Monthly virtual support with the national coach certificaiton process</li>
-        <li>Access to the ESB Coach Resources repository (all the tinyurl links!)</li>
+        <li>Access to the frequently updated, private ESB Coach Resources repository (all the tinyurl links!)</li>
         <li>Discounted rates for additional 1-on-1 virtual coaching sessions</li>
         <li>Access to once-per-month support with quarterly self evaluation for one board</li>
         <li>Highest priority for submission of questions to appear in the monthly newsletter</li>
