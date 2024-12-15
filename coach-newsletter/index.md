@@ -34,7 +34,7 @@ toplevel: "Newsletter"
 
 .plan.most-popular {
   background: linear-gradient(to bottom, #ccebff, #e6f5ff);
-  border: 2px solid #f2c0d2;
+  border: 2px solid #0099ff;
 }
 
 .plan.most-popular .badge {
@@ -229,7 +229,7 @@ toplevel: "Newsletter"
         <li>Highest priority for submission of school board members to be spotlighted</li>
         <li>Signed copy of, "Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective"</li>
       </ul>
-      <p class="note">*+ applicable taxes</p>
+      <p class="note"></p>
     </div>
 
   </div>
