@@ -152,7 +152,7 @@ toplevel: "Newsletter"
 </style>
 
 <h4>Want Weekly Answers To Tough School Board Questions?</h4>
-<h5>Join the nationwide conversation about how school board members can help improve student outcomes by subscribing to, "The Effective School Board Member" newsletter. Sign up now to submit questions you'd like to see answered!</h5>
+<h5>Join the nationwide conversation about how school board members can help improve student outcomes by subscribing to, "<strong>The Effective School Board Member</strong>" newsletter. Sign up now to submit questions you'd like to see answered!</h5>
 
 
 <section class="pricing-section">
@@ -169,6 +169,7 @@ toplevel: "Newsletter"
       <a href="#" class="cta-button">Get Started →</a>
       <ul class="features">
         <li>Free weekly newsletter with real answers to tough questions</li>
+        <li>A newsletter that is for, by, and about school board members and people who care about school boards being effective
         <li>Early access to upcoming Effective School Board courses and events</li>
         <li>Access to The Effective School Board Member merchandise</li>
         <li>Ability to submit questions to be answered each week</li>
@@ -184,7 +185,7 @@ toplevel: "Newsletter"
         <span class="price">$5</span><span class="price-term">/mo*</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="#" class="cta-button">Get Started →</a><br/>
+      <a href="https://www1.effectiveschoolboards.com/offers/NFhgHZS2/checkout" class="cta-button">Get Started →</a><br/>
       You'll get all of the Free membership perks plus:
       <ul class="features">
         <li>Weekly paid version of, "The Effective School Board Member" newsletter</li>
