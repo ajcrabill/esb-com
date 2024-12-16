@@ -18,7 +18,6 @@ toplevel: Store
       display: inline-block;
       align-self: flex-end;
       padding: 10px; 
-                flex: 1;
   }
 </style>
 
