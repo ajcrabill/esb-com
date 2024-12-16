@@ -872,8 +872,12 @@ toplevel: Store
 /*]]>*/
 </script>
 
-</div> <!-- end ofbuy button code -->
+</div> <!-- end of buy button code -->
 
+
+
+<div class="buy-button-item"><!-- start of buy button code -->
+  
 <div id='product-component-1734376983183'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
