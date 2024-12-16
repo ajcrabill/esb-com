@@ -8,20 +8,21 @@ toplevel: Store
 
 
 <style type="text/css">
-  .container {
+  .button-container {
       display: flex;
       flex-wrap: wrap;
   }
   .buy-button-item {
       border: 1px solid #fff;
-      margin: 15px;
+      margin: 10px;
       display: inline-block;
       align-self: flex-end;
-      padding: 15px; 
+      padding: 10px; 
+      height: 300px;
   }
 </style>
 
-<div class="container">
+<div class="button-container">
   
 <div class="buy-button-item"><!-- start buy button code here -->
   
