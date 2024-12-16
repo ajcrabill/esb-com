@@ -13,7 +13,9 @@ toplevel: Store
       flex-wrap: wrap;
   }
   .buy-button-item {
-      border: 15px solid #fff;
+      border: 1px solid #ccc;
+      padding: 15px;
+      vertical-align: bottom;
   }
 </style>
 
