@@ -161,7 +161,7 @@ toplevel: Store
 
 
 
-<div class="buy-button-item" width="30%"><!-- start of buy button code -->
+<div class="buy-button-item"><!-- start of buy button code -->
 
 <div id='product-component-1734372442607'></div>
 <script type="text/javascript">
@@ -300,7 +300,7 @@ toplevel: Store
 
 
 
-<div class="buy-button-item" width="30%"><!-- start of buy button code -->
+<div class="buy-button-item"><!-- start of buy button code -->
 
 <div id='product-component-1734372619630'></div>
 <script type="text/javascript">
@@ -438,7 +438,7 @@ toplevel: Store
 
 
 
-<div class="buy-button-item" width="30%"><!-- start of buy button code -->
+<div class="buy-button-item"><!-- start of buy button code -->
 
 <div id='product-component-1734373397808'></div>
 <script type="text/javascript">
@@ -576,7 +576,7 @@ toplevel: Store
 
 
 
-<div class="buy-button-item" width="30%"><!-- start of buy button code -->
+<div class="buy-button-item"><!-- start of buy button code -->
 
 <div id='product-component-1734373422084'></div>
 <script type="text/javascript">
@@ -714,7 +714,7 @@ toplevel: Store
 
 
 
-<div class="buy-button-item" width="30%"><!-- start of buy button code -->
+<div class="buy-button-item"><!-- start of buy button code -->
 
 <div id='product-component-1734373445994'></div>
 <script type="text/javascript">
@@ -852,9 +852,9 @@ toplevel: Store
 
 
 
-<div class="buy-button-item" width="30%"><!-- start of buy button code -->
+<div class="buy-button-item"><!-- start of buy button code -->
 
-<div id='product-component-1734373470514'></div>
+<div id='product-component-1734375131034'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -882,8 +882,8 @@ toplevel: Store
     });
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
-        id: '9724680667442',
-        node: document.getElementById('product-component-1734373470514'),
+        id: '9724680634674',
+        node: document.getElementById('product-component-1734375131034'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -990,7 +990,7 @@ toplevel: Store
 
 
 
-<div class="buy-button-item" width="30%"><!-- start of buy button code -->
+<div class="buy-button-item"><!-- start of buy button code -->
 
 <div id='product-component-1734373488676'></div>
 <script type="text/javascript">
