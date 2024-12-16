@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "ESB Merch Store"
+title: "ESB Merchandise Store"
 summary: "Store"
 toplevel: Store
 # toplevellink: /store
