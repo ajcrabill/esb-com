@@ -9,7 +9,7 @@ toplevel: Store
 
 <table border=0><tr><td width="30%">
   
-<div id='product-component-1733617636150'></div>
+<div id='product-component-1734371808465'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -32,13 +32,13 @@ toplevel: Store
   }
   function ShopifyBuyInit() {
     var client = ShopifyBuy.buildClient({
-      domain: '1cnku6-i7.myshopify.com',
-      storefrontAccessToken: '5bbe4db3967c04a179fbea57ba2ca692',
+      domain: 'rdr0dk-ee.myshopify.com',
+      storefrontAccessToken: 'a98222e68b67e5a4636fef2b3ff0dad8',
     });
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
-        id: '8841396388092',
-        node: document.getElementById('product-component-1733617636150'),
+        id: '9724681060658',
+        node: document.getElementById('product-component-1734371808465'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
