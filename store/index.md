@@ -13,12 +13,11 @@ toplevel: Store
       flex-wrap: wrap;
   }
   .buy-button-item {
-      border: 1px solid #ccc;
+      border: 1px solid #fff;
       margin: 15px;
       display: inline-block;
       align-self: flex-end;
       padding: 15px; 
-      height: 100%;
   }
 </style>
 
