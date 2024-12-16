@@ -25,7 +25,7 @@ toplevel: Store
   
 <div class="buy-button-item"><!-- start buy button code here -->
   
-<div id='product-component-1734372557157'></div>
+<div id='product-component-1734376757015'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -54,7 +54,7 @@ toplevel: Store
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '9724681060658',
-        node: document.getElementById('product-component-1734372557157'),
+        node: document.getElementById('product-component-1734376757015'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -76,8 +76,12 @@ toplevel: Store
         }
       }
     },
+    "buttonDestination": "modal",
+    "contents": {
+      "options": false
+    },
     "text": {
-      "button": "Add to cart"
+      "button": "View product"
     }
   },
   "productSet": {
@@ -163,7 +167,7 @@ toplevel: Store
 
 <div class="buy-button-item"><!-- start of buy button code -->
 
-<div id='product-component-1734372442607'></div>
+<div id='product-component-1734376818462'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -192,7 +196,7 @@ toplevel: Store
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '9724681158962',
-        node: document.getElementById('product-component-1734372442607'),
+        node: document.getElementById('product-component-1734376818462'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -214,8 +218,12 @@ toplevel: Store
         }
       }
     },
+    "buttonDestination": "modal",
+    "contents": {
+      "options": false
+    },
     "text": {
-      "button": "Add to cart"
+      "button": "View product"
     }
   },
   "productSet": {
@@ -302,7 +310,7 @@ toplevel: Store
 
 <div class="buy-button-item"><!-- start of buy button code -->
 
-<div id='product-component-1734372619630'></div>
+<div id='product-component-1734376848990'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -331,7 +339,7 @@ toplevel: Store
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '9724681093426',
-        node: document.getElementById('product-component-1734372619630'),
+        node: document.getElementById('product-component-1734376848990'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -353,8 +361,12 @@ toplevel: Store
         }
       }
     },
+    "buttonDestination": "modal",
+    "contents": {
+      "options": false
+    },
     "text": {
-      "button": "Add to cart"
+      "button": "View product"
     }
   },
   "productSet": {
@@ -582,7 +594,7 @@ toplevel: Store
 
 <div class="buy-button-item"><!-- start of buy button code -->
 
-<div id='product-component-1734373422084'></div>
+<div id='product-component-1734376893072'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -611,7 +623,7 @@ toplevel: Store
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '9724681027890',
-        node: document.getElementById('product-component-1734373422084'),
+        node: document.getElementById('product-component-1734376893072'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -633,8 +645,12 @@ toplevel: Store
         }
       }
     },
+    "buttonDestination": "modal",
+    "contents": {
+      "options": false
+    },
     "text": {
-      "button": "Add to cart"
+      "button": "View product"
     }
   },
   "productSet": {
@@ -720,7 +736,7 @@ toplevel: Store
 
 <div class="buy-button-item"><!-- start of buy button code -->
 
-<div id='product-component-1734373445994'></div>
+<div id='product-component-1734376938574'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -749,7 +765,7 @@ toplevel: Store
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '9724680700210',
-        node: document.getElementById('product-component-1734373445994'),
+        node: document.getElementById('product-component-1734376938574'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -771,8 +787,12 @@ toplevel: Store
         }
       }
     },
+    "buttonDestination": "modal",
+    "contents": {
+      "options": false
+    },
     "text": {
-      "button": "Add to cart"
+      "button": "View product"
     }
   },
   "productSet": {
@@ -854,11 +874,7 @@ toplevel: Store
 
 </div> <!-- end ofbuy button code -->
 
-
-
-<div class="buy-button-item"><!-- start of buy button code -->
-
-<div id='product-component-1734375131034'></div>
+<div id='product-component-1734376983183'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -887,7 +903,7 @@ toplevel: Store
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '9724680634674',
-        node: document.getElementById('product-component-1734375131034'),
+        node: document.getElementById('product-component-1734376983183'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -909,8 +925,12 @@ toplevel: Store
         }
       }
     },
+    "buttonDestination": "modal",
+    "contents": {
+      "options": false
+    },
     "text": {
-      "button": "Add to cart"
+      "button": "View product"
     }
   },
   "productSet": {
@@ -990,13 +1010,13 @@ toplevel: Store
 /*]]>*/
 </script>
 
-</div> <!-- end ofbuy button code -->
+</div> <!-- end of buy button code -->
 
 
 
 <div class="buy-button-item"><!-- start of buy button code -->
 
-<div id='product-component-1734373488676'></div>
+<div id='product-component-1734377030741'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -1025,7 +1045,7 @@ toplevel: Store
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '9724680601906',
-        node: document.getElementById('product-component-1734373488676'),
+        node: document.getElementById('product-component-1734377030741'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -1047,8 +1067,12 @@ toplevel: Store
         }
       }
     },
+    "buttonDestination": "modal",
+    "contents": {
+      "options": false
+    },
     "text": {
-      "button": "Add to cart"
+      "button": "View product"
     }
   },
   "productSet": {
@@ -1128,6 +1152,6 @@ toplevel: Store
 /*]]>*/
 </script>
 
-</div> <!-- end ofbuy button code -->
+</div> <!-- end of buy button code -->
 
 </div>
