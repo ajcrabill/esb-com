@@ -15,8 +15,8 @@ toplevel: Store
   .buy-button-item {
       border: 1px solid #ccc;
       margin: 15px;
-      position: absolute;
-      bottom: 0;
+  display: inline-block;
+  align-self: flex-end;
   }
 </style>
 
