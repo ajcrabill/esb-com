@@ -14,8 +14,9 @@ toplevel: Store
   }
   .buy-button-item {
       border: 1px solid #ccc;
-      padding: 15px;
-      vertical-align: bottom;
+      margin: 15px;
+      position: absolute;
+      bottom: 0;
   }
 </style>
 
