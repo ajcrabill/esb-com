@@ -1159,3 +1159,11 @@ toplevel: Store
 
 
 </div>
+
+
+<h4>Looking for other ESB products?</h4>
+<h5><ul>
+  <li>Subscribe to our weekly newsletter, <a href="/board-member-newsletter">The Effective School Board Member</a></li>
+  <li>Subscribe to our monthly newsletter for coaches, <a href="/coach-newsletter">The Effective School Board Coach</a></li>
+  <li>See all of the <a href="/publications">ESB Publications</a></li>
+</ul></h5>
