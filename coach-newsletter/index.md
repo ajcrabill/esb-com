@@ -199,7 +199,7 @@ Each newsletter will provide 3-5 articles -- such as policy examples, analysis o
 
     <!-- Premium Plan -->
   <div class="plan most-popular">
-      <div class="badge">Most Popular</div>
+      <div class="badge"></div>
       <h3 class="plan-title">Premium</h3>
       <p class="plan-subtitle">Get the support you need to coach effectively, in the boardroom and beyond!</p>
       <div class="price-container">
