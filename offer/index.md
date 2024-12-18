@@ -143,7 +143,7 @@ toplevel: Store
 /*]]>*/
 </script>
 
-</div> <!-- end ofbuy button code -->
+<!-- end ofbuy button code -->
 
 <br/><br/><br/>
 
