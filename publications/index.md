@@ -36,7 +36,7 @@ Available In:
 
 <table border="0" cellpadding="5">
 <tr><td valign="top">
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1398389765/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn"><img border="0" src="/assets/img/new-gotb-cover.jpg" height="320" width="213"></a>
+<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1398389765/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325"><img border="0" src="/assets/img/new-gotb-cover.jpg" height="320" width="213"></a>
 </td>
 <td valign="top">
 <h4>Join the Community</h4><br/>
@@ -46,7 +46,11 @@ Receive the first chapter for free today!<br/>
 </form><br/><br/>
 Join the <a href="https://www.facebook.com/groups/GreatOnTheirBehalf">private facebook group</a> where we discuss the book and strategies for improving student outcomes. <br/><br/>
 
-Or host your own <a href="https://effectiveschoolboards.com/publications/conversation/">guided conversation</a> about the book.
+Host your own <a href="https://effectiveschoolboards.com/publications/conversation/">guided conversation</a> about the book.<br/><br/>
+
+Visit the <a href="/store">ESB Store</a> for student outcomes focused merchandise!<br/><br/>
+
+Subscribe to <a href="/board-member-newsletter">The Effective School Board Member</a>, our newsletter that provides weekly answers to tough questions!
 </td></tr>
 </table>
 
