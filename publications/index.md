@@ -40,17 +40,12 @@ Available In:
 </td>
 <td valign="top">
 <h4>Join the Community</h4><br/>
-Receive the first chapter for free today!<br/>
-<form action="https://formspree.io/f/xayzdydv" method="POST"><input type="hidden" value="gotb subscribe form" name="form">
-<input type="email" value="enter email" name="email"> &nbsp; <button type="submit">Join the mailing list!</button>
-</form><br/><br/>
-Join the <a href="https://www.facebook.com/groups/GreatOnTheirBehalf">private facebook group</a> where we discuss the book and strategies for improving student outcomes. <br/><br/>
+Subscribe to <a href="/board-member-newsletter">The Effective School Board Member</a>, our newsletter that provides weekly answers to tough questions!<br/><br/>
 
 Host your own <a href="https://effectiveschoolboards.com/publications/conversation/">guided conversation</a> about the book.<br/><br/>
 
 Visit the <a href="/store">ESB Store</a> for student outcomes focused merchandise!<br/><br/>
 
-Subscribe to <a href="/board-member-newsletter">The Effective School Board Member</a>, our newsletter that provides weekly answers to tough questions!
 </td></tr>
 </table>
 
