@@ -25,7 +25,7 @@ toplevel: Store
   
 <div class="buy-button-item"><!-- start buy button code here -->
   
-<div id='product-component-1734376757015'></div>
+<div id='product-component-1734480591729'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -54,7 +54,7 @@ toplevel: Store
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '9724681060658',
-        node: document.getElementById('product-component-1734376757015'),
+        node: document.getElementById('product-component-1734480591729'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -81,7 +81,7 @@ toplevel: Store
       "options": false
     },
     "text": {
-      "button": "View product"
+      "button": "View Product"
     }
   },
   "productSet": {
@@ -119,7 +119,7 @@ toplevel: Store
       }
     },
     "text": {
-      "button": "Add to cart"
+      "button": "Add to Cart"
     }
   },
   "option": {},
