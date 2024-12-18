@@ -11,7 +11,7 @@ Thank you for being subscribers or The Effective School Board Member weekly news
 For more information:
 <ul>
 <li>Subscribe to <a href="/board-member-newsletter/">The Effective School Board Member</a> or to <a href="/coach-newsletter/">The Effective School Board Coach</a>. </li>
-<li>Email us via <a href="/contact/">online form.</li>
+<li>Email us via <a href="/contact/">online form</a>.</li>
 <li>Visit the <a href="/store">ESB Store</a>.</li>
 </ul>
 
