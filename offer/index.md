@@ -7,7 +7,7 @@ toplevel: Store
 ---
 
 
-<div id='product-component-1733617636150'></div>
+<div id='product-component-1734376757015'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -30,13 +30,13 @@ toplevel: Store
   }
   function ShopifyBuyInit() {
     var client = ShopifyBuy.buildClient({
-      domain: '1cnku6-i7.myshopify.com',
-      storefrontAccessToken: '5bbe4db3967c04a179fbea57ba2ca692',
+      domain: 'rdr0dk-ee.myshopify.com',
+      storefrontAccessToken: 'a98222e68b67e5a4636fef2b3ff0dad8',
     });
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
-        id: '8841396388092',
-        node: document.getElementById('product-component-1733617636150'),
+        id: '9724681060658',
+        node: document.getElementById('product-component-1734376757015'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -47,10 +47,23 @@ toplevel: Store
           "margin-left": "20px",
           "margin-bottom": "50px"
         }
+      },
+      "button": {
+        ":hover": {
+          "background-color": "#2e99c7"
+        },
+        "background-color": "#33aadd",
+        ":focus": {
+          "background-color": "#2e99c7"
+        }
       }
     },
+    "buttonDestination": "modal",
+    "contents": {
+      "options": false
+    },
     "text": {
-      "button": "Add to cart"
+      "button": "View product"
     }
   },
   "productSet": {
@@ -76,6 +89,15 @@ toplevel: Store
           "margin-left": "0px",
           "margin-bottom": "0px"
         }
+      },
+      "button": {
+        ":hover": {
+          "background-color": "#2e99c7"
+        },
+        "background-color": "#33aadd",
+        ":focus": {
+          "background-color": "#2e99c7"
+        }
       }
     },
     "text": {
@@ -84,12 +106,35 @@ toplevel: Store
   },
   "option": {},
   "cart": {
+    "styles": {
+      "button": {
+        ":hover": {
+          "background-color": "#2e99c7"
+        },
+        "background-color": "#33aadd",
+        ":focus": {
+          "background-color": "#2e99c7"
+        }
+      }
+    },
     "text": {
       "total": "Subtotal",
       "button": "Checkout"
     }
   },
-  "toggle": {}
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#33aadd",
+        ":hover": {
+          "background-color": "#2e99c7"
+        },
+        ":focus": {
+          "background-color": "#2e99c7"
+        }
+      }
+    }
+  }
 },
       });
     });
@@ -97,6 +142,8 @@ toplevel: Store
 })();
 /*]]>*/
 </script>
+
+</div> <!-- end ofbuy button code -->
 
 <br/><br/><br/>
 
