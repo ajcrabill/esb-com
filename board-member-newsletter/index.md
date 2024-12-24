@@ -151,7 +151,7 @@ toplevel: "Newsletter"
 
 </style>
 
-<h4>Want Weekly Answers To Tough School Board Questions?</h4>
+<h4>Want Answers To Tough School Board Questions?</h4>
 <h5>Join the nationwide conversation about how school board members can help improve student outcomes by subscribing to, "<strong>The Effective School Board Member</strong>" newsletter. Sign up now to submit questions you'd like to see answered!<br/><br/>
 Each newsletter will provide 3-5 articles -- such as policy examples, analysis of a recent news story, analysis of recent research, and answers to questions submitted by readers -- as well as other tools, resources and recognitions.</h5>
 
@@ -169,11 +169,11 @@ Each newsletter will provide 3-5 articles -- such as policy examples, analysis o
       <p class="billed-annually">Always free!</p>
       <a href="https://www1.effectiveschoolboards.com/offers/epUGjHD7" class="cta-button">Subscribe Now →</a>
       <ul class="features">
-        <li>Free weekly newsletter with real answers to tough questions</li>
+        <li>Free bi-weekly newsletter with real answers to tough questions</li>
         <li>A newsletter that is for, by, and about school board members and people who care about school boards being effective</li>
         <li>Early access to upcoming Effective School Board courses and events</li>
         <li>Access to The Effective School Board Member merchandise</li>
-        <li>Ability to submit questions to be answered each week</li>
+        <li>Ability to submit questions to be answered every other week</li>
       </ul><br/>
       <p class="note">Get your  <a href="https://www1.effectiveschoolboards.com/offers/epUGjHD7"><strong>Free Subscription</strong></a> now!</p>
     </div>
