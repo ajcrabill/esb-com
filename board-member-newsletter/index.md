@@ -189,10 +189,10 @@ Each newsletter will provide 3-5 articles -- such as policy examples, analysis o
       <a href="https://www1.effectiveschoolboards.com/offers/NFhgHZS2/checkout" class="cta-button">Subscribe Now →</a><br/>
       You'll get all of the Free membership perks plus:
       <ul class="features">
-        <li>Weekly paid version of, "The Effective School Board Member" newsletter</li>
+        <li>Paid version of, "The Effective School Board Member" newsletter</li>
         <li>Access to The Effective School Board Member's Member Lounge</li>
         <li>Access to discounts of The Effective School Board Member merchandise</li>
-        <li>Higher priority for submission of questions to appear in the weekly newsletter</li>
+        <li>Higher priority for submission of questions to appear in the newsletter</li>
       </ul><br/>
       <p class="note">Get your <a href="https://www1.effectiveschoolboards.com/offers/NFhgHZS2/checkout"><strong>Basic Subscription</strong></a> now!</p>
     </div>
@@ -230,7 +230,7 @@ Each newsletter will provide 3-5 articles -- such as policy examples, analysis o
       <ul class="features">
         <li>Free access to a 1-on-1 virtual coaching session</li>
         <li>Discounted rates for additional 1-on-1 virtual coaching sessions</li>
-        <li>Highest priority for submission of questions to appear in the weekly newsletter</li>
+        <li>Highest priority for submission of questions to appear in the newsletter</li>
         <li>Highest priority for submission of school board meetings to be spotlighted</li>
         <li>Highest priority for submission of school board members to be spotlighted</li>
         <li>Signed copy of, "Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective"</li>
