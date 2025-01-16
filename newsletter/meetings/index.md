@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Meetings"
+title: "Analyze Board Meetings"
 summary: "Meetings"
 toplevel: Newsletter
 # toplevellink: /newsletter/meetings/
