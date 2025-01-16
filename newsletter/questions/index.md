@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Questions"
+title: "Submit Questions"
 summary: "Questions"
 toplevel: Newsletter
 # toplevellink: /newsletter/questions/
