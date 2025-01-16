@@ -145,12 +145,12 @@ toplevel: Store
 
 <br/><br/><br/>
 
-When these 500 copies run out, you can still <a href="/publications/">buy copies</a> for the regular price.
+When these <s>500</s>400 copies run out, you can still <a href="/publications/">buy copies</a> for the regular price.
 
 <br/><br/><br/>
 
 <h5>Want answers to tough school board questions?</h5>
-Subscribe to our bi-weekly newsletter, "<strong><a href="/board-member-newsletter/">The Effective School Board Member</a></strong>" newsletter.<br/><br/>
+Subscribe to our bi-weekly newsletter, "<strong><a href="/board-member-newsletter/">The Effective School Board Member</a></strong>."<br/><br/>
 
 
 <h5>Are you a school board coach or aspire to become one?</h5>
