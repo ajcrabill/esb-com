@@ -12,5 +12,5 @@ Have a question that you and/or other school board members could benefit from a 
   Email<br/><input type="text" value="" name="email"><br/><br/>
   Question<br/><textarea type="text" value="" name="message"></textarea><br/><br/>
   <button type="submit">Submit</button> 
-  <input type="hidden" value="esb.com contact form" name="form">
+  <input type="hidden" value="submit newsletter questions form" name="form">
 </form>
