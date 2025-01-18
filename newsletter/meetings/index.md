@@ -13,5 +13,5 @@ Have a school board meeting that you and/or other school board members could ben
   Email<br/><input type="text" value="" name="email"><br/><br/>
   Video Link<br/><textarea type="text" value="" name="message"></textarea><br/><br/>
   <button type="submit">Send</button> 
-  <input type="hidden" value="esb.com contact form" name="form">
+  <input type="hidden" value="analyze board meeetings submission form" name="form">
 </form>
