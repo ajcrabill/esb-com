@@ -167,7 +167,7 @@ Each newsletter will provide 3-5 articles -- such as policy examples, analysis o
         <span class="price">$0</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Always free!</p>
-      <a href="https://www1.effectiveschoolboards.com/offers/QJZbEFLC" class="cta-button">Subscribe Now →</a>
+      <a href="/newsletter/coach/" class="cta-button">Subscribe Now →</a>
       <ul class="features">
         <li>Free monthly newsletter with real answers to tough coaching situations</li>
         <li>A newsletter that is for, by, and about school board coaches</li>
