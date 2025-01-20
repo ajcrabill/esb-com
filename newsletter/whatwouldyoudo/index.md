@@ -10,7 +10,7 @@ If you were on the school board in question, what would you do? Leave your ideas
 <form action="https://formspree.io/f/xayzdydv" method="POST"> 
   Name<br/><input type="text" value="" name="name"><br/><br/>
   Email<br/><input type="text" value="" name="email"><br/><br/>
-  Question<br/><textarea type="text" value="" name="message"></textarea><br/><br/>
+  Your Ideas<br/><textarea type="text" value="" name="message"></textarea><br/><br/>
   <button type="submit">Submit</button> 
   <input type="hidden" value="what would you do form" name="form">
 </form>
