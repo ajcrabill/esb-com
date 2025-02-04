@@ -11,6 +11,6 @@ toplevel: Upcoming Opportunity
   Name<br/><input type="text" value="" name="name"><br/><br/>
   Email<br/><input type="text" value="" name="email"><br/><br/>
   School System/Organization<br/><input type="text" value="" name="message"><br/><br/>
-  <button type="submit">Send</button> 
+  <button type="submit">RSVP</button> 
   <input type="hidden" value="esb.com upcoming opportunity" name="form">
 </form>
