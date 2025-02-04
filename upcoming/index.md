@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Should I Vote For The Budget"
+title: "Should I Vote For The Budget?"
 summary: "Upcoming Opportunity"
 toplevel: Upcoming Opportunity
 # toplevellink: /upcoming
