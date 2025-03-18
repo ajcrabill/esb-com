@@ -6,7 +6,7 @@ toplevel: Upcoming Opportunity
 # toplevellink: /upcoming
 ---
 
-<h4>RSVP: What Does An Effective Superintendent Evaluation Look Like?</h4>
+<h4>RSVP: Why & How Is An Effective Consent Agenda Used?</h4>
 <form action="https://formspree.io/f/xayzdydv" method="POST"> 
   Name<br/><input type="text" value="" name="name"><br/><br/>
   Email<br/><input type="text" value="" name="email"><br/><br/>
@@ -19,6 +19,7 @@ toplevel: Upcoming Opportunity
 Previous topics:
 <ul>
   <li>Should I Vote For The Budget?</li>
+  <li>What Does An Effective Superintendent Evaluation Look Like?</li>
 </ul>
 
 <br/>
