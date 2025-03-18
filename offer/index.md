@@ -145,7 +145,7 @@ toplevel: Store
 
 <br/><br/><br/>
 
-When these <s>500</s> 180 copies run out, you can still <a href="/publications/">buy copies</a> for the regular price.
+When these <s>500</s> 110 copies run out, you can still <a href="/publications/">buy copies</a> for the regular price.
 
 <br/><br/><br/>
 
