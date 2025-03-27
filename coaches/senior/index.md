@@ -35,7 +35,7 @@ Knowledge<br/>
 Skills<br/>
 <ol start="4">
 
-<li>Complete at least one sprint of the 50% Mindset</li>
+<li>Complete at least one sprint of the 50% Experiment</li>
 <li>Coach at least two school boards to 80%+ (or Lead Senior Coach approved threshold)</li>
 <li>Coach at least one management team through cascading -- including aligned initiatives and aligned evaluations</li>
 <li>Accurately score three research papers using PEARLS (+/- 2pts)</li> 
