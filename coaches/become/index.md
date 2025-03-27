@@ -52,7 +52,7 @@ For aspiring coaches who are in a cohort program, artifacts are submitted to fac
 <h3>Tier Requirements</h3>
 Here is a summary of the different coaching tiers.
 
-<table>
+<table border=1>
   <tr>
     <td>Coach Certification Competencies</td>
     <td>Aspiring Coach</td>
