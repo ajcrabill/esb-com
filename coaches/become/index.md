@@ -160,7 +160,7 @@ Starting Jan 1, 2025, Assistant Coach level can also be met by demonstrating 80%
 </td></tr>
 
 </table>
-
+<br/><br/>
 
 
 
@@ -261,14 +261,12 @@ Starting Jan 1, 2025, Assistant Coach level can also be met by demonstrating 80%
 <li>Skill/Mindset: Being a safe and firm guide to support participant self-reflection</li>
 </ul></li>
   <li>The requirement to effectively co-facilitate a 2-day workshop can be met in any of the following ways:<ul>
-    <li>Effectively co-facilitate a 2-day workshop for at least one, preferably two, governance team -- the ideal minimum participants is 16 if both boards have seven board members 
-    <li>Effectively co-facilitate a 2-day workshop for at least 20 members of a school system staff whose board is engaged in this work 
-    <li>Effectively co-facilitate a 2-day workshop for at least 30 community members of a school system whose board is engaged in this work
+    <li>Effectively co-facilitate a 2-day workshop for at least one, preferably two, governance team -- the ideal minimum participants is 16 if both boards have seven board members</li>
+    <li>Effectively co-facilitate a 2-day workshop for at least 20 members of a school system staff whose board is engaged in this work </li>
+    <li>Effectively co-facilitate a 2-day workshop for at least 30 community members of a school system whose board is engaged in this work</li>
     <li>In any of the above cases, a senior coach or certified coach approved by a senior coach must be present to conduct the evaluation.</li>
   </ul></li>
-    
   </ul></li>
-    
 </ol><br/>
 
 
