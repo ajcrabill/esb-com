@@ -45,7 +45,7 @@ Skills<br/>
 Mindset<br/>
 <ol start="8">
 <li>Complete at least 15 ESB mindset practices (you can only guide others through practices you have completed)</li>
-<li>Complete an Advanced Mindset workshop<ul><li>Must complete at least 5 mindset practices within 14 days to be eligible to attend (this is in addition to the requirements met to attend the Mindset workshop)</ul></li>
+<li>Complete an Advanced Mindset workshop<ul><li>Must complete at least 5 mindset practices within 14 days to be eligible to attend (this is in addition to the requirements met to attend the Mindset workshop)</li></ul></li>
 <li>Guide at least three ESB Coach Candidates through their initial 5 practices</li>
 <li>Facilitate both the Knowledge & Skill workshop and the Mindset workshop</li>
 <li>Calibrate on the ESB Coach Candidate facilitation evaluation with 95%+ accuracy</li>
