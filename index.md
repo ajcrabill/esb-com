@@ -13,5 +13,7 @@ ESB is the place for both.</h2><br/>
 
 <a href="/coaches" class="btn-get-started scrollto">Find A <br/>Certified Coach</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="/framework" class="btn-get-started scrollto">View the Effective<br/> School Boards Framework</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="/publications" class="btn-get-started scrollto">Get the Newly Revised<br/>Book, "Great On Their Behalf"</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="/newsletter/" class="btn-get-started scrollto">Subscribe to Our<br/> Bi-Weekly Newsletter</a> 
+<a href="/publications" class="btn-get-started scrollto">Get the Newly Revised<br/>Book, "Great On Their Behalf"</a>  
+<br/><br/>
+<a href="/newsletter/" class="btn-get-started scrollto">Subscribe to Our<br/> Bi-Weekly Newsletter</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="/workshop/" class="btn-get-started scrollto">Attend Our School Board<br/>Transformation Workshop</a> 
