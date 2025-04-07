@@ -14,6 +14,8 @@ The 2-day Effective School Board Transformation Workshop is designed to provide 
 <form action="https://formspree.io/f/xayzdydv" method="POST"> 
   Name<br/><input type="text" value="" name="name"><br/><br/>
   Email<br/><input type="text" value="" name="email"><br/><br/>
+  School System/Organization Name<br/><input type="text" value="" name="org"><br/><br/>
+  Why are you interested?<br /><textarea type="text" value="" name="message"></textarea><br /><br />
   <button type="submit">Learn More</button> 
   <input type="hidden" value="esb.com transformation workshop" name="form">
 </form>
