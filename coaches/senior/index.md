@@ -24,8 +24,8 @@ Knowledge<br/>
 
 <li>Summarize the interaction between logic models and assessment types
  <ul> 
-<li>Diagnostic: occurs between Planning and Activities</li>
-<li>Formative: occurs between Activities and Fidelity</li>
+<li>Diagnostic: occurs between Activities and Participation</li>
+<li>Formative: occurs between Participation and Fidelity</li>
 <li>Interim: occurs between Fidelity and Midterms</li>
 <li>Summative: occurs between Midterms and Results</li>
 </ul>
