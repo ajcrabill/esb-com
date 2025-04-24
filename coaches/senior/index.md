@@ -17,8 +17,8 @@ Knowledge<br/>
  <li> All ESB Coach requirements & be an ESB Coach for at least 1 year</li>
 <li> Distinguish between governance logic models and management logic models
  <ul>
-<li>Management Cycle: Goals & Guardrails → Strategic Plan → Resources → Planning → Activities → Fidelity → Midterms → Results → Impact → Goals & Guardrails</li>
- <li>Governance Cycle: Vision & Values → Goals & Guardrails → Inputs [ strategic plan, resources, planning ] → Outputs [ activities, fidelity, midterms ]→ Outcomes [ results, impact, goals & guardrails ]→ Vision & Values</li>
+<li>Management Cycle: Goals & Guardrails → Inputs [ Early Inputs (planning) → Mid Inputs (resources) → Late Inputs (activities) ] → Outputs [ Early Outputs (participation) → Mid Outputs (fidelity) → Late Outputs (midterms) ] → Outcomes (Early Outcomes (results) → Mid Outcomes (impact) → Late Outcomes (vision) ] → Goals & Guardrails</li>
+  <li>Governance Cycle: Vision & Values → Goals & Guardrails → Inputs → Outputs → Outcomes → Vision & Values</li>
  </ul>
 </li>
 
