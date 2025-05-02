@@ -6,7 +6,7 @@ toplevel: video
 # toplevellink: /video
 ---
 
-<h5>GOTB 3rd Edition Intro Videos: Chapter 1</h5>
+<h3>GOTB 3rd Edition Intro Videos: Chapter 1</h3>
 Video is coming. Until then, enjoy visiting these resources:
 <ul>
 <li>Join the <a href="https://www.facebook.com/groups/GreatOnTheirBehalf">private facebook group</a> where we discuss the book and strategies for improving student outcomes.<br/></li>
