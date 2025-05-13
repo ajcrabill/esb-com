@@ -17,10 +17,7 @@ The agenda for the workshop is:<ul>
   <li>Clarify Priorities</li>
   <li>Align Resources</li>
   <li>Communicate Results</li>
-</ul></li>
-</ul>
-
-<br/><br/>
+</ul></li></ul><br/><br/>
 
 <form action="https://formspree.io/f/xayzdydv" method="POST"> 
   Name<br/><input type="text" value="" name="name"><br/><br/>
