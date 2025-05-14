@@ -18,7 +18,7 @@ The agenda for the workshop is:<ul>
   <li>Align Resources</li>
   <li>Communicate Results</li>
 </ul></li>
-
+</ul>
 <br/><br/>
 
 <form action="https://formspree.io/f/xayzdydv" method="POST"> 
