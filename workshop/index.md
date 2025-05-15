@@ -8,16 +8,21 @@ toplevel: Workshop
 
 The 2-day Effective School Board Transformation Workshop is designed to provide school board members with the tools they need to create the conditions for improving student outcomes. Want to learn more about attending one or hosting one in your area? Contact us using the form below or via email at <a href="mailto:coach@effectiveschoolboards.com">coach@effectiveschoolboards.com</a>.<br/><br/>
 
-The agenda for the workshop is:<ul>
-<li>Day 1<ul>
-  <li>Focus Mindset</li>
-  <li>Clarify Priorities</li>
-</ul></li>
-<li>Day 2<ul>
-  <li>Clarify Priorities</li>
-  <li>Align Resources</li>
-  <li>Communicate Results</li>
-</ul></li>
+The agenda for the workshop is:
+<ul>
+  <li>Day 1
+    <ul>
+      <li>Focus Mindset</li>
+      <li>Clarify Priorities</li>
+    </ul>
+  </li>
+  <li>Day 2
+    <ul>
+      <li>Clarify Priorities</li>
+      <li>Align Resources</li>
+      <li>Communicate Results</li>
+    </ul>
+  </li>
 </ul>
 <br/><br/>
 
