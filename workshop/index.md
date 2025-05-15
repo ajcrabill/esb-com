@@ -18,7 +18,7 @@ The agenda for the workshop is:
   </li>
   <li>Day 2
     <ul>
-      <li>Clarify Priorities</li>
+      <li>Monitor Progress</li>
       <li>Align Resources</li>
       <li>Communicate Results</li>
     </ul>
