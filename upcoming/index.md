@@ -6,7 +6,7 @@ toplevel: Upcoming Opportunity
 # toplevellink: /upcoming
 ---
 
-<h4>RSVP: How To Effectively Manage External Professional Services</h4>
+<h4>RSVP: Board's Role in Effective Strategic Planning</h4>
 <form action="https://formspree.io/f/xayzdydv" method="POST"> 
   Name<br/><input type="text" value="" name="name"><br/><br/>
   Email<br/><input type="text" value="" name="email"><br/><br/>
@@ -21,6 +21,7 @@ Previous topics:
   <li>Should I Vote For The Budget?</li>
   <li>What Does An Effective Superintendent Evaluation Look Like?</li>
   <li>Why & How Is An Effective Consent Agenda Used?</li>
+  <li>How To Effectively Manage External Professional Services</li>
 </ul>
 
 <br/>
