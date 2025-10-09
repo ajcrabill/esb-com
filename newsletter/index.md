@@ -11,6 +11,7 @@ Join the nationwide conversation about how school board members can help improve
 <br/><br/>
 Each newsletter will provide 3-5 articles -- such as answers to questions submitted by subscribers, policy examples, analysis of a recent school board meetings, analysis of recent research, and more.
 
+
 <script src="https://www1.effectiveschoolboards.com/forms/2148871157/embed.js"></script>
 
 <br/><br/>
