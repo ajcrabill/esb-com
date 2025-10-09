@@ -7,7 +7,7 @@ toplevel: "Superintendent Support"
 ---
 
 <h4>Get your free kindle copy!</h4>
-My first book, "Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective" has helped hundreds of superintendents and school board members make the transition from ineffective to effective. Let me know what you think.<br/><br/>
+My first book, "<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/">Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective</a>" has helped hundreds of superintendents and school board members make the transition from ineffective to effective. Let me know what you think.<br/><br/>
 
 <script src="https://www1.effectiveschoolboards.com/forms/2149300567/embed.js"></script>
 
