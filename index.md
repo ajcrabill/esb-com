@@ -5,7 +5,7 @@ summary: "Student outcomes do not change until adult behaviors change."
 toplevel: Main
 ---
 
-<h1>Student outcomes don't change<br/>until adult behaviors change.</h1><br/><br/> 
+<h1>Student outcomes don't change<br/>until adult behaviors change.&trade;</h1><br/><br/> 
 <h2>Becoming an Effective School Board requires a clear framework for<br/> 
 improvement and the coach support needed to implement over time.<br/><br/>
 
