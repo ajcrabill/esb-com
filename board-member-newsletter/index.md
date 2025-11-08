@@ -153,7 +153,7 @@ toplevel: "Newsletter"
 
 <h4>Want Answers To Tough School Board Questions?</h4>
 <h5>Join the nationwide conversation about how school board members can help improve student outcomes by subscribing to, "<strong>The Effective School Board Member</strong>" newsletter. Sign up now to submit questions you'd like to see answered!<br/><br/>
-Each newsletter will provide 3-5 articles -- such as policy examples, analysis of a recent news story, analysis of recent research, and answers to questions submitted by readers -- as well as other tools, resources and recognitions.</h5>
+Each newsletter will provide articles -- such as policy examples, analysis of a recent news story, analysis of recent research, and answers to questions submitted by readers -- intended to help school board members be more effective at focusing on student outcomes.</h5>
 
 
 <section class="pricing-section">
