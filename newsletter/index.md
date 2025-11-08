@@ -9,7 +9,7 @@ toplevel: "Newsletter"
 <h4>Sign Up Here!</h4>
 Join the nationwide conversation about how school board members can help improve student outcomes by subscribing to, "The Effective School Board Member" newsletter. Sign up now to submit questions you'd like to see answered!
 <br/><br/>
-Each newsletter will provide 3-5 articles -- such as answers to questions submitted by subscribers, policy examples, analysis of a recent school board meetings, analysis of recent research, and more.
+Each newsletter will provide articles -- such as answers to questions submitted by subscribers, policy examples, analysis of a recent school board meetings, analysis of recent research, and more.
 
 
 <script src="https://www1.effectiveschoolboards.com/forms/2148871157/embed.js"></script>
