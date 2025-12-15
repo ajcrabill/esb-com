@@ -186,7 +186,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <span class="price">$5</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="https://www1.effectiveschoolboards.com/offers/NFhgHZS2/checkout" class="cta-button">Subscribe Now →</a><br/>
+      <a href="https://buy.stripe.com/4gMbJ2fmHani7ay50n7g400" class="cta-button">Subscribe Now →</a><br/>
       You'll get all of the Free membership perks plus:
       <ul class="features">
         <li>Paid version of, "The Effective School Board Member" newsletter</li>
@@ -194,7 +194,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <li>Access to discounts of The Effective School Board Member merchandise</li>
         <li>Higher priority for submission of questions to appear in the newsletter</li>
       </ul><br/>
-      <p class="note">Get your <a href="https://www1.effectiveschoolboards.com/offers/NFhgHZS2/checkout"><strong>Basic Subscription</strong></a> now!</p>
+      <p class="note">Get your <a href="https://buy.stripe.com/4gMbJ2fmHani7ay50n7g400"><strong>Basic Subscription</strong></a> now!</p>
     </div>
 
     <!-- Premium Plan -->
