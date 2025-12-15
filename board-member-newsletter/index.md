@@ -206,7 +206,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <span class="price">$10</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="https://www1.effectiveschoolboards.com/offers/64LrZGwd" class="cta-button">Subscribe Now →</a><br/>
+      <a href="https://buy.stripe.com/6oUbJ2gqL0MI52qcsP7g401" class="cta-button">Subscribe Now →</a><br/>
       You'll get all of the Basic membership perks plus:
       <ul class="features">
         <li>Free access to the monthly group virtual coaching session</li>
@@ -214,7 +214,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <li>Early admission to Effective School Board in-person workshops and retreats</li>
         <li>Higher priority for submission of school board meetings to be spotlighted</li>
       </ul><br/>
-      <p class="note">Get your  <a href="https://www1.effectiveschoolboards.com/offers/64LrZGwd"><strong>Premium Subscription</strong></a> now!</p>
+      <p class="note">Get your  <a href="https://buy.stripe.com/6oUbJ2gqL0MI52qcsP7g401"><strong>Premium Subscription</strong></a> now!</p>
     </div>
 
     <!-- Masterclass Plan -->
