@@ -222,10 +222,10 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
       <h3 class="plan-title">Masterclass</h3>
       <p class="plan-subtitle">Get access to the depth support and coaching the most effective school board members have!</p>
       <div class="price-container">
-        <span class="price">$50</span><span class="price-term">/mo</span>
+        <span class="price">$300</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="https://www1.effectiveschoolboards.com/offers/STbxLcEa" class="cta-button">Subscribe Now →</a><br/>
+      <a href="https://buy.stripe.com/fZu28sdez7b61Qe2Sf7g402" class="cta-button">Subscribe Now →</a><br/>
       You'll get all of the Premium membership perks plus:
       <ul class="features">
         <li>Free access to a 1-on-1 virtual coaching session</li>
@@ -235,7 +235,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <li>Highest priority for submission of school board members to be spotlighted</li>
         <li>Signed copy of, "Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective"</li>
       </ul><br/>
-      <p class="note">Get your  <a href="https://www1.effectiveschoolboards.com/offers/STbxLcEa"><strong>Masterclass Subscription</strong></a> now!</p>
+      <p class="note">Get your  <a href="https://buy.stripe.com/fZu28sdez7b61Qe2Sf7g402"><strong>Masterclass Subscription</strong></a> now!</p>
     </div>
 
   </div>
