@@ -31,7 +31,7 @@ toplevel: Resources
 <h5>Research Articles</h5>
 <ul>
 <li><a href="https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=2504&context=rtd">Roles and Responsibilities of Local School Board Members in Relation to Student Achievement</a>, Mary Delagardelle (2006)</li>
-<li><a href="http://dc.uwm.edu/cgi/viewcontent.cgi?article=1334&context=etd">The Impact of School Board Governance on Academic Achievement in Diverse States</a>, Michael Ford (2013)</li>
+<li><a href="https://drive.google.com/file/d/14JA0oA8numQTv_7R5D2XGuS-CKPFyddm/view">The Impact of School Board Governance on Academic Achievement in Diverse States</a>, Michael Ford (2013)</li>
 <li><a href="http://scholarworks.umt.edu/cgi/viewcontent.cgi?article=2406&context=etd">The Relationship Between School Board Governance Behaviors and Student Achievement</a>, Ivan J. Lorentzen (2013)</li>
 <li><a href="https://doi.org/10.1177%2F1555458911413887">School Board Governance: The Times They are A-Changin'</a>, Paul Johnson (2011)</li>
 <li><a href="https://digitalcommons.spu.edu/cgi/viewcontent.cgi?&article=1013&context=soe_etd">School Boards and Student Achievement: The Relationship between Previously Identified School Board Characteristics and Improved Student Learning</a>, Jonathon Holmen (2016)</li>
@@ -43,8 +43,8 @@ toplevel: Resources
 <h5>Professional Articles</h5>
  <ul>
 <li><a href="https://tinyurl.com/AJC-Chapter-Student-Outcomes">On Leadership: An Interdisciplinary Approach, Chapter 16: School Board Leadership to Improve Student Outcomes</a>, AJ Crabill (2022)</li>
-<li><a href="https://www.tarleton.edu/esp/_view-journal/ESP-JOURNAL-2019--Final.pdf">School Governance Matters: Best Practices for School Boards to Improve Student Outcomes</a>, Drew Howard (2019)</li>
-<li><a href="http://www.centerforpubliceducation.org/Main-Menu/Public-education/Eight-characteristics-of-effective-school-boards">Eight Characteristics of Effective School Boards</a>, National School Board Association (2011)</li>
+<li><a href="https://drive.google.com/file/d/1t3vep_0koPIUm6eA0jplTM9i4XhN_xv-/view">School Governance Matters: Best Practices for School Boards to Improve Student Outcomes</a>, Drew Howard (2019)</li>
+<li><a href="https://drive.google.com/file/d/1YzMIGDSQIL7qlbsLyMbAQJOuNO-cs9bd/view">Eight Characteristics of Effective School Boards</a>, National School Board Association (2011)</li>
 <li><a href="https://www.researchgate.net/publication/234770383_The_Lighthouse_Inquiry_School_BoardSuperintendent_Team_Behaviors_in_School_Districts_with_Extreme_Differences_in_Student_Achievement">The Lighthouse Inquiry: School Board/Superintendent Team Behaviors in School Districts with Extreme Differences in Student Achievement</a>, Iowa Association of School Boards (2001)</li>
 <li><a href="https://governforimpact.org/images/Resources/Principles-and-Model-Consistency-Framework-June-2016.pdf">Policy Governance Consistency Framework</a>, International Policy Governance Association (2014)</li>
  </ul> 
@@ -143,3 +143,4 @@ toplevel: Resources
 <li><a href="https://tulsaworld.com/opinion/editorial/editorial-tps-board-need-to-continue-with-efforts-to-be-more-effective/article_d7dd5022-0886-11ed-a296-d31832b8e40f.html">Board Needs To Continue With Efforts To Be More Effective</a></li>
 <li><a href="https://buffalonews.com/news/local/education/invigorated-by-training-buffalo-school-board-strives-for-unity-despite-history-of-division/article_d72f7e86-cefe-11ed-878f-0bc2294b5180.html">Invigorated By Training, Board Strives For Unity</a></li>
 </ul><br/>
+
