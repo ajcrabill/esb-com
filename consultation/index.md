@@ -13,7 +13,7 @@ Teachers need coaches to be their best. Principals need coaches to be their best
   Email<br/><input type="text" value="" name="email"><br/><br/>
   Title/Role<br/><input type="text" value="" name="title"><br/><br/>
   School System<br/><input type="text" value="" name="schoolsystem"><br/><br/>
-  Message<br/><textarea type="text" value="" name="message" width=200>What challenge are you facing or what opportunity are you wanting to harvest?</textarea><br/><br/>
+  Message<br/><textarea type="text" value="" name="message" rows="4" cols="100">What challenge are you facing or what opportunity are you wanting to harvest?</textarea><br/><br/>
   <button type="submit">Send</button> 
   <input type="hidden" value="esb.com consultation form" name="form">
 </form>
