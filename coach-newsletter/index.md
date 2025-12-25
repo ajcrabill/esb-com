@@ -175,7 +175,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <li>Access to The Effective School Board Coach merchandise</li>
         <li>Ability to submit questions to be answered each month</li>
       </ul><br/>
-      <p class="note">Get your <a href="https://www1.effectiveschoolboards.com/offers/QJZbEFLC"><strong>Free Subscription</strong></a> now!</p>
+      <p class="note">Get your <a href="https://www.effectiveschoolboards.com/newsletter/coach/"><strong>Free Subscription</strong></a> now!</p>
     </div>
 
     <!-- Basic Plan -->
@@ -186,7 +186,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <span class="price">$5</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="https://www1.effectiveschoolboards.com/offers/C6nx3889" class="cta-button">Subscribe Now →</a><br/>
+      <a href="https://buy.stripe.com/bJe3cveuRfuu0sJ1Tmfbq00" class="cta-button">Subscribe Now →</a><br/>
       You'll get all of the Free membership perks plus:
       <ul class="features">
         <li>Monthly paid version of, "The Effective School Board Coach" newsletter</li>
@@ -194,7 +194,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <li>Access to discounts of The Effective School Board Coach merchandise</li>
         <li>Higher priority for submission of questions to appear in the monthly newsletter</li>
       </ul><br/>
-      <p class="note">Get your <a href="https://www1.effectiveschoolboards.com/offers/C6nx3889"><strong>Basic Subscription</strong></a> now!</p>
+      <p class="note">Get your <a href="https://buy.stripe.com/bJe3cveuRfuu0sJ1Tmfbq00"><strong>Basic Subscription</strong></a> now!</p>
     </div>
 
     <!-- Premium Plan -->
@@ -206,7 +206,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <span class="price">$25</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="https://www1.effectiveschoolboards.com/offers/ggJwbFoB" class="cta-button">Subscribe Now →</a><br/>
+      <a href="https://buy.stripe.com/3cI28reuRfuu7VbdC4fbq01" class="cta-button">Subscribe Now →</a><br/>
       You'll get all of the Basic membership perks plus:
       <ul class="features">
         <li>Free access to the monthly group virtual coaching session</li>
@@ -216,7 +216,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <li>Higher priority for submission of school board meetings to be spotlighted</li>
         <li>Access to once-per-month support with time use coaching for one board</li>
       </ul><br/>
-      <p class="note">Get your <a href="https://www1.effectiveschoolboards.com/offers/ggJwbFoB"><strong>Premium Subscription</strong></a> now!</p>
+      <p class="note">Get your <a href="https://buy.stripe.com/3cI28reuRfuu7VbdC4fbq01"><strong>Premium Subscription</strong></a> now!</p>
     </div>
 
     <!-- Masterclass Plan -->
@@ -227,7 +227,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <span class="price">$100</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
-      <a href="https://www1.effectiveschoolboards.com/offers/T6KajpSx" class="cta-button">Subscribe Now →</a><br/>
+      <a href="https://buy.stripe.com/eVq8wPfyVdmm5N37dGfbq02" class="cta-button">Subscribe Now →</a><br/>
       You'll get all of the Premium membership perks plus:
       <ul class="features">
         <li>Free access to a 1-on-1 virtual coaching session</li>
@@ -242,7 +242,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <li>Signed copy of, "Great On Their Behalf: Why School Boards Fail, How Yours Can Become Effective"</li>
         <li>Signed copy of the Effective School Board Implementation Workbooks</li>
       </ul><br/>
-      <p class="note">Get your <a href="https://www1.effectiveschoolboards.com/offers/T6KajpSx"><strong>Masterclass Subscription</strong></a> now!</p>
+      <p class="note">Get your <a href="https://buy.stripe.com/eVq8wPfyVdmm5N37dGfbq02"><strong>Masterclass Subscription</strong></a> now!</p>
     </div>
 
   </div>
