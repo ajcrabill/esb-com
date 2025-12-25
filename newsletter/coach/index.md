@@ -11,7 +11,7 @@ Join the nationwide conversation about how school board coaches are making a dif
 <br/><br/>
 Each newsletter will provide 3-5 articles -- such as answers to questions submitted by subscribers, coaching examples, analysis of a recent school board meetings, analysis of recent research, and more.
 
-<script src="https://www1.effectiveschoolboards.com/forms/2148871154/embed.js"></script>
+<script async src="https://subscribe-forms.beehiiv.com/embed.js"></script><iframe src="https://subscribe-forms.beehiiv.com/97f3cebe-013c-4332-8f25-7f75365d3737" class="beehiiv-embed" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="width: 1217px; height: 473px; margin: 0; border-radius: 0px 0px 0px 0px !important; background-color: transparent; box-shadow: 0 0 #0000; max-width: 100%;"></iframe>
 
 <br/><br/>
 
