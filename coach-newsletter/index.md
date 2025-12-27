@@ -224,7 +224,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
       <h3 class="plan-title">Masterclass</h3>
       <p class="plan-subtitle">Get access to the in-depth support the most effective school board coaches have!</p>
       <div class="price-container">
-        <span class="price">$100</span><span class="price-term">/mo</span>
+        <span class="price">$300</span><span class="price-term">/mo</span>
       </div>
       <p class="billed-annually">Billed annually</p>
       <a href="https://buy.stripe.com/eVq8wPfyVdmm5N37dGfbq02" class="cta-button">Subscribe Now →</a><br/>
