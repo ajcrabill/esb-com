@@ -6,7 +6,7 @@ toplevel: Upcoming Opportunity
 # toplevellink: /upcoming
 ---
 
-<h4>RSVP: Board's Role in Effective Strategic Planning</h4>
+<h4>RSVP: School Board Coach AMA</h4>
 <form action="https://formspree.io/f/xayzdydv" method="POST"> 
   Name<br/><input type="text" value="" name="name"><br/><br/>
   Email<br/><input type="text" value="" name="email"><br/><br/>
