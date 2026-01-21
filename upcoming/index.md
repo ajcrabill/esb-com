@@ -6,7 +6,7 @@ toplevel: Upcoming Opportunity
 # toplevellink: /upcoming
 ---
 
-<h4>RSVP: School Board Coach AMA</h4>
+<h4>RSVP for our Monthly 30-minute Webinar</h4>
 <form action="https://formspree.io/f/xayzdydv" method="POST"> 
   Name<br/><input type="text" value="" name="name"><br/><br/>
   Email<br/><input type="text" value="" name="email"><br/><br/>
@@ -16,7 +16,7 @@ toplevel: Upcoming Opportunity
 </form>
 
 <br/><br/>
-Previous topics:
+Examples of previous topics:
 <ul>
   <li>Should I Vote For The Budget?</li>
   <li>What Does An Effective Superintendent Evaluation Look Like?</li>
