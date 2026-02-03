@@ -1,8 +1,8 @@
 ---
 layout: base
-title: "Newsletter Feedback"
-summary: "Newsletter Feedback"
-toplevel: Newsletter Feedback
+title: "Feedback"
+summary: "Feedback"
+toplevel: Newsletter 
 # toplevellink: /newsletter/feedback/
 ---
 
@@ -13,5 +13,5 @@ Which are your favorite sections? What should we delete? What should we add? Wha
   Email<br/><input type="text" value="" name="email"><br/><br/>
   Feedback<br/><input type="text" value="" name="message"><br/><br/>
   <button type="submit">Submit</button> 
-  <input type="hidden" value="esb.com newsletter feedback" name="form">
+  <input type="hidden" value="esb.com newsletter feedback" name="form" cols="50" rows="5">
 </form>
