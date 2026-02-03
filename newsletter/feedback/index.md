@@ -11,7 +11,7 @@ Which are your favorite sections? What should we delete? What should we add? Wha
 <form action="https://formspree.io/f/xayzdydv" method="POST"> 
   Name<br/><input type="text" value="" name="name"><br/><br/>
   Email<br/><input type="text" value="" name="email"><br/><br/>
-  Feedback<br/><input type="text" value="" name="message"><br/><br/>
+  Feedback<br/><textarea type="text" value="" name="message" cols="30" rows="3"></textarea><br/><br/>
   <button type="submit">Submit</button> 
-  <input type="hidden" value="esb.com newsletter feedback" name="form" cols="50" rows="5">
+  <input type="hidden" value="esb.com newsletter feedback" name="form">
 </form>
