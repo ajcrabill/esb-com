@@ -1,6 +1,7 @@
 ---
 layout: base
-title: "Coaches"
+title: "ESB Coaches"
+description: "Explore the ESB coaching model and meet the coaches supporting school boards nationwide."
 summary: "Find An ESB Coach"
 toplevel: Coaches
 # toplevellink: /coaches

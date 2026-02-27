@@ -1,6 +1,7 @@
 ---
 layout: base
 title: "Community"
+description: "Join the Effective School Boards community to discuss governance strategies for improving student outcomes."
 summary: "Join the ESB Community"
 toplevel: Community
 # toplevellink: /community

@@ -1,6 +1,7 @@
 ---
 layout: base
 title: "Quizzes"
+description: "Test your knowledge of effective school board governance with quizzes on inputs, outputs, and outcomes."
 summary: "ESB Quizzes"
 toplevel: Resources
 # toplevellink: /resources

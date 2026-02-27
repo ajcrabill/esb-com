@@ -1,6 +1,7 @@
 ---
 layout: base
 title: "Glossary"
+description: "Definitions of key terms used in the Effective School Boards Framework and governance practices."
 summary: "Glossary"
 toplevel: Resources
 # toplevellink: /resources

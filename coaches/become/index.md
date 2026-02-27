@@ -1,6 +1,7 @@
 ---
 layout: base
-title: "Become An ESB Coach"
+title: "Become an ESB Coach"
+description: "Discover how to become a certified ESB coach and support school boards in improving governance practices."
 summary: "Become An ESB Coach"
 toplevel: Coaches
 # toplevellink: /coaches
