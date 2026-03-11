@@ -6,9 +6,26 @@ toplevel: Thank You
 # toplevellink: /thankyou
 ---
 
-<h1>Thank You!</h1>
+<h1>Thank You for Subscribing!</h1>
 
-We appreciate your support of our mission -- helping school boards transition from being adult inputs focused to becoming student outcomes focused! <br/><br/>
+You're successfully subscribed to the Effective School Boards newsletter.<br/><br/>
 
-If you take a photo of yourself with anything from the ESB store, we love receiving pics of our hoodies and other items in the wild!
+Thank you for joining our community of school board members, education leaders, and governance professionals committed to improving student outcomes.<br/><br/>
 
+What happens next?
+<ul>
+<li>Check your inbox for a confirmation email.</li>
+<li>You’ll start receiving insights, resources, and updates from Effective School Boards.</li>
+<li>Get access to research, governance strategies, and upcoming workshops.</li>
+</ul>
+
+<center>
+Continue exploring:<br/>
+<a href="/coaches" class="btn-get-started scrollto">Find A <br/>Certified Coach</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="/framework" class="btn-get-started scrollto">View the Effective<br/> School Boards Framework</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="/publications" class="btn-get-started scrollto">Get the Newly Revised<br/>Book, "Great On Their Behalf"</a>  </center>
+</center><br/><br/>
+
+If you have any questions, feel free to <a href="/contact">contact us</a> anytime.<br/><br/>
+
+Thank you again for being part of the Effective School Boards community!<br/>
