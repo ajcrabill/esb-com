@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "School Board Transformation Workshop"
+title: "Board Transformation Workshop"
 summary: "Workshop"
 toplevel: Workshop
 # toplevellink: /workshop

@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "The Effective School Board Member"
+title: "Board Member Newsletter"
 summary: "The Effective School Board Member Newsletter Landing Page"
 toplevel: "Newsletter"
 # toplevellink: /Newsletter
@@ -175,7 +175,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <li>Access to The Effective School Board Member merchandise</li>
         <li>Ability to submit questions to be answered every other week</li>
       </ul><br/>
-      <p class="note">Get your  <a href="https://effectiveschoolboards.com/newsletter/"><strong>Free Subscription</strong></a> now!</p>
+      <p class="note">Get your <a href="/newsletter/"><strong>Free Subscription</strong></a> now!</p>
     </div>
 
     <!-- Basic Plan -->

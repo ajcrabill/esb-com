@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Become An ESB Coach"
+title: "Become a School Board Coach"
 summary: "Become An ESB Coach"
 toplevel: Coaches
 # toplevellink: /coaches

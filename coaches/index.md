@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Coaches"
+title: "Certified School Board Coaches"
 summary: "Find An ESB Coach"
 toplevel: Coaches
 # toplevellink: /coaches

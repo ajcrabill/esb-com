@@ -1,6 +1,6 @@
 ---
 layout: front
-title: Home
+title: "Effective School Boards - Improving Student Outcomes"
 summary: "Student outcomes do not change until adult behaviors change."
 toplevel: Main
 ---

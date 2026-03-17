@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "About the ESB Framework"
+title: "About the School Board Framework"
 summary: "About the ESB Framework"
 toplevel: Framework
 # toplevellink: /framework

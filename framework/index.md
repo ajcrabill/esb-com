@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Framework"
+title: "School Board Governance Framework"
 summary: "ESB Framework"
 toplevel: Framework
 # toplevellink: /framework

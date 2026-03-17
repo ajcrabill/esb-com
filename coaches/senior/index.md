@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Become A Senior ESB Coach"
+title: "Senior School Board Coach Certification"
 summary: "Become A Senior ESB Coach"
 toplevel: Coaches
 # toplevellink: /coaches/senior

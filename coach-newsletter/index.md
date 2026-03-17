@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "The Effective School Board Coach"
+title: "Coach Newsletter"
 summary: "The Effective School Board Coach Newsletter Landing Page"
 toplevel: "Newsletter"
 # toplevellink: /Newsletter
@@ -175,7 +175,7 @@ Each newsletter will provide articles -- such as policy examples, analysis of a 
         <li>Access to The Effective School Board Coach merchandise</li>
         <li>Ability to submit questions to be answered each month</li>
       </ul><br/>
-      <p class="note">Get your <a href="https://www.effectiveschoolboards.com/newsletter/coach/"><strong>Free Subscription</strong></a> now!</p>
+      <p class="note">Get your <a href="/newsletter/coach/"><strong>Free Subscription</strong></a> now!</p>
     </div>
 
     <!-- Basic Plan -->

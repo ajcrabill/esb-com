@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "ESB Publications"
+title: "School Board Publications"
 summary: "Great On Their Behalf"
 toplevel: Publications
 # toplevellink: /publications
