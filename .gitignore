@@ -1,2 +1,6 @@
 assets/.DS_Store
 .DS_Store
+
+.claude/
+.sass-cache/
+_site/
