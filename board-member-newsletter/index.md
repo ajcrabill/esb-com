@@ -1,6 +1,7 @@
 ---
 layout: base
-title: "Board Member Newsletter"
+title: "The Effective School Board Member"
+description: "Subscribe to The Effective School Board Member newsletter for answers to tough school board questions."
 summary: "The Effective School Board Member Newsletter Landing Page"
 toplevel: "Newsletter"
 # toplevellink: /Newsletter

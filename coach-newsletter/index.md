@@ -1,6 +1,7 @@
 ---
 layout: base
-title: "Coach Newsletter"
+title: "The Effective School Board Coach Newsletter"
+description: "Insights, tools, and updates for ESB coaches supporting effective school board governance."
 summary: "The Effective School Board Coach Newsletter Landing Page"
 toplevel: "Newsletter"
 # toplevellink: /Newsletter

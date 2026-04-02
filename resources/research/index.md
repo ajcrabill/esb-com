@@ -1,6 +1,7 @@
 ---
 layout: base
 title: "Analyzing Research"
+description: "Learn to analyze and evaluate educational research quality using the PEARLS framework."
 summary: "Analyzing Research"
 toplevel: Resources
 # toplevellink: /resources

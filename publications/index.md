@@ -9,7 +9,7 @@ toplevel: Publications
 <div class="container"> 
 <div class="row"><center>
 <div class="align-items-center">
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img class="hero-book-img" src="/assets/img/new-gotb-cover.jpg"></a>
+<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img class="hero-book-img" src="/assets/img/gotb-3rd-cover.png"></a>
 </div>
 <div>
 <h3>We are accelerating the transition<br/>
@@ -19,7 +19,7 @@ Available In:
 
 <a href="https://www.amazon.com/dp/B0CVNLVSJ3/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Audiobook</a>
 
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective-ebook/dp/B0CNCK9JN9/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Kindle Ebook</a>
+<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective-ebook/dp/B0BXMMDH7C/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Kindle Ebook</a>
 
 <a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1398389765/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Paperback</a>
 
@@ -36,7 +36,7 @@ Available In:
 
 <table border="0" cellpadding="5">
 <tr><td valign="top">
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1398389765/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325"><img border="0" src="/assets/img/new-gotb-cover.jpg" height="320" width="213"></a>
+<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective-ebook/dp/B0BXMMDH7C/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325"><img border="0" src="/assets/img/gotb-3rd-cover.png" height="320" width="213"></a>
 </td>
 <td valign="top">
 <h4>Join the Community</h4><br/>
@@ -58,12 +58,12 @@ Visit the <a href="/store">ESB Store</a> for student outcomes focused merchandis
  </td></tr>
 
 <tr><td valign="top">
-<a href="https://www.amazon.com/dp/B0DBMQMY36/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/goal-setting-cover.jpg" height="320" width="213"></a>
-<a href="https://www.amazon.com/dp/B0CXF257VS/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/leading-cover.jpg" height="320" width="213"></a>
-<a href="https://www.amazon.com/dp/B0DBMXKW1S/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/board-eval-cover.jpg" height="320" width="213"></a>
-<a href="https://www.amazon.com/dp/B0DBPJYNZD/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/supt-eval-cover.jpg" height="320" width="213"></a>
-<a href="https://www.amazon.com/dp/B0DBP36BFZ/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/cascading-cover.jpg" height="320" width="213"></a>
-<a href="https://www.amazon.com/dp/B0DBP6J3D6/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/budgeting-cover.jpg" height="320" width="213"></a>
+<a href="https://www.amazon.com/dp/B0DBMQMY36/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/goal-setting-cover.jpg" height="320" width="213" alt="Goal Setting Implementation Guide cover"></a>
+<a href="https://www.amazon.com/dp/B0CXF257VS/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/leading-cover.jpg" height="320" width="213" alt="Leading Implementation Guide cover"></a>
+<a href="https://www.amazon.com/dp/B0DBMXKW1S/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/board-eval-cover.jpg" height="320" width="213" alt="Board Evaluation Implementation Guide cover"></a>
+<a href="https://www.amazon.com/dp/B0DBPJYNZD/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/supt-eval-cover.jpg" height="320" width="213" alt="Superintendent Evaluation Implementation Guide cover"></a>
+<a href="https://www.amazon.com/dp/B0DBP36BFZ/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/cascading-cover.jpg" height="320" width="213" alt="Cascading Implementation Guide cover"></a>
+<a href="https://www.amazon.com/dp/B0DBP6J3D6/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img border="0" src="/assets/img/budgeting-cover.jpg" height="320" width="213" alt="Budgeting Implementation Guide cover"></a>
 
 </td></tr>
 </table>
@@ -78,10 +78,10 @@ Visit the <a href="/store">ESB Store</a> for student outcomes focused merchandis
  </td></tr>
 
 <tr><td valign="top">
-<img border="0" src="/assets/img/monitoring-cover.jpg" height="320" width="213">
-<img border="0" src="/assets/img/designing-cover.jpg" height="320" width="213">
-<img border="0" src="/assets/img/listening-cover.jpg" height="320" width="213">
-<img border="0" src="/assets/img/culture-cover.jpg" height="320" width="213">
+<img border="0" src="/assets/img/monitoring-cover.jpg" height="320" width="213" alt="Monitoring Implementation Guide cover">
+<img border="0" src="/assets/img/designing-cover.jpg" height="320" width="213" alt="Designing Implementation Guide cover">
+<img border="0" src="/assets/img/listening-cover.jpg" height="320" width="213" alt="Listening Implementation Guide cover">
+<img border="0" src="/assets/img/culture-cover.jpg" height="320" width="213" alt="Culture Implementation Guide cover">
 
 </td></tr>
 </table>
@@ -93,7 +93,7 @@ Visit the <a href="/store">ESB Store</a> for student outcomes focused merchandis
 
 <table border="0" cellpadding="5">
 <tr><td valign="top">
-<a href="http://www.ajc7.com"><img border="0" data-original-height="1500" data-original-width="1000" height="320" src="/assets/img/ajc-headshot-small.jpeg" width="213" /></a>
+<a href="http://www.ajc7.com"><img border="0" data-original-height="1500" data-original-width="1000" height="320" src="/assets/img/ajc-headshot-small.jpeg" width="213" alt="AJ Crabill headshot" /></a>
 </td>
 <td valign="top">
 <h4>About the Author</h4><br/>
