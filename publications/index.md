@@ -10,7 +10,7 @@ toplevel: Publications
 <div class="container"> 
 <div class="row"><center>
 <div class="align-items-center">
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img class="hero-book-img" src="/assets/img/new-gotb-cover.jpg" alt="Great On Their Behalf book cover"></a>
+<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1544534876/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" border="0"><img class="hero-book-img" src="/assets/img/gotb-3rd-cover.png"></a>
 </div>
 <div>
 <h3>We are accelerating the transition<br/>
@@ -20,7 +20,7 @@ Available In:
 
 <a href="https://www.amazon.com/dp/B0CVNLVSJ3/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Audiobook</a>
 
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective-ebook/dp/B0CNCK9JN9/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Kindle Ebook</a>
+<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective-ebook/dp/B0BXMMDH7C/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Kindle Ebook</a>
 
 <a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1398389765/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325" class="get-started-btn">Paperback</a>
 
@@ -37,7 +37,7 @@ Available In:
 
 <table border="0" cellpadding="5">
 <tr><td valign="top">
-<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective/dp/1398389765/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325"><img border="0" src="/assets/img/new-gotb-cover.jpg" height="320" width="213" alt="Great On Their Behalf book cover"></a>
+<a href="https://www.amazon.com/Great-Their-Behalf-School-Effective-ebook/dp/B0BXMMDH7C/?&_encoding=UTF8&tag=esb0b3-20&linkCode=ur2&linkId=fac456155eede9a203956cc5dd672283&camp=1789&creative=9325"><img border="0" src="/assets/img/gotb-3rd-cover.png" height="320" width="213"></a>
 </td>
 <td valign="top">
 <h4>Join the Community</h4><br/>
