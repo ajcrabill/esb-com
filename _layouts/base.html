@@ -41,7 +41,7 @@ src="https://www.facebook.com/tr?id=3870945449879839&ev=PageView&noscript=1"
                     <li>{{ page.toplevel }}</li>
                 {% endif %}
               </ol>
-              <h2> {{ page.title }}</h2>
+              <h1>{% if page.heading %} {{ page.heading }}{% else %} {{ page.title }}{% endif %}</h1>
       
             </div>
           </section><!-- End Breadcrumbs -->

@@ -1,6 +1,7 @@
 ---
 layout: base
 title: "Contact"
+description: "Contact Effective School Boards for coaching inquiries, workshop information, or general questions."
 summary: "Contact"
 toplevel: Contact
 # toplevellink: /contact

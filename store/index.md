@@ -1,6 +1,7 @@
 ---
 layout: base
 title: "ESB Store"
+description: "Purchase books, tools, and resources designed to help school boards improve governance and student outcomes."
 summary: "Store"
 toplevel: Store
 # toplevellink: /store

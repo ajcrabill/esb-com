@@ -1,6 +1,7 @@
 ---
 layout: base
 title: "About the ESB Framework"
+description: "Learn the purpose, research base, and core principles of the Effective School Boards Framework."
 summary: "About the ESB Framework"
 toplevel: Framework
 # toplevellink: /framework
