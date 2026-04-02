@@ -1,7 +1,6 @@
 ---
 layout: base
-title: "School Board Transformation Workshop"
-description: "A hands-on workshop designed to help school boards strengthen governance and leadership."
+title: "Board Transformation Workshop"
 summary: "Workshop"
 toplevel: Workshop
 # toplevellink: /workshop

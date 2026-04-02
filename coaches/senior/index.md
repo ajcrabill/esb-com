@@ -1,7 +1,6 @@
 ---
 layout: base
-title: "Senior ESB Coaches"
-description: "Learn about the role, qualifications, and impact of Senior Coaches within the ESB network."
+title: "Senior School Board Coach Certification"
 summary: "Become A Senior ESB Coach"
 toplevel: Coaches
 # toplevellink: /coaches/senior

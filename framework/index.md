@@ -1,7 +1,6 @@
 ---
 layout: base
-title: "ESB Framework"
-description: "Explore the Effective School Boards Framework and its pillars for high-impact governance."
+title: "School Board Governance Framework"
 summary: "ESB Framework"
 toplevel: Framework
 # toplevellink: /framework

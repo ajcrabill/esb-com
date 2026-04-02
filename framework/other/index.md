@@ -1,7 +1,6 @@
 ---
 layout: base
-title: "Related Frameworks"
-description: "Review complementary frameworks that align with or support the Effective School Boards Framework."
+title: "Related Governance Frameworks"
 summary: "Related Frameworks"
 toplevel: Framework
 # toplevellink: /framework
@@ -100,7 +99,7 @@ of Education and the Nevada Department of Education. SSG was written to address 
 <li><strong>Left-to-Right Structure: </strong>The SSG framework is organized by evidence of impact on improving student outcomes -- 
   items with less research-based evidence are on the left while items with a stronger evidence base are on the right.</li>
 <li><strong>Coach Certification: </strong>SSG does not yet have a unique coach certification pathway.</li>
-  <li><strong>Website: </strong><a href="https://www.nvasb.org/">https://www.nvasb.org/</a></li>
+  <li><strong>Website: </strong>http://www.nvasb.org/page/silver-state-governance</li>
   <li><strong>List of Coaches: </strong>NA</li>
 </ul><br/>
 

@@ -1,7 +1,6 @@
 ---
 layout: base
-title: "ESB Publications"
-description: "Research-based publications focused on improving school board governance and student success."
+title: "School Board Publications"
 summary: "Great On Their Behalf"
 toplevel: Publications
 # toplevellink: /publications

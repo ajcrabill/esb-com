@@ -77,13 +77,13 @@ toplevel: Resources
   <ul>
   <li><a href="https://twitter.com/ProfEmilyOster/status/1392158811746672642">Dr. Emily Oster</a></li> 
   <li><a href="https://www.eaie.org/blog/8-ways-determine-credibility-research-reports.html">Credibility of Research</a></li> 
-  <li><a href="https://wtgrantfoundation.org/">Use of Research</a></li> 
+  <li>Use of Research</li> 
   <li><a href="https://drive.google.com/file/d/1GloAUgWDm7g0Ol6kixY6Eb_h98CbNc3F/">Read Empirical Research</a></li> 
   <li><a href="https://explorable.com/validity-and-reliability">Validity and Reliability</a></li> 
-  <li><a href="https://www.researchconnections.org/">Assessing Research Quality</a></li> 
+  <li>Assessing Research Quality</li> 
   <li><a href="https://www.linkedin.com/pulse/research-methodologies-comparison-quantitative-mixed-methods-gunnell/">Research Methods</a></li> 
   <li><a href="https://www.lib.uwo.ca/tutorials/howtoreadascholarlyarticle/">How To Read A Scholarly Article</a></li> 
-  <li><a href="https://guides.beloit.edu/">CRAAP Test</a></li> 
+  <li>CRAAP Test</li> 
   </ul>
   
   

@@ -1,7 +1,6 @@
 ---
 layout: base
-title: "Resources"
-description: "Articles, tools, and materials to support effective school board governance."
+title: "School Board Resources & Tools"
 summary: "Resources"
 toplevel: Resources
 # toplevellink: /resources
@@ -115,10 +114,12 @@ toplevel: Resources
 <li><a href="https://www.podpage.com/rebel-educator/episode77/">Rebel Educator: Creating Effective School Boards</a></li>
 <li><a href="https://podcasts.apple.com/us/podcast/s3-e11-talking-school-boards-with-aj-crabill/id1532148050?i=1000602578271">The Peg Doesn't Fit: Talking School Boards</a></li>
 <li><a href="https://open.spotify.com/episode/3Nb3cA2gcAkfMufiI8AxEO">The Brighter Side of Education: School Board Training</a></li>
+<li>Buzzing with Ms. B: Changing Adult Mindsets</li>
 <li><a href="https://www.principalcenter.com/aj-crabill-great-on-their-behalf-why-school-boards-fail-how-yours-can-become-effective/">Principal Center: Great On Their Behalf</a></li>
 <li><a href="https://podcasts.apple.com/us/podcast/design-cast/id1247751652?i=1000612010298">Design Cast: Restorative Justice</a></li>
 <li><a href="https://podcasts.apple.com/us/podcast/great-on-their-behalf-with-aj-crabill/id1636774651?i=1000610417889">Authority Podcast: Great On Their Behalf</a></li>
 <li><a href="https://natehaber.libsyn.com/ep-298-aj-crabill-why-school-boards-fail">Optimal Life: Why School Boards Fail</a></li>
+<li>Ed Talk Radio: A Look At School Boards</li>
 <li><a href="https://illuminatedpodcast.org/episodes/110-great-on-their-behalf-with-aj-crabill-author-of-great-on-their-behalf-why-school-boards-fail-how-yours-can-become-effective">IlluminatED: Great On Their Behalf</a></li>
 <li><a href="https://twitter.com/mnicholson_mike/status/1657194523213086721">Student Panel</a></li>
 </ul><br/>

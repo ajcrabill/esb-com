@@ -1,7 +1,6 @@
 ---
 layout: base
-title: "ESB Toolkit"
-description: "Access practical tools, templates, and resources to help school boards implement effective governance."
+title: "State School Board Governance Toolkit"
 summary: "State ESB Toolkit"
 toplevel: Resources
 # toplevellink: /resources

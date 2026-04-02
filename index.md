@@ -1,7 +1,6 @@
 ---
 layout: front
-title: "Effective School Boards"
-description: "Helping school boards govern more effectively with research-based frameworks, coaching, and tools to improve student outcomes."
+title: "Effective School Boards - Improving Student Outcomes"
 summary: "Student outcomes do not change until adult behaviors change."
 toplevel: Main
 ---

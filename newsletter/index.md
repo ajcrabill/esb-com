@@ -1,7 +1,6 @@
 ---
 layout: base
-title: "The Effective School Board Member Newsletter"
-description: "Timely insights and practical guidance for school board members committed to effective governance."
+title: "Board Member Newsletter"
 summary: "The Effective School Board Member Newsletter Landing Page"
 toplevel: "Newsletter"
 # toplevellink: /Newsletter
