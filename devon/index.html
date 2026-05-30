@@ -1,8 +1,6 @@
 ---
 layout: base
 title: "Devon — ESB AI Assistant"
-summary: "Devon AI assistant for Effective School Boards"
-toplevel: Devon
 ---
 
 <div id="devon-chat" style="max-width: 800px; margin: 0 auto; padding: 20px;">
@@ -34,11 +32,11 @@ async function sendMessage() {
   if (!msg) return;
   
   const messagesDiv = document.getElementById('chat-messages');
-  messagesDiv.innerHTML += `<div style="text-align: right; margin: 8px 0;"><span style="background: #0d6b4a; color: white; padding: 8px 14px; border-radius: 12px; display: inline-block; max-width: 70%;">${escapeHtml(msg)}</span></div>`;
+  messagesDiv.innerHTML += '<div style="text-align: right; margin: 8px 0;"><span style="background: #0d6b4a; color: white; padding: 8px 14px; border-radius: 12px; display: inline-block; max-width: 70%;">' + escapeHtml(msg) + '</span></div>';
   input.value = '';
   messagesDiv.scrollTop = messagesDiv.scrollHeight;
   
-  messagesDiv.innerHTML += `<div style="text-align: left; margin: 8px 0;"><span style="background: #e9ecef; color: #333; padding: 8px 14px; border-radius: 12px; display: inline-block; max-width: 70%;"><em>Thinking...</em></span></div>`;
+  messagesDiv.innerHTML += '<div style="text-align: left; margin: 8px 0;"><span style="background: #e9ecef; color: #333; padding: 8px 14px; border-radius: 12px; display: inline-block; max-width: 70%;"><em>Thinking...</em></span></div>';
   
   try {
     const res = await fetch(API_URL + '/api/conversations/message', {
@@ -50,13 +48,13 @@ async function sendMessage() {
     messagesDiv.innerHTML = messagesDiv.innerHTML.replace(
       /<div style="text-align: left; margin: 8px 0;"><span[^>]*><em>Thinking\.\.\.<\/em><\/span><\/div>$/, ''
     );
-    messagesDiv.innerHTML += `<div style="text-align: left; margin: 8px 0;"><span style="background: #e9ecef; color: #333; padding: 8px 14px; border-radius: 12px; display: inline-block; max-width: 70%;">${escapeHtml(data.response || JSON.stringify(data))}</span></div>`;
+    messagesDiv.innerHTML += '<div style="text-align: left; margin: 8px 0;"><span style="background: #e9ecef; color: #333; padding: 8px 14px; border-radius: 12px; display: inline-block; max-width: 70%;">' + escapeHtml(data.response || JSON.stringify(data)) + '</span></div>';
     messagesDiv.scrollTop = messagesDiv.scrollHeight;
   } catch(e) {
     messagesDiv.innerHTML = messagesDiv.innerHTML.replace(
       /<div style="text-align: left; margin: 8px 0;"><span[^>]*><em>Thinking\.\.\.<\/em><\/span><\/div>$/, ''
     );
-    messagesDiv.innerHTML += `<div style="text-align: left; margin: 8px 0;"><span style="background: #f8d7da; color: #721c24; padding: 8px 14px; border-radius: 12px; display: inline-block; max-width: 70%;">Error connecting: ${escapeHtml(e.message)}</span></div>`;
+    messagesDiv.innerHTML += '<div style="text-align: left; margin: 8px 0;"><span style="background: #f8d7da; color: #721c24; padding: 8px 14px; border-radius: 12px; display: inline-block; max-width: 70%;">Error connecting: ' + escapeHtml(e.message) + '</span></div>';
   }
 }
 
@@ -70,7 +68,6 @@ document.addEventListener('keydown', function(e) {
   if (e.key === 'Enter') sendMessage();
 });
 
-// Quick health check
 fetch(API_URL + '/api/health').then(r => r.json()).then(data => {
   document.getElementById('chat-messages').innerHTML = 
     '<div style="color: #0d6b4a; text-align: center; padding: 20px;">✓ Connected to Devon API — ready for your questions</div>';
