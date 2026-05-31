@@ -31,7 +31,11 @@ async function sendMsg() {
     });
     const d = await r.json();
     box.innerHTML = box.innerHTML.replace(/<div class="msg-left"><span><em>Sending\.\.\.<\/em><\/span><\/div>$/, '');
-    box.innerHTML += '<div class="msg-left"><span>Message recorded (id: ' + d.conversation_id + ')</span></div>';
+    if (d.response) {
+      box.innerHTML += '<div class="msg-left"><span>' + esc(d.response).replace(/\n/g, '<br>') + '</span></div>';
+    } else {
+      box.innerHTML += '<div class="msg-left"><span>Message recorded (id: ' + d.conversation_id + ')</span></div>';
+    }
   } catch(e) {
     box.innerHTML = box.innerHTML.replace(/<div class="msg-left"><span><em>Sending\.\.\.<\/em><\/span><\/div>$/, '');
     box.innerHTML += '<div class="msg-error"><span>Error: ' + esc(e.message) + '</span></div>';
