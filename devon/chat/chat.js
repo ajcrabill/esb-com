@@ -1,6 +1,18 @@
 const API = 'https://esblaptop-m4.taild49f53.ts.net';
 let convId = null;
 
+// Auth check
+const token = localStorage.getItem('devon_token');
+if (!token) { window.location.href = '/devon/'; }
+
+// Verify token still valid
+fetch(API + '/api/auth/check', {
+  method: 'POST', headers: {'Content-Type':'application/json'},
+  body: JSON.stringify({token})
+}).then(r => {
+  if (!r.ok) { localStorage.clear(); window.location.href = '/devon/'; }
+}).catch(() => {});
+
 // Get or create conversation on load
 fetch(API + '/api/conversations/current')
   .then(r => r.json())

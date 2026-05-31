@@ -1,77 +1,116 @@
 ---
 layout: base
-title: "Devon — ESB CRM"
+title: "Devon — ESB Login"
 ---
 
-<div style="max-width: 900px; margin: 0 auto; padding: 20px;">
-  <h2>ESB CRM</h2>
-  <p style="color: #666; margin-bottom: 20px;">School system data, clients, and contacts.</p>
+<style>
+*{box-sizing:border-box}
+.login-box{max-width:400px;margin:60px auto;padding:30px;background:#fafafa;border:1px solid #ddd;border-radius:8px;text-align:center}
+.login-box h2{margin-bottom:10px}
+.login-box p{color:#666;margin-bottom:20px}
+.login-box input{width:100%;padding:12px;border:1px solid #ccc;border-radius:6px;font-size:16px;text-align:center;margin-bottom:12px}
+.login-box button{width:100%;padding:12px;background:#0d6b4a;color:#fff;border:none;border-radius:6px;font-size:16px;cursor:pointer}
+.login-box .msg{margin-top:12px;padding:8px;border-radius:4px;display:none}
+.login-box .error{background:#f8d7da;color:#721c24;display:block}
+.login-box .success{background:#d4edda;color:#155724;display:block}
+.login-box .step{display:none}
+.login-box .step.active{display:block}
+.otp-input{letter-spacing:4px;font-size:20px;font-weight:bold}
+</style>
 
-  <div id="stats" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-bottom: 30px;">
-    <div class="stat-card" style="background: #f0f8f4; padding: 20px; border-radius: 8px; text-align: center; border: 1px solid #c8e6c9;">
-      <div id="district-count" style="font-size: 2em; font-weight: bold; color: #0d6b4a;">—</div>
-      <div style="color: #555;">School Systems</div>
-    </div>
-    <div class="stat-card" style="background: #e8f0fe; padding: 20px; border-radius: 8px; text-align: center; border: 1px solid #bbdefb;">
-      <div id="leader-count" style="font-size: 2em; font-weight: bold; color: #1565c0;">—</div>
-      <div style="color: #555;">People</div>
-    </div>
-    <div class="stat-card" style="background: #fff8e1; padding: 20px; border-radius: 8px; text-align: center; border: 1px solid #ffecb3;">
-      <div id="client-count" style="font-size: 2em; font-weight: bold; color: #e65100;">—</div>
-      <div style="color: #555;">Clients</div>
-    </div>
+<div class="login-box">
+  <h2>Devon</h2>
+  <p>ESB Operations Assistant</p>
+
+  <div id="step-email" class="step active">
+    <input type="email" id="email-input" placeholder="Enter your email">
+    <button onclick="requestOtp()">Send Login Code</button>
+    <div id="msg-email" class="msg"></div>
   </div>
 
-  <div style="margin-bottom: 30px;">
-    <h3>Quick Links</h3>
-    <a href="/devon/chat/" style="display: inline-block; padding: 12px 24px; background: #0d6b4a; color: white; text-decoration: none; border-radius: 6px; margin-right: 10px;">Chat with Devon</a>
-  </div>
-
-  <div style="margin-bottom: 20px;">
-    <h3>Recent Clients</h3>
-    <div id="client-list" style="background: #fafafa; border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
-      <div style="color: #888;">Loading...</div>
-    </div>
+  <div id="step-otp" class="step">
+    <p style="font-size:14px">Code sent to <span id="otp-email"></span></p>
+    <input type="text" id="otp-input" class="otp-input" placeholder="000000" maxlength="6" oninput="autoVerify(this)">
+    <div id="msg-otp" class="msg"></div>
   </div>
 </div>
 
 <script>
 const API = 'https://esblaptop-m4.taild49f53.ts.net';
 
-async function loadStats() {
+async function requestOtp() {
+  const email = document.getElementById('email-input').value.trim();
+  const msg = document.getElementById('msg-email');
+  msg.className = 'msg';
+  if (!email) { msg.textContent = 'Enter your email'; msg.className = 'msg error'; return; }
+  msg.textContent = 'Sending...';
   try {
-    const r = await fetch(API + '/api/conversations/1/message', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ message: 'overview' })
+    const r = await fetch(API + '/api/auth/request', {
+      method: 'POST', headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({email})
     });
     const d = await r.json();
-    const m = d.response || '';
-    const nums = m.match(/\d[\d,]*/g) || [];
-    if (nums.length >= 2) {
-      document.getElementById('district-count').textContent = nums[0];
-      document.getElementById('leader-count').textContent = nums[1] || '—';
+    if (r.ok) {
+      document.getElementById('step-email').className = 'step';
+      document.getElementById('step-otp').className = 'step active';
+      document.getElementById('otp-email').textContent = email;
+      document.getElementById('otp-input').focus();
+    } else {
+      msg.textContent = d.detail || 'Not authorized';
+      msg.className = 'msg error';
     }
   } catch(e) {
-    document.getElementById('district-count').textContent = '?';
-    document.getElementById('leader-count').textContent = '?';
-    document.getElementById('client-count').textContent = '?';
+    msg.textContent = 'Connection error';
+    msg.className = 'msg error';
   }
-
-  try {
-    const r = await fetch(API + '/api/conversations/1/message', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ message: 'active clients' })
-    });
-    const d = await r.json();
-    const box = document.getElementById('client-list');
-    if (d.response) {
-      box.innerHTML = '<pre style="white-space: pre-wrap; font-family: inherit; margin: 0;">' + esc(d.response) + '</pre>';
-    }
-  } catch(e) {}
 }
 
-function esc(t) { const d = document.createElement('div'); d.textContent = t; return d.innerHTML; }
-loadStats();
+async function autoVerify(inp) {
+  if (inp.value.length === 6) {
+    const email = document.getElementById('otp-email').textContent;
+    const msg = document.getElementById('msg-otp');
+    msg.className = 'msg';
+    msg.textContent = 'Verifying...';
+    try {
+      const r = await fetch(API + '/api/auth/verify', {
+        method: 'POST', headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({email, code: inp.value})
+      });
+      const d = await r.json();
+      if (r.ok) {
+        localStorage.setItem('devon_token', d.token);
+        localStorage.setItem('devon_name', d.name);
+        localStorage.setItem('devon_access', JSON.stringify(d.access));
+        msg.textContent = 'Welcome, ' + d.name + '!';
+        msg.className = 'msg success';
+        setTimeout(() => {
+          if (d.access.includes('/devon/crm/')) window.location.href = '/devon/crm/';
+          else if (d.access.includes('/devon/chat/')) window.location.href = '/devon/chat/';
+        }, 500);
+      } else {
+        msg.textContent = d.detail || 'Invalid code';
+        msg.className = 'msg error';
+        inp.value = '';
+      }
+    } catch(e) {
+      msg.textContent = 'Connection error';
+      msg.className = 'msg error';
+    }
+  }
+}
+
+// Check if already logged in
+const token = localStorage.getItem('devon_token');
+if (token) {
+  fetch(API + '/api/auth/check', {
+    method: 'POST', headers: {'Content-Type':'application/json'},
+    body: JSON.stringify({token})
+  }).then(r => {
+    if (r.ok) {
+      window.location.href = '/devon/crm/';
+    } else {
+      localStorage.removeItem('devon_token');
+    }
+  }).catch(() => {});
+}
 </script>

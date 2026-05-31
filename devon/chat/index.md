@@ -1,12 +1,10 @@
 ---
 layout: base
-title: "Devon — ESB Assistant"
+title: "Devon — Chat"
 ---
 
 <div id="devon-chat" style="max-width: 800px; margin: 0 auto; padding: 20px;">
-  <h2>Devon</h2>
-  <p>Your ESB operations assistant. Ask me anything about your districts, leads, or pipeline.</p>
-  
+  <p><a href="/devon/" style="color:#0d6b4a;">&larr; Back to Login</a></p>
   <div id="chat-messages" style="height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; background: #fafafa; border-radius: 8px;">
     <div style="color: #888; text-align: center; padding: 20px;">Connecting to Devon...</div>
   </div>
