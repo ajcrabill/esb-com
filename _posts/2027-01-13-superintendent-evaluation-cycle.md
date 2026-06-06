@@ -6,7 +6,7 @@ description: "The superintendent evaluation shouldn't measure everything a super
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
-permalink: /superintendent-evaluation-cycle-january-start/
+permalink: /superintendent-evaluation-measures-what-matters/
 ---
 
 **The Superintendent Evaluation That Measures What Matters — Start the Cycle in January**
@@ -95,9 +95,9 @@ That's a superintendent who can lead with clarity for the entire year. That's an
 
 ---
 
-**Your free CTA:** Reply to this email with the keyword **Eval** and I'll send you the Superintendent Evaluation Cycle Timeline & Checklist — a one-page guide that walks your board through the five phases of a January-to-June evaluation cycle, with key dates, evidence requirements, and decision points for each phase. Use it to plan your evaluation calendar.
+**Your free CTA:** Reply to this email with the keyword **Cycle** and I'll send you the Superintendent Evaluation Goal-Alignment Template — a one-page framework that maps your board's adopted goals to the evaluation criteria, evidence sources, and timeline for each evaluation phase. Use it to start the framework confirmation conversation in January.
 
-**Your paid CTA:** Want someone to facilitate your superintendent evaluation process? I offer a Superintendent Evaluation Process Design & Facilitation session — a half-day engagement that helps your board design a goal-aligned evaluation framework, establish the January framework conversation, and set up the monitoring cadence through June. Reply to this email for pricing and availability.
+**Your paid CTA:** Want a clearer picture of how your current superintendent evaluation process stacks up against your adopted goals? I offer a Superintendent Evaluation Governance Assessment — a half-day diagnostic that reviews your current evaluation framework, identifies gaps between your adopted goals and your evaluation criteria, and gives you a roadmap for aligning the two. Reply to this email for pricing and availability.
 
 ---
 
