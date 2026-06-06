@@ -101,6 +101,6 @@ So do the three things. Acknowledge. Transition. Reaffirm. Then get back to work
 
 Download the **Post-Election Board Transition Guide** — a templated timeline with scripts for the board president's acknowledgement statement, exit conversation questions for departing members, and the welcome packet checklist for new members.
 
-Reply **Transition** and I'll send you the Post-Election Board Transition Guide — free.
+**Free — Transition Guide:** Reply **Transition** and I'll send it to you.
 
-If your board is ready to go deeper, the **Post-Election Board Onboarding & Governance Reset Session** is a facilitated working session for your full board — new and returning members together — to set norms, clarify roles, and recommit to student outcome goals before the first regular meeting. Go to effectiveschoolboards.com/sessions to schedule.
+**Premium — Book a Post-Election Board Onboarding & Governance Reset Session:** This is a facilitated working session for your full board — new and returning members together — to set norms, clarify roles, and recommit to student outcome goals before the first regular meeting. Email aj@effectiveschoolboards.com or go to effectiveschoolboards.com/sessions to schedule.
