@@ -32,11 +32,13 @@ Here is how that works.
 
 Here is what I have observed coaching boards across the country. The superintendent evaluation process is the most-improved governance practice in American school boards over the last decade. More boards now use rubric-aligned, evidence-based evaluation frameworks than ever before. The evaluations are better written, more specific, and more honest.
 
-But the improvement stops at the filing cabinet.
-
-A board that produces a high-quality evaluation with specific growth areas — and then does not follow through on those growth areas — has conducted a compliance exercise, not a governance action. The evaluation produced information, but the information never became action.
+But the improvement stops at the filing cabinet. A board that produces a high-quality evaluation with specific growth areas — and then does not follow through — has conducted a compliance exercise, not a governance action. The evaluation produced information that never became action.
 
 The gap between evaluation and improvement is the board's follow-through. And follow-through requires structure, not intention.
+
+I tell every board I coach: the evaluation is only as good as the follow-through. A mediocre evaluation with strong follow-through produces more improvement than an excellent evaluation that is filed and forgotten. An evaluation captures the board's assessment at a single point in time — a snapshot. Follow-through creates a continuous feedback loop between the board's assessment and the superintendent's development. The evaluation identifies the growth area. The support commitment creates the conditions for improvement. The summer action timeline makes the work visible. The fall check-in assesses whether progress is occurring. That loop — identify, support, act, assess — is what produces improvement. Not the evaluation document. The loop.
+
+I have seen this dynamic play out in districts like Aldine, TX, where boards that treat the evaluation as a starting point rather than an endpoint maintain a consistent ninety-minute evaluation-to-follow-through ratio at each board meeting — time dedicated to reviewing progress on past growth areas before addressing new business. That ratio signals to the superintendent and the community that the board's governance commitments have follow-through built in.
 
 ---
 
@@ -48,7 +50,7 @@ I use a four-step framework with the boards I coach. It is designed to be comple
 
 The evaluation identified growth areas for the superintendent. Each growth area needs to be broken down into specific, observable components before it can become an action plan.
 
-Here is what this sounds like. The evaluation says: *The superintendent should strengthen the district's data infrastructure for Progress Monitoring.* That statement is the finding. The decomposition asks: What specifically needs to change? Is the data infrastructure problem about access speed, about which indicators are tracked, about how the data is presented to the board, or about the superintendent's own team's ability to produce the reports on the governance calendar?
+Here is what this looks like in practice. In Birmingham, AL, the board decomposed a single growth area — strengthening literacy instruction across elementary schools — into five sub-areas: curriculum adoption timeline, teacher training schedule, classroom observation protocol, intervention resource allocation, and family engagement strategy. Each sub-area had a named owner and a completion date before the superintendent's action plan was drafted.
 
 Each growth area usually decomposes into three to five specific sub-areas. The board and the superintendent agree on the decomposition together.
 
@@ -57,6 +59,8 @@ Each growth area usually decomposes into three to five specific sub-areas. The b
 Every growth area needs a corresponding board support commitment. The board cannot identify a growth area and then expect the superintendent to address it alone. The board is part of the governance team. If the superintendent needs to strengthen data infrastructure for Progress Monitoring, the board's commitment might be to approve the data system investment in the fall budget amendment, to reduce the number of indicators so the data team can focus on quality, or to provide a three-month runway without adding new reporting requirements.
 
 The support commitment answers the question: *What will the board do to create the conditions for this growth area to improve?*
+
+This is not theoretical. In Wichita Falls, TX, the board paired a growth area around financial reporting with a support commitment to reduce the number of board-requested special reports from twelve per year to six, giving the finance team the capacity to improve the quality of the remaining reports. The support commitment created the conditions for the growth area to improve.
 
 **Step three: Set the summer action timeline.**
 
@@ -70,15 +74,7 @@ The board should schedule the first growth area check-in on the fall governance 
 
 The check-in is not an evaluation. It is an implementation review. The board asks: *Are the actions that were planned for July and August complete? Is the evidence of progress available? Do any support commitments need adjustment?*
 
----
-
-**Why the board's follow-through matters more than the evaluation itself**
-
-I tell every board I coach: the evaluation is only as good as the follow-through. A mediocre evaluation with strong follow-through produces more improvement than an excellent evaluation that is filed and forgotten.
-
-Here is why. An evaluation captures the board's assessment at a single point in time. It is a snapshot. Follow-through creates a continuous feedback loop between the board's assessment and the superintendent's development. The evaluation identifies the growth area. The support commitment creates the conditions for improvement. The summer action timeline makes the work visible. The fall check-in assesses whether progress is occurring.
-
-That loop — identify, support, act, assess — is what produces improvement. Not the evaluation document. The loop.
+The fall check-in is also the board's safeguard against drift. In Lawrence, KS, a board's first fall check-in revealed that two of the four growth areas had not progressed because the summer timeline had been too aggressive. The board adjusted the timeline, reassigned one support commitment, and by the second check-in all four areas were on track. Without the check-in, the board would not have discovered the problem until the next evaluation cycle twelve months later.
 
 ---
 
