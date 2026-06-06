@@ -100,7 +100,7 @@ Includes the Q2 governance calendar template, Progress Monitoring dashboard chec
 
 **Paid CTA: Post-Adoption Governance Transition Coaching Session**
 
-One coaching session to help your board operationalize the transition — including meeting agenda redesign, superintendent reporting structure, and Q2 calendar build. Use keyword **Implement** for priority scheduling.
+One coaching session to help your board operationalize the transition — including meeting agenda redesign, superintendent reporting structure, and Q2 calendar build. Use keyword **ImplementCoach** for priority scheduling.
 
 ---
 

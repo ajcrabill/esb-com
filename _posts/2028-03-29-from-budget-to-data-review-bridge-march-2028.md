@@ -138,7 +138,7 @@ Now adopt the budget. And start monitoring.
 
 ---
 
-*This closes the Spring 2028 Budget Alignment + Governance Health Check arc — five pieces covering the budget alignment review ([read piece 1](/budget-alignment-review-march-2028/)), the Q1 governance health check ([read piece 2](/q1-governance-health-check-march-2028/)), the community engagement closeout ([read piece 3](/public-hearing-preparation-march-2028/)), the April budget adoption preview ([read piece 4](/april-budget-adoption-preview-march-2028/)), and the budget-to-data review bridge (this piece).*
+*This closes the Spring 2028 Budget Alignment + Governance Health Check arc — five pieces covering the budget alignment review ([read piece 1](/budget-alignment-review-march-2028/)), the Q1 governance health check ([read piece 2](/q1-governance-health-check-march-2028/)), the community engagement closeout ([read piece 3](/public-hearing-preparation-march-2028/)), the April budget adoption preview ([read piece 4](/april-budget-adoption-preview-2028/)), and the budget-to-data review bridge (this piece).*
 
 *The arc built directly from the February 2028 Budget Adoption "Crosswalk" arc ([view the capstone](/april-budget-adoption-timeline-2028/)), which itself built from the January 2028 Launch Arc ([view the capstone](/january-budget-direction-q1-governance-calendar-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
 
