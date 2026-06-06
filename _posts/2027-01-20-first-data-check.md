@@ -131,8 +131,9 @@ Establish the cadence now. The rest of the year takes care of itself.
 
 **Your paid CTA:** Want help designing a progress monitoring process that works for your board? I offer a Progress Monitoring Process Design session — a half-day board training covering dashboard design, meeting structure, question protocols, and decision-making frameworks. Reply to this email for pricing and availability.
 
+
 ---
 
-*This continues the January Execution Arc. Wednesday's MLK Day piece asked your board three equity questions. Next week: connecting your adopted goals to the February budget. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
+*This continues the January Execution Arc. Monday's MLK Day piece asked your board three equity questions. Next week: connecting your adopted goals to the February budget. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
 
 *Backlinks: December's Year-End Governance Reset & 2027 Foundation arc gave you the blueprint. This arc executes it. Catch the full Q4 journey at effectiveschoolboards.com/newsletter.*
