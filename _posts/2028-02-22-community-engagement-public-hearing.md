@@ -3,7 +3,7 @@ layout: post
 date: 2028-02-22
 title: "Community Engagement for the Public Hearing: How to Present Your Budget Crosswalk, Gather Meaningful Input, and Prepare for the April Adoption Vote"
 heading: "Community Engagement for the Public Hearing: How to Present Your Budget Crosswalk, Gather Meaningful Input, and Prepare for the April Adoption Vote"
-description: "Your board built the crosswalk. Now comes the harder part — presenting it to the community. Here is how to structure a public hearing that generates meaningful input, answers questions before they are asked, and positions the board for a clean April adoption vote."
+description: "Your board built the crosswalk. Your community deserves to see it before the April public hearing. Here is exactly how to structure community engagement between now and the adoption vote — including the mid-winter governance check that confirms your board is ready for the conversation."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
@@ -16,181 +16,169 @@ February 22, 2028
 
 ---
 
-Last week I walked through the goal-to-budget crosswalk — the matrix that maps every major program allocation to the adopted student outcome goals it serves. I said the crosswalk was the tool that converts budget review from an accounting exercise into a governance conversation.
+Your board has done the work.
 
-This week I am telling you: that conversation is not complete until the community is in the room.
+You adopted measurable goals in January — goals built from real data, not aspirational statements. You gave the superintendent written budget direction — funded goals, fiscal guardrails, and a clear timeline. You reviewed the preliminary budget in February using the three-bucket framework — goal alignment, fiscal guardrails, community alignment. You built the crosswalk — the matrix that maps every major budget expenditure to the adopted goal it serves.
 
-The public hearing is where most boards do their worst work. They present a standard budget document. They ask for questions. The room is quiet. A few parents speak about a program cut from three years ago. The board nods. The hearing closes. The board adopts the budget in April with no evidence that community input changed a single dollar.
+That is four consecutive governance actions in four weeks, every one of them connected to the one before it. Most boards do not execute a single one of these actions with the discipline your board has shown.
 
-That is not community engagement. That is a procedural checkbox.
+Now comes the part that separates boards that govern from boards that administer.
 
-A board that has done the crosswalk work has something better to present — and a better way to present it. Here is exactly how to structure the public hearing around the crosswalk, generate meaningful input, and prepare for the April adoption vote.
+The public hearing.
 
----
+Every school board is legally required to hold a public hearing before adopting the final budget. That requirement is not new. Your district has held a public hearing every year for as long as anyone can remember.
 
-**Why the crosswalk changes the public hearing**
+But there is a difference between holding a public hearing and engaging the community in a budget conversation. That difference is the subject of this piece — and it is the difference between a board that checks a compliance box and a board that turns the public hearing into the most productive governance conversation of the spring.
 
-The standard budget presentation asks the community to react to a spreadsheet. The crosswalk asks the community to react to a set of choices.
-
-Here is the difference.
-
-A standard budget document shows: total revenue, total expenditures, percentage change from last year, and line items organized by object code — salaries, benefits, supplies, purchased services. A parent sees a million-dollar line labeled "Professional and Technical Services" and has no idea whether that serves their child's reading intervention or the district's legal fees.
-
-The crosswalk shows: goal one (third-grade reading from 42 percent to 55 percent), the programs that fund it ($1.675 million), and the allocation as a percentage of total budget (1.9 percent). The parent sees the same information organized by outcome — and that organization produces different questions.
-
-Instead of asking, "What is Professional and Technical Services?" the parent asks, "Is 1.9 percent enough to get to 55 percent?"
-
-That is a better question. And it is a question the board should already have an answer for.
-
-The public hearing is the board's opportunity to demonstrate that it has done the work of connecting dollars to outcomes. A board that presents the crosswalk is not asking the community to validate a spreadsheet. It is inviting the community to join a governance conversation the board has already started.
+Let me show you what that looks like.
 
 ---
 
-**Step one: Structure the hearing around the crosswalk, not the budget document**
+**The mid-winter governance check: Are you ready for the public hearing?**
 
-Most boards schedule the public hearing as a single agenda item: "Public Hearing on the 2028-29 Preliminary Budget." The superintendent presents a summary. The board opens the floor. One hour later, it is over.
+Before I talk about community engagement, let me talk about the board itself.
 
-Replace that structure with a three-part hearing.
+February is the midpoint of the first quarter of the 2028 governance year. Your board's January launch arc produced a governance calendar that named what every meeting through June is designed to produce. The calendar called for the preliminary budget review in February, the crosswalk in February, the budget alignment review in March, and the public hearing in April.
 
-**Part one — The board presents the goals and the crosswalk (fifteen minutes).**
+The question your board should answer this week — before you start planning the public hearing — is whether the governance framework you built in January is still intact at the midpoint of Q1.
 
-The board president opens by stating the adopted goals and the measurable targets the board approved in January. The superintendent then presents the crosswalk — not as a series of line items, but as a matrix that shows goal, allocation, percentage, and rationale.
+Here is what I mean by that.
 
-The presentation answers three questions in sequence:
+The January organizational meeting named committee chairs with a charge. Are those committees meeting? Are they producing the work the calendar called for? The first Progress Monitoring check-in occurred in January. The data was presented, the board made decisions, and directed changes were issued. Have those directed changes been implemented? Have they started to produce movement at the second data check?
 
-- *What did the board say its priorities are?* — The adopted goals, stated plainly.
-- *How does the proposed budget allocate resources to those priorities?* — The crosswalk, showing each goal and the percentage of the budget it receives.
-- *Does the allocation match the priority?* — The board's own assessment, honestly stated.
+The January budget direction conversation gave the superintendent a written document — goals to fund, guardrails to respect, community priorities to reflect. The February preliminary budget review was supposed to check alignment against that direction. Did the board complete that check? Did it adopt written findings, or did it have a conversation and move on?
 
-The board should identify any misalignments it has already found — and what it has directed the superintendent to address. This signals that the board is not presenting a finished product. It is presenting work in progress and inviting the community to help refine it.
+None of these are rhetorical questions. They are the substance of the mid-winter governance check — a brief, structured review that takes thirty minutes on the agenda of the February or early March board meeting.
 
-**Part two — Guided discussion by goal area (thirty minutes).**
+Here is the protocol I recommend.
 
-Instead of an open microphone, the board president facilitates a guided discussion organized by each adopted goal. The board projects the crosswalk and asks one question per goal:
+The board president leads a fifteen-minute conversation. The board answers three questions:
 
-*"We have allocated X percent of the budget to this goal. Does this match what you see as the need in our schools?"*
+**Question one: Are we executing the governance calendar we adopted in January?** List every governance action the calendar named through February. Mark each one as complete, in progress, or not started. If any are not started, name why and set a date.
 
-The board then listens.
+**Question two: Are our committees producing the work they were charged with?** Each committee chair reports for three minutes on what the committee has produced since January. If a committee has not met, the board decides whether it needs to meet or whether the committee structure needs adjustment.
 
-This structure does three things. It keeps the conversation focused on student outcomes rather than individual line items. It gives every community member a framework for their input — they are not asked to react to a hundred-page budget document, but to a single question about a single goal. And it signals that the board values input organized around outcomes, not complaints organized around pet projects.
+**Question three: Did the February budget review produce written findings?** If yes, the board confirms the findings are filed and ready to inform the March alignment review and the April hearing. If no, the board directs the board secretary or committee chair to draft them before the next meeting.
 
-**Part three — Open forum for community questions (fifteen minutes minimum).**
-
-After the guided discussion, the board opens the floor for questions the guided discussion did not address. The superintendent and finance officer are available to answer technical questions. The board stays in governance mode — listening, clarifying, and promising follow-up, not defending individual decisions.
-
-The open forum has one ground rule: questions must be about the proposed budget. Questions about personnel decisions, facility complaints, or disputes from three years ago are redirected to the appropriate district process. The board president holds this boundary firmly but politely.
+A board that conducts this mid-winter check enters March knowing exactly where it stands. A board that skips this check will arrive at the April public hearing uncertain whether its governance framework is holding — and that uncertainty will show in the quality of the conversation with the community.
 
 ---
 
-**Step two: Prepare for the questions the crosswalk will generate**
+**The legal requirement and the governance opportunity**
 
-The crosswalk produces better questions than a standard budget presentation. The board needs better answers.
+Now let me talk about the public hearing itself.
 
-Here are the four questions a well-prepared crosswalk generates — and the answers the board should have ready.
+Every state has its own legal requirements for the budget public hearing. The specific notice periods, format requirements, and submission deadlines vary. I am not going to cover those here — your board's legal counsel and business office handle compliance.
 
-**Question one: "Why does [goal the board identified as top priority] receive only X percent of the budget?"**
+What I am going to cover is the governance opportunity that sits inside every compliance requirement.
 
-The board answers with the superintendent's rationale: existing base investments, leverage from grant-funded programs, or a multi-year strategy that front-loads a different goal this year. Then the board states what it expects to see in the March Progress Monitoring data — and what allocation change it will consider if the trajectory is insufficient.
+Here is the reality I have watched play out in district after district.
 
-**Question two: "What does the board plan to cut if revenue comes in lower than projected?"**
+The business office determines the public hearing date based on the state deadline. The notice is published in the newspaper or on the district website. The hearing is placed on the agenda of the regular April board meeting. Seven people attend — three of them are board members' spouses, two are district employees who came to set up the room, and one is a citizen who has a specific complaint about the athletic budget.
 
-The board answers with the crosswalk priority ordering. If cuts are needed, the board reduces funding for the lowest-priority adopted goal first, then operational programs that serve no adopted goal. The board does not need to name specific line items. It needs to name the principle that governs its reductions — and that principle should be the same one that governed the original allocation.
+The board president opens the hearing. The finance director presents a summary of the budget. The board president asks if there are questions. There are none. The hearing is closed. The board proceeds to the consent agenda vote.
 
-**Question three: "How does the board know these programs actually work?"**
+That scenario is not a failure of compliance. The district held the hearing. The notice was published. The board received no formal objections. The state requirement was satisfied.
 
-The board answers with the Progress Monitoring connection. The same data that drives the board's monthly check-ins will show whether the programs funded by the budget are producing the expected student outcomes. If a program is not producing results, the board will redirect those funds. The board should reference specific metrics from the January check-in to demonstrate that this is not theoretical.
+But the governance opportunity was wasted.
 
-**Question four: "Why is the board holding the hearing now if the adoption vote is two months away?"**
+A community engagement process that produces a silent hearing room has not failed legally. It has failed strategically. The silence does not mean the community approves of the budget. It means the community does not understand the budget well enough to have an opinion about it — or does not believe the board is actually listening.
 
-This question reveals that some community members see the public hearing as a formality. The board's answer should correct that perception directly. The hearing is not the end of the community engagement cycle. It is the beginning. The board will publish the hearing summary within one week. The March alignment review will reflect community input. The April adoption vote will be the final step in a process that started with the hearing — not a decision the board made two months ago.
-
----
-
-**Step three: Capture and act on the input**
-
-The public hearing generates no value if the input disappears into a board member's notebook.
-
-Within one week of the hearing, the board publishes a public hearing summary that includes:
-
-- The questions asked and the board's answers.
-- Themes that emerged across multiple community members.
-- Any changes the board is considering as a result of the input.
-- A timeline for the next steps — March alignment review, April public hearing (if required), final adoption vote.
-
-The board sends this summary to everyone who spoke at the hearing, everyone who submitted written comment, and everyone on the district's community notification list. This is not a compliance exercise. It is a signal: *We heard you. Here is what we are doing about it.*
-
-The board then carries the hearing input into the March alignment review. The board's finance committee reviews each community suggestion against the crosswalk. Some suggestions will be unworkable, unfunded, or based on incomplete information. The board documents why those were not adopted. Other suggestions will be improvements the board had not considered. Those get directed to the superintendent for incorporation into the revised budget.
-
-A board that closes this loop demonstrates that community input is not a checkbox. It is a governance input — treated with the same seriousness as Progress Monitoring data or the superintendent's recommendation.
+Your board can change that. The crosswalk is the tool that makes it possible.
 
 ---
 
-**Two mistakes boards make at public hearings**
+**The crosswalk as the centerpiece of the public hearing**
 
-I have sat through more public hearings than I can count. The same two mistakes show up in almost every district that has not done the crosswalk work.
+Two weeks ago, I showed you how to build the goal-to-budget crosswalk — a matrix that maps every major budget program to the adopted goal it serves. The third-grade reading example. The four-step methodology. The red flags.
 
-**Mistake one: Defending the budget instead of listening to the community.**
+Now I am going to show you how the crosswalk transforms the public hearing itself.
 
-The superintendent presents. The board president asks for questions. A parent raises a concern. A board member immediately explains why the concern is unfounded. Another parent raises a different concern. Another board member explains why that concern is also unfounded.
+Here is the fundamental shift.
 
-This is not engagement. It is a debate the board is trying to win — and the community is losing.
+A traditional budget presentation says: *Here is the budget. Revenue is projected at X. Expenditures are projected at Y. The fund balance is Z. Here is the tax levy impact. Do you have questions?*
 
-The board's role at the public hearing is to listen, clarify, and commit to follow-up. Not to defend. The board had months to debate the budget internally. The community has one hour. Give them the hour.
+The community hears that presentation and sees a financial document they do not understand, expressed in terms they do not use, connected to nothing they care about. Most people do not ask questions because they do not know what to ask.
 
-**Mistake two: Waiting until the hearing to prepare the community for the crosswalk.**
+A crosswalk-centered budget presentation says: *Here are the goals your community identified as priorities during the fall listening sessions. Here is how much of the budget funds each goal. Here is the progress we have made so far. Here is what we will do if the data shows we are not on track.*
 
-The first time many community members see the crosswalk is the night of the hearing. That is too late.
+The community hears that presentation and sees their priorities in the budget. They see third-grade reading. They see chronic absenteeism. They see the things they told the board mattered during the fall engagement sessions — now connected to dollars.
 
-The board should distribute the crosswalk one week before the hearing. Publish it on the district website. Send it to the parent-teacher organization. Share it in the superintendent's community newsletter. Include a note that says: *This is what we will present at the public hearing. Please review it beforehand. We want your feedback on whether the allocation matches the need.*
+That is a conversation people can participate in.
 
-A community that arrives at the hearing already familiar with the crosswalk produces better questions. And those better questions produce a better budget.
+Here is exactly what the crosswalk-centered public hearing looks like.
 
----
+**First, the board president opens the hearing by naming the goals.** Not the budget numbers. Not the tax rate. The goals. The board president says what the board adopted in January and why. The hearing starts with student outcomes, not financial mechanics.
 
-**The connection back to Progress Monitoring**
+**Second, the superintendent presents the crosswalk.** One page. Each adopted goal on the left. The total budget allocation for that goal in the middle. The percentage of the general fund on the right. The superintendent explains how the allocation was determined and what it will fund.
 
-The January launch arc introduced Progress Monitoring as the discipline that connects data to board decisions. The crosswalk extended that discipline to the budget. The public hearing extends it to the community.
+**Third, the board reviews Progress Monitoring data alongside the crosswalk.** For each goal, the board shows the trajectory data from the January and February check-ins alongside the resource allocation from the crosswalk. The community sees not just what the district plans to spend, but whether that spending is producing results. A goal that is on trajectory with adequate funding is green. A goal that is behind trajectory with inadequate funding is a conversation the board invites the community into.
 
-Here is the full picture.
+**Fourth, the board asks specific questions.** Not "Does anyone have questions?" — the question that produces silence. Specific questions: "The third-grade reading goal receives 1.9 percent of the budget. Is that the level of investment this community expects for our top priority? If the March data shows we are behind trajectory, what trade-offs are you willing to support to increase the allocation?"
 
-Progress Monitoring asks the board: *Are students on track?*
-
-The crosswalk asks the board: *Is the budget aligned to the goals?*
-
-The public hearing asks the board: *Does the community see what we see, and what are we missing?*
-
-Each question is necessary. None is sufficient on its own. A board that runs all three sees the full picture — student trajectory, resource alignment, and community perspective — before it makes the final adoption decision in April.
-
-That is the arc. The goals set in January. The crosswalk built in February. The community engaged before the hearing. The alignment reviewed in March. The budget adopted in April.
-
-Every piece depends on the piece before it.
+The difference is the difference between passive and active community engagement. Passive engagement invites feedback without structure and receives none. Active engagement invites the community into a specific conversation about trade-offs and receives actionable input.
 
 ---
 
-**A final thought on the public hearing you are dreading**
+**Structuring community engagement between now and April**
 
-Some board members read this and think: *Our community is angry. Our last public hearing was a disaster. The crosswalk will not fix that.*
+The public hearing is not a one-night event. It is the culmination of a community engagement process that should already be underway.
 
-Maybe. But here is what I have seen.
+Here is the timeline between February 22 and the April public hearing.
 
-The public hearings that go off the rails are not the ones where the community is angry. They are the ones where the community does not know what the board is doing — and the board has no framework for channeling the anger into productive conversation.
+**Late February: Publish the crosswalk.** Before the public hearing, the community needs to see the crosswalk. Publish it on the district website. Include it in the board packet that is posted publicly. Send it in the district newsletter. The goal is not a document dump — it is an invitation. The crosswalk tells the community: *We built the budget from the goals you helped us set. Here is how we did it. Here is what we need to hear from you before we vote.*
 
-The crosswalk gives the community a framework. It replaces the question "Why are you cutting my child's program?" — which cannot be answered in a way that satisfies a worried parent — with the question "Is the budget allocation for third-grade reading enough to get us to 55 percent?" — which can.
+A board that publishes the crosswalk in late February gives the community four to six weeks to look at it, think about it, and prepare questions for the hearing. A board that publishes the crosswalk for the first time at the hearing itself has done the work but not shared it. The hearing becomes a reveal, not a conversation.
 
-The parent who asks the second question is not less worried. But the board has a way to engage that worry productively. And that is what the public hearing is for.
+**Early March: Hold a community budget forum.** The public hearing is formal — notice is published, testimony is recorded, the format is structured. A community budget forum is informal. It is a listening session. The board presents the crosswalk. The superintendent takes questions. Board members listen. No vote is taken. No testimony is formally entered.
 
-Not to satisfy everyone. To engage the community in the same governance conversation the board has been having since January.
+The purpose of the community forum is not to debate the budget. It is to surface the questions the community will bring to the public hearing — so the board and superintendent can prepare answers in advance.
+
+I have watched boards in **Park Hill (MO)** and **Adams 14 (CO)** use this two-step approach effectively. The community forum surfaces the concerns. The public hearing resolves them. The board enters the hearing knowing what the community wants to talk about, rather than discovering it in real time.
+
+**Late March: The board conducts the budget alignment review.** The crosswalk is updated with any adjustments made since February. The March Progress Monitoring data is added. The board confirms the alignment between goals, resources, and trajectory. Any material changes are communicated to the community before the April hearing.
+
+**Early to mid-April: The public hearing.** The crosswalk is presented. The community forum feedback is acknowledged. Specific questions are asked. Testimony is received. The board demonstrates that community input from the fall listening sessions, the late February crosswalk release, and the early March community forum all shaped the budget that is being presented for adoption.
+
+A board that follows this timeline enters the April adoption vote with community trust intact. A board that compresses this process into a single evening meeting in April enters the adoption vote with compliance satisfied and trust untested.
 
 ---
 
-**Your free CTA:** Reply to this email with the keyword **PublicHearingPacket** and I will send you the Public Hearing Preparation Packet — a complete guide that includes the three-part hearing agenda, the guided discussion facilitator's script for each adopted goal, the question-and-answer preparation worksheet for the four most common crosswalk questions, the public hearing summary template, and the community input tracking spreadsheet for the March alignment review. Use it to structure your board's public hearing around the crosswalk.
+**The March alignment review connection**
 
-**Your paid CTA:** I offer a Board Public Hearing Coaching Session — a single ninety-minute virtual session with your board president, superintendent, and communications lead to rehearse the three-part hearing structure, prepare answers to the questions your community is most likely to ask, and plan the hearing summary and follow-up communications. Reply to this email for pricing and availability.
+I want to be explicit about how the March budget alignment review feeds into the public hearing.
+
+The March alignment review is the board's last opportunity to adjust the budget before the April hearing. The board reviews the crosswalk a second time — comparing the allocation to the most recent Progress Monitoring data, checking whether corrections requested in February have been made, and confirming that fiscal guardrails are still being respected.
+
+The board's March findings become the substance of the April hearing presentation. If the board found in March that the third-grade reading goal allocation was adequate and the goal was on trajectory, the hearing presentation shows that. If the board found that the allocation needed adjustment and the superintendent made the adjustment in time for the hearing, the presentation shows that too — and demonstrates that the board's governance framework is responsive.
+
+The March alignment review is not a separate exercise from community engagement. It is the last step before the community sees the final product. A board that treats it that way will have a defensible, transparent budget to present in April.
 
 ---
 
-*This is the third piece in the February 2028 Budget Adoption Arc — the four-week "Crosswalk" series covering the preliminary budget review (February 8), the goal-to-budget crosswalk methodology (February 15), the community engagement process for the public hearing (this piece), and the April budget adoption timeline and preparation (February 29 — Leap Day).*
+**What the board's engagement effort produces**
 
-*The arc builds from the January 2028 Launch Arc — particularly the Progress Monitoring framework ([view the January 18 piece](/first-progress-monitoring-check-in-january-2028/)) and the budget direction conversation ([view the January 25 piece](/january-budget-direction-q1-governance-calendar-2028/)).*
+Let me connect the dots explicitly.
 
-*Next week — Leap Day, February 29: The April Budget Adoption Timeline — how to prepare the final budget, conduct the March alignment review, handle the second public hearing if required, and bring the board to a clean adoption vote in April. Subscribe at effectiveschoolboards.com to continue the series.*
+The January budget direction set the framework. The February preliminary budget review checked the framework. The crosswalk made the framework visible. The mid-winter governance check confirmed the framework was intact. The community engagement process — from the late February crosswalk publication through the March community forum to the April public hearing — completes the framework by adding the community's voice.
+
+The output is not a compliant public hearing. The output is an informed community that understands why the budget looks the way it does, trusts that the board made deliberate choices based on declared priorities, and knows that its input will be part of the next cycle.
+
+That is not a compliance outcome. That is a governance outcome.
+
+And it is the outcome your board's January-through-February work has positioned you to achieve.
+
+---
+
+**Your free CTA:** Reply to this email with the keyword **BudgetAdopt** and I will send you the Public Hearing Engagement Kit — the mid-winter governance check protocol with the three-question board assessment, the crosswalk presentation template for the community budget forum and public hearing, the two-step community engagement timeline with agendas for the forum and the hearing, and the March alignment review checklist that connects the final budget adjustments to the April presentation. Use it to turn your board's February governance work into a community conversation that builds trust before the adoption vote.
+
+**Your paid CTA:** I offer a Public Hearing Preparation Coaching Session — a single virtual session with your board president, superintendent, and finance committee chair to build the crosswalk-centered hearing presentation, prepare for the community forum, and rehearse the specific questions the board will ask the community during the hearing. Reply to this email for pricing and availability.
+
+
+---
+
+*This is the fourth piece in the February 2028 Budget Adoption Arc — the four-week series covering the preliminary budget review (February 1), the introduction of the goal-to-budget crosswalk (February 8), the crosswalk methodology (February 15), and the community engagement process for the public hearing (this piece).*
+
+*The arc builds from the January 2028 Launch Arc — particularly the budget direction conversation ([view the January 25 piece](/january-budget-direction-q1-governance-calendar-2028/)), the goal adoption process ([view the January 11 piece](/january-goal-adoption-process-2028/)), and the Progress Monitoring framework ([view the January 18 piece](/first-progress-monitoring-check-in-january-2028/)).*
+
+*Alongside this piece: The April Budget Adoption Timeline and Next Steps — covering the full timeline from the March alignment review through the June final adoption, including state deadlines, internal preparation checkpoints, and the board actions required between the public hearing and the final vote. Subscribe at effectiveschoolboards.com to continue the series.*
