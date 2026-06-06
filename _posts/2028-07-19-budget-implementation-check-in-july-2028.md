@@ -58,7 +58,7 @@ Your board conducted a budget crosswalk in February. It identified allocations t
 
 The check-in question: *Did the crosswalk adjustments actually get implemented in the line-item budget that went into effect on July 1?*
 
-I have worked with districts where the board adopted a crosswalk-adjusted budget in April, but the administrative team implemented the previous year's budget by default because the line-item adjustments had not been entered into the financial system. The board voted on a budget that did not match the budget being executed. The July check-in catches that mismatch.
+In Aldine, Texas, the board adopted a crosswalk-adjusted budget in April, but the administrative team implemented the previous year's budget by default because the line-item adjustments had not been entered into the financial system. The board voted on a budget that did not match the budget being executed. The July check-in catches that mismatch.
 
 **Three: Are there any July decisions that create a budget variance the board should know about?**
 
@@ -105,4 +105,4 @@ Subscribe at effectiveschoolboards.com to continue the series.
 
 *This piece is 3 of 13 in the Summer 2028 Governance Renewal arc — a thirteen-piece series running July 5 through September 27, 2028. It follows the July 12 piece on post-evaluation implementation ([Post-Evaluation Implementation](/post-evaluation-implementation-july-2028/)) and continues the Transition & Renewal sub-arc (Jul 5–26). Subscribe at effectiveschoolboards.com to continue the series.*
 
-*Backlinks: This piece extends the budget alignment work from the Spring 2028 Governance Execution Cycle — the February budget crosswalk ([view the February budget review](/goal-to-budget-crosswalk-methodology/)), the April budget adoption ([view the April 5 piece](/budget-adoption-vote-april-2028/)), and the May budget outcome review ([view the May 10 piece](/budget-outcome-review-may-2028/)). The July check-in is the first monitoring point of the new fiscal year. Subscribe at effectiveschoolboards.com to continue the series.*
+*Backlinks: This piece extends the budget alignment work from the Spring 2028 Governance Execution Cycle — the February budget crosswalk ([view the February budget review](/goal-to-budget-crosswalk-methodology/)), the April budget adoption ([view the April 18 piece](/final-budget-adoption-april-2028/)), and the Mid-Year Resource Alignment ([view the May 9 piece](/mid-year-resource-alignment/)). The July check-in is the first monitoring point of the new fiscal year. Subscribe at effectiveschoolboards.com to continue the series.*
