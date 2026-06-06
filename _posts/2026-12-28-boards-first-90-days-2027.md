@@ -2,7 +2,7 @@
 layout: post
 title: "Your Board's First 90 Days of 2027: The Plan You Need to Write This Week"
 heading: "Your Board's First 90 Days of 2027: The Plan You Need to Write This Week"
-description: "Research shows the first ninety days determine the trajectory of the entire year. Here's your Q1 plan: January goals, February data review, March community progress report."
+description: "The first ninety days of the year determine the trajectory of the remaining nine. Here's a month-by-month Q1 plan for school boards that want to start 2027 ready to govern."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
@@ -106,7 +106,6 @@ Share it with your board. Share it with your superintendent. Put it somewhere yo
 Then walk into January and execute it.
 
 The next ninety days will determine your year. Make them count.
-
 
 ---
 

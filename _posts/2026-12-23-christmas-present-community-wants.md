@@ -2,7 +2,7 @@
 layout: post
 title: "The Christmas Present Your Community Actually Wants"
 heading: "The Christmas Present Your Community Actually Wants"
-description: "Your community doesn't want more meetings or policies — they want to know their school board has a plan. Here's how to give them the gift of clarity with a one-page Board Commitment Statement."
+description: "What your community really wants for Christmas isn't more meetings or policies. It's to know you have a plan. Write a one-page Board Commitment Statement before the holiday break."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
@@ -86,7 +86,6 @@ So here's my ask. Before you close your laptop for the holiday break, write that
 You might think it's too simple to matter. But I've seen communities transform when they finally get a straight answer from their school board about what it's trying to achieve. It's not the gift they expected. It's the gift they needed.
 
 Merry Christmas. Now get back to work. There's a community waiting for you to tell them where you're going.
-
 
 ---
 
