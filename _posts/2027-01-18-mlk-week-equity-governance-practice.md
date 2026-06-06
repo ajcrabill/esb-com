@@ -31,7 +31,7 @@ When your board reviews data, does it look at district averages or student group
 
 Averages are governance blinders. A district with 70% reading proficiency looks acceptable until you learn it's 85% for white students and 42% for Black students. The board that reviews only averages cannot see the full picture of who the district is — and is not — serving.
 
-The goals you adopted eleven days ago will mean different things for different student groups. If your reading goal targets a 75% proficiency rate, and your Black students are at 42%, the data tells you exactly where the work needs to be concentrated. But only if you're looking at the disaggregated data.
+The goals you adopted seven days ago will mean different things for different student groups. If your reading goal targets a 75% proficiency rate, and your Black students are at 42%, the data tells you exactly where the work needs to be concentrated. But only if you're looking at the disaggregated data.
 
 **2. Who are we not hearing?**
 
