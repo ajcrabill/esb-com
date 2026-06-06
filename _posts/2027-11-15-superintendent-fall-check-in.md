@@ -26,7 +26,7 @@ You have not had the real conversation — the one where you ask your superinten
 
 That conversation is the superintendent fall check-in. And November is the right month to have it.
 
-**Section 1: Why November is the right month for superintendent fall check-in**
+**Why November is the right month for the superintendent check-in**
 
 Here is the governance calendar logic. The board conducted its first data review in October. That review was diagnostic — what do the fall benchmark assessments tell us about progress toward each goal?
 
@@ -42,7 +42,7 @@ If you wait until the formal evaluation in the spring, you are having this conve
 
 Your board needs to schedule this conversation before Thanksgiving. After Thanksgiving, the governance calendar shifts to year-end activities, and the window closes.
 
-**Section 2: ESB Framework superintendent check-in protocol — five questions**
+**The five-question superintendent check-in protocol**
 
 Your board does not need a lengthy instrument for this check-in. You need five questions asked in a structured conversation. Here is the protocol.
 
@@ -66,7 +66,7 @@ Question five: "Is there anything you need to tell me that you cannot say in a p
 
 Board presidents, this question exists for a reason. Ask it. Listen to the answer. Do not react. Do not interrupt. Just listen.
 
-**Section 3: Distinguishing fall check-in from superintendent evaluation**
+**How the fall check-in differs from the superintendent evaluation**
 
 Here is the distinction every board needs to understand.
 
@@ -84,7 +84,7 @@ The fall check-in is not a mini-evaluation. It is a partnership check. The board
 
 Here is the rule. If you would not put it in a public board packet, it belongs in the fall check-in. If you would put it in a public board packet, save it for the spring evaluation.
 
-**Section 4: Documenting the check-in for board president transition continuity**
+**Documenting the check-in for board president continuity**
 
 Board presidents turn over. The average board president serves two years. That means the institutional knowledge of the board-superintendent relationship lives in one person's notes.
 

@@ -24,7 +24,7 @@ By February, the board is reviewing data against goals that no one remembers ado
 
 Here is how to break that cycle. Start preparing for goal adoption in December. Not in January. December.
 
-**Section 1: December preparation cycle**
+**The December preparation cycle**
 
 Here is the December preparation cycle your board needs to follow.
 
@@ -36,7 +36,7 @@ Week three of December: The board president circulates the draft goal language t
 
 Week four of December: Community feedback. The board publishes the draft goal language with a comment period. This can be a simple form on the district website. It can be a dedicated public comment segment at the December regular meeting. The point is that the community sees the goals before the board votes on them. Surprise goal adoption is bad governance.
 
-**Section 2: How Oct/Nov data reviews inform January goal-setting**
+**How October and November data reviews inform January goals**
 
 Here is the direct line from fall data to winter goals.
 
@@ -54,7 +54,7 @@ Second, set a trajectory. The November data shows whether the current trajectory
 
 Third, set a capacity check. The superintendent fall check-in tells you whether the system can handle the goals you are setting. If the superintendent said capacity is strained, do not layer ambitious new goals on top of an already stressed system. Prioritize. The board should adopt fewer goals with more focus.
 
-**Section 3: Community engagement strategy for goal adoption**
+**The community engagement strategy for goal adoption**
 
 Here is what most boards miss about community engagement for goal adoption. They do it after the goals are written, not before.
 
@@ -70,7 +70,7 @@ Here is why this matters. Goals that are adopted without community input are goa
 
 Community ownership of goals is the difference between goals that sit on a shelf and goals that drive collective action. Build that ownership in December.
 
-**Section 4: Board president's role in ensuring goal adoption**
+**The board president's December job in goal adoption**
 
 Here is the board president's December job description.
 

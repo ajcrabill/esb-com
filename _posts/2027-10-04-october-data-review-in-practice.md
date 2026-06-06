@@ -94,7 +94,7 @@ Your September self-evaluation is not a document. It is a diagnostic. Use it to 
 
 *This is post 1 of 12 in "The Governance Operating Cycle: Fall Execution" arc running October through December 2027. The October sub-arc (Data in Motion) covers data review, budget alignment, escalation protocol, and progress monitoring cadence. The November sub-arc (Goal Alignment and Superintendent Partnership) covers mid-year accountability check, goal writing, superintendent check-in, and the Thanksgiving governance reset. The December sub-arc (Year-End Governance and 2028 Preparation) covers the organizational meeting, year-end review, goal adoption prep, and the 2028 lookahead. Subscribe at effectiveschoolboards.com to continue the series.*
 
-*Backlinks: This piece builds on the September launch sequence (2027-09-links) and connects forward to the Budget Alignment post on October 11 and the Escalation Protocol post on October 18. It anchors in the Progress Monitoring domain of the ESB Framework — the discipline of turning data reviews into governance decisions that the board owns, not presentations that the board receives. See also the Governance Team domain for the board president's facilitation role.*
+*Backlinks: This piece builds on the September launch sequence and connects forward to the Budget Alignment post on October 11 and the Escalation Protocol post on October 18. It anchors in the Progress Monitoring domain of the ESB Framework — the discipline of turning data reviews into governance decisions that the board owns, not presentations that the board receives. See also the Governance Team domain for the board president's facilitation role.*
 
 ---
 

@@ -28,7 +28,7 @@ Twelve weeks. Twelve posts. One complete governance cycle.
 
 Now the work of 2028 begins. Here is what the fall arc built, what January requires, and what your board should be thinking about as you close 2027.
 
-**Section 1: Fall arc retrospective**
+**The fall arc retrospective — what your board built**
 
 Let me name what your board accomplished if you followed the fall arc.
 
@@ -44,7 +44,7 @@ Here is what that adds up to. Your board is no longer reactive. Your board has a
 
 The boards that improve fastest are not the boards with the most talented superintendents or the highest per-pupil spending. They are the boards that build a governance operating cycle and follow it. You built yours this fall. Do not abandon it in January.
 
-**Section 2: 2028 governance calendar preview (Q1 and Q2)**
+**The 2028 governance calendar — Q1 and Q2 preview**
 
 Here is what the first half of 2028 looks like on the governance calendar your board set in the organizational meeting.
 
@@ -64,7 +64,7 @@ July: summer board retreat. Governance skill building. Goal refinement for the s
 
 That is the first half of 2028. It is mapped. It is scheduled. It is ready. Your board's job is to execute it.
 
-**Section 3: Final pre-communications for board president**
+**The board president's December pre-communications checklist**
 
 Board president, here is your December checklist.
 
@@ -78,7 +78,7 @@ Item four: send the January meeting agenda to the board and the superintendent a
 
 Item five: write your board president transition documentation. If your term ends at the organizational meeting, your job is not done until the next board president has everything they need. The transition binder. The superintendent check-in notes. The governance calendar. The committee assignments. The goal adoption timeline. Hand it over. Make the transition seamless.
 
-**Section 4: January launch sequence preview**
+**The January launch sequence preview**
 
 Here is the January launch sequence your board will execute.
 

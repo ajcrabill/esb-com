@@ -24,7 +24,7 @@ Your board has spent three months in the fall governance arc. Two data reviews. 
 
 Now it is time to evaluate that work — not the outcomes, but the process. The year-end governance review is the board's final accountability check before the calendar turns.
 
-**Section 1: Year-end review framework**
+**The year-end review framework — three questions**
 
 Here is the framework. Three questions. Honest answers. No defensiveness.
 
@@ -50,7 +50,7 @@ A governing board follows its calendar. A reactive board reacts to events. At th
 
 If your board followed the calendar, that is a governance win. If your board did not, the year-end review is where you ask why — and what needs to change in 2028.
 
-**Section 2: Fall cycle scorecard**
+**The fall cycle scorecard**
 
 Here is the specific scorecard your board should fill out together.
 
@@ -72,7 +72,7 @@ Governance calendar execution: Did the board follow the calendar? Did the board 
 
 Here is what the scorecard tells you. Any item scored one or two is a 2028 improvement priority. The board should assign one board member to lead improvement on each low-scoring item between January and March. That is not the superintendent's job. That is the board's job.
 
-**Section 3: What to carry forward into 2028**
+**What your board should carry forward into 2028**
 
 Every board has governance practices that work. The year-end review is where you identify them and commit to preserving them.
 
@@ -86,7 +86,7 @@ Carry forward your governance calendar. The calendar you built in the organizati
 
 Carry forward your commitment to improvement. The boards that improve fastest are the boards that look honestly at their own performance and commit to doing better. The year-end review is not a report card. It is a roadmap.
 
-**Section 4: What to leave behind**
+**What your board should leave in 2027**
 
 Here is what to leave in 2027.
 

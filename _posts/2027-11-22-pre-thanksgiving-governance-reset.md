@@ -26,7 +26,7 @@ December is the most compressed governance month of the year. The annual organiz
 
 Here is what your board needs to do differently. Use Thanksgiving week as a governance reset. Not as a vacation from governance — as an intentional pause to assess where you are and where you are headed.
 
-**Section 1: Why Thanksgiving week is the governance reset opportunity**
+**Why Thanksgiving week is the governance reset opportunity**
 
 Thanksgiving week sits at a unique point in the governance calendar.
 
@@ -46,7 +46,7 @@ Second, reflect individually. Each board member should answer three questions be
 
 Third, come back ready. The December planning session should be the board's first conversation after Thanksgiving — not the December regular meeting. Plan before you meet.
 
-**Section 2: The board culture check**
+**The board culture check — five questions**
 
 Here is the uncomfortable question most boards avoid. Is your board functioning as a governance team?
 
@@ -70,7 +70,7 @@ That pattern tells you something. Your board has the raw ingredients for high-fu
 
 A board culture check that reveals a meeting rhythm problem is a gift. It means the board does not need a relationship overhaul. It needs a meeting structure overhaul. And that is fixable in a single planning session.
 
-**Section 3: December planning session**
+**The December planning session agenda**
 
 Your board needs one planning session in December before the regular meeting schedule resumes.
 
@@ -82,7 +82,7 @@ Second, align on December meeting roles. Who runs the organizational meeting? Wh
 
 Third, set January expectations. The January goal adoption meeting is the board's most consequential governance decision of the new year. The board needs to agree, in December, on the goal adoption process. Who drafts the goal language? What data informs the goals? What community engagement happens before the January meeting? The planning session is the right place to make those decisions before December's meeting rhythm takes over.
 
-**Section 4: Connecting the reset to January 2028 launch**
+**Connecting the Thanksgiving reset to the January 2028 launch**
 
 Here is the leadership move your board president needs to make.
 

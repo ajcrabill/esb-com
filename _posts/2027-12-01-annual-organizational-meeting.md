@@ -24,7 +24,7 @@ Here is what your board should do instead. Treat the organizational meeting as t
 
 The organizational meeting is not administrative. It is architectural. What you build in this meeting defines what your board can accomplish from January through December.
 
-**Section 1: What the annual organizational meeting should produce**
+**What your organizational meeting should produce**
 
 Your board should walk out of the organizational meeting with four concrete deliverables.
 
@@ -36,7 +36,7 @@ Deliverable three: a governance calendar for the full year. Your board needs eve
 
 Deliverable four: a board operations resolution. This is the document that codifies board meeting protocols, public comment procedures, consent agenda criteria, and escalation rules. Every board should review and update this resolution annually. The organizational meeting is the right time. If your board has not reviewed its operations resolution in the last twelve months, your governance processes are outdated.
 
-**Section 2: Governance calendar for 2028 aligned with data review cadence**
+**The 2028 governance calendar aligned with data review cadence**
 
 Here is the specific calendar structure your board needs.
 
@@ -68,7 +68,7 @@ That is twelve months of governance, scheduled in December, aligned with the dat
 
 If your board's current calendar looks like "regular meetings on the second Tuesday" with no data review schedule, your organizational meeting is the place to fix it.
 
-**Section 3: Committee assignments that reflect governance priorities**
+**Committee assignments that reflect governance priorities**
 
 Here is the test for whether your committee structure is working.
 
@@ -84,7 +84,7 @@ Second, create committees that match your governance priorities. If your board h
 
 Third, assign board members to committees based on expertise and availability, not seniority and interest. The board member who works in finance belongs on the budget committee. The board member who is a parent of a child in special education belongs on the student outcomes committee. Use the organizational meeting to make those assignments intentional.
 
-**Section 4: How organizational meeting feeds January goal adoption**
+**How the organizational meeting feeds January goal adoption**
 
 Here is the connection that most boards miss.
 
