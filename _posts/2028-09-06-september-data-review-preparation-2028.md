@@ -16,13 +16,13 @@ September 6, 2028
 
 ---
 
-Your last data review was probably in May or June. Your next one is October. That is a four-month gap — and in that gap, data systems drift, indicators stale, and new board members remain data-illiterate without anyone noticing until they are sitting in the October review unable to interpret the dashboard.
+Your last data review was probably in May or June. Your next one is October. That is a four-month gap — and in that gap, data systems drift, indicators go stale, and new board members remain data-illiterate without anyone noticing until they are sitting in the October review unable to interpret the dashboard.
 
 I have watched boards walk into October data reviews blind. The data is late. The format changed over the summer. The new board members have never seen a trend line. And no one realized any of this was a problem until the superintendent said, "Here are the numbers," and half the board did not know what to ask.
 
 September is not the month to wait for October to arrive. September is the month to set October up.
 
-Here is what the board should be doing right now.
+Here is what the board should be doing right now. This is what effective Progress Monitoring looks like before the data arrives — the preparation work that makes the October review actionable rather than performative. Boards that skip these September steps do not fail in October because the data was wrong. They fail because they never asked the right questions in September.
 
 **1. Run the data system readiness check**
 
@@ -49,6 +49,8 @@ Walk through each spring indicator from your May and June data reviews. For each
 
 The answer does not have to be complicated. It just has to be intentional. A year-over-year comparison structure set up in September will tell you in October whether your summer and early-fall actions moved the needle.
 
+Once the comparison structure is in place, the board applies the **three-decision framework** to each indicator: **maintain, adjust, or escalate**. Maintain means the indicator is working as designed and stays in its current form. Adjust means the threshold or calculation method needs refinement before the fall cycle. Escalate means the indicator revealed a structural issue — a goal that is not being measured correctly at all — that requires the board's attention at the governance level. This framework is the discipline that separates boards that act on data from boards that just look at it. I have watched boards sit through an entire October data review without making a single decision because they had no framework for what to do with what they saw. Do not be that board.
+
 **3. Run the indicator refresh protocol**
 
 This is the companion to the year-over-year check. Some indicators carry over. Some do not. Some need recalibration because the data source changed, the population shifted, or the goal itself was refined over the summer.
@@ -62,6 +64,10 @@ The indicator refresh protocol has three steps:
 **4. Prepare the board's data literacy**
 
 This is the one most boards skip, and it is the one that matters most.
+
+I worked with a board — let me call it Springfield MO's experience, because the pattern shows up everywhere I coach — that spent its entire September data literacy session learning how to read a scatter plot from a generic online tutorial. The session was well-intentioned, but it was useless. The board members could define "correlation coefficient" by the end of the training. They could not look at their own district's third-grade reading trend line and say whether the slope was meaningful. The preparation has to be specific to your district's actual dashboard. Not generic data training. Your data, your indicators, your thresholds.
+
+El Paso TX demonstrated the opposite approach. The board president asked the superintendent's team for a one-page data literacy guide specific to the board's fall dashboard — what each indicator measures, how the trend line is calculated, what the threshold means, and what range of outcomes would trigger a maintain, adjust, or escalate decision. The board reviewed that guide in a thirty-minute working session before the September regular meeting. When the October data review arrived, every board member could read the dashboard and ask informed questions. That is the standard.
 
 If you have new board members who joined after the spring data review cycle, they have never seen the board's data dashboard. They do not know how to read the trend lines. They do not know what is a meaningful change versus random variation in the context of your district. And they will not ask in the October meeting. They will sit quietly and hope no one notices.
 
@@ -89,6 +95,6 @@ Subscribe at effectiveschoolboards.com to continue the series.
 
 ---
 
-*This piece opens the Fall Launch Preparation sub-arc (Sep 6–27), the third of three sub-arcs in the Summer 2028 Governance Renewal arc. The August Organizational Reset sub-arc established the board's committee structure, calendar, and partnership framework. This sub-arc prepares the specific governance practices the board will execute in the fall. Subscribe at effectiveschoolboards.com to continue the series.*
+*This piece opens the Fall Launch Preparation sub-arc (Sep 6–27), the third of three sub-arcs in the Summer 2028 Governance Renewal arc. The [August Organizational Reset](/august-organizational-meeting-2028/) sub-arc established the board's committee structure ([Governance Calendar Construction](/governance-calendar-construction-fall-2028/), [Board Committee Renewal](/board-committee-renewal-august-2028/)), partnership framework ([Superintendent Partnership Refresh](/superintendent-partnership-refresh-august-2028/)), and closing readiness ([August Board Work Session](/august-board-work-session-2028/)). This sub-arc prepares the specific governance practices the board will execute in the fall. Subscribe at effectiveschoolboards.com to continue the series.*
 
-*Backlinks: This piece inherits from the Spring 2028 data review cycle — the May 3 spring data review ([view the May 3 piece](/spring-data-review-may-2028/)) and the Q2 Progress Report ([view the May 24 piece](/q2-progress-report-may-2028/)). The September preparation ensures the October 2028 data review advances from the spring cycle's baseline. Subscribe at effectiveschoolboards.com to continue the series.*
+*Backlinks: This piece inherits from the Spring 2028 data review cycle — the May 23 end-of-year data review prep ([view the May 23 piece](/end-of-year-data-review-prep-2028/)) and the Q2 Progress Monitoring Check-In ([view the May 2 piece](/q2-progress-monitoring-check-in/)). The September preparation ensures the October 2028 data review advances from the spring cycle's baseline. Subscribe at effectiveschoolboards.com to continue the series.*
