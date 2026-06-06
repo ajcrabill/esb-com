@@ -1,104 +1,111 @@
 ---
 layout: post
-title: "The Superintendent Evaluation That Measures What Matters — Start the Cycle in January"
-heading: "The Superintendent Evaluation That Measures What Matters — Start the Cycle in January"
-description: "The superintendent evaluation shouldn't measure everything a superintendent does. It should measure progress toward the goals the board adopted in January. Here's how to start the cycle while the goals are still fresh."
+title: "The Superintendent Evaluation Cycle: Why It Needs to Start in January"
+heading: "The Superintendent Evaluation Cycle: Why It Needs to Start in January"
+description: "Most boards start thinking about the superintendent evaluation in March or April — and that's the problem. A January-start evaluation cycle changes everything."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
-permalink: /superintendent-evaluation-measures-what-matters/
+permalink: /superintendent-evaluation-cycle-january-start/
 ---
 
-**The Superintendent Evaluation That Measures What Matters — Start the Cycle in January**
+**The Superintendent Evaluation Cycle: Why It Needs to Start in January**
 
 January 13, 2027
 
 ---
 
-On Monday, your board adopted its 2027 goals. Public commitments. Measurable targets. Data-informed benchmarks. You presented the baseline data, held the public hearing, took the vote, read the commitment statement.
+I've seen the same pattern play out in district after district. The board adopts its goals in January. The superintendent starts executing against those goals. And then March arrives — and someone says, "Oh, we need to do the superintendent evaluation."
 
-Now here's the question nobody asks in January: what are those goals actually for?
+What follows is a compressed, high-anxiety process. A rushed conversation about criteria. A scramble for evidence. A closed session that tries to cover twelve months of performance in ninety minutes. The superintendent leaves wondering what the board actually thinks. The board leaves wondering whether the evaluation was fair.
 
-If you answered "to improve student outcomes," you're right, but you're not done. Goals improve student outcomes when they drive governance action — and there is no governance action more consequential than the superintendent evaluation. The goals you adopted on Monday are the criteria for the evaluation you'll complete in June. If you haven't connected those two things yet, you're already behind.
+Every year, I tell boards the same thing: that rushed March conversation is a choice. And there's a better one.
 
-Here's what I've learned from watching boards do this well: the board that connects its January goals to its June evaluation doesn't just produce a better evaluation. It produces a better partnership with the superintendent, a clearer focus for the entire year, and an accountability structure that works because the superintendent knows exactly what success looks like.
+The superintendent evaluation cycle should begin in January — not with the evaluation itself, but with the framework conversation that makes the evaluation meaningful. A January-start cycle gives you five months to do the evaluation properly, with evidence that accumulates naturally instead of being assembled under pressure.
 
-**The problem: most superintendent evaluations measure everything except what matters**
+Here's what that cycle looks like.
 
-I've seen superintendent evaluation rubrics that cover forty-two competencies. Community relations. Facilities management. Staff morale. Fiscal oversight. Technology integration. Crisis communication. If you have forty-two criteria on your evaluation rubric, you don't have an evaluation rubric. You have a laundry list of everything a superintendent might theoretically touch in a year.
+**Phase 1: January — Framework Confirmation**
 
-Here's the thing about forty-two criteria: none of them are measured well. The board averages the scores across all forty-two, the superintendent gets a 3.7 out of 5, and nobody learns anything. The superintendent doesn't know what to do differently. The board doesn't know where to focus its support.
+Most boards approach the evaluation like a surprise exam. The superintendent doesn't know what criteria will be used, what evidence will matter, or what timeline to expect. The board figures it out as they go.
 
-The root cause isn't the rubric. The root cause is that the evaluation was designed to measure everything a superintendent does, rather than to measure what the superintendent was hired to accomplish. And what the superintendent was hired to accomplish is right there in the goals the board adopted on Monday.
+A January-start cycle fixes this. Before the evaluation begins — before any evidence is collected — the board and superintendent sit down together and confirm the framework.
 
-An evaluation that measures what matters has one primary criterion: progress toward the board's adopted goals. Everything else is supporting context.
+This is not a board-imposed process. It's a joint conversation that answers four questions:
 
-**The five phases of a goal-driven evaluation cycle**
+1. What criteria will the evaluation be based on?
+2. What evidence will demonstrate performance against those criteria?
+3. What does the timeline look like — from framework to final?
+4. How will the board and superintendent communicate during the process?
 
-Starting the evaluation cycle in January — while the goals are still fresh — changes the character of the process. Instead of a year-end judgment based on impressions, the evaluation becomes a year-long conversation about progress toward shared targets.
+In the ESB framework, this conversation is straightforward: the evaluation measures progress toward the goals the board and superintendent jointly committed to. The criteria are the adopted goals. The evidence is the data reviewed at every board meeting. The evaluation becomes a summary of what the board already knows.
 
-Here's what the cycle looks like:
+That only works if you have the conversation in January.
 
-**Phase 1 — January: Framework confirmation**
+**Phase 2: February — First Data Checkpoint**
 
-This is the conversation that most boards skip and every board needs. In January, before the data starts flowing, the board and superintendent sit down together and confirm: "We will evaluate you on progress toward the goals we just adopted. Here's how we'll measure that progress. Here's what evidence we'll consider. Here's the timeline."
+The February board meeting includes a data review that serves double duty. It's a progress monitoring check-in on the adopted goals (which every board should be doing anyway). And it's a mid-cycle data point for the evaluation.
 
-The conversation should produce a one-page document — not a contract, a framework — that answers three questions:
+This isn't a preview of the evaluation outcome. It's a calibration check. Are the board and superintendent seeing the same data? Do they have a shared understanding of where the district stands on each goal?
 
-1. What goals are being measured? (the adopted goals)
-2. What does progress look like? (the metrics and targets)
-3. What additional evidence will we consider? (the supporting context — board communication, community engagement, operational leadership)
+I've seen boards skip this step because they don't want to telegraph the evaluation results. Here's what actually happens: the February data review reveals that one of the goals is off track. The superintendent explains the intervention they've already deployed. The board acknowledges the challenge and the response. Come June, when the evaluation reflects that goal's trajectory, no one is surprised.
 
-The superintendent should leave this conversation knowing exactly what success looks like in the board's eyes. Not in February. Not in April. In January.
+That's the whole point. A January-start evaluation cycle means the evaluation is never a surprise.
 
-**Phase 2 — February: First data checkpoint**
+**Phase 3: March — Evidence Gathering**
 
-The board's first progress monitoring check-in (coming up on Jan 20) produces the first data point for the evaluation. This isn't a preview of the final rating — it's a shared understanding check. The board and superintendent review the data together and confirm they see the same picture.
+March is for gathering evidence. Not a binder of every email and memo from the year. The specific evidence that connects to the adopted criteria.
 
-If the data is on track, the conversation is brief. If the data is off track, the conversation is about what support the superintendent needs to get back on track. The evaluation is still six months away. There's time to course-correct.
+For a board using the ESB framework, the evidence is already organized:
 
-**Phase 3 — March: Evidence gathering**
+- Goal progress data from each board meeting's monitoring report
+- The quality and timeliness of the superintendent's monitoring reports
+- Board-superintendent communication patterns (are you getting what you need, when you need it?)
+- Community engagement during the goal adoption process
 
-By March, the board has enough data to begin gathering evidence for the evaluation. Not a binder of every email and memo from the year. The specific evidence that connects to the agreed criteria: goal progress data, monitoring report quality, board-superintendent communication patterns.
+The key insight: evidence gathering shouldn't require extra work. If your evaluation criteria are your adopted goals, the evidence is whatever you've been reviewing at your board meetings. March is just the month you organize it for the evaluation conversation.
 
-The evidence gathering should be systematic, not haphazard. The board's evaluation committee (or a designee) should have a checklist of what's needed and a process for collecting it throughout the spring.
+**Phase 4: April/May — Preliminary Findings**
 
-**Phase 4 — April/May: Preliminary findings**
+By April, the board's evaluation committee — or a designated board member — has reviewed the evidence and prepared a preliminary summary.
 
-The board's evaluation committee prepares a preliminary summary based on the evidence gathered. The superintendent reviews it for factual accuracy. This step is about getting the facts right — not negotiating the outcome.
+I recommend a specific protocol for this phase. The summary goes to the superintendent for a factual accuracy check before it goes to the full board. Not for negotiation — for accuracy. "The minutes show we adopted the goal on January 11, but you have us starting the intervention in February. Can you clarify the timeline?"
 
-The preliminary summary should include: the data for each goal, any adjustments to the evaluation framework that were agreed to during the year, and a preliminary assessment of progress.
+This step prevents the single most common evaluation complaint: "The board's evaluation doesn't reflect what actually happened." One factual review meeting in April eliminates that complaint entirely.
 
-**Phase 5 — June: Final evaluation and goal-setting bridge**
+**Phase 5: June — Final Evaluation and Goal-Setting Bridge**
 
-The full board reviews and adopts the evaluation. The evaluation outcomes inform the goal-setting process for the following year. The cycle closes where it began: with adopted goals driving governance action.
+June brings the full board review and adoption of the evaluation. The evaluation committee presents its findings. The full board discusses. The board votes to adopt the evaluation.
 
-**What changes when the evaluation measures what matters**
+But here's the step most boards skip: the evaluation should include a bridge to next year's goals. What does this year's performance tell you about next year's priorities? If the district achieved its third-grade reading goal, what's the next target? If the math goal fell short, what needs to change — in resources, strategy, or goal design?
 
-I've seen boards switch from the forty-two-criteria rubric to a goal-aligned evaluation framework. The difference is immediate.
-
-The superintendent knows what to focus on. Instead of trying to do everything well and hoping the board notices, the superintendent focuses resources and attention on the goals the board identified as priorities. The evaluation reinforces that focus instead of diluting it.
-
-The board knows what evidence to look for. Instead of relying on impressions and secondhand reports, the board looks at goal-progress data. The evaluation becomes an evidence-based conversation instead of an opinion-based one.
-
-And most importantly, the evaluation is never a surprise. The data that drives the evaluation is the same data the board reviews at every meeting. The evaluation becomes a summary of what the board already knows — not a single-meeting judgment based on the superintendent's performance in that room at that hour.
-
-**The January action step**
-
-If your board adopted goals on Monday, you have a window of about two weeks to have the framework confirmation conversation. Here's what that looks like:
-
-Add one agenda item to your January board meeting or a January work session: "Superintendent Evaluation Framework for 2027." Use the one-page framework format — three questions, the adopted goals, the evidence process. The meeting should produce a document that both the board and superintendent sign off on.
-
-The superintendent should walk out of that meeting knowing: "The board evaluates me on progress toward these three goals. Here's the evidence they'll consider. Here's the timeline. If I stay focused on these goals, I'll meet their expectations."
-
-That's a superintendent who can lead with clarity for the entire year. That's an evaluation process that measures what matters.
+The evaluation that includes a bridge to next year's goal-setting is an evaluation that produces forward motion instead of backward reflection.
 
 ---
 
-**Your free CTA:** Reply to this email with the keyword **Cycle** and I'll send you the Superintendent Evaluation Goal-Alignment Template — a one-page framework that maps your board's adopted goals to the evaluation criteria, evidence sources, and timeline for each evaluation phase. Use it to start the framework confirmation conversation in January.
+Here's what all of this adds up to. Starting the evaluation cycle in January means:
 
-**Your paid CTA:** Want a clearer picture of how your current superintendent evaluation process stacks up against your adopted goals? I offer a Superintendent Evaluation Governance Assessment — a half-day diagnostic that reviews your current evaluation framework, identifies gaps between your adopted goals and your evaluation criteria, and gives you a roadmap for aligning the two. Reply to this email for pricing and availability.
+- The framework is set before any evidence is collected
+- The data that drives the evaluation is the same data you review at every meeting
+- The evaluation is a five-month process, not a ninety-minute conversation
+- The final product is a summary of what the board already knows, not a single-meeting judgment
+
+The board that starts its evaluation cycle in January is a board that evaluates its superintendent fairly, thoroughly, and without the anxiety that comes from a compressed timeline.
+
+The board that starts in March? They're the ones spending April and May apologizing for a process that never should have been rushed.
+
+The choice is yours. January is here.
+
 
 ---
 
-*This continues the January Execution Arc. Monday's piece walked you through the goal adoption process — from draft goals to public commitments. This piece shows you how those adopted goals drive the superintendent evaluation cycle. Next up: your first progress monitoring check-in of 2027 — the data review that makes evaluation real. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
+**Your free CTA:** Reply to this email with the keyword **Eval** and I'll send you the Superintendent Evaluation Cycle Timeline & Checklist — a complete five-phase calendar with framework confirmation questions, evidence gathering protocol, and factual accuracy review template.
+
+**Your paid CTA:** I offer a Superintendent Evaluation Process Design & Facilitation session — a half-day engagement that includes framework confirmation facilitation, evidence gathering design, and evaluation committee training. Reply to this email for pricing and availability.
+
+
+---
+
+*This continues the January Execution Arc. Earlier this week, we covered goal adoption (Jan 11) — the foundation this evaluation cycle depends on. Next week: an MLK Day governance equity reflection (Jan 18) followed by the first progress monitoring data check of 2027 (Jan 20). Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
+
+*Backlinks: December's Year-End Governance Reset & 2027 Foundation arc gave you the blueprint. This arc executes it. Catch the full Q4 journey at effectiveschoolboards.com/newsletter.*
