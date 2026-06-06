@@ -91,7 +91,7 @@ I've seen boards finish this meeting in less time than they used to spend on lin
 
 ---
 
-**Your free CTA:** Reply to this email with the keyword **Oversight** and I'll send you the Budget Alignment Review Protocol — a one-page meeting structure with the three budget review questions, a goal-to-budget alignment worksheet, and a sample February board meeting agenda that combines progress monitoring and budget review in a single ninety-minute format.
+**Your free CTA:** Reply to this email with the keyword **Alignment** and I'll send you the Budget Alignment Review Protocol — a one-page meeting structure with the three budget review questions, a goal-to-budget alignment worksheet, and a sample February board meeting agenda that combines progress monitoring and budget review in a single ninety-minute format.
 
 **Your paid CTA:** I offer a February Budget Review Facilitation — a half-day engagement where I work with your board and superintendent to review the proposed budget through the goals-alignment lens, identify gaps, and produce a clear direction for budget adjustments. Reply to this email for pricing and availability.
 
