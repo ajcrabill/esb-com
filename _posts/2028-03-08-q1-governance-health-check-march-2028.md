@@ -159,3 +159,5 @@ Do not skip it.
 *This is piece 2 of 5 in the Spring 2028 Governance Execution Cycle — the Budget Alignment + Governance Health Check arc covering March 1 through March 29. It builds on the March 1 budget alignment review ([read it](/budget-alignment-review-march-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
 
 *Backlinks: This post is part of the Spring 2028 Governance Execution Cycle. It draws on the September 2027 board self-evaluation baseline and the January launch arc — the organizational meeting ([view it](/january-organizational-meeting-2028-launch/)), the goal adoption process ([view it](/january-goal-adoption-process-2028/)), and the budget direction conversation ([view it](/january-budget-direction-q1-governance-calendar-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
+
+*This edition draws on ESB Effective Practices #9 (Board Self-Evaluation), #10 (Governance Team Discipline), and #12 (Continuous Improvement and Board Self-Evaluation).*
