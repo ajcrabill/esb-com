@@ -16,77 +16,98 @@ November 7, 2028
 
 ---
 
-You have run two full data reviews — the Spring 2028 Progress Monitoring cycles and the October 2028 data review. Your board has looked at student outcome data from two different points in the school year, across multiple goals, with year-over-year comparison data for some metrics.
+Your board adopted goals in January.
 
-That is enough data to answer a question you could not have answered in Fall 2027: *Are the fall cycle goals on trajectory?*
+You refreshed them in September.
 
-In Year One, the question was simpler: *Are we learning how to review data?* The goal trajectory conversation was tentative because the board did not have enough data points to assess direction. One data review gave you a snapshot. Two data reviews give you a trend.
+You ran a data review in October — the first structured check of the fall cycle. You looked at student outcome data. You asked the three questions. You made decisions.
 
-And a trend is what the board needs to make governance decisions about resource allocation, intervention support, and goal adjustments before the spring cycle begins.
+Now you have enough data to ask the question most boards never ask until June: **Are the fall cycle goals on track?**
 
-**Why November is the right time for a trajectory check**
+November is the answer month. Not June. November. Because a board that waits until year-end to check goal trajectory has already lost the opportunity to intervene. The data is three months old. The students who were off-track in October are further off-track in December. And the board's only move — a directed change — gets compressed into a single meeting between the Thanksgiving break and winter break, when calendars are already full and attention is already scattered.
 
-Here is the November governance reality: the board is four to six months from the end of the school year. For most goals, there is time to adjust trajectory — but not much time. If a goal is off track in November and the board waits until January to address it, three months of possible intervention time are lost.
+Here's what November gives you that June doesn't: time. Time to assess. Time to adjust. Time to direct a change, resource a change, and monitor it before the cycle closes.
 
-The November goal trajectory check is not a late warning. It is an early intervention window. The board has enough data to see direction but enough time to change course.
+This piece gives you the year-over-year comparison framework — **same time, same goals, different year** — that shows whether your board's fall goals are holding trajectory, accelerating, or requiring a directed change.
 
-Here is the framework I use for the November trajectory check. It asks three questions about each goal. The answers produce a decision.
+---
 
-**Question one: Is the trajectory holding, accelerating, or declining?**
+## The Year-Over-Year Question
 
-This question uses the year-over-year comparison data from the October data review. For each goal, the board looks at two data points: the Fall 2027 measure at the same point in the cycle and the Fall 2028 current measure.
+The board's Fall 2028 goals are not the same as the Spring 2028 goals. They were renewed in September. Some goals carried forward with adjustments. Some were refreshed with new targets. Some were replaced.
 
-The three possible answers are:
-- **Holding:** The Fall 2028 measure is similar to the Fall 2027 measure at the same point. The goal is on the same trajectory it was on last year. If that trajectory was sufficient to meet the goal target, holding is acceptable. If it was not, holding means the goal is at risk.
-- **Accelerating:** The Fall 2028 measure is meaningfully ahead of the Fall 2027 measure at the same point. The trajectory is improving. The board's question is: *Is the acceleration driven by something the district is doing intentionally, or by external factors that may not repeat?*
-- **Declining:** The Fall 2028 measure is meaningfully behind the Fall 2027 measure at the same point. The trajectory is worsening. The board's question is: *What changed between the two years, and what can the board do about it?*
+But the board has been monitoring the same goal areas since January. Early literacy. Math proficiency. Graduation readiness. Whatever your board adopted as its priority outcomes.
 
-**Question two: Is the current trajectory sufficient to meet the goal target?**
+Here's the question that frames the November trajectory check: **At this point in the governance year, where is the data compared to where it was last year?**
 
-This is the projection question. Based on the trajectory line from Fall 2027 through Fall 2028 — two data points for goals that had comparable year-over-year data, plus whatever interim data points the district has collected — is the goal on pace to meet its adopted target by the goal deadline?
+Not compared to the goal target. Compared to last year's same-month data.
 
-The answer is one of three:
-- **Yes, on track:** The trajectory line projects to meet or exceed the target. The board confirms the current resource allocation and intervention plan. No change needed.
-- **Borderline:** The trajectory line projects near the target but within a margin of uncertainty. The board asks: *What would it take to move this goal from borderline to on track?* The answer is usually a targeted resource adjustment or intervention intensity increase.
-- **Off track:** The trajectory line projects below the target. The board asks: *Is the target still realistic, or does the board need to escalate its response?* Escalation might mean a superintendent directive, a budget reallocation, or a community resource mobilization.
+Most boards check progress against a target. That's normal governance practice. But target-to-actual tells you whether you're hitting the goal. It doesn't tell you whether you're gaining ground.
 
-**Question three: What decision does the board make about each goal?**
+Year-over-year comparison tells you whether the trend is your friend. If your third-grade reading proficiency is at 42% this November and it was at 38% last November, the goal target might be 55% — and you're still short. But the trajectory is positive. You gained four points in twelve months of governance work.
 
-This is the governance decision. The board does not just note the trajectory. It acts on it.
+That's not a pass. It's a trajectory signal. And trajectory signals are what boards use to decide between three options: accelerate, maintain, or adjust.
 
-The decision framework is the maintain-adjust-escalate protocol from the data review, applied at the goal level:
+---
 
-- **Maintain:** The goal is on track. The board maintains current resources and intervention strategy. The board president notes the decision in the meeting record and confirms the superintendent will continue executing the current plan.
-- **Adjust:** The goal is borderline or showing early signs of decline. The board adjusts expectations, resources, or timeline — not in a workshop conversation, but through a board action. The board passes a motion, or the board president issues a directive to the superintendent, specifying: *Here is what we expect to change, by when, and how we will measure the change.*
-- **Escalate:** The goal is off track and the board's normal intervention tools are insufficient. The board escalates to a special session, a community partnership, or a resource reallocation that requires a formal budget adjustment. Escalation is not failure. It is the board recognizing that the current approach is not working and that a different level of response is required.
+## Three Trajectory Outcomes — And What Boards Do With Each
 
-**What the trajectory check produces**
+Here's what I've watched boards do with November trajectory data. The ones that get this right don't debate whether the goal is good. They debate what the trajectory tells them about their board's governance — and whether their governance is producing the acceleration they committed to.
 
-The November goal trajectory check produces a one-page board document — the Goal Trajectory Assessment — that lists each goal with its trajectory status, its projection, and the board's decision. This document serves three purposes:
+**Trajectory Outcome One: Accelerate**
 
-First, it is the board's record of its fall cycle governance decisions. When the year-end closeout happens in December, the board has a written summary of what it decided about each goal and why.
+The year-over-year comparison shows improvement. The data is moving in the right direction. The gap between last year's November data and this year's November data is positive. The board's governance practices — the September budget alignment work, the October data review, the summer renewal commitments — are producing measurable change.
 
-Second, it feeds into the January goal adoption process. The Spring 2029 goals should reflect what the board learned in the fall trajectory check — which goals need more aggressive targets, which need different indicators, and which need a fundamentally different approach.
+This is where boards are tempted to relax. Don't. Acceleration means your system responded to governance. The question is whether the system can sustain the acceleration. Your board's November move: confirm the trajectory, identify what produced the improvement, and protect the conditions that made it possible. Ask the superintendent: *What is sustaining this acceleration, and what would threaten it between now and January?*
 
-Third, it is a communication tool. The board president or governance committee chair can use the Goal Trajectory Assessment to communicate with the superintendent about expectations, with the community about progress, and with the board itself about where attention is needed in the spring.
+**Trajectory Outcome Two: Maintain**
 
-**The board's responsibility at the trajectory check**
+The year-over-year comparison is flat. The data is the same as last November. The board has been monitoring the same goals, applying the same protocols, running the same data reviews — and the trajectory hasn't changed.
 
-Here is what I want boards to understand about the November trajectory check.
+This is the most common November outcome for boards in their second year. The first year produced baseline improvement because the board went from zero governance to some governance. The second year consumes that baseline without producing additional gains. The board is doing governance — but the governance isn't producing acceleration.
 
-The data is not the superintendent's data. It is the board's data. The superintendent provides the numbers, the analysis, and the context. But the trajectory assessment — the judgment about whether the goal is on track — belongs to the board. The board adopted the goals. The board monitors progress toward those goals. The board makes the decision about whether the trajectory is acceptable.
+The November move for maintenance trajectory: the board needs to identify what changed from Spring to Fall. Did the summer renewal produce the right protect-apply-add commitments, or did the board sustain its spring practices without advancing them? Is the data review protocol producing the same decisions it produced in spring, or has the board stopped asking harder questions? Maintenance means the board's governance is working — but not growing. The board needs to identify one adjustment that pushes the trajectory from flat to positive before December's year-end closeout.
 
-I have watched boards sit through a goal trajectory conversation and defer every judgment to the superintendent. *What do you think, superintendent? Are we on track?* That is not governance. That is the board asking its employee to make the board's decision.
+**Trajectory Outcome Three: Adjust**
 
-The trajectory check asks the board to make the call. The superintendent provides the evidence. The board provides the judgment. That is the governance relationship working as designed.
+The year-over-year comparison is negative. The data is worse than last November. The board's governance practices — the monitoring, the data reviews, the budget alignment — are either insufficient or not reaching the classroom in time to change outcomes.
 
-**The opportunity November presents**
+This is not a governance failure. It's a trajectory signal. The board's current approach is not producing the intended result. The question is what to adjust.
 
-November is the month between the fall data review cycle and the year-end closeout. It is easy for boards to coast through November, treat it as a maintenance month, and wait for December to close the cycle.
+I've watched boards handle this outcome two ways. The first way: the board directs a change immediately — a resource allocation adjustment, a strategy recalibration, a superintendent recommendation request with a faster turnaround. The board treats the negative trajectory as a board-level problem and produces a board-level response.
 
-That is a mistake. November is the month where the board's fall data review work converts into governance decisions. The trajectory check is the mechanism that makes that conversion happen.
+The second way: the board asks for more data. More analysis. More context. More reports. And November becomes December, and December becomes January, and the board has spent two months gathering information about a problem it already identified in October.
 
-A board that runs a thorough November goal trajectory check enters December with a clear picture of where it stands, what it has decided, and what it needs to accomplish in the spring cycle. A board that skips the trajectory check enters December with the same uncertainty it had in October — plus less time to act on whatever it discovers.
+Your board's November move for negative trajectory: direct a change before December. A written board direction to the superintendent, with a clear timeline for response and a clear expectation for what the data will look like at the next check point. The goal of the adjust outcome is not to fix the problem in November. The goal is to have a fix in motion and a monitoring date on the calendar before the year-end closeout.
+
+---
+
+## The Conversation Your Board Should Have in November
+
+The trajectory check is not a data review. You already did the data review in October.
+
+The trajectory check is a governance conversation. The board reviews its three trajectory outcomes — accelerate, maintain, adjust — and asks one question for every adopted goal: **Is our board's governance producing the trajectory we committed to?**
+
+Here's what I see in the boards that do this well.
+
+They don't ask the superintendent to present the trajectory analysis. The superintendent presents the data. The board does the trajectory analysis. The board president says: *Last November's third-grade reading number was 38. This November's number is 42. That's a 4-point gain. Goal target is 55. We're still short. But we're gaining. What did we do differently in the fall cycle that produced that gain, and what do we need to protect to sustain it?*
+
+The board president doesn't need to be a data analyst to lead that conversation. They need to have the year-over-year comparison in front of them, the three trajectory outcomes as the decision framework, and the discipline to ask the question for every single adopted goal.
+
+---
+
+## What Trajectory Compounding Looks Like
+
+The boards that do a November trajectory check don't do it because they're naturally analytical. They do it because they've experienced what happens when they don't — the year-end surprise, the January reset where a goal that was off-track in October gets quietly dropped, the cycle that closes with the same data it opened with and no one can say why.
+
+A November trajectory check makes the next data review smarter. It makes the year-end closeout more honest. It makes the January goal renewal more specific. And it makes the board's governance practice stronger — because the board is no longer checking whether it met its targets. It's checking whether its own governance is producing a trajectory that serves students.
+
+That's the difference between a board that monitors outcomes and a board that monitors its own effectiveness.
+
+The year-over-year comparison framework isn't complicated. Same time, same goals, different year. Three outcomes: accelerate, maintain, adjust. One question per goal: *Is our governance producing the trajectory we committed to?*
+
+Your board has enough data to answer that question now. November is the month to have the conversation.
+
 
 ---
 
@@ -98,4 +119,4 @@ A board that runs a thorough November goal trajectory check enters December with
 
 *This piece opens the November sub-arc of the Fall 2028 Governance Execution arc. It follows the October 31 governance check piece ([October Governance Check](/october-governance-check-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
 
-*Backlinks: This piece inherits from the September 20 goal renewal piece ([Goal Renewal](/goal-renewal-september-2028/)), the Spring 2028 Progress Monitoring cycle, and the January 2028 goal adoption. The year-over-year trajectory framework uses the Spring 2028 data as the baseline for Fall 2028 comparison. Subscribe at effectiveschoolboards.com to continue the series.*
+*Backlinks: This piece inherits from the September 20 goal renewal piece ([Goal Renewal](/goal-renewal-september-2028/)), the Spring 2028 Progress Monitoring cycle, and the January 2028 goal adoption. The year-over-year trajectory framework uses the Spring 2028 data as the baseline for Fall 2028 comparison. The protect-apply-add framework from the Summer 2028 Governance Renewal arc informs the trajectory decisions. Subscribe at effectiveschoolboards.com to continue the series.*
