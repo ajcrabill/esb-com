@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2027-01-25
 title: "Your January Goals Drive Your February Budget — the Connection Most Boards Miss"
 heading: "Your January Goals Drive Your February Budget — the Connection Most Boards Miss"
 description: "Most school boards treat goal-setting and budgeting as separate processes. They're not. Here's how to connect your January goals to your February budget — with real district examples."
