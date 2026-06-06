@@ -126,7 +126,7 @@ The board that connects goal adoption, Progress Monitoring, and budget direction
 
 ---
 
-**Your free CTA:** Reply to this email with the keyword **Launch** and I will send you the 2028 Goal Adoption Toolkit — a sample data packet template, the public hearing format guide with the opening-presentation and on-record-deliberation protocol, the board deliberation protocol with the four-question framework, and the sixty-day goal adoption timeline calendar. Everything your board needs to move from data packet to final vote.
+**Your free CTA:** Reply to this email with the keyword **GoalAdoptToolkit** and I will send you the 2028 Goal Adoption Toolkit — a sample data packet template, the public hearing format guide with the opening-presentation and on-record-deliberation protocol, the board deliberation protocol with the four-question framework, and the sixty-day goal adoption timeline calendar. Everything your board needs to move from data packet to final vote.
 
 **Your paid CTA:** I offer the 2028 Governance Launch Coaching Package for boards ready to execute this with direct support — three virtual sessions: Session one covers the data packet review and goal adoption work session facilitation. Session two covers the public hearing and public comment response. Session three covers the final goal adoption meeting and the transition into the 2028 Progress Monitoring cycle. Reply to this email for pricing and availability.
 

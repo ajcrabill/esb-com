@@ -16,103 +16,122 @@ March 22, 2028
 
 ---
 
-Your board has done the work. The January budget direction set priorities. The February crosswalk mapped allocations to goals. The March alignment review confirmed the corrections and validated the Progress Monitoring data. The Q1 Governance Health Check asked whether the framework worked. The community engagement closeout published the input impact statement and the board president's letter.
+The March arc is almost closed.
 
-Now the month closes with one thing remaining: the formal adoption vote in April.
+Your board has completed the budget alignment review. You have conducted the Q1 governance health check. You have documented the community input, produced the board response, and prepared the adoption night presentation framework.
 
-Here is exactly what your board needs to have ready for that meeting — the three written findings, the formal board actions, and the governance transition that follows the vote.
+Three pieces of the March arc are behind you. One remains. And the April adoption vote is roughly four weeks away.
 
----
+This piece is the preview — the checklist of what your board needs to have ready before the adoption vote, the three findings that every board should be able to state before it votes, and the transition from the budget season to the spring governance execution cycle.
 
-**Finding one: The Budget Alignment Finding**
-
-This is the finding that answers the question your board has been working since January to answer: Is the proposed budget aligned with the board's adopted goals?
-
-The Budget Alignment Finding is a single written document that the board reads into the record at the adoption meeting. It has three sections.
-
-**Section one: The alignment methodology.** A one-paragraph description of how the board evaluated alignment. The board received the preliminary budget in February. The board built a goal-to-budget crosswalk. The board reviewed the crosswalk and produced written findings. The board directed the superintendent to make corrections for any identified gaps. The superintendent submitted a revised budget. The board conducted a March alignment review using the two-question protocol — did the superintendent address every February correction, and does the March Progress Monitoring data validate the allocations?
-
-**Section two: The alignment result.** A statement of whether alignment was confirmed or gaps were identified. If alignment was confirmed, the finding states that the proposed budget is aligned with the adopted goals and the board recommends adoption. If gaps were identified, the finding names each gap, describes the board's direction to the superintendent, and states the timeline for resolution — including whether the resolution will occur before or after the adoption vote.
-
-**Section three: The crosswalk attachment.** The one-page crosswalk matrix showing each adopted goal, the percentage of the general fund allocated to that goal, and the total dollar amount. This is the same document the board reviewed in February, updated with any adjustments the board directed in March.
-
-I have watched boards in **Lawrence (KS)** use this finding format for their adoption meetings. The board president reads the one-page finding aloud — it takes three minutes — and the board votes on the adoption motion that includes the finding as an exhibit. The finding becomes part of the official record. Every person who attends the hearing or reads the meeting minutes can see exactly what the board found and how the board reached its conclusion.
-
-**Finding two: The Governance Health Check Finding**
-
-This is the finding that answers the question about the board itself: Did the board's governance framework produce better budget decisions than the board would have made without it?
-
-The Governance Health Check Finding is shorter. It has two sections.
-
-**Section one: The Health Check result.** A statement of which outcome the Q1 Health Check produced — Outcome One (framework functioning), Outcome Two (gaps identified for correction), or Outcome Three (framework not functioning). The statement includes the date the board conducted the Health Check and a brief summary of the evidence the board reviewed.
-
-**Section two: The corrective actions, if any.** If the Health Check produced Outcome Two or Three, the finding names the gaps the board identified and the actions the board is taking to correct them before the Q2 Health Check. If the Health Check produced Outcome One, the finding states that the board confirmed the framework is functioning and will continue executing the governance calendar.
-
-The Governance Health Check Finding serves one purpose: it establishes a baseline. The board records where the framework stands in Q1. When the board conducts the Q2 Health Check in June, the board can compare the Q2 finding to the Q1 finding and measure whether the framework improved, held steady, or declined.
-
-**Finding three: The Community Engagement Finding**
-
-This is the finding that answers the question for the community: Did the board hear what the community said, and did the community's input change the budget?
-
-The Community Engagement Finding has three sections.
-
-**Section one: The engagement summary.** A one-paragraph description of the engagement activities the board conducted during the budget cycle — the February public hearing, the online survey, any town hall sessions, and the March community engagement closeout. The section includes the dates, formats, and participation counts.
-
-**Section two: The Community Input Impact Statement.** The two-column table that lists every theme the community raised and the board's response. This is the same document the board published as part of the March 15 closeout. It becomes part of the adoption record.
-
-**Section three: The board's response to any post-hearing input.** If the April public hearing produced input the board had not previously addressed, this section describes how the board considered that input and whether it affected the final budget.
+If your board has followed the arc from January through March, this piece is confirmation that you are on track. If your board has gaps — a skipped step, a missing document, an unanswered question — this piece is the catch-up window before the final deadline.
 
 ---
 
-**The formal board actions at the adoption meeting**
+**The three findings your board should have ready**
 
-The adoption meeting itself follows a standard sequence. Here is what your board president should expect.
+Before the April adoption vote, the board should be able to state three findings with confidence. These findings are not a presentation the board delivers to the community — though the community should be able to answer them after watching the adoption discussion. They are internal findings, the board's own assessment of the budget it is about to adopt.
 
-**Action one: The public hearing.** The board conducts the public hearing as described in the March 15 piece. The board president opens with the three-slide presentation. The board receives public comment. The board president closes with the commitment to respond in writing.
+**Finding one: The budget is aligned to the adopted goals.**
 
-**Action two: The budget presentation.** The superintendent presents the final proposed budget — the document that incorporates every adjustment the board directed during the March alignment review. The presentation covers the total budget, the major changes from the preliminary budget, and the closing fund balance.
+This finding requires evidence. The crosswalk is the evidence.
 
-**Action three: The board findings.** The board president — or the finance committee chair — reads each of the three findings into the record. The board votes to adopt the findings as part of the meeting record.
+Before the vote, the board should confirm that the final budget crosswalk maps each adopted goal to a visible allocation, that the allocation is proportional to the goal's priority, and that no goal is funded below the level the board indicated in its January budget direction.
 
-**Action four: The adoption resolution.** The board president reads the adoption resolution, which states that the board has reviewed the proposed budget, found it aligned with the adopted goals, and adopts it as the official budget for the fiscal year. The board votes.
+If the crosswalk shows a goal with no identifiable allocation, the board should not adopt the budget until it understands why. The goal may be funded through a general fund line that is difficult to disaggregate. Or the goal may not have received a specific allocation — in which case the board needs to decide whether to direct the superintendent to create one or accept the general fund approach.
 
-**Action five: The post-adoption transition.** The board president acknowledges the transition from the budget adoption season to the spring governance execution phase. The board president previews the Q2 governance calendar — the May Progress Monitoring check-in, the June committee reports, and the superintendent evaluation kickoff.
+A board that can state Finding One with confidence has done its budget oversight work.
 
-A board that follows this sequence enters the adoption meeting knowing exactly what will happen, in what order, and what each action produces. A board that arrives without the three findings drafted enters the meeting with unresolved questions — and the adoption vote becomes a procedural exercise rather than a governance milestone.
+**Finding two: The community's input was heard and addressed.**
 
----
+This finding requires two documents. The community input summary — organized by goal area with frequency analysis — and the board response document — three columns showing what the community said, what the board decided, and why.
 
-**The spring governance transition**
+Before the vote, the board should confirm that the response document is complete and published. Not drafted. Published. On the district website, attached to the board agenda, or distributed through the board's communication channels.
 
-The adoption vote is the end of the budget season. It is also the beginning of the spring governance execution phase.
+If the response document is not published, the board should publish it before the adoption vote — even if that means a special communication the week before adoption. Publishing after the vote tells the community that its input was processed after the decisions were made. That is not closing the loop. That is closing the door.
 
-Here is what changes after the adoption vote.
+**Finding three: The board has a monitoring plan for the adopted budget.**
 
-**The governance focus shifts from resource allocation to performance monitoring.** The board has adopted the budget. The allocations are set. The board's spring work is about monitoring whether those allocations produce the outcomes the board expects — through the Progress Monitoring cadence that begins in May and continues through the end of the school year.
+This is the finding most boards miss.
 
-**The board's committee structure shifts.** If the board uses committees — finance, policy, curriculum — the committee work for the spring focuses on implementation rather than planning. The finance committee monitors budget execution. The curriculum committee monitors Progress Monitoring data. The policy committee reviews any policy changes needed to support the adopted goals.
+Most boards adopt the budget and move on. The budget becomes the finance director's responsibility until the following February, when the board reviews the next year's preliminary budget.
 
-**The board's community engagement shifts.** The spring engagement is not about gathering budget input. It is about reporting results. The board publishes a spring governance report to the community — a one-page document that shows what the board adopted in the budget, what the board is monitoring, and what the community can expect in the fall.
+A board that adopts a budget without a monitoring plan has adopted a document, not a governance commitment.
 
-I have watched boards in **Albemarle County (VA)** handle this transition well. The board president opens the meeting following the adoption vote with a two-minute statement that names the three governance priorities for the spring — Progress Monitoring, committee oversight, and community reporting — and confirms the dates for each on the governance calendar. The transition is explicit and intentional. The board does not drift into the spring. The board leads.
+Before the vote, the board should confirm when the first post-adoption monitoring check-in will occur — typically May or June, during the regular Progress Monitoring cycle — and what document will serve as the monitoring baseline. The crosswalk is that document. The board's adoption resolution should reference the crosswalk as the governing document for budget monitoring throughout the fiscal year.
 
----
-
-**Next week: From budget to data**
-
-The adoption preview answers where the board has been. Next week's piece answers where the board is going — the transition from the budget adoption season to the spring data review cadence.
-
-The spring Progress Monitoring check-in shifts the board's work from asking whether the allocation is correct to asking whether the allocation is working. Next week, I will show you how to make that transition without losing momentum — and how the crosswalk you built in February becomes the foundation for the data review you will conduct in May.
-
-Subscribe at effectiveschoolboards.com to continue the series.
+A board that can state all three findings — goal alignment, community engagement, and monitoring plan — enters the adoption vote ready to govern. A board that cannot state one of these findings has work to do before April.
 
 ---
 
-**Your free CTA:** Reply to this email with the keyword **PrevAdopt** and I will send you the Budget Adoption Meeting Kit — the three written finding templates (Budget Alignment Finding, Governance Health Check Finding, Community Engagement Finding), the board president's adoption meeting agenda with the five-action sequence, the adoption resolution template, and the spring governance transition statement template. Use it to prepare for the April adoption vote with the full governance framework in place.
+**The final documents checklist**
 
-**Your paid CTA:** I offer an Adoption Meeting Preparation Coaching Session — a single virtual session with your board president and finance committee chair to review the three findings, finalize the adoption resolution, and prepare the board president's post-adoption transition statement. Reply to this email for pricing and availability.
+The adoption vote requires more than the findings. It requires a complete document package. Here is what the board should have ready by the time the final budget draft is delivered.
 
+**The final budget document.** The complete budget the board will vote to adopt. Published at least two weeks before the vote — three weeks is better. The document should be searchable, navigable, and accompanied by a cover memo from the superintendent naming the significant changes since the February preliminary budget.
+
+**The final goal-to-budget crosswalk.** The updated crosswalk reflecting the final allocations. This document should be attached to the adoption resolution so it becomes an official governance record, not a one-time analysis tool.
+
+**The board's written findings from the March alignment review.** The confirmation that the board reviewed the revised budget and found it sufficiently aligned. If the alignment review identified remaining items, those should be listed with the superintendent's plan for addressing them.
+
+**The community input summary and board response document.** Both published before the vote.
+
+**The pre-vote Q&A session agenda.** The board should schedule a thirty-minute agenda item — or a separate board caucus — where board members can ask questions about the final budget draft before the adoption vote. The superintendent and finance director attend. No votes are taken. The purpose is to surface and resolve questions before the public vote.
+
+I have watched a board schedule the pre-vote Q&A for the meeting immediately preceding the adoption meeting. Board members arrived with their marked-up copies of the final budget, asked eleven questions in twenty-eight minutes, and had every answer before the roll call. The adoption vote took six minutes.
+
+I have watched another board skip the pre-vote Q&A. The adoption discussion lasted forty-three minutes because board members were reading the final budget for the first time during the meeting.
+
+The choice is straightforward. Schedule the Q&A.
 
 ---
 
-*This piece continues the March 2028 Budget Alignment + Governance Health Check arc. It builds from the community engagement closeout ([view the March 15 piece](/public-hearing-preparation-march-2028/)), the Q1 Governance Health Check ([view the March 8 piece](/q1-governance-health-check-march-2028/)), and the Budget Alignment Review ([view the March 1 piece](/budget-alignment-review-march-2028/)). The three findings format introduced here is the capstone of the budget adoption process that began with the January budget direction. The March 29 piece picks up from here with the spring governance transition — from budget to data. Subscribe at effectiveschoolboards.com to continue the series.*
+**The transition from budget season to spring governance execution**
+
+The April adoption vote is not the end of the board's budget responsibility. It is the beginning of the board's monitoring responsibility.
+
+Starting in April, the governance calendar shifts from budget development to execution monitoring. The crosswalk your board built in February and validated in March becomes the reference document for every Progress Monitoring check-in through the rest of the year.
+
+Here is what the transition looks like.
+
+**April: Adoption vote and post-adoption debrief.** The board adopts the budget and the crosswalk as a package. Within two weeks of adoption, the board president holds a thirty-minute debrief with the superintendent and finance director to confirm the monitoring cadence for the rest of the year.
+
+**May: Progress Monitoring check-in with budget overlay.** The board reviews third-quarter data through the standard Progress Monitoring format. But this time, the board also asks: *Is the budget we adopted producing the outcomes we intended?* If a goal is on track, the board confirms the strategy. If a goal is behind, the board asks whether the funding is adequate — not in general terms, but against the specific crosswalk allocation.
+
+**June: Year-end governance review.** The board reviews the full year's Progress Monitoring results and asks: *Which goals did we meet? Which goals did we miss? And what does that tell us about the budget we adopted?* The June review produces findings that feed into the fall budget development cycle for the following year.
+
+**September: Board self-evaluation.** The board conducts its annual self-evaluation. The Q1, Q2, and Q3 governance health check results — combined with the Progress Monitoring outcomes and the budget adoption review — provide the data the board needs to assess its own performance.
+
+The transition from budget season to spring governance execution is not an event. It is a shift in focus. The budget is adopted. The goals remain. The board's job shifts from allocation to monitoring — from building the document to holding the system accountable to it.
+
+---
+
+**The final week before the vote**
+
+Let me close with practical guidance for the week before the adoption vote.
+
+**Two weeks before:** The final budget draft is delivered to the board. Each board member receives a printed or digital copy with the cover memo from the superintendent.
+
+**Ten days before:** The pre-vote Q&A session is held. Board members bring their questions. The superintendent and finance director answer them. The board president confirms that every board member's questions have been addressed.
+
+**Seven days before:** The board's response document and the final crosswalk are published on the district website. The community sees the complete document package before the vote.
+
+**The meeting before the adoption vote:** The board president reviews the adoption night agenda with the superintendent. The four-component structure is confirmed. The crosswalk is printed. The community input response is ready.
+
+**Adoption night:** The board executes the four-component discussion. The vote is taken. The budget is adopted.
+
+Your board has been building toward this vote since January. Every governance action — the goals, the budget direction, the crosswalk, the public hearing, the alignment review, the health check, the engagement closeout — was a brick in the foundation that makes the adoption vote possible.
+
+Now close the arc. Adopt the budget. And start monitoring.
+
+---
+
+**Your free CTA:** Reply to this email with the keyword **PrevAdopt** and I will send you the Budget Adoption Preview Kit — the three-findings readiness checklist with evidence prompts and verification steps for each finding, the final documents checklist (six items with deadlines and owner assignments), the pre-vote Q&A session agenda template with sample questions by goal area, the adoption resolution template that references the crosswalk as a governing document, and the post-adoption monitoring calendar for May through September. Use it to close the March arc and enter the adoption vote with every document in place.
+
+**Your paid CTA:** I offer a Pre-Adoption Audit Session — a single ninety-minute virtual session with your board president, finance committee chair, and superintendent to audit your board's readiness for the adoption vote. We will review the three findings, verify the document package, run through the pre-vote Q&A format, and rehearse the adoption night discussion structure. You will leave with a written readiness report that identifies any gaps and a plan to close them before adoption night. Reply to this email for pricing and availability.
+
+---
+
+*This is piece 4 of 5 in the Spring 2028 Governance Execution Cycle — the Budget Alignment + Governance Health Check arc covering March 1 through March 29. It builds on the budget alignment review ([read piece 1](/budget-alignment-review-march-2028/)), the Q1 governance health check ([read piece 2](/q1-governance-health-check-march-2028/)), and the community engagement closeout ([read piece 3](/public-hearing-preparation-march-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
+
+*Backlinks: This post is part of the Spring 2028 Governance Execution Cycle. The crosswalk methodology and budget adoption timeline were established in the February 2028 Budget Adoption arc ([view the capstone](/april-budget-adoption-timeline-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*

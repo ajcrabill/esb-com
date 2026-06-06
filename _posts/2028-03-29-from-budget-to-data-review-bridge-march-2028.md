@@ -16,111 +16,130 @@ March 29, 2028
 
 ---
 
-Your board has completed the budget adoption cycle. The January budget direction set the priorities. The February crosswalk mapped the dollars to the goals. The March alignment review confirmed the corrections. The Q1 Governance Health Check evaluated the framework. The public hearing closed the loop with the community. The three findings are drafted. The adoption resolution is prepared for the April vote.
+Today is the last day of the March arc. The last day of the Budget Alignment and Governance Health Check series. The last day before April brings the adoption vote and the beginning of spring governance execution.
 
-Now comes the question that the entire budget cycle was designed to answer: Does the allocation work?
+Your board has done something uncommon since January. You have executed a complete governance cycle from launch through alignment. Goals were adopted from real data. Budget direction was given. The crosswalk was built, tested against community input, and validated through an alignment review. The board assessed its own performance in a Q1 governance health check. The community engagement loop was closed.
 
-This week, I am showing you how to make the transition from the budget season to the spring data review cadence — and how the crosswalk your board built in February becomes the foundation for every Progress Monitoring check-in through the end of the school year.
+Twelve weeks. Eight distinct governance actions. One connected framework.
 
----
+Now comes the transition.
 
-**Why the transition matters more than the adoption vote**
+The budget season — January through March — was about allocation. The spring governance season — April through June — is about execution. The question shifts from *Are the goals properly funded?* to *Is the funding producing the outcomes we intended?*
 
-The adoption vote is a milestone. It is not the goal.
-
-Here is what I mean. Most boards treat the budget adoption as the finish line. They invest heavily in January, February, and March — the budget direction, the crosswalk, the alignment review — and then they exhale in April. The board adopts the budget, the superintendent executes it, and the board does not look at the allocations again until the next budget cycle.
-
-That pattern misses the point of the entire governance framework.
-
-The crosswalk is not a document the board creates in February and files in April. It is a reference document the board returns to every time the board reviews Progress Monitoring data. The allocation the board approved for early literacy intervention — say, $2.1 million — means nothing in isolation. It means something when the board compares it to the early literacy trajectory data in May and asks: Is $2.1 million producing the growth the board expects?
-
-The adoption vote closes the resource allocation phase. The spring data review opens the performance monitoring phase. The crosswalk is the bridge between them.
-
-Here is exactly what that bridge looks like.
+This piece is the bridge between those two seasons. It names what changes in the board's governance focus, what stays the same, and how the crosswalk your board built in February becomes the monitoring document that powers the next three months of governance.
 
 ---
 
-**The three governance shifts the board makes in April**
+**What changes in the spring governance season**
 
-The transition from the budget season to the data season involves three specific shifts in how the board works.
+Three things shift when the governance calendar moves from budget season to spring execution.
 
-**Shift one: From allocation questions to trajectory questions.**
+**First, the board's primary document changes.**
 
-During the budget season, the board asked: Is the allocation sufficient? Is it aligned with the goal priority? Is it within the guardrails?
+In January through March, the board's primary document was the budget. The budget was the object of the board's oversight — reviewing it, testing it against the goals, aligning it to community input, preparing it for adoption.
 
-During the spring data season, the board asks: Is the trajectory on target? Is the allocation producing the expected growth? If not, what needs to change — the allocation, the strategy, or the target?
+Starting in April, the board's primary document becomes the Progress Monitoring dashboard. The budget is adopted. The goals remain. The question is whether the spending decisions the board made are producing academic results.
 
-The difference is subtle but profound. An allocation question leads to a budget adjustment. A trajectory question leads to a strategic conversation. The board needs both, but they require different meeting formats, different data presentations, and different decision protocols.
+The crosswalk is the bridge between these two documents. When the board reviews the Progress Monitoring dashboard, it should have the crosswalk on the same table. Every data point connects back to a funded goal. Every funded goal connects back to a data point.
 
-**Shift two: From the superintendent as budget presenter to the superintendent as data presenter.**
+A board that reviews data without the crosswalk is a board that measures outcomes without knowing what it invested. A board that reviews the crosswalk without the data is a board that knows what it spent without knowing what it produced. The spring governance season is where both documents come together.
 
-During the budget season, the superintendent presents the budget document, explains the allocations, and responds to board questions about line items and fund balances.
+**Second, the board's rhythm changes.**
 
-During the spring data season, the superintendent presents the Progress Monitoring data, explains the trajectory, and responds to board questions about strategy and outcomes.
+The budget season had a weekly publishing cadence — a new piece every week from January through March. The spring governance season has a monthly monitoring cadence — a Progress Monitoring check-in every four to six weeks.
 
-The shift changes what the board asks for in the meeting packet. During the budget season, the packet contains the budget document, the crosswalk, and the alignment check. During the spring data season, the packet contains the Progress Monitoring data dashboards, the trajectory charts for each adopted goal, and the superintendent's narrative on intervention effectiveness.
+The shift from weekly to monthly can feel like a slowdown. It is not. The monthly cadence is deeper. Each check-in produces a specific decision — continue the strategy, adjust the strategy, or change the goal. The board is not publishing content. It is making governance decisions that affect student outcomes.
 
-**Shift three: From community input gathering to community outcome reporting.**
+**Third, the board's relationship with the superintendent changes.**
 
-During the budget season, the board gathered community input through hearings and surveys. The board incorporated that input into the budget direction and the alignment findings.
+In the budget season, the board gave direction. You told the superintendent what to build and how to allocate. The relationship was directive — the board set the framework, the superintendent executed within it.
 
-During the spring data season, the board reports outcomes to the community. The spring governance report — a one-page document the board publishes after the May Progress Monitoring check-in — shows the community what the board adopted, what the board is monitoring, and what the data shows about student progress toward the goals.
+In the spring governance season, the board shifts from direction to accountability. The superintendent presents the data. The board evaluates whether the execution is producing the intended outcomes. The relationship is evaluative — the superintendent reports progress, the board assesses it.
 
-I have watched boards in **Adams 14 (CO)** make all three shifts effectively. The board president names the transition explicitly at the first meeting after the adoption vote. The April agenda changes from budget-focused items to data-focused items. The committee work shifts from budget review to monitoring review. The community communication shifts from input solicitation to outcome reporting. The transition is visible in every board action from April through June.
+I have watched boards struggle with this shift. Boards that were comfortable giving direction in January are uncomfortable holding to account in May. The transition requires a mindset change. In January, the board was the architect. In May, the board is the inspector.
+
+Both roles are essential. But they require different skills, different questions, and a different relationship with the superintendent. Name the shift now, before April arrives, so your board and your superintendent enter the spring season with aligned expectations.
+
+---
+
+**What stays the same**
+
+Three things do not change when the governance calendar shifts.
+
+**The goals.** Your board adopted measurable student outcome goals in January. Those goals do not change in April. They are the fixed reference point for everything the board does through the rest of the year. If the board changes the goals mid-year, it resets the measurement baseline and loses the ability to track progress over time.
+
+**The crosswalk.** The goal-to-budget crosswalk your board built in February and validated in March is not a budget-season document. It is a year-round governance tool. Every Progress Monitoring check-in should reference the crosswalk. Every conversation about resource allocation should reference the crosswalk. Every decision about program changes should reference the crosswalk.
+
+**The board's commitment to continuous improvement.** The Q1 governance health check was not a one-time exercise. Your board identified one dimension to improve in Q2. That commitment carries into the spring season. The board should be able to answer, by the time June arrives, whether the Q1 commitment produced measurable improvement in how the board governs.
 
 ---
 
 **The spring Progress Monitoring cadence**
 
-Here is the cadence I recommend for the spring data season.
+Here is what the spring governance calendar looks like for a board that has completed the budget season.
 
-**April committee meetings.** The finance committee reviews the first month of budget execution — are the allocations being spent as planned, or are there unexpected variances? The curriculum committee reviews the data presentation format for the May Progress Monitoring check-in — what dashboards will be presented, what trajectories will be shown, and what decision protocol the board will use.
+**April (week of April 10): Adoption vote.** The board adopts the budget and the crosswalk as a package. The adoption resolution names the crosswalk as the governing document for budget monitoring. Within two weeks, the board president holds a thirty-minute debrief with the superintendent and finance director to confirm the monitoring cadence.
 
-**May board meeting: Progress Monitoring check-in.** The superintendent presents the spring Progress Monitoring data for each adopted goal. The board reviews the trajectory against the target. The board asks the trajectory question for each goal: Is the current intervention producing the expected growth? For goals on track, the board confirms continuation. For goals off track, the board directs the superintendent to propose a strategy adjustment before the June meeting.
+**April (week of April 24): Post-adoption Progress Monitoring check-in.** The board's first data review after the budget adoption. This check-in covers whatever data is available — typically end-of-Q3 data or early Q4 data, depending on the district's assessment calendar. The board asks: *Is the data consistent with the allocations in the adopted crosswalk?*
 
-**June board meeting: Final Progress Monitoring report and superintendent evaluation kickoff.** The superintendent presents the year-end Progress Monitoring data. The board reviews whether each goal made progress toward the target. The board uses the year-end data as one of the inputs for the superintendent evaluation. The board also conducts the Q2 Governance Health Check — the second self-assessment of whether the governance framework is functioning.
+**May (week of May 15): Second Progress Monitoring check-in.** This is the board's last meaningful opportunity to influence outcomes before the year-end. The board reviews the most recent data, applies the three-decision protocol, and issues any directed changes the superintendent should implement before the end of the school year.
 
-A board that follows this cadence enters the spring with a clear plan and exits the spring with a complete picture of whether the adopted goals produced results.
+**June (week of June 12): Year-end governance review.** The board reviews the full year's Progress Monitoring results and conducts the final governance check-in of the 2028 cycle. The board answers: *Which goals did we meet? Which goals did we miss? And what does that tell us about the budget we adopted and the decisions we made?*
 
----
-
-**What the board president should do in the week following the adoption vote**
-
-The transition from budget to data does not happen automatically. The board president needs to take three specific actions in the week following the adoption vote.
-
-**Action one: Send the spring governance calendar to the full board.** The calendar names the committee meeting dates, the May Progress Monitoring check-in date, the June year-end reporting date, and the Q2 Governance Health Check date. Every board member knows what is coming and what preparation is expected.
-
-**Action two: Confirm the data presentation format with the superintendent.** The board president meets with the superintendent — or the data team — to confirm what data dashboards will be presented at the May board meeting. The format should match the format the board used for the March Progress Monitoring data in the alignment review. Consistency makes comparison possible.
-
-**Action three: Publish the post-adoption governance report to the community.** The one-page report that shows what the board adopted and what the board will monitor through the spring. The report goes on the district website, the parent communication portal, and the district social media channels.
-
-A board president who takes these three actions within seven days keeps the governance momentum from the budget season alive. A board president who waits until the May agenda needs to be published has already lost the transition.
+The June review produces findings that feed directly into the fall budget development cycle for the 2029 fiscal year. The board carries forward the lessons learned — what worked, what did not, and what the board would do differently — into the next budget season.
 
 ---
 
-**What comes next in this series**
+**How the crosswalk powers spring governance**
 
-The March arc closes with this piece — the transition from budget to data. The April arc opens next week with the adoption vote itself and continues through the spring data review season.
+Let me be specific about how the crosswalk functions as a monitoring tool.
 
-Here is what the April arc covers.
+The crosswalk has three columns: goals, allocations, and percentage of the general fund. In the monitoring context, a fourth column is added automatically: outcomes.
 
-**April 5: Budget Adoption Week — The Vote, the Findings, and the New Governance Phase.** The adoption vote happens this week. The piece covers what to expect in the meeting room, how the adoption resolution reads, and what happens in the governance calendar the day after the vote.
+The board reviews the Progress Monitoring data for each goal. For each goal, the board asks three questions in a specific order.
 
-**April 12: The Q2 Governance Launch — From Adoption to Monitoring in Seven Days.** The board president's post-adoption checklist, the committee reassignments, and the spring governance calendar confirmation.
+**Question one: Is the goal on track?** The data answers this. If the data shows the goal is on track or ahead of trajectory, the board confirms the strategy and moves on.
 
-**April 19: The April Progress Monitoring Check-In — Three Questions the Board Should Ask Every Data Presentation.** The data review protocol that will carry the board through May and June.
+**Question two: If the goal is on track, is the allocation commensurate?** This is a crosswalk question. If the goal is on track and the crosswalk shows the goal received the intended allocation, the board has validated its budget decision. If the goal is on track but the crosswalk shows the allocation was lower than intended, the board learned something about efficiency — the program is producing results with fewer resources than the board expected.
 
-**April 26: The Spring Governance Report to the Community — Format, Content, and Distribution.** The one-page outcome report that closes the loop with the community on the board's work since January.
+**Question three: If the goal is behind trajectory, is the allocation adequate?** This is the hardest question. If the goal is behind and the crosswalk shows adequate funding, the board asks about strategy — not funding. If the goal is behind and the crosswalk shows the goal was underfunded relative to its priority, the board asks about itself — did the board set a priority it was not willing to fund?
 
-Subscribe at effectiveschoolboards.com to continue the series.
-
----
-
-**Your free CTA:** Reply to this email with the keyword **DataPrep8** and I will send you the Spring Governance Transition Toolkit — the board president's post-adoption transition checklist with the three actions, the spring Progress Monitoring cadence template with the committee assignments and meeting dates, the data presentation briefing template for the board president's meeting with the superintendent, and the post-adoption governance report template for the community. Use it to make the transition from budget to data without losing momentum.
-
-**Your paid CTA:** I offer a Spring Governance Transition Coaching Session — a single virtual session with your board president to plan the post-adoption transition, confirm the spring governance calendar, and finalize the data presentation format with the superintendent. Reply to this email for pricing and availability.
-
+The crosswalk transforms the Progress Monitoring conversation from a data briefing into a governance decision. Without it, the board reviews data and either approves or questions. With it, the board reviews data, names the resource connection, and makes a specific decision about what to do next.
 
 ---
 
-*This piece closes the March 2028 Budget Alignment + Governance Health Check arc. It builds from the April Budget Adoption Preview ([view the March 22 piece](/april-budget-adoption-preview-march-2028/)), the community engagement closeout ([view the March 15 piece](/public-hearing-preparation-march-2028/)), the Q1 Governance Health Check ([view the March 8 piece](/q1-governance-health-check-march-2028/)), and the Budget Alignment Review ([view the March 1 piece](/budget-alignment-review-march-2028/)). The spring Progress Monitoring cadence introduced here extends the crosswalk methodology from the February budget arc into the spring execution phase. The April arc opens next week with the start of the Budget Adoption & Q2 Governance Launch series. Subscribe at effectiveschoolboards.com to continue the series.*
+**Closing the March arc**
+
+This is the final piece of the March arc. Five pieces. Five weeks. One connected governance story from budget alignment review through the spring governance transition.
+
+Let me name what this arc produced.
+
+**March 1** — The budget alignment review. The board checked whether the superintendent made the corrections requested in February. The crosswalk was updated. The alignment was confirmed.
+
+**March 8** — The Q1 governance health check. The board turned inward and assessed whether its governance framework produced better budget decisions. Three dimensions, one hour, a specific Q2 commitment.
+
+**March 15** — The community engagement closeout. The board documented the community input, produced the board response, and prepared the adoption night presentation structure.
+
+**March 22** — The April budget adoption preview. The board confirmed the three findings, completed the documents checklist, and scheduled the pre-vote Q&A.
+
+**March 29** — The budget-to-data bridge. The board named what changes, what stays the same, and how the crosswalk powers the spring governance execution cycle.
+
+Five pieces. One arc. A complete bridge from the February crosswalk through the April adoption vote and into the spring Progress Monitoring season.
+
+Your board is ready for April. The budget is aligned. The community has been heard. The governance framework has been tested. The monitoring plan is in place.
+
+Now adopt the budget. And start monitoring.
+
+---
+
+**Your free CTA:** Reply to this email with the keyword **DataPrep8** and I will send you the Spring Data Cadence Kit — the Progress Monitoring dashboard template with a built-in crosswalk reference column for every goal area, the three-question monitoring protocol with decision prompts for each data check-in, the spring governance calendar template (April through June with named outcomes for each meeting), the post-adoption debrief agenda for the board president's thirty-minute check-in with the superintendent, and the year-end governance review facilitator's guide for June. Use it to transition from budget season to data-driven governance execution.
+
+**Your paid CTA:** I offer a Spring Governance Coaching Package — three virtual coaching sessions covering the April adoption vote preparation (Session 1, April), the May Progress Monitoring check-in with crosswalk overlay (Session 2, May), and the June year-end governance review (Session 3, June). Each session is sixty minutes and includes a written summary with findings and recommendations. Reply to this email for pricing and availability.
+
+---
+
+*This closes the Spring 2028 Budget Alignment + Governance Health Check arc — five pieces covering the budget alignment review ([read piece 1](/budget-alignment-review-march-2028/)), the Q1 governance health check ([read piece 2](/q1-governance-health-check-march-2028/)), the community engagement closeout ([read piece 3](/public-hearing-preparation-march-2028/)), the April budget adoption preview ([read piece 4](/april-budget-adoption-preview-march-2028/)), and the budget-to-data review bridge (this piece).*
+
+*The arc built directly from the February 2028 Budget Adoption "Crosswalk" arc ([view the capstone](/april-budget-adoption-timeline-2028/)), which itself built from the January 2028 Launch Arc ([view the capstone](/january-budget-direction-q1-governance-calendar-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
+
+*What comes next: April brings the adoption vote and the first post-adoption Progress Monitoring check-in. The April-June 2028 Data-Driven Execution arc will cover the spring monitoring season through June. Subscribe at effectiveschoolboards.com to continue the series.*
