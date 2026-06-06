@@ -6,7 +6,7 @@ description: "Your board adopted goals in January. Now the first data check-in i
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
-permalink: /february-first-data-check-in-budget-alignment/
+permalink: /first-data-review-2027-february/
 ---
 
 **Your First Data Check-In Is Here — Does Your Budget Match What the Data Says?**
