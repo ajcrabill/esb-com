@@ -96,4 +96,4 @@ Make sure your board goes through it. The rest of the year depends on it.
 
 ---
 
-*This continues the January Execution Arc. Last week covered the organizational meeting (Jan 4) and the governance calendar (Jan 6). Wednesday's piece starts the superintendent evaluation cycle. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
+*This continues the January Execution Arc — building directly on December's Year-End Governance Reset arc that laid the foundation for the year ahead. Last week covered the organizational meeting (Jan 4) and the governance calendar (Jan 6). Wednesday's piece starts the superintendent evaluation cycle. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
