@@ -80,4 +80,4 @@ Which opening tells your community that governance works?
 
 ---
 
-*This is the third piece in the March 2028 arc. Next week: April Budget Adoption Preview — the three findings your board needs before it can adopt.*
+*This is the third piece in the March 2028 arc. It builds on the budget alignment review ([read piece 1](/budget-alignment-review-march-2028/)) and the Q1 governance health check ([read piece 2](/q1-governance-health-check-2028/)). Next week: April Budget Adoption Preview — the three findings your board needs before it can adopt. Subscribe at effectiveschoolboards.com to continue the series.*
