@@ -12,103 +12,101 @@ permalink: /superintendent-evaluation-day-june-2028/
 
 **Superintendent Evaluation Day — Process, Rubric, Written Findings, and Board Vote**
 
-2028-06-14
+June 14, 2028
 
 ---
 
-The preparation is done.
+Last week I showed you the preparation sequence — framework review, timeline confirmation, rubric alignment, and evidence file compilation. That is the work the board does before the evaluation.
 
-Your board spent last week mapping the evaluation focus memo to the rubric. You built the evidence package — Progress Monitoring findings, Budget Outcome Review, Q2 Progress Report, the superintendent's year-end trajectory narrative. You aligned on the three-phase conversation structure. The board president shared a consolidated preview with the superintendent so there would be no surprises.
+This week I am showing you what the evaluation looks like when it is done well.
 
-Now the evaluation day is here. Let me walk you through how it should go — and where most boards get it wrong.
+Here is what I have learned about evaluation day from watching hundreds of boards conduct superintendent evaluations.
 
----
+Most boards meet in closed session, go around the table asking each member to share their rating, someone writes the average on a whiteboard, and the board president composes a summary statement that says "the board appreciates your work" and "we look forward to continued progress." The superintendent receives the statement, thanks the board, and every person in the room leaves knowing the evaluation did not change anything.
 
-**The evaluation day has three phases. The first fifteen minutes will determine whether the other two work.**
+That is not an evaluation. That is a performance review designed to avoid discomfort. It avoids discomfort by avoiding substance.
 
-Phase one is the process agreement. The board president opens by stating the purpose — *this evaluation assesses whether the superintendent produced the student outcomes the board identified as most important for 2027-28* — and reviews the protocol. The rubric is on the table. The evidence package is distributed or confirmed already reviewed. The board agrees to the structure before any substantive discussion begins.
-
-I have watched boards in **Olympia (WA)** handle this phase the right way. Their board president spent the first seven minutes of the evaluation meeting reading the protocol aloud. It felt slow to some board members. But the investment paid off: when a board member tried to introduce an observation that was not supported by the evidence later in the meeting, the president pointed to the agreed protocol and redirected the conversation to the rubric. The structure held because the board had affirmed it first.
-
-The boards that skip phase one — the boards that say "we all know why we are here, let us dive in" — do not save time. They lose it. Those boards spend thirty minutes negotiating process while trying to have the substantive conversation at the same time. The evaluation becomes two conversations running in parallel, and neither one produces a clean finding.
-
-Phase two is the rubric discussion. The board moves through each rubric criterion in order. For each criterion, the board president reads the criterion statement, references the evidence from the package, and opens the floor for board member observations.
-
-Here is the rule that matters: every observation must be attached to evidence. No board member introduces a perception that is not supported by the Progress Monitoring data, the Budget Outcome analysis, the Q2 Progress Report, or the superintendent's year-end trajectory narrative.
-
-I have watched boards struggle with this. The struggle is not because board members are unreasonable. It is because every board member walks into the evaluation with observations accumulated over the year — a tense interaction at a board meeting, a decision the member disagreed with, a comment the superintendent made in a private conversation. Those observations feel real to the board member. But they are not evidence of superintendent performance against the adopted goals, and they do not belong in the evaluation.
-
-The board president's job in phase two is to hold the evidence line. When a board member says "I feel like the superintendent has not been responsive to my concerns," the president says "Let us place that observation against the rubric. Which criterion does it fall under? What evidence in the package supports it?" If the observation cannot be placed, it does not enter the evaluation.
-
-I have watched a board in **Wichita Falls (TX)** use a simple check: the board president kept a printed copy of the evidence package and placed a sticky note on the table for each criterion being discussed. When a board member offered an observation, the president said "Which sticky note does that fall under?" It kept the conversation anchored to the rubric and eliminated the drift that turns an evaluation into a list of grievances.
-
-Phase three is the synthesis and vote. The board president or governance committee chair consolidates the discussion into a written finding for each rubric domain — what the evidence showed, what the board concluded, and what the board expects in the coming year. The board votes on the consolidated evaluation.
-
-The vote is not a suggestion. It is the board's formal assessment of whether the superintendent produced the outcomes the board identified as most important for students. Every board member should vote yes or no based on what the evidence showed the board during the discussion — not based on a predisposition formed before the evidence was reviewed.
+A substantive superintendent evaluation follows a structured four-phase process. Let me walk you through each phase.
 
 ---
 
-**What a well-constructed written finding looks like**
+**Phase one: Individual written findings (completed before the meeting)**
 
-The written finding is the most important output of the evaluation day. It is the document the board and superintendent will reference for the next twelve months.
+The individual written findings are the foundation of the entire evaluation. If every board member submits a complete, evidence-supported written finding before the deliberation begins, the evaluation has a high probability of producing a meaningful result. If board members arrive without written findings or with findings that are a paragraph long, the evaluation will default to the strongest voice in the room.
 
-A good written finding has three parts.
+Here is what each board member's written finding should include.
 
-**Part one: The domain finding.** A one-to-two-sentence statement of what the board concluded about the superintendent's performance in each rubric domain. "The board finds that the superintendent demonstrated effective strategic leadership. The district's reading proficiency goal achieved 94 percent of its target, and the superintendent's mid-year adjustment to the intervention strategy was evidence-based and produced measurable improvement from Q2 to Q4."
+For each adopted goal, the member names the year-end data point, states whether it meets, exceeds, or falls short of the target, and provides the specific evidence supporting that assessment. "The third-grade reading proficiency rate is 67 percent, which is two points below the 69 percent target. Spring diagnostic data shows growth from fall baseline but at a rate that, if maintained, will reach the target by October of the next academic year." That is a specific finding supported by evidence.
 
-**Part two: The evidence cited.** The specific data points the board relied on to reach the finding. This prevents the evaluation from being re-litigated later. When the superintendent reviews the finding in July and says "I do not agree with that rating," the board can say "Here is the evidence the board used. Review it and let us discuss whether it supports the finding."
+Then the member names one or two overall patterns they observed across the full year. "The superintendent's quarterly written reports consistently included the data the board requested, and the action items tied to each data point were clear." Or: "The superintendent's community engagement communications decreased noticeably after the December break, and the March town hall attendance reflected that gap."
 
-**Part three: The expectation for the coming year.** The board names what it expects the superintendent to continue, start, or adjust based on the evaluation finding. "The board expects the superintendent to continue the mid-year intervention adjustment process. The board directs the superintendent to include a spring data trajectory analysis in the February budget crosswalk package for the coming year."
+Then the member names one growth area for the superintendent's next year. "The board would benefit from the superintendent bringing a recommended course correction to the board when a goal trajectory is off track, rather than waiting for the board to ask for it."
 
-I have watched a board in **Lincoln (NE)** produce a written finding that ran two pages. It was not long because the board wrote more — it was long because the board wrote a finding for every rubric criterion individually instead of consolidating at the domain level. The superintendent received the finding and said "I am reading a transcript of the meeting, not an evaluation." A domain-level finding is enough. The evidence supports the domain finding. The detail lives in the meeting minutes, not the finding itself.
-
----
-
-**The superintendent's response is part of the evaluation, not an afterthought**
-
-When the board vote is complete, the superintendent receives an opportunity to respond. This is not a concession to the superintendent. It is part of the governance design.
-
-Here is what a good superintendent response looks like.
-
-The superintendent acknowledges the evaluation. The superintendent names what the board identified as areas of strength and areas for growth. The superintendent states agreement or disagreement with specific findings — and if disagreement, provides the superintendent's perspective with evidence. The superintendent closes with a forward-looking statement about what the superintendent will prioritize based on the evaluation.
-
-I have watched a superintendent in **St. Charles (MO)** model this perfectly. The board had identified communication as an area for growth — the superintendent had not provided mid-cycle updates on a specific intervention in a format the board could use. The superintendent said, in the evaluation meeting, "I agree with that finding. I will provide a written update by the fifteenth of each month in a one-page format the board specifies. Let me know what format works." The board president said after the meeting that the response changed the board's relationship with the superintendent — not because the superintendent accepted the finding, but because the superintendent committed to a specific improvement and asked the board to tell him exactly what he needed to produce.
-
-An evaluation that ends with the vote is incomplete. The superintendent's response closes the loop — it tells the board whether the superintendent interprets the evaluation the same way the board does, and it establishes the working relationship for the year ahead.
-
-Two things kill the superintendent response. One: the board moves to the next agenda item immediately after the vote without leaving space for a response. The superintendent feels the response would be an interruption and says nothing. Two: the board treats the response as a negotiation. A board member says "Well, if you do not agree with that finding, what were we supposed to conclude from the data?" The superintendent's response is not a negotiation. It is an opportunity for the superintendent to receive the evaluation and engage with it. Nothing more.
+The board president collects all written findings, compiles them into a single summary document, and distributes the summary to board members and the superintendent before the deliberation meeting. The summary preserves anonymity of individual ratings if the board has agreed to do so.
 
 ---
 
-**What an evaluation day communicates about the board**
+**Phase two: The deliberation conversation**
 
-Here is what I have learned after two decades of watching boards conduct superintendent evaluations.
+The deliberation is a closed session. The board president facilitates. Every board member participates. The superintendent is present unless the board president determines that a portion of the conversation is more productive without the superintendent present (the board should check legal requirements for executive session attendance in their state).
 
-The evaluation day is not about the superintendent. The superintendent produced the outcomes, presented the data, and will receive the finding. The evaluation day is the board's day. The board demonstrates whether it can conduct a disciplined assessment — one anchored to the adopted goals, supported by evidence, structured by a rubric, and closed with a vote and a response.
+Here is the deliberation structure I recommend.
 
-A board that conducts a disciplined evaluation tells the superintendent: *We know what we are doing. We set goals. We monitored progress. We prepared. We evaluated using the framework we adopted. We will do it again next year, and we will be better at it.*
+**Goal-by-goal review (60 minutes).** The board reviews each adopted goal in order. The president reads the summary finding for the goal. Board members who rated the goal significantly higher or lower than the consensus share their reasoning. The board discusses whether the gap in assessment is a difference in evidence interpretation or a difference in evidence availability.
 
-A board that conducts a sloppy evaluation tells the superintendent: *We are not sure how to do this. We have a rubric somewhere. We collected some data. But we are making it up as we go, and next year might not look any different.*
+If a board member says "I rated this goal as partially met because the spring data showed improvement but the target was not reached," and another board member says "I rated this goal as fully met because the trajectory is on track to reach the target by October," the board discusses whether the evaluation is about the year-end data point alone or about the trajectory toward the target. The board decides together, records the decision, and applies it consistently to every goal.
 
-Your board has already done the work to be the first kind of board. You built the evidence package. You aligned on the rubric. You agreed on the conversation structure. You gave the superintendent a preview. Now execute the evaluation day the way you designed it.
+**Overall patterns review (15 minutes).** The board reviews the patterns that emerged from individual written findings. If three or more board members independently observed the same pattern — positive or negative — the pattern is significant and belongs in the board's written finding. If one board member observed a pattern that no other member saw, the board discusses whether the evidence supports it or whether it was an anecdotally observed exception.
+
+**Growth areas review (15 minutes).** The board reviews the growth areas each member named and identifies the one or two that appear most frequently. The board decides whether to communicate the growth areas as recommendations for the coming year or as requirements that must be addressed to maintain an effective working relationship. This distinction matters. A recommendation is coaching language. A requirement is governance language. Both have a place in an evaluation. The board should know which one it is using.
+
+**Consensus finding composition (remaining time).** The board president or a designated writer drafts the consensus finding language for the overall rating, the goal-by-goal assessment, the commendations, and the growth areas. The board reviews the language, confirms it reflects the deliberation accurately, and approves it.
 
 ---
 
-**Next week: The board self-evaluation**
+**Phase three: The board vote**
 
-The superintendent evaluation is complete. The board has assessed whether the superintendent produced the outcomes the board identified as most important for students.
+The board votes on the evaluation finding in open session. The vote is a public record. Every board member's vote appears in the minutes.
 
-Next week, the board turns the lens on itself and asks whether its own governance produced better decisions than the board would have made without it. The board self-evaluation is not a satisfaction survey. It is an effectiveness assessment. The June 21 piece covers the four-question protocol your board should use.
+Here is what I tell every board I coach about the vote.
 
-The arc is closing. The preparation week produced the framework. The evaluation day produced the finding. The self-evaluation will produce the board's assessment of its own governance. The year-end closeout will close the cycle and prepare the board for the summer arc.
+The vote is not a referendum on the superintendent as a person. It is a verdict on whether the superintendent produced the outcomes the board identified as most important during the governance year that just closed. A "no" vote from a board member who participated in setting the goals, approved the budget that funded them, and reviewed data three times during the year is not a vote against the superintendent. It is a vote indicating that the board's own governance framework did not produce the intended result — and the board has work to do in the coming year to understand why.
+
+I have watched boards in **Lawrence (KS)** conduct a unanimous vote for the superintendent evaluation after a difficult year of data. The board did not vote unanimously because the results were strong. The board voted unanimously because the evidence was clear, the deliberation was thorough, and every board member could explain why the rating was what it was — even the members who wished the results had been better. A unanimous vote on a clear, evidence-based finding is more valuable than a unanimous vote based on a finding designed to avoid conflict.
+
+---
+
+**Phase four: The superintendent's response**
+
+The superintendent receives the written finding and provides a response. The response is included in the board's official evaluation record.
+
+Here is what a productive superintendent response sounds like.
+
+The superintendent acknowledges the finding, identifies the areas where she agrees with the assessment, names the areas where she sees the situation differently, and states what she plans to do differently in the coming year based on the evaluation. The superintendent may also name resources, support, or policy changes from the board that would enable better outcomes.
+
+I tell superintendents: the board's evaluation is one data point in your professional growth. Take it seriously. Respond to it directly. Do not dismiss it. Do not defend against it. Treat it the same way you want the board to treat the student outcome data you present at every board meeting — as information that, when received honestly, makes everyone better.
+
+I tell boards: your evaluation is only as good as the superintendent's ability to act on it. If the evaluation contains a growth area without naming what success looks like, the superintendent cannot act on it. If the evaluation contains a commendation without naming the specific evidence that produced it, the superintendent does not know what to continue doing. A finding that is specific in both directions — where the superintendent exceeded and where the superintendent fell short — is a finding the superintendent can use to improve.
+
+---
+
+**What the board does the day after evaluation day**
+
+The evaluation is complete. The vote is recorded. The superintendent's response is included in the record.
+
+Now the board has one more governance action in the spring cycle: the board self-evaluation.
+
+The superintendent evaluation asked whether the superintendent produced the outcomes the board identified. The board self-evaluation asks whether the board's governance produced better decisions with the framework than it would have made without it.
+
+That question is the subject of next week's piece.
 
 Subscribe at effectiveschoolboards.com to continue the series.
 
 ---
 
-**Your free CTA:** Reply to this email with the keyword **EvalDay** and I will send you the Superintendent Evaluation Day Protocol — the three-phase conversation script with board president prompts for each phase, the written finding template for each rubric domain (three-part format), the evidence citation guide, and the superintendent response protocol. Use it to conduct an evaluation day that produces a clean finding and a productive superintendent response.
+**Your free CTA:** Reply to this email with the keyword **EvalDay** and I will send you the Superintendent Evaluation Day Facilitation Guide — the individual written finding template with goal-by-goal evidence prompts, the deliberation structure with time allocations for each phase, the consensus finding composition template for the board president, and the superintendent response preparation guide. Use it to conduct an evaluation that produces findings the superintendent and the board can both act on.
 
-**Your paid CTA:** I offer a Superintendent Evaluation Day Facilitation — I sit with your board during the evaluation meeting to hold the process, keep the conversation anchored to the rubric, and ensure the written finding is complete and vote-ready. Reply to this email for pricing and availability.
+**Your paid CTA:** I offer a Superintendent Evaluation Day Facilitation — a single closed-session facilitation with your full board to lead the deliberation conversation, compose the consensus finding, and produce the written evaluation record. Reply to this email for pricing and availability.
 
 
 ---
