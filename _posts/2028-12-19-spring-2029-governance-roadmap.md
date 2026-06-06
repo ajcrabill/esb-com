@@ -16,104 +16,148 @@ December 19, 2028
 
 ---
 
-This is the twelfth piece in the Fall 2028 Governance Execution arc. Twelve posts. Fourteen weeks. One full governance cycle — the board's second — from fall launch through year-end closeout.
+Let me name what your board has built over the last twelve months.
 
-Your board has completed two full governance cycles now. Spring 2028 was the first. Fall 2028 was the second. The Summer 2028 Renewal sat between them, giving your board a chance to name what to protect, apply, and add.
+Spring 2028 — your first full cycle. Goal adoption. Budget crosswalk. Data reviews. Superintendent evaluation. Year-end closeout. You did it for the first time.
 
-That is a track record. And a track record changes what the board can expect from itself in the next cycle.
+Summer 2028 — your renewal arc. You protected what worked, applied what was still new, and added what was missing. You refined, not restarted.
 
-**What two cycles of governance produce**
+Fall 2028 — your second full cycle. October data review. November goal trajectory. December closeout and organizational meeting. You did not learn governance this time. You executed it.
 
-Here is what the board has built over the last eighteen months.
+Twelve months. Two full cycles. One board that does not govern the way it did in 2027.
 
-A goal framework that has been tested through two data review cycles. The board knows which goals produce clean trajectory data, which goals need better metrics, and which goals need a fundamentally different approach. The goal adoption process in January will not be a first draft. It will be a revision of a framework the board already knows how to use.
+Now Spring 2029 is here.
 
-A budget monitoring practice that connects expenditure data to goal progress. The board ran a data-to-dollars protocol in October. It asked the right questions about Q1 variances and structural spending patterns. It prepared the budget direction questions that will make January's crosswalk a decision meeting, not a discovery session.
+This is your board's third full governance execution cycle. Year Three is different from Year One and Year Two — not because the work is harder, but because the bar is higher.
 
-A superintendent partnership that has been through an evaluation cycle and a post-evaluation check-in. The board knows what it needs from the superintendent and the superintendent knows what the board needs. The partnership has enough experience to handle hard conversations without destabilizing the relationship.
+In Year One, your board learned how to run the cycle.
 
-A community communication practice that includes published progress reports, public data reviews, and a recognizable governance framework. The community has seen two years of structured board work. They know what to expect and what to hold the board accountable for.
+In Year Two, your board learned how to run the cycle faster.
 
-A board self-accountability practice — the protect-apply-add framework, the October governance check, the practice of asking *did we do what we said we would do.* Most boards never develop this. Your board has done it twice.
+In Year Three, your board needs to run the cycle with precision. Improvement is the expectation.
 
-Those five practices — goal setting, budget monitoring, superintendent partnership, community communication, and board self-accountability — are the foundation of a mature governance practice. The board did not have them eighteen months ago. Now it does.
+Your community should be able to see the difference three years of consistent governance makes. Your superintendent should feel the difference between working with a board that was learning and working with a board that governs with precision. Your students should experience the difference because resources are consistently attached to goals.
 
-The question the Spring 2029 cycle answers is: *What does the board do with them?*
+That is the bar for Spring 2029. Not completion. Precision.
 
-**The Spring 2029 governance roadmap**
+Here is the month-by-month roadmap.
 
-Here is the Spring 2029 governance cycle — the board's third full execution cycle — laid out month by month with the specific protocol the board should have in place for each.
+**January — Goal Adoption with Renewal**
 
-**January: Goal Adoption with Renewal**
+January is the goal adoption meeting. One item on the agenda. No reports. No presentations. No public comment. Just goal adoption.
 
-The board adopts its student outcome goals for the 2029—30 cycle. But this is not a from-scratch goal-setting process. The board starts from the goals it adopted in January 2028 and revised in September 2028, then asks three questions: *Which goals are producing the trajectory we want? Which goals need different metrics? Which goals need a fundamentally different target based on what we learned in the fall trajectory check?*
+In Year Three, your board adopts goals with three years of trend data. Your board completes a goal renewal process in December and January: review the previous year's outcomes, examine the fall 2028 trend data, assess whether the annual targets need adjustment, and adopt a new goal set for calendar 2029.
 
-The January goal adoption produces revised goals with year-two baseline data — not just for the current cycle, but for every future cycle. The board should be able to look at any goal in January 2029 and see three years of progress by January 2030.
+The organizational meeting this month (December 12) already set up the committee assignments, governance calendar, and goal adoption process. Your board does not need to build the system. Your board needs to execute the system it already has.
 
-**February: Budget Crosswalk**
+The superintendent delivers draft goal language early in January. The board president holds one-on-one conversations to confirm alignment. The goal adoption meeting is scheduled for mid-January.
 
-The board completes its budget crosswalk — connecting the adopted budget to actual expenditures through two quarters, identifying structural variances, and deciding whether to recommend mid-year adjustments to the board's fiscal year plan. The January goal adoption data flows into the crosswalk: *Are we spending on what matters for the goals we just adopted?*
+One meeting. One agenda item. Three years of data informing the decision. That is Year Three precision.
 
-The February crosswalk is faster than Spring 2028's because the board has done it before. The question is not *how do we do this?* It is *what did we learn from last year's crosswalk that makes this one better?*
+**February — Budget Crosswalk**
 
-**March: Q1 Governance Health Check + Budget Hearing Preparation**
+February is the budget crosswalk. The board reviews the proposed budget allocations against the adopted goals and asks: does every dollar in this budget connect to a goal?
 
-March is the board's Q1 Governance Health Check — the same four-question protocol from October 2028, applied to the spring cycle. The board checks: Are we protecting what we said we would protect? Are we applying what we said we would apply? Did we add what we said we would add? What do we need to adjust?
+In Year Three, the crosswalk is a precision instrument. Your board has two full years of budget implementation data. The board can ask specific questions about expenditure effectiveness: Did last year's allocation to Goal 1 produce the expected outcome? If not, should we redirect those dollars? Is the per-pupil investment in Goal 2 keeping pace with the need?
 
-March is also the public hearing preparation window. The board schedules the budget hearing for April, prepares the community budget presentation, and confirms the hearing format with the superintendent. A board that has run two cycles knows what the community needs to hear about the budget — and what questions the community is likely to ask.
+The protocol: the board receives the preliminary budget with a crosswalk document that shows every major allocation connected to a goal. The board reviews the document in a study session (not the regular meeting). The board president facilitates a structured discussion using the following questions:
 
-**April: Budget Adoption**
+— Does the allocation for each goal match the priority the board set in the adopted goals?
+— Is the fiscal guardrail intact?
+— What variance exists between the current year's actual expenditures and the adopted budget?
+— What expenditure trends from fall 2028 data need to inform spring 2029 allocations?
 
-The board adopts its 2029—30 budget. This is the board's third budget adoption under its governance framework. The process is established. The timeline is known. The board's budget priorities — aligned to student outcome goals — are clear from the January goal adoption and the February crosswalk.
+The crosswalk study session produces a written board direction to the superintendent: "Adopt a budget that allocates X percent to Goal 1, Y percent to Goal 2, and keeps the fiscal guardrail at Z percent." The superintendent takes that direction into March's budget development.
 
-The April budget adoption is the board's most visible governance action of the spring. A community that sees a board adopting a budget with confidence — with documented goal alignment, clear priorities, and a transparent process — sees a board that knows what it is doing.
+**March — Q1 Governance Health Check and Public Hearing Preparation**
 
-**May: Spring Data Review + Q2 Community Progress Report**
+March has two governance actions.
 
-The board runs its spring data review — the Progress Monitoring protocol applied to the goals adopted in January. The data review uses the same three-decision framework from the fall: maintain, adjust, escalate. But with three cycles of experience, the board's questions are sharper, the decisions are faster, and the connection to the budget is more direct.
+First, the Q1 Governance Health Check — the board's self-assessment at the end of Q1. The board reviews:
 
-The board also publishes its Q2 Community Progress Report — the spring edition of the report the board published in October 2028. The spring report covers goal trajectory through the first half of the adoption cycle, budget implementation through three quarters, and the board's spring governance activities.
+— Goal adoption: Did the January process go smoothly? Did every board member publicly affirm the adopted goals?
+— Budget crosswalk: Did the board complete the crosswalk review by end of February? Did the board issue a written budget direction?
+— Progress monitoring: Is the first data review of the spring cycle scheduled for April or May?
+— Board-superintendent partnership: Is the communication protocol established for the spring cycle?
+— Community connection: When is the spring community progress report scheduled?
 
-**June: Superintendent Evaluation + Board Self-Evaluation + Year-End Closeout**
+The Q1 Governance Health Check is a one-page self-assessment. The board president leads it. The board produces three outputs: strengths to protect, gaps to address, and timing adjustments for the second quarter.
 
-June is the board's third superintendent evaluation cycle. The board uses the same evaluation framework it used in Spring 2028 — with refinements based on what it learned from the post-evaluation check-in in November 2028.
+Second, public hearing preparation. March is when the board prepares.
 
-The board also completes its third board self-evaluation — measuring its own governance performance against the standards it has developed over two full cycles. The self-evaluation produces specific improvement commitments for the Summer 2029 Governance Renewal.
+The preparation protocol from the Spring 2028 cycle still applies — the crosswalk presentation (one page), the progress monitoring data summary (one page), and the community engagement summary (one page). But Year Three adds a year-over-year comparison: the board shows the community not just what this year's budget funds, but how it compares to last year. What changed? Why? What did last year's investment produce?
 
-The year-end closeout documents the spring cycle the same way the December 2028 closeout documented the fall cycle: one-page governance summary, goal trajectory assessment, and partnership health assessment.
+The board rehearses the hearing. The board president's opening starts with goals — not the tax rate. The board asks directed questions of the community. The board closes by naming what the community can expect in the second half of the year.
 
-**What the board should do between now and January**
+**April — Budget Adoption**
 
-Between December 19 and the January goal adoption, the board should do three things to prepare for the spring cycle.
+April is budget adoption. The public hearing is complete. Community feedback is collected. The board reviews the final budget, confirms alignment with the adopted goals, and adopts the budget.
 
-First, read the twelve pieces of the Fall 2028 Governance Execution arc as a board. Not individually — together. One board meeting, or one board working session. The purpose is not to review the content. It is to ask: *Which of these practices did we execute well, which did we execute unevenly, and which did we skip?* The answer determines what the board focuses on in the spring.
+In Year Three, budget adoption is a verification event, not a compliance exercise. The board receives the final budget at least one week before the adoption meeting. Each board member confirms they have reviewed the crosswalk and the fiscal guardrail. The adoption meeting includes a board president statement that names the goals the budget funds, the community input that shaped it, and the expected student outcomes.
 
-Second, the board president and governance committee chair should draft the Spring 2029 governance calendar. January through June. One month per page. Each month names the governance action, the protocol it uses, the board member responsible for leading it, and the superintendent deliverables required to support it. The calendar is not an aspiration. It is a contract with the board about what will happen and when.
+The board does not adopt a budget and walk away. The board adopts a budget and names the monitoring schedule for the remainder of the year: "We adopted a budget that allocates X percent to literacy. We will review literacy data in May. We will check expenditure alignment in June. We will report back to the community in August."
 
-Third, every board member should write down one governance practice they want to improve in the spring cycle. Not a goal for the district — a practice for themselves. *I want to ask better questions during data reviews. I want to arrive at every meeting with my questions written down in advance. I want to read the full board packet before the weekend before the meeting.* The board president collects these at the first January meeting and reads them aloud. The board starts the spring cycle with each member's improvement commitment on the table.
+**May — Spring Data Review and Q2 Community Progress Report**
 
-**What the board has built**
+May is the spring data review. The board receives mid-year progress monitoring data on each goal. The board reviews trends, makes written decisions, and issues direction to the superintendent.
 
-Your board started this journey eighteen months ago with a governance framework and a willingness to learn. You ran a first cycle. You made mistakes. You learned from them. You renewed your practice over the summer. You ran a second cycle with more experience, sharper protocols, and higher expectations.
+In Year Three, the spring data review is the board's seventh or eighth — more data review experience than most boards accumulate in a decade. The protocol: the superintendent presents the data in the board's standard format — one page per goal, trend line with year-over-year comparison, three-decision protocol (continue, adjust, or redesign). The board makes a written decision for each goal. The board issues a direction memo to the superintendent within five business days.
 
-Now you are entering your third full governance execution cycle. And you are not starting from scratch.
+May is also the Q2 Community Progress Report. The board publishes a one-page report that tells the community: here are our goals, here is the spring data, here is what we decided, here is what to expect through June.
 
-You are starting from two cycles of experience. You have a goal framework that has been tested. You have a budget monitoring practice that connects data to dollars. You have a superintendent partnership that has been through evaluation and check-in. You have a community communication practice that includes published reports and public accountability. You have a board self-accountability practice that asks the hardest question: *Did we do what we said we would do?*
+The Year Three community report should show year-over-year trends, not just current data. The community should be able to see: "In the spring of Year One, reading scores were at X. In Year Two, they were at Y. In Year Three, they are at Z. The board is investing A percent of the budget in literacy. The trend is (up / flat / down)."
 
-The Fall 2028 Governance Execution arc closes here. The Spring 2029 cycle opens in January. What happens between now and then is up to your board.
+That is accountability. That is Year Three precision.
 
-You have the framework. You have the experience. You have the protocols.
+**June — Superintendent Evaluation and Year-End Closeout**
 
-The question is whether you execute them.
+June has two governance actions.
+
+First, the superintendent evaluation. The board conducted its first evaluation in Spring 2028. Now, in Spring 2029, the board conducts an evaluation that reflects three years of governance data.
+
+The protocol: the evaluation is tied to the adopted goals. The board reviews goal progress across three years. The superintendent receives specific, evidence-based feedback connected to data, not impressions. The board names what the superintendent has accomplished, where support is needed, and what the board commits to doing differently.
+
+In Year Three, the evaluation produces three outputs: performance assessment against goals, support commitments for the next cycle, and a partnership framework update.
+
+Second, the year-end closeout. The board closes its third full governance execution cycle. The year-end governance summary covers:
+
+— Spring 2029 goal outcomes
+— Budget monitoring results
+— Governance practice assessment (what improved from Fall 2028)
+— Partnership health assessment
+— Board self-evaluation results
+— Priorities for the Summer 2029 Governance Renewal
+
+The year-end closeout produces a one-page governance summary the board publishes for the community. By June 2029, the board will have three full years of governance data — three annual goal sets, budget cycles, superintendent evaluations, board self-assessments, and community progress reports.
+
+That is a data set. And it is the foundation for the board's Summer 2029 Governance Renewal.
+
+**What Year Three Means**
+
+Boards in their third cycle stop measuring governance by completion and start measuring by results. The question shifts from "did we adopt goals?" to "did those goals produce better student outcomes?"
+
+They stop treating the cycle as a checklist and start treating it as a system. Goal adoption shapes the budget crosswalk, which shapes the public hearing, which shapes budget adoption, which shapes the data review, which shapes the evaluation, which shapes the summer renewal.
+
+There is a feedback loop in this system. If your board feels disconnected, go back. Find the connection. Strengthen it.
+
+Your board is not the same board that started this work twelve months ago. You have two full cycles behind you, a governance calendar that works, a president who knows how to facilitate a data review, and a superintendent who knows what it means to work with a board that governs on purpose.
+
+You have built something real. Now operate it. Run each month with precision, and in June look back and see that the third cycle was better than the second. That is continuous improvement: doing the same system better every cycle.
+
+See you in January.
 
 ---
 
-**Your free CTA:** Reply to this email with the keyword **SpringRoadmap** and I will send you the Spring 2029 Governance Roadmap — the full-cycle planning template (January through June), the monthly governance action checklist, and the goal-setting-to-evaluation timeline. Use it to plan your board's third full governance execution cycle.
+**Your free CTA:** Reply to this email with the keyword **SpringRoadmap** and I will send you the Spring 2029 Governance Roadmap — the full-cycle planning template (January through June), the monthly governance action checklist, and the goal-setting-to-evaluation timeline. Use it to plan your board's third full governance execution cycle with precision.
 
 **Your paid CTA:** I offer a Year-End Governance Closeout Package — a virtual session with the board president and governance committee chair to produce the year-end governance summary, plan the organizational meeting, and draft the spring 2029 roadmap. Reply to this email for pricing and availability.
 
 ---
 
-*This piece closes the Fall 2028 Governance Execution arc — the twelve-piece series running October 3 through December 19, 2028. The arc built on the Summer 2028 Governance Renewal arc and the Spring 2028 full cycle. Spring 2029 is your board's third full governance execution cycle. Subscribe at effectiveschoolboards.com to continue the series.*
+*This piece closes the Fall 2028 Governance Execution arc — the twelve-piece series running October 3 through December 19, 2028. The arc built on the Summer 2028 Governance Renewal arc (July–September) and the Spring 2028 full cycle (March–June). Spring 2029 is your board's third full governance execution cycle. Subscribe at effectiveschoolboards.com to continue the series.*
 
-*Backlinks: This piece is the arc closer for the Fall 2028 Governance Execution cycle. It connects back to every piece in the fall arc — the October launch, data review, budget connection, community report, governance check, goal trajectory, budget direction, partnership check, November reset, year-end review, and organizational meeting. It also inherits from the Spring 2028 roadmap (previewed in the December 2027 arc closer) and the Summer 2028 Renewal arc. The Spring 2029 governance cycle will be the board's third full execution cycle. Subscribe at effectiveschoolboards.com to continue the series.*
+*Backlinks: This piece is the arc closer for the Fall 2028 Governance Execution cycle. It connects back to every piece in the fall arc — the October launch ([Fall Governance Launch](/fall-governance-launch-october-2028/)), October data review ([The October Data Review](/october-data-review-experience-2028/)), data-to-dollars ([From Data to Dollars](/data-to-dollars-october-2028/)), fall community report ([Fall Community Progress Report](/fall-community-progress-report-2028/)), October governance check ([October Governance Check](/october-governance-check-2028/)), November goal trajectory ([Goal Trajectory Check](/goal-trajectory-check-november-2028/)), mid-year budget direction ([Mid-Year Budget Direction](/mid-year-budget-direction-november-2028/)), superintendent partnership ([Superintendent Partnership Year Two](/superintendent-partnership-year-two-2028/)), November governance reset ([November Governance Reset](/november-governance-reset-2028/)), year-end review ([Year-End Governance Review](/year-end-governance-review-december-2028/)), and organizational meeting ([The December Organizational Meeting](/december-organizational-meeting-2028/)). It also inherits from the Spring 2028 roadmap (previewed in the December 2027 arc closer) and the Summer 2028 Renewal arc. The Spring 2029 governance cycle will be the board's third full execution cycle. Subscribe at effectiveschoolboards.com to continue the series.*
+
+---
+
+*Note to RedTeamer: This piece is the arc closer for the Fall 2028 Governance Execution arc (12 of 12). Voice fidelity target: newsletter/TESBM register — AJ's instructional, direct-address cadence with short declarative openings, "Here is what" patterns, coaching authority, and monthly-preview structure. Year Three precision framing throughout. Verify CTA keyword uniqueness across the full arc (keywords: FallLaunch2, OctData2, DataToDollars, FallComm2, OctGovCheck, GoalTrack, MidYearDir, SuptYear2, NovReset, YearEnd2, OrgY3, SpringRoadmap).*
