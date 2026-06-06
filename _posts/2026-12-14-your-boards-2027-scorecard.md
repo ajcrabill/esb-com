@@ -115,7 +115,7 @@ That's the scorecard. That's the commitment. That's the work.
 
 **Your free CTA:** Reply to this email with the keyword **Measure** and I'll send you the 2027 Progress Monitoring Scorecard Template — a one-page framework for selecting your three to five metrics, setting baselines and targets, and defining your data review cadence.
 
-**Your paid CTA:** Ready to take it further? I offer a half-day Annual Goal Setting & Progress Monitoring Workshop that helps your board build a complete 2027 governance framework — goals, scorecard, data cadence, and accountability structure — in one focused session. Reply to this email for pricing and availability.
+**Your paid CTA:** Ready to take it further? I offer a half-day Progress Monitoring & Scorecard Implementation Workshop that helps your board build a complete 2027 scorecard — metrics, baselines, data cadence, and accountability structure — in one focused session. Reply to this email for pricing and availability.
 
 ---
 
