@@ -71,4 +71,6 @@ Every step built on the one before it. The hearing is where the community gets t
 
 ---
 
-*This is the first piece in the Post-Adoption arc. Next week: Final Budget Adoption — what your board's vote actually commits to.*
+*Read previous: [Leading the Public Hearing](/leading-the-public-hearing-april-2028/) — the five-part hearing structure and the Adams 14 (CO) 45-minute model.*
+
+*This is the first piece in the Post-Hearing Board Actions arc. Next week: Final Budget Adoption — what your board's vote actually commits to.*
