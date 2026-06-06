@@ -2,7 +2,7 @@
 layout: post
 title: "From Year-End to Year Ahead: How DeSoto ISD Used a December Governance Reset to Go From F to B"
 heading: "From Year-End to Year Ahead: How DeSoto ISD Used a December Governance Reset to Go From F to B"
-description: "When I was appointed Conservator of DeSoto Independent School District, I walked into a building that had been rated F — in academics, in finance, and i..."
+description: "How DeSoto ISD went from F to B in academics, finance, and governance through a December governance reset — a case study from AJ Crabill's conservatorship."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
