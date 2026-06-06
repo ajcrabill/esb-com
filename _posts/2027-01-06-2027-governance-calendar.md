@@ -113,4 +113,4 @@ The rest of the year takes care of itself.
 
 ---
 
-*This continues the January Execution Arc. Monday's piece covered the organizational meeting — officers, committees, strategic direction. This piece gives you the calendar that makes that direction real. Check the newsletter archive at effectiveschoolboards.com/newsletter for the complete Q4-to-January journey.*
+*This continues the January Execution Arc — turning your December governance plan into your 2027 governance reality. December's Year-End Governance Reset & 2027 Foundation arc gave you the blueprint — drafted goals, a January agenda, a Q1 plan. January is where you execute it. Catch the full Q4 journey — diagnosis, trust-building, accountability, and reset — in the newsletter archive at effectiveschoolboards.com/newsletter.*
