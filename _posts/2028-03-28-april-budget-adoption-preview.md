@@ -45,14 +45,27 @@ The finding states: "This board finds that the proposed budget reflects the comm
 
 Or: "This board finds that the proposed budget does not directly reflect community input. The board acknowledges this gap and will address it in the June amendment cycle."
 
+**The preparation timeline**
+
+The three findings don't come together the night of the hearing. They come together over the three weeks before it.
+
+**2 weeks before adoption** — Each committee drafts its finding. The goals committee or your board chair drafts the goal alignment finding. The finance committee drafts the fiscal guardrail finding. The board president or community engagement lead drafts the community alignment finding. Assign review to the full board via committee return.
+
+**10 days before adoption** — The superintendent distributes the complete adoption packet: the final budget, the three draft findings, and the public hearing notice. Post the public hearing notice at least 10 days before adoption per open meetings law. This starts the board's independent review period.
+
+**7 days before adoption** — The board's independent review period is open. This is not committee work. This is individual review — each member reads the packet, reviews the three draft findings, and develops questions for the superintendent. The board president meets with the superintendent and committee chairs to confirm the presentation flow and resolve any remaining finding-language questions before the hearing.
+
+**Adoption night** — Five actions, detailed below.
+
 **The public hearing presentation structure**
 
 1. Goals first — President opens by reading the five adopted goals
 2. Crosswalk — Superintendent presents the one-page crosswalk
 3. Progress Monitoring data — March PM data alongside budget allocations
-4. Community questions — Directed questions about trade-offs, not "any questions?"
-5. Findings presented — Board presents each finding in turn
-6. Testimony and adoption
+4. Board Q&A with superintendent — Board members ask clarifying questions before opening to the public
+5. Community questions — Directed questions about trade-offs, not "any questions?"
+6. Findings presented — Board presents each finding in turn
+7. Testimony and adoption
 
 **The full cycle timeline**
 
@@ -69,8 +82,8 @@ A board with all three findings at the April hearing has demonstrated that it go
 
 **Your free CTA:** Reply with keyword **AdoptFindings** and I will send you the April Budget Adoption Preview Kit — the three-finding template with precise language, the hearing presentation outline with timing, and the adoption motion script with finding recitation.
 
-**Your paid CTA:** I offer a Budget Adoption Coaching Session — a single virtual session with your board president, finance committee chair, and superintendent to prepare the three findings, build the hearing presentation, and finalize the adoption motion.
+**Your paid CTA:** I offer a Pre-Adoption Audit Session — a single virtual session with your board president, finance committee chair, and superintendent to prepare the three findings, build the hearing presentation, and finalize the adoption motion.
 
 ---
 
-*This closes the March 2028 Budget Alignment + Public Hearing Prep arc. The public hearing and adoption follow in April. Next week: Leading the Public Hearing — from budget presentation to community conversation.*
+*This is the fourth piece in the March-April 2028 Budget Alignment + Public Hearing Prep arc, following the Public Hearing Preparation (March 21). Next week: Leading the Public Hearing — from budget presentation to community conversation.*
