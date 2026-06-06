@@ -72,4 +72,6 @@ Difficult questions answered with the crosswalk. Never defensive. Never dismissi
 
 ---
 
-*This is the final piece in the March-April Budget Alignment + Public Hearing arc. Next week: Post-Hearing Board Actions — finalizing findings before the adoption vote.*
+*Read previous: [April Budget Adoption Preview](/april-budget-adoption-preview-2028/) — setting the step before the hearing.*
+
+*This is the final piece in the March-April 2028 Budget Alignment + Public Hearing Prep arc. Coming next in a new arc: Post-Hearing Board Actions — finalizing findings before the adoption vote.*
