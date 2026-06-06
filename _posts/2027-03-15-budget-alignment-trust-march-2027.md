@@ -99,4 +99,4 @@ The choice belongs to your board. But the evidence of the choice belongs to the 
 
 *This continues the March Governance to Impact arc. Wednesday's follow-through piece covers the combined data review and budget alignment meeting — how to run the March double-header when both topics are on the same agenda. Subscribe at effectiveschoolboards.com to continue the series.*
 
-*Backlinks: This piece bridges the March budget alignment work (Mar 1, Mar 3) with the community progress reporting work (Mar 8, Mar 10). It extends the community trust conversation from the Feb 15 board-supt relationship reset and the Feb 17 listening sessions. The trust-as-demonstrated principle connects to the board self-assessment framework from Feb 24.*
+*Backlinks: This piece bridges the March budget alignment work (Mar 1, Mar 3) with the community progress reporting work (Mar 8, Mar 10). It extends the community trust conversation from the Feb 15 board-supt relationship reset and the Feb 17 listening sessions. The trust-as-demonstrated principle connects to the board self-assessment framework from the Feb 22 governance team check-in.*
