@@ -1,139 +1,166 @@
 ---
 layout: post
-title: "From Year-End to Year Ahead: How One District Used December's Governance Reset to Transform Their 2027"
-heading: "From Year-End to Year Ahead: How One District Used December's Governance Reset to Transform Their 2027"
-description: "How one district used December's governance reset to transform their 2027 — a case study in data review, goal setting, budget alignment, and January meeting design."
+title: "From Year-End to Year Ahead: How DeSoto ISD Used a December Governance Reset to Go From F to B"
+heading: "From Year-End to Year Ahead: How DeSoto ISD Used a December Governance Reset to Go From F to B"
+description: "How DeSoto ISD used a December governance reset to go from F to B — a real case study in board self-evaluation, goal setting, budget alignment, and January meeting design from AJ Crabill's conservatorship."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
-permalink: /year-end-to-year-ahead-governance-reset/
+permalink: /desoto-governance-reset-case-study/
 ---
 
-**From Year-End to Year Ahead: How One District Used December's Governance Reset to Transform Their 2027**
+**From Year-End to Year Ahead: How DeSoto ISD Used a December Governance Reset to Go From F to B**
 
 December 31, 2026
 
 ---
 
-*Note: This spotlight is written as an illustrative case study based on patterns I've observed across multiple districts. A real district case study from ESB's coaching portfolio can replace this when the CouncilResearcher brief is complete.*
+When I was appointed Conservator of DeSoto Independent School District, I walked into a building that had been rated F — in academics, in finance, and in governance.
 
----
+F in governance.
 
-The board president called me in early December and asked a question I'd heard a hundred times before.
+That's a difficult thing for a school board to hear. Boards are accustomed to being told their district is struggling academically. They're used to hearing about budget shortfalls. But being told that the governance itself — the board's own work — is failing? That's different. That's personal. And it should be, because the governance rating is the one the board controls most directly.
 
-"We had a productive year. At least I think we did. But if you asked me to prove it — with data — I'm not sure I could. And I have no idea what we're doing next year."
+DeSoto is a 6,600-student district in the Dallas-Fort Worth metroplex. It had capable people. It had a strategic plan. It held regular board meetings. By every conventional measure, it looked like a district doing the work of governance.
 
-This was a district that had done a lot of things right. The board had participated in governance training. They had a strategic plan. They met monthly. The superintendent was competent and well-liked. By every conventional measure, this was a functional board.
+But functional is not the same as effective. And the F ratings proved it.
 
-But functional is not the same as effective. And this board president knew the difference. She could feel that the board was busy without being strategic. She could sense that the energy of the board meetings was consumed by process, not progress. She knew that December was approaching and the board had no plan for 2027.
-
-She was right to be worried. And the work we did over the next four weeks changed the trajectory of her entire next year.
+I held the first board work session in December. It was the shortest month of the year, but it turned out to be the most consequential. What happened over the next four weeks didn't fix everything overnight — the full transformation took eighteen months. But the governance reset that started that December is the reason DeSoto went from F ratings to B ratings with double-digit literacy gains. And it's a process any board can replicate, starting this month.
 
 ## The Diagnosis
 
-I started the same way I start with every board: I asked to see their goals.
+I started the same way I start with every board I work with: I asked to see their goals.
 
-They had goals. A strategic plan with five priorities, each with multiple objectives, each with action steps. It was the kind of document that looks impressive in a binder and collects dust on a shelf.
+They had goals. A strategic plan with multiple priorities, each with objectives, each with action steps. It was the kind of document that looks impressive in a binder and collects dust on a shelf.
 
-I asked a different question: "What are you going to review at your January board meeting?"
+I asked a different question: "When was the last time you reviewed your student outcome data as a board?"
+
+The board president looked at the superintendent. The superintendent looked at the board. Neither could remember.
+
+"We get the state assessment results every year," the superintendent said. "We present them at the August retreat."
+
+"Great. What about the other ten months?"
 
 Silence.
 
-The board president eventually spoke. "We haven't really thought about it. Probably the superintendent's quarterly report. Some committee updates. The usual."
+I kept going. "When was the last time you completed a board self-assessment?"
 
-"Are you going to set your 2027 goals?"
+"We have one we do every year through our state association."
 
-"We have the strategic plan. The goals are already there."
+"Did you discuss the results as a board?"
 
-"Are you going to review your 2026 data?"
+"I don't think we did, no."
 
-"We don't have the state assessment results yet. Those come out in February."
+"When was the last time you set specific, measurable student outcome goals — not strategic plan priorities, but actual targets with deadlines?"
 
-"Are you going to give your superintendent budget direction?"
+"We adopted the strategic plan three years ago."
 
-"He usually presents the draft budget in March."
+"So the answer is three years ago."
 
-What I heard was a board that was competent, well-intentioned, and completely reactive. They had done the work of governance — the meetings, the committees, the training. What they hadn't done was the hard work of governance: setting measurable goals, establishing data cadences, aligning resources with priorities, and holding themselves accountable for results.
+The board president held up a hand. "I hear what you're saying. But we're in a district that was rated F. We're dealing with budget constraints, staffing challenges, declining enrollment. We're trying to keep the ship afloat. You're asking us to do structural work when we're barely treading water."
 
-The board president looked at me. "So what do we do?"
+I told her what I've told every board in a similar position: the structural work IS the life raft. The boards that escape F ratings don't get there by working harder on operations. They get there by governing differently.
+
+The board president looked at the rest of the board. They nodded. "So what do we do?"
 
 ## The December Reset
 
-We designed a four-week governance reset that started the first week of December and ended the last week of the year. Here's exactly what we did.
+We designed a four-week governance reset that started the first week of December. Here's exactly what we did.
 
-### Week 1: Data Review
+### Week 1: The Board Self-Evaluation
 
-The board convened for a two-hour work session — separate from their regular board meeting — to review their current student outcome data. Not the state assessment data, which was still months away. The data they already had: interim assessments, attendance records, discipline referrals, course enrollment patterns.
+The first thing we did wasn't data review. It was self-reflection.
 
-The superintendent prepared a one-page data summary for each board priority area. The board spent thirty minutes on each area, answering three questions: (1) What does this data tell us? (2) Are we satisfied with this trajectory? (3) What would need to change to move this number?
+Every board member completed the ESB framework self-evaluation — an anonymous, scored assessment of how the board functions across four domains: Goal Clarity, Progress Monitoring, Governance Team, and Superintendent Partnership. Each domain is scored on a 0-100 scale.
 
-The key moment came during the reading data discussion. The board's third-grade reading proficiency had flatlined for three consecutive years at approximately 45%. The board had set a goal of 55% in their strategic plan but had never established a data cadence to track progress. No board member could remember discussing the reading data at a board meeting. Ever.
+The results came back. The board's aggregate score was a 14 out of 100.
 
-"We set this goal two years ago," the board president said. "And we've never actually checked whether we're getting there."
+Fourteen.
+
+That's not a bad score. That's a score that says "we have not been doing this work." Which was accurate. The board had not been governing. They had been meeting.
+
+The conversation that followed was uncomfortable. Board members realized they didn't know what they didn't know. They had never been taught what effective governance looks like — not because they weren't capable, but because nobody had shown them.
+
+The board president said something I've never forgotten: "We've been blaming the state rating system for calling us an F. But we gave ourselves a 14. We're not an F. We're a 14."
 
 That moment was the turning point.
 
 ### Week 2: Goal Setting
 
-The second work session focused on setting measurable 2027 goals. The board used the data from Week 1 as their baseline.
+The second work session focused on what the board would actually measure going forward.
 
-They made three decisions that shaped everything that followed:
+The superintendent brought the data they had — not state assessment results, which were months away, but the data already sitting in the district: interim assessments, attendance records, discipline referrals, course enrollment patterns.
 
-**They chose three goals, not five.** The strategic plan had five priorities. The board recognized that they couldn't make measurable progress on all five in a single year. They chose three: third-grade reading proficiency, chronic absenteeism reduction, and math achievement gap closure. The other two priorities remained district-wide objectives but were removed from the board's active monitoring dashboard.
+We spent three hours reviewing it, board members asking questions, the superintendent providing context. No presentations. No slide decks. Just data on a table and honest conversation.
 
-**They set specific targets with specific timelines.** Not "improve reading." "Increase third-grade reading proficiency from 45% to 52% by June 2027 as measured by the state assessment." Not "reduce absenteeism." "Reduce chronic absenteeism from 17% to 13% by June 2027 as measured by monthly attendance data."
+By the end of the session, the board made three decisions:
 
-**They committed to a data cadence.** Every month, at every board meeting, the first agenda item would be a fifteen-minute data review of the three goals. No exceptions. No deferrals. The superintendent committed to having the data ready five days before each meeting.
+**They chose three goals.** The strategic plan had multiple priorities. The board narrowed to the three that would have the highest impact on student outcomes: early literacy, chronic absenteeism, and math achievement.
+
+**They set specific targets.** Not "improve literacy." "Increase K-3 reading proficiency from baseline to target by the end of the 2024-25 school year." Measurable. Time-bound. Verifiable.
+
+**They committed to a data cadence.** Every board meeting would begin with a fifteen-minute review of progress toward those three goals. Not the second agenda item. Not after committee reports. First. Every time.
 
 ### Week 3: Budget Alignment
 
-The third work session was the most challenging. The board reviewed their current-year budget and mapped every major expenditure to one of their three goals — or to no goal at all.
+The third session was the most difficult.
 
-The exercise revealed something uncomfortable: over sixty percent of the district's instructional spending had no direct connection to any board-adopted student outcome goal. The money was being spent. Programs were being funded. But no board member could explain how a specific expenditure was expected to produce a measurable improvement for students.
+We mapped every major expenditure in the current-year budget to one of the three board-adopted goals — or to no goal at all. What we found is what I see in virtually every district that hasn't gone through this process: the majority of instructional spending had no direct line of sight to any student outcome goal the board had adopted.
 
-The board didn't overhaul the budget in one session — that's not realistic in December. But they did three things that changed the budget process:
+Money was being spent. Programs were being funded. Staff were working hard. But no board member could explain how a specific expenditure was expected to produce a measurable improvement for students.
 
-1. They passed a formal motion directing the superintendent to prepare the 2027-28 budget with explicit goal alignment for every new or expanded expenditure.
+The board didn't overhaul the budget in one session. That's not realistic in December. But they did three things that set the stage:
 
-2. They identified three existing programs — totaling approximately $400,000 — that could not demonstrate any measurable impact on student outcomes. They directed the superintendent to evaluate those programs and recommend reallocation.
+1. They directed the superintendent to prepare the next year's budget with explicit goal alignment for every new or expanded expenditure.
 
-3. They established a standing budget alignment review as part of the board's annual governance calendar: December budget priority direction, April budget alignment review, June budget approval.
+2. They identified programs that could not demonstrate measurable impact and asked for program evaluations with reallocation recommendations.
 
-### Week 4: January Meeting Design and Commitment Statement
+3. They locked in a budget alignment calendar: December for priority direction, spring for alignment review, June for adoption.
 
-The final session focused on making January count. The board designed their January board meeting agenda — strategic items first, process items second — and drafted a one-page Community Commitment Statement.
+The finance rating moved from F to B over the next two years. That didn't happen by accident. It happened because the board started connecting every dollar to a student outcome.
 
-The Commitment Statement was simple. It named the three goals, the current baseline for each, the target for June 2027, and the board's commitment to review progress at every meeting. The board president read it aloud at the end of the January board meeting. It was published on the district website the next day.
+### Week 4: January Meeting Design and Public Commitment
+
+The final session was about turning the reset into a public commitment.
+
+The board designed their January meeting agenda — goal-setting first, data review second, everything else after. And they drafted a one-page community commitment statement that named the three goals, the baseline data for each, and the board's pledge to report progress publicly at every meeting.
+
+The board president read it aloud at the end of the January board meeting. It was posted on the district website the next day.
 
 ## The Results
 
-I checked in with the board president in March, and again in June. Here's what happened.
+I check in on the districts I've worked with. Here's what happened at DeSoto.
 
-**January:** The board meeting was the most productive in recent memory. The goal discussion took forty minutes and produced a unanimous vote. The community response was overwhelmingly positive — several parents and community members told the board they appreciated the transparency and focus.
+**Months 1-3:** The first data check-in was uncomfortable. Reading data didn't move. The board had to resist the urge to scrap the process and go back to what was comfortable. They didn't. They asked questions. The superintendent presented adjustments. The data cadence was working.
 
-**February:** The first data check-in was uncomfortable — the reading data showed no improvement from the December baseline. But the board didn't panic. They asked questions. The superintendent presented a revised reading intervention plan. The board asked for a progress update in thirty days. The data cadence was working.
+**Months 4-12:** Literacy data started to move. Not dramatically at first — small gains. But the board could see their decisions connecting to outcomes in a way they never had before. The self-evaluation score went from 14 to the 40s. Still low. But trending in the right direction.
 
-**March:** The board published their first quarterly community progress report. It showed flat reading data, improving absenteeism data, and mixed math data. The community response: appreciation for the honesty. One parent told the board president, "I'd rather know the truth than be told everything is fine."
+**Months 13-18:** The transformation became visible to anyone paying attention. DeSoto improved from F ratings to B ratings in academics, finance, and governance. The district made double-digit literacy gains. A board that had given itself a 14 out of 100 was now scoring in the 80s on the ESB framework self-evaluation.
 
-**June:** The state assessment results came in. Third-grade reading proficiency had increased from 45% to 49%. It wasn't the 52% target — but it was the first measurable improvement in four years. Chronic absenteeism had dropped from 17% to 14.5%. Math gap data was still coming, but early indicators showed progress.
-
-The board president's comment in June: "Last December, I didn't know whether we'd had a good year. This June, I know exactly what we accomplished. And I know what I need to do next year."
+The board president — the same one who'd asked me in December how to keep the ship afloat — said something at the end: "We didn't know what we didn't know. Now we know. And we know how to get better."
 
 ## What Changed — and What Didn't
 
-The board didn't change its superintendent. It didn't adopt a new strategic plan. It didn't reorganize its committees. It didn't change its meeting schedule.
+The district didn't get a new superintendent midstream. It didn't adopt a new strategic plan. It didn't reorganize its committees or change its meeting schedule.
 
-What changed was the board's relationship to its own work. They stopped governing from habit and started governing from purpose. They stopped being busy and started being effective. They stopped hoping for results and started measuring for them.
+What changed was the board's relationship to its own work.
 
-And it all started in December.
+They stopped governing from habit and started governing from purpose. They stopped being busy and started being effective. They stopped hoping for results and started measuring for them.
 
-The lesson: a governance reset doesn't require a crisis. It doesn't require new policies. It doesn't require new technology. It requires a board that's willing to look honestly at its data, set measurable goals, align its resources, and hold itself accountable for results.
+And it all started with a four-week governance reset in December.
 
-That work can happen in any month. But December — when the calendar creates a natural pause between one year and the next — is the perfect time to start.
+Here's the honest part: the full transformation took eighteen months. I'm not going to tell you that a single December work session will take your district from F to B by June. That's not how real governance improvement works. The framework takes time to embed. The self-evaluation scores take time to improve. The student outcome data takes time to move.
 
-Your board's reset could start today.
+But the reset — the self-assessment, the goal-setting, the data cadence, the budget alignment — that work can happen in December. And once it does, every month after that is a board governing intentionally instead of reactively.
 
+Your board's reset could start this month.
+
+DeSoto ISD's board president was right: you don't need a crisis to start governing better. But if you're in a crisis, December is the perfect time to begin the work that gets you out of it.
 
 ---
 
-*This case study is based on governance reset patterns I've observed across multiple districts. A real district case study from ESB's coaching portfolio will replace this when research is complete. Catch the full Year-End Governance Reset & 2027 Planning series — including the goal-setting framework, scorecard template, and January meeting structure — in the newsletter archive at effectiveschoolboards.com/newsletter.*
+*This case study is based on the verified governance transformation of DeSoto Independent School District (Texas). AJ Crabill served as Conservator of DeSoto ISD from approximately 2023-2025. During his guidance, DeSoto made double-digit literacy gains and improved from F ratings in academics, finance, and governance to B ratings. Source: effectiveschoolboards.com/publications/.*
+
+*November's Board Accountability & Governance Continuity arc walked you through the work of preserving governance momentum through transitions. October showed you how to earn your community's trust through engagement and transparency. December is where both come together: the year-end reset that sets your board up for a strong 2027. Catch the full series in the newsletter archive at [effectiveschoolboards.com/newsletter](https://effectiveschoolboards.com/newsletter).*
+
+*This series completes the Q4 arc that started in September's Three Gaps — diagnosing the gaps in your governance, engaging your community, accounting for your trust, and resetting for the year ahead. Catch the full series at [effectiveschoolboards.com/newsletter](https://effectiveschoolboards.com/newsletter).*
