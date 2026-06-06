@@ -102,6 +102,6 @@ Your board's January budget direction can include the same instruction: don't ju
 
 ---
 
-*This continues the January Execution Arc. Wednesday's piece covered the first progress monitoring check-in. The arc closes Wednesday with your board's January-to-June governance roadmap. Catch the full series at effectiveschoolboards.com/newsletter.*
+*This continues the January Execution Arc — building on last week's goal adoption piece (Jan 11), which showed you how to turn drafted goals into adopted ones. Wednesday's piece covered the first progress monitoring check-in. The arc closes Wednesday with your board's January-to-June governance roadmap. Catch the full series at effectiveschoolboards.com/newsletter.*
 
 *Backlinks: December's Year-End Governance Reset & 2027 Foundation arc gave you the blueprint. This arc executes it. Catch the full Q4 journey at effectiveschoolboards.com/newsletter.*
