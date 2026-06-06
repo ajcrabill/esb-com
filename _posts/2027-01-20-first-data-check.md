@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Your First Progress Monitoring Check-In of 2027: Make It Count"
 heading: "Your First Progress Monitoring Check-In of 2027: Make It Count"
 description: "You adopted your goals nine days ago. The first data check-in is the moment where governance becomes real. Here's exactly what a 30-minute progress monitoring review looks like."
