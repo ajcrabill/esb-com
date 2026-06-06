@@ -66,6 +66,16 @@ Beyond the board's own work, the landscape may have changed in ways the board ca
 
 Every goal that passes all three questions is a carry-forward candidate. Every goal that fails at least one is a refresh candidate. No judgment — just a decision. The framework gives the board a systematic way to make that decision instead of guessing.
 
+**The budget-data crosswalk makes this concrete**
+
+The budget monitoring framework your board launched last week has a specific role in this goal renewal conversation.
+
+The budget-data crosswalk connects each goal to the budget line items that fund the work required to achieve it. When the board applies the three-question trajectory check, the crosswalk provides the resource dimension. A carry-forward goal needs a resource check — are the budget allocations that support this goal still adequate for the fall cycle? A refresh candidate needs a resource decision — if the goal is replaced or retired, those budget line items should not simply continue on auto-pilot. A new goal needs a resource commitment before it can produce results.
+
+I have watched boards renew their goals without touching the crosswalk, and the result is a board that says one thing and funds another. The September 13 budget monitoring launch set up the variance tracking protocol and the mid-year revision timeline specifically so the board could monitor whether resources are actually reaching goal-aligned work. But none of that works if the goals the board is tracking through the crosswalk are stale. The crosswalk only serves its purpose when the goals on it are current.
+
+So here is the September sequence: renew the goals, then update the crosswalk. The board president and finance committee chair confirm that every carried-forward goal still has the right line items linked to it. Every refreshed goal has new line items assigned. The crosswalk becomes the September output that feeds October's first-quarter budget review — the same October review where the board will also start looking at first-quarter data. The crosswalk alignment ensures the data and the budget tell the same story.
+
 **The carry-forward protocol: what carrying forward actually means**
 
 If the board decides to carry a goal forward — and most boards should carry at least some goals forward — the work is not done. Carrying forward does not mean keeping everything the same. It means carrying forward with adjustment.
@@ -124,6 +134,6 @@ Subscribe at effectiveschoolboards.com to continue the series.
 
 ---
 
-*This piece is 4 of 4 in the Fall Launch Preparation sub-arc (Sep 6–27), the third of three sub-arcs in the Summer 2028 Governance Renewal arc. It follows the September 13 piece on budget monitoring ([Fall Budget Monitoring Launch](/fall-budget-monitoring-launch-september-2028/)). Next week's piece closes the full arc ([September Community Connection](/september-community-connection-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
+*This piece is 3 of 4 in the Fall Launch Preparation sub-arc (Sep 6–27), the third of three sub-arcs in the Summer 2028 Governance Renewal arc. It follows the September 6 piece on data review preparation ([September Data Review Preparation](/september-data-review-preparation-2028/)) and the September 13 piece on budget monitoring ([Fall Budget Monitoring Launch](/fall-budget-monitoring-launch-september-2028/)). Next week's piece closes the sub-arc — the Board Communications Strategy ([Board Communications Strategy](/board-communications-strategy-september-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
 
 *Backlinks: This piece inherits from the January 2028 goal adoption ([January Goal Adoption Process](/january-goal-adoption-process-2028/)), the spring Progress Monitoring cycle ([First Progress Monitoring Check-In](/first-progress-monitoring-check-in-january-2028/)), and the spring data review findings ([End-of-Year Data Review Preparation](/end-of-year-data-review-prep-2028/)). It builds on the summer renewal framework introduced in the July arc opener ([The Summer Renewal](/summer-renewal-july-2028/)), the September data review preparation ([September Data Review Preparation](/september-data-review-preparation-2028/)), and the fall budget monitoring framework ([Fall Budget Monitoring Launch](/fall-budget-monitoring-launch-september-2028/)). The three-question trajectory check extends the maintain-adjust-escalate protocol from the spring Progress Monitoring cycle to the goal level. Subscribe at effectiveschoolboards.com to continue the series.*
