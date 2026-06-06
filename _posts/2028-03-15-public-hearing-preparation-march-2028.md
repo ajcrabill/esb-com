@@ -16,107 +16,122 @@ March 15, 2028
 
 ---
 
-Two weeks ago, your board completed the March alignment review. You confirmed whether the superintendent addressed the February corrections. You checked the March Progress Monitoring data against the crosswalk allocations. You produced a written finding — either alignment confirmed or gaps identified.
+The February public hearing is over.
 
-Last week, your board conducted the Q1 Governance Health Check. You asked whether the budget direction changed the preliminary budget, whether the crosswalk revealed something you would not have otherwise seen, and whether the community engagement produced input that changed an allocation. You recorded the answer.
+Your board presented the crosswalk. The community asked questions. They raised concerns. They offered priorities. They gave you input that the superintendent used to revise the budget.
 
-This week, the board does something most boards never do: it closes the loop with the community before the April adoption vote.
+Now it is March 15. The alignment review is done. The revised budget reflects the board's February findings. The updated crosswalk shows the corrected allocations.
 
-Here is what that looks like and why it matters for the adoption vote.
+There is one piece of governance work remaining before the April adoption vote: closing the engagement loop.
 
----
+Closing the loop means telling the community what the board heard, what the board did about it, and why. It is the governance step that separates a board that treats community engagement as a compliance requirement from a board that treats the community as a governance partner.
 
-**The three documents the community should see before the hearing**
-
-The April public hearing is not the beginning of the community conversation. It is the end. By the time the board holds the hearing, the community should already know what the board found, what the board decided, and what the board is asking the community to weigh in on.
-
-Three documents should be published at least one week before the hearing date.
-
-**Document one: The Budget Alignment Finding Summary.**
-
-This is a one-page document that answers three questions. Did the superintendent address every February correction? Does the March Progress Monitoring data validate the crosswalk allocations? What is the board's finding — alignment confirmed or gaps identified?
-
-I recommend the board president publish this summary as a letter from the board. Not a formal legal notice. A letter written in plain language that any parent, taxpayer, or staff member can read in two minutes. The letter names the adopted goals, names the total budget allocation for each goal, and states whether the board confirmed alignment or identified gaps that are being addressed.
-
-I have watched boards in **Wichita (KS)** publish exactly this format. The board president's letter goes out on the district website, the district social media channels, and through the parent communication portal. The engagement team reports that readership of budget-related content triples in the week following publication. People engage with a letter. They ignore a legal notice.
-
-**Document two: The Community Input Impact Statement.**
-
-This is the document that shows the community that their input mattered.
-
-The board gathered community input through the February public hearing, the online survey, and any town hall sessions the district held. The Community Input Impact Statement lists every theme the community raised — not just the positive ones, but the critical ones too — and shows how that theme affected the budget.
-
-Here is the format. A two-column table. Left column: the community priority or concern. Right column: the board's response.
-
-Row one: "Community members expressed concern that elementary arts programs were being reduced." Response: "The board directed the superintendent to restore $180,000 to elementary arts programs in the February budget revision. The revised budget includes a $180,000 allocation to elementary arts."
-
-Row two: "Community members requested expanded mental health support at the middle school level." Response: "The board designated mental health support as a priority in the January budget direction. The preliminary budget includes $320,000 for middle school mental health support — a 15 percent increase over the current year."
-
-Row three: "Community members questioned whether the transportation allocation was sufficient to cover route changes." Response: "The board directed the superintendent to review the transportation allocation against route costs. The superintendent confirmed the allocation is sufficient. The board will include transportation costs in the Q2 Progress Monitoring check-in."
-
-The Community Input Impact Statement serves two purposes. It shows the community that their input changed the budget — or that the board considered it and made a deliberate decision to stay the course. And it gives the board a document it can present at the public hearing that demonstrates the board's engagement was genuine.
-
-**Document three: The April Adoption Agenda Preview.**
-
-This is the procedural document. It lists the items on the April adoption meeting agenda: the public hearing, the formal budget presentation, the three board findings, the adoption resolution, and the vote. It includes the meeting date, time, location, and the format for public comment.
-
-The April Adoption Agenda Preview serves one purpose: it prevents surprises. Every person who attends the hearing knows what will happen, in what order, and what role they will play. No one arrives expecting a debate and discovers a vote. No one arrives expecting to speak and discovers no public comment period.
+This piece walks through the three elements of closing the engagement loop — documenting the input, producing the board's response, and preparing the adoption night presentation — so your board enters April with a complete community engagement record and a credible story to tell.
 
 ---
 
-**The board's role at the public hearing**
+**Element one: Document the input**
 
-Here is what the board's role at the public hearing should be — and what it should not be.
+Before the board can close the loop, it needs to know what the loop contains. That means documenting the community input from the February public hearing and any other engagement channels your board used.
 
-The board's role is to listen, to demonstrate that the board has done its work, and to explain the board's findings in plain language.
+Here is what complete documentation looks like.
 
-The board's role is not to defend the budget line by line, to argue with community members who disagree, or to make last-minute amendments during the hearing.
+**A summary document organized by goal area.** Every piece of community input — verbal testimony from the hearing, written comments submitted during the notice period, online survey responses, town hall questions — should be categorized by the goal or budget category it addresses. The summary should not editorialize. It should report what the community said, attributed where appropriate, in a format the board can reference during the adoption discussion.
 
-Here is the format I recommend.
+**A frequency analysis.** The board should know which issues appeared most frequently. If fifteen people testified about early literacy and two people asked about facility maintenance, that is useful information for the board's deliberation. Frequency is not a proxy for importance, but it is a signal of priorities.
 
-The board president opens the hearing with a five-minute presentation. The presentation covers three slides. Slide one: the adopted goals and what they mean for students. Slide two: the crosswalk — how the budget allocates resources to each goal. Slide three: the board's alignment finding — confirmed or gaps identified, and what happens next.
+**A board response document.** This is the document your board publishes before the final budget is adopted. It has three columns: what the community said, what the board decided, and the rationale.
 
-Then the board opens the floor for public comment. Each speaker has a time limit — typically three minutes. The board listens. The board does not respond during the hearing. The board president thanks each speaker. The board president takes notes. The board president commits to reviewing the comments and responding in the board's written finding at the adoption meeting.
+Here is what it looks like in practice.
 
-Then the board closes the hearing.
+| Community input | Board decision | Rationale |
+|----------------|---------------|----------|
+| Increase early literacy staffing to reduce class sizes in K-3 | Adjusted: added 1.5 FTE to early literacy allocation | Board agrees that early literacy is the top strategic priority; reallocated from administrative budget |
+| Restore the middle school music program cut in October | Not adjusted: allocation held flat | Fiscal guardrails prevent restoring the program without offsetting cuts; board will request a program review for the 2029 budget cycle |
+| Reduce transportation fees for low-income families | Partially adjusted: reduced fees by 25%; full elimination deferred | Board directed superintendent to identify efficiencies; remaining gap to be addressed through state funding changes |
 
-I have watched boards in **Adams 14 (CO)** use this format effectively. The board president's presentation takes five minutes. Public comment takes thirty to forty-five minutes. The board president closes the hearing by naming the date of the adoption meeting and the date the board will publish its final response to community input. The community leaves the hearing knowing they were heard, knowing what the board found, and knowing when the board will act.
+This document does not need to be long. Three to five rows covering the most frequently raised issues is sufficient. What matters is that the board publishes it before the adoption vote — not after — so the community can see that its input was heard and processed before the final decision was made.
 
-A board that enters the public hearing with this format communicates confidence, competence, and respect for the community. A board that enters without preparation communicates the opposite.
-
----
-
-**What the board does after the hearing**
-
-The public hearing is not the end of the engagement. It is the transition to the adoption vote.
-
-The board president should do three things within seventy-two hours of the hearing.
-
-**First, publish a hearing summary.** A one-page document that describes who spoke, what themes emerged, and how the board will address any new input before the adoption vote. This goes on the district website and the parent communication portal.
-
-**Second, share the hearing input with the full board.** If the hearing produced new information that affects the alignment finding — a community member raised a cost the board had not accounted for, or a group of parents presented data the board had not seen — the board should discuss it at the next board meeting or in a special board call before the adoption vote.
-
-**Third, confirm the adoption agenda.** The board president confirms that the three findings are drafted, the budget resolution is prepared, and the adoption vote is scheduled.
-
-A board that closes the loop within seventy-two hours enters the adoption vote with no loose ends. A board that lets the hearing sit for a week loses momentum — and risks arriving at the adoption vote with unresolved questions.
+I have watched boards publish this document and receive more goodwill from a skeptical community than any sixty-minute hearing could have generated. The reason is straightforward. Most boards solicit input, then disappear into a room and emerge with a budget the community never saw coming. The board response document eliminates the black box.
 
 ---
 
-**The connection to next week's piece**
+**Element two: Connect the input to the alignment findings**
 
-Next week's piece answers a question that every board faces in the final weeks before adoption: What are the three findings the board should present at the adoption vote, and how should the board present them in a way that demonstrates the governance framework?
+The March 1 alignment review produced a set of findings — written confirmation of what corrections were made, what constraints prevented other corrections, and what items remain for the final budget draft.
 
-The answer involves the crosswalk, the alignment review, the Q1 Health Check, and the community engagement closeout — pulled together into a single adoption presentation that shows the community exactly what the board has been doing since January.
+The board response document and the alignment findings should be published as a matched pair.
 
-Subscribe at effectiveschoolboards.com to continue the series.
+Here is why.
+
+When the board publishes its alignment findings — *We requested these corrections, the superintendent made these changes, here is the updated crosswalk* — the community sees the internal governance process that produced the revised budget. When the board publishes its engagement response — *Here is what you said, here is what we did, here is why* — the community sees the external accountability that shaped the final document.
+
+Together, the two documents tell a complete story. The alignment findings show the board governed the budget process with discipline. The engagement response shows the board governed in partnership with the community.
+
+A board that publishes both documents enters the April adoption vote with the strongest possible foundation. A board that publishes neither will spend the April meeting defending decisions it cannot explain.
+
+I have worked with boards in **Hazelwood (MO)** that publish a "Board Response to Public Input" document as a regular governance practice. The format is simple — a two-page PDF posted on the district website within ten days of the public hearing. The response covers the top five issues raised, the board's decision on each, and the rationale. Hazelwood community members have told me they attend the public hearing specifically because they know the board will respond formally — and that response is more meaningful to them than the hearing itself.
 
 ---
 
-**Your free CTA:** Reply to this email with the keyword **HearPrep_** and I will send you the Public Hearing Preparation Toolkit — the board president's hearing-opening presentation template with three slides, the Community Input Impact Statement template with the two-column format, the board president's hearing summary template for the seventy-two-hour closeout, and the April Adoption Agenda Preview template. Use it to close the community engagement loop before the adoption vote.
+**Element three: Prepare the adoption night presentation**
 
-**Your paid CTA:** I offer a Public Hearing Preparation Coaching Session — a single virtual session with your board president and communications lead to review the three documents, rehearse the hearing opening, and finalize the community engagement closeout timeline before the adoption meeting. Reply to this email for pricing and availability.
+The adoption vote is four to six weeks away. The board should decide now what the adoption night discussion will look like.
 
+I recommend a four-component agenda item.
+
+**Component one: The board president names the arc.** Two minutes. The board president summarizes the governance process that produced this budget. *In January we adopted goals and gave budget direction. In February we reviewed the preliminary budget, built the crosswalk, and held the public hearing. In March we conducted the alignment review and confirmed the corrections. Tonight we adopt the final budget.*
+
+This component is not filler. It is the board's public commitment to governing by process rather than by impulse. The community watching the meeting should hear the arc named before the vote is taken.
+
+**Component two: The superintendent presents the final crosswalk.** Five minutes. One page. Goals on the left. Allocations in the middle. Percentage of the general fund on the right. The same crosswalk format the board has seen since February.
+
+The superintendent walks through each goal, names the allocation, and notes any significant change from the preliminary budget. The community sees the connection between goals and spending in a format that is accessible, not buried in a 200-page budget document.
+
+**Component three: The board president presents the community input response.** Two minutes. The board president names the top issues the community raised, the board's decisions, and the rationale. This is the moment the board demonstrates that the community's voice shaped the final document.
+
+I have watched boards extend this component to ten minutes because the board president goes through every major input item. That is fine — the community wants to know its voice was heard. But two minutes is the minimum to name the arc and create the expectation of accountability.
+
+**Component four: The board president calls for the vote.** The roll call is taken. The budget is adopted.
+
+The board president closes with a forward-looking statement. *This budget funds our goals for the 2028-29 fiscal year. Our responsibility does not end tonight. We will monitor this budget against our goals in every Progress Monitoring check-in through December. If the data shows the budget is not producing the outcomes we intend, we will make adjustments.*
 
 ---
 
-*This piece continues the March 2028 Budget Alignment + Governance Health Check arc. It builds from the Q1 Governance Health Check ([view the March 8 piece](/q1-governance-health-check-march-2028/)), which confirmed whether the board's governance framework is working, and the Budget Alignment Review ([view the March 1 piece](/budget-alignment-review-march-2028/)), which connected the February crosswalk to the March Progress Monitoring data. The community engagement format introduced here extends the February community engagement work described in the February 22 piece. The March 22 piece picks up from here with the April Budget Adoption Preview — the three findings and the formal board actions required for the adoption vote. Subscribe at effectiveschoolboards.com to continue the series.*
+**The second public hearing question**
+
+Some states require a second public hearing if the budget was materially revised between the initial hearing and the adoption vote. If your board faces this requirement, the work described above still applies — it simply runs on a compressed timeline.
+
+The key difference: the second hearing is an opportunity to show what changed, not to collect new input. The board opens the second hearing by naming the themes from the first hearing, presenting the changes the board made in response, and explaining what stayed the same and why. The community's second round of input is collected and documented, but the board's decisions should be substantially complete by this point.
+
+If your state does not require a second hearing, the board should still publish the engagement response document and the adoption night presentation. The absence of a legal requirement does not mean the absence of a governance opportunity. The community wants to know how its input shaped the budget. Publish the document regardless.
+
+---
+
+**Closing the loop is a governance action, not a communications task**
+
+I want to name something important before I close.
+
+Publishing a board response document and preparing an adoption night discussion are not communications tasks. They are governance actions.
+
+A communications professional can help design the document. A public relations firm can help produce the video. Those are support functions.
+
+But the decision to publish — the decision to tell the community what the board heard and what it did — is a governance decision. It reflects the board's commitment to transparency. It demonstrates that the board treats the community as a governance partner rather than a compliance requirement.
+
+A board that closes the engagement loop governs differently. That board knows its community better than the board that holds a hearing and never publishes a response. That board enters the adoption vote with community trust rather than community skepticism.
+
+The February hearing was the community's opportunity to speak. March 15 is the board's opportunity to respond.
+
+Do not waste it.
+
+---
+
+**Your free CTA:** Reply to this email with the keyword **HearPrep_** and I will send you the Engagement Closeout Toolkit — the community input documentation template organized by goal area with a frequency analysis tab, the board response document template (three-column format with sample entries), the adoption night presentation script with the four-component agenda structure (talking points for each component, timing guidance, and slide outline), and the second public hearing preparation checklist with state-specific requirement prompts. Use it to close the engagement loop and enter the adoption vote with a complete community engagement record.
+
+**Your paid CTA:** I offer an Adoption Night Presentation Coaching Session — a single sixty-minute virtual session with your board president and superintendent to rehearse the adoption night discussion. We will review the community input summary, the board response document, and the crosswalk presentation format, then run through the four-component adoption night agenda together so every board member knows their role. Reply to this email for pricing and availability.
+
+---
+
+*This is piece 3 of 5 in the Spring 2028 Governance Execution Cycle — the Budget Alignment + Governance Health Check arc covering March 1 through March 29. It builds on the budget alignment review ([read piece 1](/budget-alignment-review-march-2028/)) and the Q1 governance health check ([read piece 2](/q1-governance-health-check-march-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
+
+*Backlinks: This post is part of the Spring 2028 Governance Execution Cycle. The community engagement process referenced here was introduced in the February arc — the public hearing preparation piece ([view it](/community-engagement-public-hearing-february-2028/)) and the April budget adoption timeline ([view it](/april-budget-adoption-timeline-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
