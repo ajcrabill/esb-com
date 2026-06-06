@@ -67,6 +67,6 @@ If you wait until March to connect your goals to your budget, you're reacting to
 
 ---
 
-*This continues the January Execution Arc. Monday's piece covered the first progress monitoring check-in. The arc closes Wednesday with your board's January-to-June governance roadmap. Catch the full series at effectiveschoolboards.com/newsletter.*
+*This continues the January Execution Arc. Wednesday's piece covered the first progress monitoring check-in. The arc closes Wednesday with your board's January-to-June governance roadmap. Catch the full series at effectiveschoolboards.com/newsletter.*
 
 *Backlinks: December's Year-End Governance Reset & 2027 Foundation arc gave you the blueprint. This arc executes it. Catch the full Q4 journey at effectiveschoolboards.com/newsletter.*
