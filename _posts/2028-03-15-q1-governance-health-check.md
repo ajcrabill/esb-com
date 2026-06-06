@@ -1,169 +1,183 @@
 ---
 layout: post
 date: 2028-03-15
-title: "The Q1 Governance Health Check: Did Your Board Govern on Purpose?"
-heading: "The Q1 Governance Health Check: Did Your Board Govern on Purpose?"
-description: "You checked the budget alignment last week. Now check the team. Here is the Q1 governance health check — a five-dimension audit of how your board performed in the first quarter of 2028."
+title: "The Q1 Governance Health Check: You Checked the Budget. Now Check the Board."
+heading: "The Q1 Governance Health Check: You Checked the Budget. Now Check the Board."
+description: "Last week you ran the quarterly budget alignment review. You verified that the resources are still where the board put them. That is one half of the Q1 governance check. The other half is harder — because it requires the board to look at itself. Here is how to run a Q1 governance health check that actually changes how your board operates."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
 permalink: /q1-governance-health-check-2028/
 ---
 
-**The Q1 Governance Health Check: Did Your Board Govern on Purpose?**
+**The Q1 Governance Health Check: You Checked the Budget. Now Check the Board.**
 
 March 15, 2028
 
 ---
 
-Last week, I walked you through the quarterly budget alignment review. Four questions that turn the goal-to-budget crosswalk from a February exercise into a year-round governance tool.
+One week ago, I walked you through the quarterly budget alignment review. The four questions. The change log. The materiality threshold. The three board options for responding to a resource shift. You ran the review, or you are about to. You know whether the Q1 spending is still tracking against the crosswalk you built in February.
 
-You learned how to check the resources. Whether the money is still flowing to the goals the board adopted in January. Whether the adjustments your board made during the public hearing process preserved the alignment or shifted it. Whether the crosswalk needs updating before the next review cycle.
+Good. That is one half of the quarterly governance check.
 
-That piece was about the budget. This piece is about the board.
+Here is the other half: the board itself.
 
-The Q1 governance health check is the companion review. The budget alignment review asks: *are our resources still aligned with our goals?* The governance health check asks: *are we still governing in a way that makes goal achievement possible?*
+The budget alignment review asks whether the resources are where the board said they would be. The governance health check asks whether the board is functioning well enough to keep them there. You can have a perfectly aligned budget and a board that is not doing the work to protect it. I have seen it happen more times than I can count. The crosswalk is accurate. The superintendent is executing. And the board is meeting, voting, and going home without asking the questions that would tell them whether the strategy is working.
 
-A board can have perfect budget alignment and still fail to make progress on its goals. It can allocate every dollar correctly and still lose the quarter to dysfunctional meetings, a fractured superintendent relationship, or a governance calendar that nobody follows. Budget alignment is necessary. It is not sufficient.
+The Q1 governance health check exists to catch that gap before it becomes the Q2 gap, and then the Q3 gap, and then the end-of-year surprise that everyone saw coming except the board.
 
-The complete quarterly governance review has two parts. The budget check you ran last week. And the health check you are about to run this week.
-
-Here is the five-dimension governance health check framework your board should use at the end of Q1.
+This piece is the second half of the March arc. If you read last week's piece, you know the quarterly review framework. Now let me show you the companion framework — the five domains of the Q1 governance health check.
 
 ---
 
-**Dimension 1: Progress Monitoring Fidelity**
+**Why Q1 is the right moment**
 
-The first question is not whether your goals are on track. It is whether you have actually checked.
+The end of the first quarter is a natural governance checkpoint for reasons that have nothing to do with the calendar.
 
-Your board adopted goals in January. You committed to a progress monitoring schedule — how often you would review data, at what level of detail, through what format. The question at the end of Q1 is not whether the data looked good or bad. The question is whether the board followed the schedule.
+**The January goals are fresh enough to evaluate.** Your board adopted goals in January. Three months in, you have enough data to know whether the board is actually monitoring progress against those goals — and enough runway left to correct course if you are not.
 
-Here is what I mean.
+**The budget is adopted but not yet locked in.** The April vote is still ahead of you — and your Q1 governance decisions will determine whether it goes smoothly or produces surprises. Adjustments to monitoring cadence, communication protocols, and board operating norms are still possible without a mid-year reset.
 
-If your board committed to a monthly progress monitoring check-in and held three of them in January, February, and March, that is a green light on fidelity. The board showed up on the scheduled dates, reviewed the data, asked questions, and let the superintendent know whether the information was useful. Whether the data showed improvement or decline in those months, the board kept its commitment to monitor progress as agreed.
+**The board has developed patterns.** By the end of Q1, every board has established how it works together. How the board interacts with the superintendent. How it handles dissenting views. How it moves from discussion to decision. Those patterns are not destiny — but they become harder to change the longer they persist.
 
-If your board committed to monthly check-ins and held one of them — because the February meeting ran over time, or the March agenda had a controversial item that pushed the data review off the table — that is a yellow or red light on fidelity. The board did not keep its commitment. And the goals, no matter how well constructed, cannot be monitored if the board does not show up to monitor them.
-
-The most common governance failure I see in the first quarter is not bad data. It is skipped meetings. The board commits to a cadence in January, and by March the cadence has collapsed under the weight of competing priorities. The health check catches this before it becomes the whole year's pattern.
-
-**The question for your board:** Did your board hold every scheduled progress monitoring session in Q1? If not, which sessions were missed, and why? Was the reason legitimate — a genuine scheduling conflict — or was the reason that something else felt more urgent?
+**The superintendent partnership has a track record.** Three months is long enough to assess whether the governance relationship is producing the right outcomes. Is the superintendent bringing the right information to the board? Is the board asking the right questions in response? Or is the relationship stuck in the pattern most boards fall into — the superintendent reports, the board nods, the meeting ends?
 
 ---
 
-**Dimension 2: Superintendent Partnership Health**
+**The five domains of the Q1 governance health check**
 
-The second dimension is about the single most important governance relationship your board has.
+The health check covers five domains. Each one is a question the board should answer honestly. Not as individuals writing down private reflections that never get discussed. As a governance team, in open conversation, with the intent to act on what you learn.
 
-Here is the honest question your board should ask itself: has the superintendent relationship improved or deteriorated since January?
+**Domain 1: Progress monitoring fidelity**
 
-I am not asking whether the board and superintendent agreed on every decision. Disagreement is healthy. I am asking whether the relationship has become harder or easier to navigate.
+This is the most straightforward domain and the one where most boards fail the Q1 check.
 
-Here are the signals I look for.
+Your board adopted measurable goals in January. You set a progress monitoring schedule — monthly, bi-monthly, or quarterly data reviews tied to specific indicators. The question for Q1 is not whether the data exists. The question is whether the board followed the schedule.
 
-**Communication patterns.** Is the board president communicating with the superintendent regularly and constructively, or has communication become transactional and defensive? When a difficult issue arises, does the superintendent reach out to the board or start preparing for a confrontation?
+I ask boards this question in every Q1 coaching session I facilitate: *Did your board review progress data on the schedule you committed to?*
 
-**Trust indicators.** Does the board receive the superintendent's recommendations in good faith, questioning them for understanding rather than questioning them for validity? Does the superintendent share bad news early, or does the board learn about problems from other sources?
+The answer is often no.
 
-**Role clarity.** Has the board stayed in its lane on governance questions, or has the past three months produced incidents where individual board members crossed into operational territory? Is the superintendent running the district, or is the board president running it?
+Boards miss monitoring check-ins for all kinds of reasons that sound reasonable in the moment. The agenda was full. The data report was not ready. A facilities crisis came up. A staff vacancy needed attention. But here is what I have learned: the board that misses one monitoring check-in will miss the next one, and the one after that, until the progress monitoring schedule becomes aspirational — something the board says it believes in but never actually does.
 
-The first quarter is when role drift usually starts. The board is new after the January organizational meeting. The superintendent is used to the old board's patterns. Everyone is figuring out the new dynamic. If role drift has started — even small, early signs — Q1 is the time to correct it, before it becomes the Q2 pattern.
+The Q1 health check asks for receipts. Look at your board calendar for January, February, and March. How many monitoring check-ins were scheduled? How many actually happened? If the answer is not one hundred percent, the board needs to fix the schedule before Q2, not promise to do better next quarter.
 
-**The question for your board:** On a scale of 1 to 10, is the superintendent-board partnership healthier than it was on January 1? What is the most significant change — positive or negative — and what caused it?
+**Domain 2: Superintendent partnership health**
 
----
+The relationship between the board and the superintendent is the most consequential governance relationship in the district. It is also the least examined.
 
-**Dimension 3: Board Team Dynamics**
+Most boards evaluate the superintendent once a year, usually in the spring. The annual evaluation is important. But one data point per year is not enough information to manage a partnership through the ups and downs of a school year.
 
-The third dimension is about how the board functions as a team.
+The Q1 health check is a mid-course evaluation of the partnership itself. Not a performance review of the superintendent. A review of how the board and superintendent are working together.
 
-The Governance Team framework names something that most board members do not want to admit: a board is not a team just because it meets in the same room. A board becomes a team when it operates with shared purpose, disciplined communication, and mutual accountability.
+Here are the questions I recommend:
 
-Here is what I want your board to assess at the end of Q1.
+- Is the superintendent receiving clear, consistent direction from the board, or is direction changing depending on which board member raised the question?
 
-**Meeting discipline.** Did your board meetings start and end on time? Did they stay focused on strategic governance work, or did they drift into operational details? Were the board packets distributed at least seventy-two hours in advance? Did every board member read them?
+- Is the board speaking with one voice to the superintendent, or are individual board members giving operational direction outside of board meetings?
 
-**Behavioral accountability.** When a board member violated a governance norm — interrupted a colleague, spoke beyond their allotted time, raised an item that was not on the agenda — did the board president address it in the moment, or did it pass without comment? The answer tells you whether your board has functioning norms or paper ones.
+- Is the superintendent bringing the board the information it needs to govern — progress data, financial updates, policy recommendations — or is the board having to ask for information that should be routine?
 
-**Decision-making quality.** Look back at every board vote in Q1. Not the unanimous consent items. The substantive ones. How many were preceded by a genuine board discussion — multiple perspectives, questions for understanding, a visible attempt to reach the best decision rather than the fastest one? How many were preceded by silence and a quick motion?
+- Is the board creating unnecessary work for the superintendent by revisiting decisions, requesting duplicative reports, or micromanaging implementation?
 
-The first quarter is also when board cliques form. Board members start calling each other outside of meetings. They begin agreeing on positions before the public meeting. They decide who is with them and who is against them. By June, the cliques are hardened and the board cannot govern effectively.
+These questions are not easy to ask. They are harder to answer honestly. But a board that cannot answer them has no way to know whether the partnership is healthy until the annual evaluation reveals a problem that has been building for months.
 
-If your board feels different in March than it did in January — less cohesive, more factional, more cautious about what gets said in open session — the health check should name it.
+**Domain 3: Board team dynamics**
 
-**The question for your board:** Is the board functioning better as a team than it did in January, or worse? Can every board member name the board's top three governance priorities for 2028 without checking their notes?
+The board is a governance team. Like any team, it has dynamics that either support or undermine the work.
 
----
+The Q1 health check asks the board to assess how it is functioning as a team. Not whether board members like each other — likability is irrelevant to governance effectiveness. Whether the board is operating in a way that produces good decisions.
 
-**Dimension 4: Individual Board Member Self-Assessment**
+Here is what I look for in this domain:
 
-The fourth dimension requires individual honesty.
+**Decision-making pattern.** Does the board debate substantive issues before voting, or are most votes unanimous with little discussion? Unanimity without debate is not a sign of a healthy team. It is often a sign that the board is avoiding hard conversations, deferring to the superintendent, or operating on incomplete information.
 
-Each board member should ask themselves three questions about their own Q1 performance.
+**Conflict handling.** When board members disagree, does the disagreement center on policy and student outcomes, or does it become personal? Healthy boards have robust disagreements about strategy. Unhealthy boards either avoid disagreement entirely or let it spill into personal attacks.
 
-**Did I prepare?** Did I read every board packet before the meeting? Did I come with questions written down, or did I expect the staff presentation to tell me everything I needed to know?
+**Meeting culture.** Does every board member arrive prepared? Do board members listen to each other, or do they use other members' speaking time to prepare their own responses? Does the board stay on agenda, or do meetings run long because the board cannot maintain focus?
 
-**Did I contribute?** Did I speak in ways that moved the board toward better decisions, or did I speak in ways that prolonged conversations, repeated points already made, or focused on what I wanted rather than what students needed?
+**Inclusion of all voices.** Are all board members participating in discussions, or are one or two members dominating every conversation? Are newer board members being brought into the governance work, or are they still sitting silently through meetings three months into their term?
 
-**Did I grow?** Did I learn something new about governance in Q1? Did I read a resource the board shared, attend a training session, or ask a question that showed I was trying to understand the work better rather than just doing it the way I always have?
+I have never met a board that scored perfectly on all four of these questions in Q1. That is fine. The purpose is not a perfect score. The purpose is identifying the one or two dynamics the board needs to address before Q2.
 
-I have worked with boards where the group assessment is positive — meetings are well run, the superintendent relationship is strong — but individual board members know they are coasting. Those boards eventually develop a governance weakness exactly where the coasting board member sits. The health check surfaces that before it becomes a crisis.
+**Domain 4: Individual board member self-assessment**
 
-**The question for each board member:** If I graded my own Q1 governance performance, what would the grade be? What would change if I gave myself an honest grade instead of the grade I want to deserve?
+The board as a whole cannot improve unless each board member is willing to look at their own performance.
 
----
+This is the hardest domain of the health check, because it requires individual board members to set aside the assumption that they are doing their job well. Most board members believe they are. A significant percentage of them are wrong.
 
-**Dimension 5: Q1 Results Against January Goals**
+The Q1 health check should include a brief individual self-assessment. Not a formal instrument. A few questions each board member answers privately and then shares at whatever comfort level the board agrees on.
 
-The fifth dimension is the one that connects everything back to student outcomes.
+Here are the questions I suggest:
 
-At the end of Q1, your board should know where it stands against the goals it adopted in January. Not a full annual evaluation — that comes later. A first-quarter temperature check.
+- Did I arrive prepared for every board meeting this quarter?
 
-Here is what that looks like.
+- Did I read the board packet before the meeting, or did I rely on the superintendent presentation to inform my questions?
 
-For each goal your board adopted in January, the superintendent should provide a Q1 progress summary. Not a massive data packet. A one-page summary per goal that answers three questions:
+- Did I ask questions that were about policy and student outcomes, or did I ask questions about operational details that are the superintendent's responsibility?
 
-- Where did we expect to be at the end of Q1?
-- Where are we actually?
-- Is the trajectory on track, off track but recoverable, or off track and requiring intervention?
+- Did I speak to the superintendent or other staff members outside of board meetings about operational matters — and if so, did I clear those conversations with the board president?
 
-The board should review these summaries, ask clarifying questions, and decide whether any goals need a course correction before Q2. If a goal is already off track, the board and superintendent should agree on what the Q2 check-in needs to show to confirm the trajectory is corrected.
+- Did I make at least one meaningful contribution to a board discussion about student outcomes this quarter?
 
-I want to be clear about what this is not. This is not a punitive review. It is not an opportunity to tell the superintendent that Q1 results are disappointing. It is an opportunity to calibrate. Every goal adoption is based on a forecast. Q1 data tells the board whether that forecast was accurate. Sometimes it is not. The board that discovers the forecast was wrong in March is a board that can adjust. The board that discovers the forecast was wrong in June is a board that missed an entire quarter of potential course correction.
+These questions are not about shaming individual board members. They are about creating a culture where continuous improvement applies to the board, not just the district. A board that cannot examine its own members' performance is a board that expects accountability from everyone except itself.
 
-**The question for your board:** For each adopted goal, is the Q1 trajectory on track, off track but recoverable, or off track and requiring intervention? What is the board's specific response to any goal in the last category?
+**Domain 5: Q1 results against the January goals**
 
----
+Finally, the board must answer the question that connects everything: *Did our Q1 results move toward the goals we adopted in January?*
 
-**Putting the five dimensions together**
+This is where the governance health check meets the budget alignment review. The budget review told you whether the resources are aligned. The results review tells you whether the alignment is working.
 
-The five dimensions create a single scoreboard.
+The board should review the Q1 performance data for each adopted goal. Not a full data-analysis session — that belongs in the progress monitoring check-ins. A summary: here is where we expected to be at the end of Q1, here is where we are, and here is the variance.
 
-- Progress monitoring fidelity: Did we follow the schedule we committed to?
-- Superintendent partnership health: Is the relationship stronger or weaker than it was in January?
-- Board team dynamics: Are we governing as a team or as individuals who happen to share a dais?
-- Individual self-assessment: Is each board member doing their part?
-- Q1 results: Are the goals on track?
+If the board is on track for every goal, the health check confirms that the governance system is working. If the board is off track for one or more goals, the health check becomes a diagnostic: is the gap caused by insufficient resources, flawed implementation, or a goal that needs to be recalibrated for the remaining three quarters?
 
-A board that scores green on all five dimensions is executing the governance cycle correctly. A board that scores yellow or red on any dimension has identified its Q2 improvement priority.
-
-And here is the connection to last week's piece.
-
-The budget alignment review and the governance health check together form the complete quarterly governance review. The first one tells you whether your resources are aligned with your goals. The second one tells you whether your governance system is capable of protecting that alignment through the rest of the year.
-
-You can win on the budget and lose on governance. The March arc gives you both reviews so you do not have to choose.
-
-Use the Q1 governance health check at your board meeting this month. Share the results with the board in a private session — no community members, no recording. Let board members assess each dimension honestly. Identify the Q2 improvement priorities. And then move into April with a clear picture of what the board needs to work on, not just what the district needs to work on.
-
-The board that governs itself well governs the district well. The governance health check is how you verify the first part.
+The answer determines what the board does next. But the board cannot answer that question unless it looks at the results.
 
 ---
 
-**Your free CTA:** Reply to this email with the keyword **Q1Health** and I will send you the Q1 Governance Health Check Worksheet — a five-dimension scorecard your board can use in a closed session to assess its own March performance. It includes the diagnostic questions for each dimension, a scoring rubric (green/yellow/red), and a Q2 improvement planning template.
+**The two reviews together**
 
-**Your paid CTA:** I offer a Q1 Governance Health Check Facilitation Session — a single ninety-minute virtual session where I facilitate your board through the five-dimension assessment. I ask the questions, prompt the discussion, and produce a written report with your board's Q1 health score and Q2 improvement priorities. Reply to this email for pricing and availability.
+The budget alignment review and the governance health check are two sides of the same quarterly process.
+
+The budget alignment review asks: *Are the resources still where we put them?*
+
+The governance health check asks: *Are we doing the governance work that keeps those resources on track?*
+
+Both questions are necessary. Neither is sufficient on its own. A board with perfect resources and poor governance will drift. A board with strong governance and misaligned resources will spin its wheels.
+
+Together, they form the complete Q1 governance check. Run them both. Use the findings from one to inform the other. And schedule the Q2 review now — before the calendar fills up with priorities that are always more urgent and never more important.
 
 ---
 
-*This is Piece 2 of the March 2028 arc — the Q1 Governance Health Check. Last week's piece covered the quarterly budget alignment review using the goal-to-budget crosswalk from the February arc. Together, these two reviews form the complete quarterly governance check your board should run at the end of every quarter. The April arc continues with the full budget adoption process and the Q2 governance launch. Subscribe at effectiveschoolboards.com to continue the series.*
+**What Q1 teaches you about the rest of the year**
 
-*This edition draws on ESB Effective Practices #2 (Progress Monitoring), #4 (Superintendent Partnership), #8 (Governance Team Discipline), #10 (Governance Team Discipline and Functioning), #11 (Goal Clarity and Alignment), and #12 (Continuous Improvement and Board Self-Evaluation).*
+Every Q1 governance health check I have facilitated — and I have facilitated dozens — produces the same set of insights for the board.
+
+**The board learns what it actually prioritizes.** The goals the board adopted in January represent the board's stated priorities. The progress monitoring the board actually did in Q1 represents the board's real priorities. The gap between the two is the single most useful piece of information a board can generate about itself.
+
+**The board learns where its governance gaps are.** Every board has at least one gap in Q1. The question is whether the board knows what the gap is before the end of the year — and whether it addresses it before the gap becomes a pattern.
+
+**The board learns that governance is not a set-it-and-forget-it system.** Adopting goals in January, building a crosswalk in February, passing a budget in April — none of these are finish lines. They are starting points. A governance health check every quarter is how the board verifies that the system is still working, still relevant, and still focused on student outcomes.
+
+The boards that follow through on the Q1 health check are the boards that finish the year without a governance crisis. They catch the small problems early, address them directly, and enter Q2 stronger — not because they avoided challenges, but because they built the muscle to handle them.
+
+The boards that skip the Q1 health check are the boards that call me in November wondering why their goals are off track, their superintendent relationship is strained, and their team dynamics have deteriorated. They skipped the check, and the gap between Q2 and Q4 was too wide to close.
+
+The choice is yours. March is the month to make it.
+
+---
+
+**Your free CTA:** Reply to this email with the keyword **GovernanceHealth** and I will send you the Q1 Governance Health Check Kit — the five-domain discussion framework with facilitator prompts for each domain, the individual board member self-assessment worksheet, the progress monitoring fidelity tracker to compare scheduled vs. actual check-ins, and a one-page board team dynamics observation form for the board president or facilitator. Run the health check at your next meeting. Identify your gaps. Build your Q2 plan.
+
+**Your paid CTA:** I offer a Quarterly Governance Review Facilitation Package — a recurring engagement that covers both the budget alignment review and the governance health check each quarter. I facilitate the board's quarterly review session, produce the change analysis and health check summary, and deliver the board's findings in a format ready for the community newsletter. Reply to this email for pricing and availability.
+
+---
+
+*This is the second piece of the March 2028 Budget Alignment Review and Governance Health Check arc — the companion to last week's quarterly budget alignment review framework. Together, these two pieces form the complete Q1 governance check: resources and team, spending and governance, crosswalk and health check.*
+
+*This arc builds on the January 2028 goal adoption arc — where your board set measurable student outcome goals for the year — and the February 2028 Crosswalk arc — where your board connected those goals to the budget. If you did not complete those arcs, the two March pieces still work as a standalone tool: run the budget alignment review first, then the governance health check.*
+
+*Subscribe at effectiveschoolboards.com to continue the series. The Q2 governance health check framework publishes in June 2028.*
+
+*This edition draws on ESB Effective Practices #2 (Progress Monitoring), #4 (Superintendent Partnership and Evaluation), #7 (Board Team Development), #8 (Progress Monitoring), #9 (Board Self-Evaluation), and #10 (Governance Team Discipline).*
