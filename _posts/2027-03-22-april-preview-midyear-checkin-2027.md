@@ -95,7 +95,7 @@ The spring budget cycle ends with adoption. The governance cycle continues. The 
 
 ---
 
-**Your free CTA:** Reply to this email with the keyword **Launch** and I'll send you the Spring Governance Roadmap (April–June) — a complete calendar with the public hearing preparation checklist, the mid-year governance check-in template, the post-adoption budget monitoring setup guide, and the May and June milestone preparation timeline.
+**Your free CTA:** Reply to this email with the keyword **GovernanceRoadmap** and I'll send you the Spring Governance Roadmap (April–June) — a complete calendar with the public hearing preparation checklist, the mid-year governance check-in template, the post-adoption budget monitoring setup guide, and the May and June milestone preparation timeline.
 
 **Your paid CTA:** I offer a Spring Governance Cycle Coaching Package — three sessions covering the budget public hearing preparation, the mid-year governance check-in facilitation, and the post-adoption budget monitoring setup. Reply to this email for pricing and availability.
 
