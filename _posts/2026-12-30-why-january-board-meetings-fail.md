@@ -6,13 +6,14 @@ description: "I've sat through more January board meetings than I care to count.
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
-permalink: /why-january-board-meetings-fail/
+permalink: /january-board-meetings-fail/
 ---
+
 **Why January Board Meetings Fail (And How Yours Won't)**
 
 December 30, 2026
 
-**Series:** Year-End Governance Reset & 2027 Planning
+**Series:** Year-End Governance Reset & 2027 Planning — Arc Closer
 
 ---
 
@@ -129,7 +130,7 @@ Let's make it count.
 
 ---
 
-**Your free CTA:** Reply to this email with the keyword **Structure** and I'll send you the January Board Meeting Agenda Template — the full 90- to 120-minute agenda structure with strategic items first, timing for each section, and decision-making protocols built in. Use it to design your most productive meeting of the year.
+**Your free CTA:** Reply to this email with the keyword **Reflect** and I'll send you the January Board Meeting Agenda Template — the full 90- to 120-minute agenda structure with strategic items first, timing for each section, and decision-making protocols built in. Use it to design your most productive meeting of the year.
 
 **Your paid CTA:** Ready to transform how your board meetings function? I offer a Board Meeting Effectiveness Coaching Package — three sessions covering agenda design, decision-making protocols, and meeting facilitation training. Reply to this email for pricing and availability.
 
@@ -143,4 +144,4 @@ Let's make it count.
 
 ---
 
-*This piece closes December’s Year-End Governance Reset & 2027 Planning arc. Over the past four weeks, this arc has walked you through telling your 2026 story, setting data-informed 2027 goals, building a scorecard, aligning your budget, reflecting on your accomplishments, committing to your community, and planning your first 90 days. This final piece brings it all together: a January board agenda that actually moves the district forward. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
+*This piece closes December's Year-End Governance Reset & 2027 Planning arc. Over the past four weeks, this arc has walked you through telling your 2026 story, setting data-informed 2027 goals, building a scorecard, aligning your budget, reflecting on your accomplishments, committing to your community, and planning your first 90 days. This final piece brings it all together: a January board agenda that actually moves the district forward. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
