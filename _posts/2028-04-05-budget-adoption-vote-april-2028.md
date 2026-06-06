@@ -22,7 +22,7 @@ Two months ago, your board built the goal-to-budget crosswalk, identified alignm
 
 One month ago, your board confirmed the corrections, validated the progress monitoring data, asked whether the governance framework worked, and published the community engagement impact statement.
 
-Last week, your board previewed the three findings that the adoption meeting requires.
+Two weeks ago, your board previewed the three findings that the adoption meeting requires. Last week, your board walked through the transition from budget oversight to data review.
 
 Tonight — April 5 — your board takes the final vote.
 
