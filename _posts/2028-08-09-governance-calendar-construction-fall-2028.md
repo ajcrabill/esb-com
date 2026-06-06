@@ -155,6 +155,6 @@ Subscribe at effectiveschoolboards.com to continue the series.
 
 ---
 
-*This piece is 2 of 5 in the Organizational Reset sub-arc (Aug 2–30). It follows the August 2 piece on the organizational meeting ([The August Organizational Meeting](/august-organizational-meeting-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
+*This piece is 2 of 5 in the Organizational Reset sub-arc (Aug 2–30) and 6 of 13 in the Summer 2028 Governance Renewal arc. It follows the August 2 piece on the organizational meeting ([The August Organizational Meeting](/august-organizational-meeting-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
 
 *Backlinks: This piece extends the Spring 2028 governance calendar structure with adjustments from the year-end closeout. The non-deferrable action protocol addresses the Spring 2028 gap where Progress Monitoring was replaced by operational agenda items ([view the year-end closeout](/year-end-closeout-june-2028/)). Subscribe at effectiveschoolboards.com to continue the series.*
