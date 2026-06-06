@@ -11,7 +11,7 @@ permalink: /budget-alignment-101/
 
 > **Watch the companion video:** I just released a 6-minute explainer called *Budget Alignment 101* on the AJ Crabill YouTube channel. It walks through the same framework I'm laying out here — but with whiteboard diagrams you can show your board. Watch it at [youtube.com/@AJCrabill](https://youtube.com/@AJCrabill). Or keep reading and I'll walk you through it.
 
-*If you read my last edition — 5 Fiscal Early Warning Signals Every Board Should Monitor Quarterly — you already know how to spot trouble before it arrives. This piece answers the next question: once you know you have a problem, how do you check whether your spending is actually going where you said it would? Start with the signals, then apply the audit. They're two halves of the same governance practice.*
+*If you read my last edition — [5 Fiscal Early Warning Signals Every Board Should Monitor Quarterly](/five-fiscal-early-warning-signals/) — you already know how to spot trouble before it arrives. This piece answers the next question: once you know you have a problem, how do you check whether your spending is actually going where you said it would? Start with the signals, then apply the audit. They're two halves of the same governance practice.*
 
 ---
 
@@ -108,4 +108,6 @@ Because when the preliminary budget lands and the hard choices come, you don't w
 
 —AJ
 
-*P.S. — I've put together a full Budget Alignment Resource Pack with the audit framework, workshop guide, scoring rubric, and a real-world Portland case study. It's everything you need to run a 45-minute board workshop — free, no email required. Get it at [effectiveschoolboards.com/resource/budget-alignment/](https://effectiveschoolboards.com/resource/budget-alignment/). And if you haven't watched the companion video yet, it's at [youtube.com/@AJCrabill](https://youtube.com/@AJCrabill) — perfect to watch with your board before a budget workshop.*
+|*P.S. — I've put together a full Budget Alignment Resource Pack with the audit framework, workshop guide, scoring rubric, and a real-world Portland case study. It's everything you need to run a 45-minute board workshop — free, no email required. Get it at [effectiveschoolboards.com/resource/budget-alignment/](https://effectiveschoolboards.com/resource/budget-alignment/). And if you haven't watched the companion video yet, it's at [youtube.com/@AJCrabill](https://youtube.com/@AJCrabill) — perfect to watch with your board before a budget workshop.*
+|
+|*This edition is Part 2 of a two-part fiscal governance arc. Read [Part 1: 5 Fiscal Early Warning Signals Every Board Should Monitor Quarterly](/five-fiscal-early-warning-signals/). It draws on ESB Effective Practices #3 (Budget Alignment), #6 (Progress Monitoring), and #11 (Risk Management).*
