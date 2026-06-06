@@ -89,7 +89,7 @@ Next week: Gaps 2 and 3 — the Progress Monitoring Gap and the Governance Team 
 
 ---
 
-*This series builds on the Summer Fiscal Crisis case briefs (June–August 2026) — four districts, four crises, one pattern. Catch the full series at effectiveschoolboards.com/blog.*
+*This series builds on the Summer Fiscal Crisis case briefs (June–August 2026) — four districts, four crises, one pattern. Start with the EPISD case study: [The $52.8 Million Meeting: How El Paso ISD's Board Found a Crisis It Didn't Know It Had](/fiscal-crisis-spotlight-episd/).*
 
 ---
 
