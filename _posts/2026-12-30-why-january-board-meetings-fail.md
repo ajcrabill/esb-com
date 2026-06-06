@@ -2,16 +2,17 @@
 layout: post
 title: "Why January Board Meetings Fail (And How Yours Won't)"
 heading: "Why January Board Meetings Fail (And How Yours Won't)"
-description: "Most January board meetings fail — not legally, but strategically. Here are the four predictable failure modes and a specific agenda template that prevents every one of them."
+description: "I've sat through more January board meetings than I care to count. And I can tell you with confidence: most of them fail."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
 permalink: /why-january-board-meetings-fail/
 ---
-
 **Why January Board Meetings Fail (And How Yours Won't)**
 
 December 30, 2026
+
+**Series:** Year-End Governance Reset & 2027 Planning
 
 ---
 
@@ -126,7 +127,6 @@ The community is watching. And for the first time this year, they'll see a board
 
 Let's make it count.
 
-
 ---
 
 **Your free CTA:** Reply to this email with the keyword **Structure** and I'll send you the January Board Meeting Agenda Template — the full 90- to 120-minute agenda structure with strategic items first, timing for each section, and decision-making protocols built in. Use it to design your most productive meeting of the year.
@@ -140,3 +140,7 @@ Let's make it count.
 *This series builds on the work you started in September's Three Gaps arc and October's Community Engagement & Trust arc. The full Q4 journey — diagnosis, trust-building, accountability, and reset — is available at effectiveschoolboards.com/newsletter.*
 
 *Thank you for a year of governance work. The students you serve are better off because you chose to do this work. Now go make 2027 the year it all comes together.*
+
+---
+
+*This piece closes December’s Year-End Governance Reset & 2027 Planning arc. Over the past four weeks, this arc has walked you through telling your 2026 story, setting data-informed 2027 goals, building a scorecard, aligning your budget, reflecting on your accomplishments, committing to your community, and planning your first 90 days. This final piece brings it all together: a January board agenda that actually moves the district forward. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*

@@ -2,14 +2,19 @@
 layout: post
 title: "The Year in Review: What Your Board Actually Accomplished in 2026"
 heading: "The Year in Review: What Your Board Actually Accomplished in 2026"
-description: "A four-question framework for your board's honest year-end review — student outcomes, governance commitments, what to repeat, and what to stop doing in 2027."
+description: "Here's a question I want you to answer before you read another word."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
-permalink: /year-in-review-2026-board-accomplishments/
+permalink: /year-in-review-board-accomplishments-2026/
 ---
-
 **The Year in Review: What Your Board Actually Accomplished in 2026**
+
+December 21, 2026
+
+**Series:** Year-End Governance Reset & 2027 Planning
+
+---
 
 Here's a question I want you to answer before you read another word.
 
@@ -114,9 +119,12 @@ The answer might surprise you. The process of getting to it will make you a bett
 
 **Your paid CTA:** Want a deeper dive? I offer an Annual Governance Health Assessment — a comprehensive board evaluation with strategic recommendations for the year ahead. Includes individual board member surveys, team observation, and a written report with actionable next steps. Reply to this email for pricing and availability.
 
-
 ---
 
 *This piece continues December's Year-End Governance Reset & 2027 Planning arc. Wednesday brings a shorter, reflective piece for the holiday week. Then we close December with your January action plan. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
 
 *This series builds on the work you started in September's Three Gaps arc, October's Community Engagement & Trust arc, and November's Board Accountability & Governance Continuity arc. The full Q4 journey is available at effectiveschoolboards.com/newsletter.*
+
+---
+
+*This piece continues December’s Year-End Governance Reset & 2027 Planning arc. Wednesday’s piece showed you how to align your budget with 2027 priorities; this piece asks the harder question: did your 2026 actions produce results? On Wednesday, December 23: the gift your community actually wants from its school board this holiday season. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*

@@ -2,16 +2,17 @@
 layout: post
 title: "Your Board's 2027 Scorecard: What Will You Measure Next Year?"
 heading: "Your Board's 2027 Scorecard: What Will You Measure Next Year?"
-description: "Most boards set ambitious January goals and never look at the metrics again. Here's how to build a focused 3-5 metric scorecard — and why December is the only time to do it right."
+description: "Here's a question I ask every board I work with in December."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
-permalink: /2027-scorecard/
+permalink: /your-boards-2027-scorecard/
 ---
-
 **Your Board's 2027 Scorecard: What Will You Measure Next Year?**
 
 December 14, 2026
+
+**Series:** Year-End Governance Reset & 2027 Planning
 
 ---
 
@@ -111,6 +112,7 @@ And your community deserves to know that you're tracking whether students are be
 
 That's the scorecard. That's the commitment. That's the work.
 
+
 ---
 
 **Your free CTA:** Reply to this email with the keyword **Measure** and I'll send you the 2027 Progress Monitoring Scorecard Template — a one-page framework for selecting your three to five metrics, setting baselines and targets, and defining your data review cadence.
@@ -119,6 +121,10 @@ That's the scorecard. That's the commitment. That's the work.
 
 ---
 
-*This piece continues December's Year-End Governance Reset & 2027 Planning arc. Wednesday's piece showed you how to set your 2027 goals; this piece shows you how to measure progress against those goals. On Wednesday: how to align your 2027-28 budget with the priorities you've already set. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
+*This piece continues December's Year-End Governance Reset & 2027 Planning arc. Our December 9 piece showed you how to set your foundation for 2027 goals; this piece shows you how to measure progress against those goals. On Wednesday: how to align your 2027-28 budget with the priorities you've already set. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
 
 *This series builds on the work you started in September's Three Gaps arc, October's Community Engagement & Trust arc, and November's Board Accountability & Governance Continuity arc. The full Q4 journey is available at effectiveschoolboards.com/newsletter.*
+
+---
+
+*This piece continues December’s Year-End Governance Reset & 2027 Planning arc. Wednesday’s piece showed you how to use data to set your 2027 goals; this piece shows you how to measure progress against those goals. On Wednesday: how to align your 2027-28 budget with the priorities you’ve already set. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*

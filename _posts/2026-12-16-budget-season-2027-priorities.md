@@ -2,16 +2,17 @@
 layout: post
 title: "Budget Season Is Coming: Start Planning Your 2027-28 Priorities Now"
 heading: "Budget Season Is Coming: Start Planning Your 2027-28 Priorities Now"
-description: "Most school boards don't set budget priorities — they react to them. Here's how to give your superintendent clear budget direction in December, before the budget cycle starts."
+description: "Most school boards don't set budget priorities. They react to them."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
 permalink: /budget-season-2027-priorities/
 ---
-
 **Budget Season Is Coming: Start Planning Your 2027-28 Priorities Now**
 
 December 16, 2026
+
+**Series:** Year-End Governance Reset & 2027 Planning
 
 ---
 
@@ -113,3 +114,7 @@ The community didn't elect you to react to budgets. They elected you to set the 
 *This piece continues December's Year-End Governance Reset & 2027 Planning arc. Monday showed you how to build your 2027 scorecard. Wednesday shows you how to fund it. Next week: the year-in-review — what your board actually accomplished in 2026. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
 
 *This series builds on September's Three Gaps arc, October's Community Engagement & Trust arc, and November's Board Accountability & Governance Continuity arc. The full Q4 journey is available at effectiveschoolboards.com/newsletter.*
+
+---
+
+*This piece continues December’s Year-End Governance Reset & 2027 Planning arc. Monday’s piece showed you how to build a 2027 scorecard; this piece shows you how to align your budget with the priorities you’ve set. On Monday, December 21: reflecting on what your board actually accomplished in 2026. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*

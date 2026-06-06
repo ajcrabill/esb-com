@@ -2,16 +2,17 @@
 layout: post
 title: "The Christmas Present Your Community Actually Wants"
 heading: "The Christmas Present Your Community Actually Wants"
-description: "What your community really wants for Christmas isn't more meetings or policies. It's to know you have a plan. Write a one-page Board Commitment Statement before the holiday break."
+description: "I've been thinking about what communities really want from their school boards this time of year."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
 permalink: /christmas-present-community-wants/
 ---
-
 **The Christmas Present Your Community Actually Wants**
 
 December 23, 2026
+
+**Series:** Year-End Governance Reset & 2027 Planning
 
 ---
 
@@ -87,6 +88,7 @@ You might think it's too simple to matter. But I've seen communities transform w
 
 Merry Christmas. Now get back to work. There's a community waiting for you to tell them where you're going.
 
+
 ---
 
 **Your free CTA:** Reply to this email with the keyword **Commit** and I'll send you the Board Commitment Statement Template — a one-page framework for articulating your board's 2027 goals, metrics, and timeline in a clear, community-facing format.
@@ -98,3 +100,7 @@ Merry Christmas. Now get back to work. There's a community waiting for you to te
 *This piece continues December's Year-End Governance Reset & 2027 Planning arc. Next week: how to turn your December planning into a powerful first quarter — starting with your board's first 90 days of 2027. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
 
 *This series builds on September's Three Gaps arc, October's Community Engagement & Trust arc, and November's Board Accountability & Governance Continuity arc. The full Q4 journey is available at effectiveschoolboards.com/newsletter.*
+
+---
+
+*This piece continues December’s Year-End Governance Reset & 2027 Planning arc. Monday’s piece asked what your board actually accomplished in 2026; this piece asks what your community needs from you going into 2027. On Monday, December 28: your board’s first 90 days of 2027. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*

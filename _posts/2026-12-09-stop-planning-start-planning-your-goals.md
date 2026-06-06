@@ -2,14 +2,19 @@
 layout: post
 title: "Stop Planning Your January Agenda. Start Planning Your January Goals."
 heading: "Stop Planning Your January Agenda. Start Planning Your January Goals."
-description: "Most boards plan their January agenda before they set their goals. Here's why that's backward — and a three-step goal-setting framework that takes one work session to complete."
+description: "Every December, I see the same thing."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
-permalink: /stop-planning-january-agenda-start-goal-setting/
+permalink: /stop-planning-start-2027-goals/
 ---
-
 **Stop Planning Your January Agenda. Start Planning Your January Goals.**
+
+December 9, 2026
+
+**Series:** Year-End Governance Reset & 2027 Planning
+
+---
 
 Every December, I see the same thing.
 
@@ -110,9 +115,12 @@ Start with the goals. Everything else follows.
 
 **Your paid CTA:** Need a facilitator to lead your board through goal-setting? I offer a half-day Goal-Setting Facilitation for Board Retreats that walks your board through all three steps — baseline, targets, data cadence — and leaves you with a completed 2027 goal framework. Reply to this email for pricing and availability.
 
-
 ---
 
 *December's Year-End Governance Reset & 2027 Planning arc started with the year-end governance reset — understanding where you stand and what needs to change. This piece builds on that foundation: once you know what needs to change, how do you set the goals that define your 2027 direction? Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
 
 *This series builds on the work you started in September's Three Gaps arc, October's Community Engagement & Trust arc, and November's Board Accountability & Governance Continuity arc. The full Q4 journey — diagnosis, trust-building, accountability, and reset — is available at effectiveschoolboards.com/newsletter.*
+
+---
+
+*This piece continues December’s Year-End Governance Reset & 2027 Planning arc. Monday’s opener asked who tells your board’s 2026 story; this piece asks what data should shape your 2027 goals. On Monday, December 14: building your board’s 2027 scorecard. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*

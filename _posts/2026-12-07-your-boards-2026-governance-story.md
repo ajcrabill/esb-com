@@ -2,16 +2,17 @@
 layout: post
 title: "Your Board's 2026 Governance Story — Who's Telling It?"
 heading: "Your Board's 2026 Governance Story — Who's Telling It?"
-description: "If your board can't articulate what it accomplished, what it learned, and what it's accountable for, you haven't done the reflective work that accountability requires. A year-in-review communication isn't a nice-to-have — it's a governance act."
+description: "Here's a question I want you to answer honestly: who gets to tell the story of your board's 2026?"
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
 permalink: /your-boards-2026-governance-story/
 ---
-
 **Your Board's 2026 Governance Story — Who's Telling It?**
 
 December 7, 2026
+
+**Series:** Year-End Governance Reset & 2027 Planning
 
 ---
 
@@ -87,7 +88,7 @@ Here's what I'll tell you: the boards that use this template consistently tell m
 
 That's the point. The year-in-review isn't for the community. It's for the board. The community benefits, but the board is the one that needs to do the work of honest reflection. The communication is just the artifact of that work.
 
-## What This Arc Looks Like
+## What December 7 Looks Like in the Arc
 
 This piece kicks off December's Year-End Governance Reset & 2027 Planning arc. Over the next four weeks, we'll build on the accountability work from November:
 
@@ -113,3 +114,7 @@ Start here: tell your board's story. Not someone else's version of it. Yours.
 *November's Board Accountability & Governance Continuity arc gave you the checklist to close the year strong — including Action 7: Send a Year-End Community Communication. This piece picks up where that checklist left off: not just sending a message, but doing the reflective work that makes the message worth reading. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*
 
 *This series builds on the work you started in September's Three Gaps arc and October's Community Engagement & Trust arc. The full Q4 journey — diagnosis, trust-building, accountability, and reset — is available at effectiveschoolboards.com/newsletter.*
+
+---
+
+*This piece opens the Year-End Governance Reset & 2027 Planning arc. November’s accountability arc closed with the December Governor’s Checklist. This arc takes that checklist deeper — asking not just what you should do, but how to do it. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*

@@ -2,16 +2,17 @@
 layout: post
 title: "From Year-End to Year Ahead: How DeSoto ISD Used a December Governance Reset to Go From F to B"
 heading: "From Year-End to Year Ahead: How DeSoto ISD Used a December Governance Reset to Go From F to B"
-description: "How DeSoto ISD used a December governance reset to go from F to B — a real case study in board self-evaluation, goal setting, budget alignment, and January meeting design from AJ Crabill's conservatorship."
+description: "When I was appointed Conservator of DeSoto Independent School District, I walked into a building that had been rated F — in academics, in finance, and i..."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
-permalink: /desoto-governance-reset-case-study/
+permalink: /year-end-to-year-ahead-governance-reset/
 ---
-
 **From Year-End to Year Ahead: How DeSoto ISD Used a December Governance Reset to Go From F to B**
 
 December 31, 2026
+
+**Series:** Year-End Governance Reset & 2027 Planning
 
 ---
 
@@ -159,8 +160,8 @@ DeSoto ISD's board president was right: you don't need a crisis to start governi
 
 ---
 
-*This case study is based on the verified governance transformation of DeSoto Independent School District (Texas). AJ Crabill served as Conservator of DeSoto ISD from approximately 2023-2025. During his guidance, DeSoto made double-digit literacy gains and improved from F ratings in academics, finance, and governance to B ratings. Source: effectiveschoolboards.com/publications/.*
+*This case study is based on the verified governance transformation of DeSoto Independent School District (Texas). AJ Crabill served as Conservator of DeSoto ISD from approximately 2023-2025. During his guidance, DeSoto made double-digit literacy gains and improved from F ratings in academics, finance, and governance to B ratings. Source: effectiveschoolboards.com/publications/. Catch the full Year-End Governance Reset & 2027 Planning series — including the goal-setting framework, scorecard template, and January meeting structure — in the newsletter archive at effectiveschoolboards.com/newsletter.*
 
-*November's Board Accountability & Governance Continuity arc walked you through the work of preserving governance momentum through transitions. October showed you how to earn your community's trust through engagement and transparency. December is where both come together: the year-end reset that sets your board up for a strong 2027. Catch the full series in the newsletter archive at [effectiveschoolboards.com/newsletter](https://effectiveschoolboards.com/newsletter).*
+---
 
-*This series completes the Q4 arc that started in September's Three Gaps — diagnosing the gaps in your governance, engaging your community, accounting for your trust, and resetting for the year ahead. Catch the full series at [effectiveschoolboards.com/newsletter](https://effectiveschoolboards.com/newsletter).*
+*This companion spotlight shows how the Year-End Governance Reset framework works in practice. Catch the full series in the newsletter archive at effectiveschoolboards.com/newsletter.*

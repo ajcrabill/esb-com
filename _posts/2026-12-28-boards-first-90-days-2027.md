@@ -2,16 +2,17 @@
 layout: post
 title: "Your Board's First 90 Days of 2027: The Plan You Need to Write This Week"
 heading: "Your Board's First 90 Days of 2027: The Plan You Need to Write This Week"
-description: "The first ninety days of the year determine the trajectory of the remaining nine. Here's a month-by-month Q1 plan for school boards that want to start 2027 ready to govern."
+description: "Research on organizational performance consistently shows that the first ninety days of a year determine the trajectory of the remaining nine."
 author: AJ Crabill
 toplevel: Blog
 toplevellink: /blog
 permalink: /boards-first-90-days-2027/
 ---
-
 **Your Board's First 90 Days of 2027: The Plan You Need to Write This Week**
 
 December 28, 2026
+
+**Series:** Year-End Governance Reset & 2027 Planning
 
 ---
 
@@ -107,9 +108,10 @@ Then walk into January and execute it.
 
 The next ninety days will determine your year. Make them count.
 
+
 ---
 
-**Your free CTA:** Reply to this email with the keyword **Launch** and I'll send you the 2027 Board First 90 Days Planning Template — a month-by-month framework for January, February, and March, with clear actions and measurable outcomes for each.
+**Your free CTA:** Reply to this email with the keyword **January** and I'll send you the 2027 Board First 90 Days Planning Template — a month-by-month framework for January, February, and March, with clear actions and measurable outcomes for each.
 
 **Your paid CTA:** Want help building your Q1 plan? I offer a half-day Board Q1 Planning & Strategy Session that walks your board through the full first-quarter framework — goal finalization, data cadence, budget alignment, and community communication strategy. Reply to this email for pricing and availability.
 
