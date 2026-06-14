@@ -373,10 +373,10 @@ body { margin: 0; padding: 0; }
 
   // Response scale (same for every question)
   var SCALE = [
-    { name: 'Not yet',       desc: 'We don\'t do this',               cls: 'c0' },
-    { name: 'Just starting', desc: 'Beginning to, inconsistently',    cls: 'c1' },
-    { name: 'Mostly',        desc: 'We do this with some consistency', cls: 'c2' },
-    { name: 'Consistently',  desc: 'This is how we operate, every time', cls: 'c3' },
+    { name: 'Ineffective',      desc: 'We don\'t do this',                cls: 'c0' },
+    { name: 'Emerging',         desc: 'We do this sometimes',             cls: 'c1' },
+    { name: 'Effective',        desc: 'We do this consistently',          cls: 'c2' },
+    { name: 'Highly Effective', desc: 'This is how we always operate',    cls: 'c3' },
   ];
 
   // ── State ──────────────────────────────────────────────────────────────────
