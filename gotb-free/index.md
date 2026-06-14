@@ -297,10 +297,10 @@ body { margin: 0; padding: 0; }
 
     <!-- Tier legend -->
     <div class="tier-legend">
-      <div class="tier-block tier-ineff"><span class="tier-name">Ineffective (indicative)</span><span class="tier-range">0 – 14</span></div>
-      <div class="tier-block tier-emerg"><span class="tier-name">Emerging (indicative)</span><span class="tier-range">15 – 39</span></div>
-      <div class="tier-block tier-effec"><span class="tier-name">Effective (indicative)</span><span class="tier-range">40 – 74</span></div>
-      <div class="tier-block tier-highe"><span class="tier-name">Highly Effective (indicative)</span><span class="tier-range">75 – 100</span></div>
+      <div class="tier-block tier-ineff"><span class="tier-name">Ineffective (indicative)</span><span class="tier-range">0 – 39</span></div>
+      <div class="tier-block tier-emerg"><span class="tier-name">Emerging (indicative)</span><span class="tier-range">40 – 69</span></div>
+      <div class="tier-block tier-effec"><span class="tier-name">Effective (indicative)</span><span class="tier-range">70 – 79</span></div>
+      <div class="tier-block tier-highe"><span class="tier-name">Highly Effective (indicative)</span><span class="tier-range">80 – 100</span></div>
     </div>
 
     <!-- Limit-of-self-scoring block (required) -->
@@ -333,12 +333,13 @@ body { margin: 0; padding: 0; }
   var API = 'https://esbcloud.taild49f53.ts.net:8443/gotb/submit';
 
   // ── Assessment data ────────────────────────────────────────────────────────
+  // max: weighted contribution to the 100-point total (from the ESB framework instrument)
   var AREAS = [
-    { id: 'focus',       label: 'Focus Mindset',       desc: 'Keeping the board\'s attention on student outcomes' },
-    { id: 'priorities',  label: 'Clarify Priorities',  desc: 'Setting clear, written goals and guardrails' },
-    { id: 'monitor',     label: 'Monitor Progress',    desc: 'Reviewing real evidence and acting on it' },
-    { id: 'align',       label: 'Align Resources',     desc: 'Connecting big decisions to your goals' },
-    { id: 'communicate', label: 'Communicate Results', desc: 'Honest, plain-language reporting to the community' },
+    { id: 'focus',       label: 'Focus Mindset',       desc: 'Keeping the board\'s attention on student outcomes',  max: 10 },
+    { id: 'priorities',  label: 'Clarify Priorities',  desc: 'Setting clear, written goals and guardrails',         max: 35 },
+    { id: 'monitor',     label: 'Monitor Progress',    desc: 'Reviewing real evidence and acting on it',            max: 30 },
+    { id: 'align',       label: 'Align Resources',     desc: 'Connecting big decisions to your goals',              max: 20 },
+    { id: 'communicate', label: 'Communicate Results', desc: 'Honest, plain-language reporting to the community',   max: 5  },
   ];
 
   // 4 questions per area, 5 areas = 20 questions
@@ -378,41 +379,48 @@ body { margin: 0; padding: 0; }
     { name: 'Consistently',  desc: 'This is how we operate, every time', cls: 'c3' },
   ];
 
-  // 0/1/5/10 point weights — non-linear per framework spec
-  var POINTS = [0, 1, 5, 10];
-
   // ── State ──────────────────────────────────────────────────────────────────
-  var answers  = new Array(QUESTIONS.length).fill(-1);
-  var areaIdx  = 0;  // current area (0-4)
-  var qIdxInArea = 0; // current question within area
+  var answers    = new Array(QUESTIONS.length).fill(-1);
+  var areaIdx    = 0;  // current area (0-4)
+  var qIdxInArea = 0;  // current question within area
 
   // ── Scoring ────────────────────────────────────────────────────────────────
-  function practiceIndex(areaId) {
-    var qs = QUESTIONS.filter(function(q){ return q.area === areaId; });
-    var total = qs.reduce(function(sum, q, i) {
-      var qi = QUESTIONS.indexOf(q);
-      return sum + (answers[qi] >= 0 ? POINTS[answers[qi]] : 0);
+  // answers[i] is 0-3 (linear). Area score = (rawSum / maxRaw) * area.max.
+  // Overall = sum of area scores → 0-100.
+  function areaRawSum(ai) {
+    return QUESTIONS.reduce(function(sum, q, qi) {
+      return q.area === ai ? sum + (answers[qi] >= 0 ? answers[qi] : 0) : sum;
     }, 0);
-    return Math.round(total / (qs.length * 10) * 100);
+  }
+
+  function areaScore(ai) {
+    var qs = QUESTIONS.filter(function(q){ return q.area === ai; });
+    return Math.round((areaRawSum(ai) / (qs.length * 3)) * AREAS[ai].max * 10) / 10;
+  }
+
+  // 0-100 percentage for this area (used for backend API + bar widths)
+  function areaPercent(ai) {
+    var qs = QUESTIONS.filter(function(q){ return q.area === ai; });
+    return Math.round(areaRawSum(ai) / (qs.length * 3) * 100);
   }
 
   function overallScore() {
     var sum = 0;
-    for (var i = 0; i < AREAS.length; i++) sum += practiceIndex(i);
-    return Math.round(sum / AREAS.length);
+    for (var i = 0; i < AREAS.length; i++) sum += areaScore(i);
+    return Math.round(sum);
   }
 
   function getRating(s) {
-    if (s >= 75) return 'Highly Effective (indicative)';
-    if (s >= 40) return 'Effective (indicative)';
-    if (s >= 15) return 'Emerging (indicative)';
+    if (s >= 80) return 'Highly Effective (indicative)';
+    if (s >= 70) return 'Effective (indicative)';
+    if (s >= 40) return 'Emerging (indicative)';
     return 'Ineffective (indicative)';
   }
 
   function tierColorClass(s) {
-    if (s >= 75) return 'tier-highe';
-    if (s >= 40) return 'tier-effec';
-    if (s >= 15) return 'tier-emerg';
+    if (s >= 80) return 'tier-highe';
+    if (s >= 70) return 'tier-effec';
+    if (s >= 40) return 'tier-emerg';
     return 'tier-ineff';
   }
 
@@ -573,20 +581,21 @@ body { margin: 0; padding: 0; }
       document.getElementById('emailed-to').textContent = email;
     }
 
-    // Gap / Strength
-    var areaScores = AREAS.map(function(a, i){ return { label: a.label, score: practiceIndex(i) }; });
-    var sorted = areaScores.slice().sort(function(a,b){ return a.score - b.score; });
+    // Gap / Strength (compare by percentage so different-max areas are comparable)
+    var areaPcts = AREAS.map(function(a, i){ return { label: a.label, pct: areaPercent(i) }; });
+    var sorted = areaPcts.slice().sort(function(a,b){ return a.pct - b.pct; });
     document.getElementById('gap-label').textContent = sorted[0].label;
     document.getElementById('strength-label').textContent = sorted[sorted.length - 1].label;
 
-    // Area bars
+    // Area bars — display weighted score / max; bar width is percentage of max
     var barsHtml = '';
     AREAS.forEach(function(area, i) {
-      var s = practiceIndex(i);
+      var s   = areaScore(i);
+      var pct = areaPercent(i);
       var color = barColor(i);
       barsHtml += '<div class="area-bar-row">'
-        + '<div class="area-bar-label"><span>' + area.label + '</span><span>' + s + ' / 100</span></div>'
-        + '<div class="area-bar-track"><div class="area-bar-fill" style="width:' + s + '%;background:' + color + ';"></div></div>'
+        + '<div class="area-bar-label"><span>' + area.label + '</span><span>' + s + ' / ' + area.max + '</span></div>'
+        + '<div class="area-bar-track"><div class="area-bar-fill" style="width:' + pct + '%;background:' + color + ';"></div></div>'
         + '</div>';
     });
     document.getElementById('area-bars').innerHTML = barsHtml;
@@ -621,11 +630,11 @@ body { margin: 0; padding: 0; }
         email: email,
         total_score: overall,
         rating: rating,
-        score_focus:       practiceIndex(0),
-        score_priorities:  practiceIndex(1),
-        score_monitor:     practiceIndex(2),
-        score_align:       practiceIndex(3),
-        score_communicate: practiceIndex(4),
+        score_focus:       areaPercent(0),
+        score_priorities:  areaPercent(1),
+        score_monitor:     areaPercent(2),
+        score_align:       areaPercent(3),
+        score_communicate: areaPercent(4),
       }),
     })
     .then(function(r){ return r.json(); })
