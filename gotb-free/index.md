@@ -12,9 +12,9 @@ body { margin: 0; padding: 0; }
 .gotb-wrap { max-width: 760px; margin: 0 auto; padding: 0 20px 60px; font-family: Arial, sans-serif; color: #2c3e50; }
 
 /* ── Hero ──────────────────────────────────────────────────────────────────── */
-.gotb-hero { background: linear-gradient(135deg, #2c3e50 0%, #3a6ea8 100%); color: #fff; padding: 40px 32px 36px; border-radius: 12px; margin-bottom: 28px; text-align: center; }
-.gotb-hero h1 { margin: 0 0 10px; font-size: 26px; font-weight: 800; line-height: 1.2; }
-.gotb-hero p { margin: 0; font-size: 15px; color: #adc9e8; line-height: 1.6; }
+.gotb-hero { background: #fff; border-top: 5px solid #3a6ea8; border-radius: 0 0 10px 10px; padding: 32px 32px 28px; margin-bottom: 28px; text-align: center; box-shadow: 0 2px 14px rgba(0,0,0,.06); }
+.gotb-hero h1 { margin: 0 0 10px; font-size: 26px; font-weight: 800; line-height: 1.2; color: #1e3758; }
+.gotb-hero p { margin: 0; font-size: 15px; color: #555; line-height: 1.6; }
 
 /* ── Section prose ─────────────────────────────────────────────────────────── */
 .gotb-section { background: #fff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 28px 32px; margin-bottom: 22px; }
