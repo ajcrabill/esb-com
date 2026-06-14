@@ -1,592 +1,653 @@
 ---
 layout: base
 title: "GOTB Index: Self Assessment"
-description: "Take the free Great On Their Behalf Index: Self Assessment to get an approximate score for your school board's effectiveness. 20 questions, results emailed instantly."
-summary: "GOTB Index: Self Assessment"
-toplevel: Resources
+description: "A free 20-question self-assessment for school board members based on the Great On Their Behalf framework. Get an indicative read of where your board stands across five practice areas."
+toplevel: "gotb-free"
 ---
 
 <style>
-#gotb-app { margin: 0 -15px; }
+/* ── Reset & base ──────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; padding: 0; }
+.gotb-wrap { max-width: 760px; margin: 0 auto; padding: 0 20px 60px; font-family: Arial, sans-serif; color: #2c3e50; }
+
+/* ── Hero ──────────────────────────────────────────────────────────────────── */
+.gotb-hero { background: linear-gradient(135deg, #2c3e50 0%, #3a6ea8 100%); color: #fff; padding: 40px 32px 36px; border-radius: 12px; margin-bottom: 28px; text-align: center; }
+.gotb-hero h1 { margin: 0 0 10px; font-size: 26px; font-weight: 800; line-height: 1.2; }
+.gotb-hero p { margin: 0; font-size: 15px; color: #adc9e8; line-height: 1.6; }
+
+/* ── Section prose ─────────────────────────────────────────────────────────── */
+.gotb-section { background: #fff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 28px 32px; margin-bottom: 22px; }
+.gotb-section h2 { margin: 0 0 14px; font-size: 18px; color: #2c3e50; }
+.gotb-section p, .gotb-section li { font-size: 14px; line-height: 1.7; color: #444; }
+.gotb-section ul { padding-left: 20px; margin: 0; }
+.gotb-section li { margin-bottom: 6px; }
+
+/* ── Comparison table ──────────────────────────────────────────────────────── */
+.compare-wrap { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 18px; }
+.compare-col { border-radius: 8px; padding: 20px; }
+.compare-col.free { background: #f0f6ff; border: 2px solid #3a6ea8; }
+.compare-col.cert { background: #f9f9f9; border: 2px solid #bbb; }
+.compare-col h3 { margin: 0 0 12px; font-size: 15px; font-weight: 700; }
+.compare-col.free h3 { color: #2c5282; }
+.compare-col.cert h3 { color: #555; }
+.compare-col ul { padding-left: 16px; margin: 0; }
+.compare-col li { font-size: 13px; color: #555; margin-bottom: 7px; line-height: 1.5; }
+@media (max-width: 600px) { .compare-wrap { grid-template-columns: 1fr; } }
+
+/* ── Progress bar ──────────────────────────────────────────────────────────── */
+#progress-bar-wrap { margin-bottom: 22px; }
+#progress-bar-label { font-size: 12px; color: #777; margin-bottom: 5px; }
+#progress-bar { background: #e0e0e0; border-radius: 6px; height: 8px; }
+#progress-fill { background: #3a6ea8; height: 8px; border-radius: 6px; transition: width .35s; width: 0%; }
+
+/* ── Steps ─────────────────────────────────────────────────────────────────── */
 .gotb-step { display: none; }
 .gotb-step.active { display: block; }
 
-.gotb-intro { text-align: center; padding: 40px 20px; }
-.gotb-intro h2 { font-size: 2rem; color: #2c3e50; margin-bottom: 16px; }
-.gotb-intro p { font-size: 1.05rem; color: #555; max-width: 640px; margin: 0 auto 20px; }
-.gotb-score-sample { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 28px; }
-.score-band { padding: 9px 18px; border-radius: 8px; font-weight: 600; font-size: 0.88rem; }
-.score-band.ineff { background: #f5cbcc; color: #7a0000; }
-.score-band.emerg { background: #fce5cd; color: #7a3800; }
-.score-band.effec { background: #d9ead3; color: #1a5c0a; }
-.score-band.highe { background: #d0e2f3; color: #0a2d5c; }
+/* ── Area nav dots ─────────────────────────────────────────────────────────── */
+#area-nav { display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
+.area-dot { width: 26px; height: 26px; border-radius: 50%; background: #e0e0e0; border: none; cursor: pointer; transition: background .2s; }
+.area-dot.done { background: #3a6ea8; }
+.area-dot.current { background: #3a6ea8; outline: 3px solid #9fc3e8; }
 
-/* Comparison box */
-.gotb-comparison { display: grid; grid-template-columns: 1fr 1fr; gap: 0; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; margin: 0 auto 32px; max-width: 680px; }
-@media (max-width: 600px) { .gotb-comparison { grid-template-columns: 1fr; } }
-.gotb-comparison-col { padding: 20px 22px; }
-.gotb-comparison-col.self-col { background: #eaf3fb; border-right: 1px solid #ddd; }
-.gotb-comparison-col.cert-col { background: #f9f9f9; }
-@media (max-width: 600px) { .gotb-comparison-col.self-col { border-right: none; border-bottom: 1px solid #ddd; } }
-.gotb-comparison-col .col-badge { display: inline-block; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; padding: 3px 9px; border-radius: 20px; margin-bottom: 10px; }
-.self-col .col-badge { background: #2c6fad; color: #fff; }
-.cert-col .col-badge { background: #555; color: #fff; }
-.gotb-comparison-col h5 { margin: 0 0 8px; font-size: 1rem; color: #2c3e50; }
-.gotb-comparison-col ul { margin: 0; padding: 0 0 0 18px; font-size: 0.87rem; color: #555; line-height: 1.7; }
-.gotb-comparison-col .col-note { font-size: 0.8rem; color: #888; margin-top: 10px; font-style: italic; }
+/* ── Question cards ─────────────────────────────────────────────────────────── */
+.question-card { background: #fff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 24px; margin-bottom: 16px; }
+.question-card .q-num { font-size: 11px; text-transform: uppercase; letter-spacing: .07em; color: #999; margin-bottom: 6px; }
+.question-card .q-text { font-size: 15px; font-weight: 600; color: #2c3e50; margin: 0 0 16px; line-height: 1.5; }
+.choices { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+@media (max-width: 540px) { .choices { grid-template-columns: 1fr; } }
 
-.gotb-progress-wrap { background: #eee; border-radius: 10px; height: 8px; margin-bottom: 8px; }
-.gotb-progress-bar { background: linear-gradient(90deg, #4a86c8, #2c6fad); height: 8px; border-radius: 10px; transition: width 0.4s ease; }
-.gotb-progress-label { font-size: 0.82rem; color: #888; text-align: right; margin-bottom: 20px; }
+.choice-label { display: flex; align-items: flex-start; gap: 10px; padding: 12px 14px; border-radius: 8px; border: 2px solid transparent; cursor: pointer; transition: border-color .15s, background .15s; }
+.choice-label input[type=radio] { display: none; }
+.choice-dot { width: 16px; height: 16px; border-radius: 50%; border: 2px solid #bbb; flex-shrink: 0; margin-top: 2px; transition: border-color .15s, background .15s; }
+.choice-main { flex: 1; }
+.choice-name { font-size: 13px; font-weight: 700; display: block; }
+.choice-desc { font-size: 12px; color: #777; display: block; margin-top: 2px; line-height: 1.4; }
 
-.gotb-area-header { background: #2c3e50; color: #fff; padding: 16px 20px; border-radius: 8px 8px 0 0; }
-.gotb-area-header h4 { margin: 0; font-size: 1.1rem; }
-.gotb-area-header .area-weight { font-size: 0.82rem; opacity: 0.75; margin-top: 2px; }
+/* Tier colors */
+.c0 { background: #fff5f5; border-color: #f5cbcc; }
+.c0 .choice-dot { border-color: #e57373; }
+.c0 .choice-name { color: #c0392b; }
+.c1 { background: #fff8f0; border-color: #fce5cd; }
+.c1 .choice-dot { border-color: #e07b00; }
+.c1 .choice-name { color: #a05000; }
+.c2 { background: #f4fbf6; border-color: #c8e6c9; }
+.c2 .choice-dot { border-color: #43a047; }
+.c2 .choice-name { color: #2e7d32; }
+.c3 { background: #eff6ff; border-color: #bee3f8; }
+.c3 .choice-dot { border-color: #3a6ea8; }
+.c3 .choice-name { color: #1a4a7a; }
 
-.gotb-question-card { border: 1px solid #ddd; padding: 20px; background: #fff; border-top: none; }
-.gotb-question-card:last-of-type { border-radius: 0 0 8px 8px; margin-bottom: 24px; }
-.gotb-question-card .q-number { font-size: 0.78rem; text-transform: uppercase; letter-spacing: .05em; color: #999; margin-bottom: 4px; }
-.gotb-question-card .q-text { font-size: 1rem; font-weight: 600; color: #2c3e50; margin-bottom: 14px; }
+.choice-label.selected { box-shadow: 0 0 0 2px rgba(58,110,168,.3); }
+.c0.selected { border-color: #e57373; }
+.c1.selected { border-color: #e07b00; }
+.c2.selected { border-color: #43a047; }
+.c3.selected { border-color: #3a6ea8; }
+.selected .choice-dot { background: currentColor; border-width: 4px; }
+.c0.selected .choice-dot { background: #e57373; border-color: #e57373; }
+.c1.selected .choice-dot { background: #e07b00; border-color: #e07b00; }
+.c2.selected .choice-dot { background: #43a047; border-color: #43a047; }
+.c3.selected .choice-dot { background: #3a6ea8; border-color: #3a6ea8; }
 
-.gotb-choices { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
-@media (max-width: 600px) { .gotb-choices { grid-template-columns: 1fr; } }
+/* ── Area header ────────────────────────────────────────────────────────────── */
+.area-header { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; }
+.area-pill { background: #2c3e50; color: #fff; font-size: 11px; text-transform: uppercase; letter-spacing: .08em; padding: 4px 12px; border-radius: 20px; }
+.area-desc { font-size: 13px; color: #666; }
 
-.gotb-choice { position: relative; cursor: pointer; }
-.gotb-choice input[type="radio"] { position: absolute; opacity: 0; width: 0; height: 0; }
-.gotb-choice label { display: block; padding: 10px 14px; border-radius: 6px; cursor: pointer; border: 2px solid transparent; transition: all .2s; font-size: .87rem; line-height: 1.4; }
-.gotb-choice label .level-name { font-weight: 700; font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; display: block; margin-bottom: 3px; }
-.gotb-choice.ineff label { background: #f5cbcc; border-color: #e8a0a1; }
-.gotb-choice.emerg label { background: #fce5cd; border-color: #f5c8a0; }
-.gotb-choice.effec label { background: #d9ead3; border-color: #b2d4a7; }
-.gotb-choice.highe label { background: #d0e2f3; border-color: #a2c4e3; }
-.gotb-choice input:checked + label { box-shadow: 0 0 0 2px rgba(44,111,173,.35); }
-.gotb-choice.ineff input:checked + label { border-color: #c00; }
-.gotb-choice.emerg input:checked + label { border-color: #b85c00; }
-.gotb-choice.effec input:checked + label { border-color: #2a7d00; }
-.gotb-choice.highe input:checked + label { border-color: #0a47a0; }
+/* ── Buttons ────────────────────────────────────────────────────────────────── */
+.gotb-btn { display: inline-block; padding: 13px 28px; border-radius: 8px; font-size: 15px; font-weight: 700; border: none; cursor: pointer; transition: opacity .2s; }
+.gotb-btn:hover { opacity: .88; }
+.btn-primary { background: #3a6ea8; color: #fff; }
+.btn-secondary { background: #e0e0e0; color: #2c3e50; }
+.btn-row { display: flex; gap: 12px; margin-top: 20px; flex-wrap: wrap; }
 
-.gotb-nav { display: flex; justify-content: space-between; align-items: center; margin: 8px 0 32px; }
-.btn-gotb-primary { background: #2c6fad; color: #fff; border: none; padding: 12px 28px; border-radius: 6px; font-size: 1rem; font-weight: 600; cursor: pointer; }
-.btn-gotb-primary:hover { background: #245d91; }
-.btn-gotb-secondary { background: transparent; color: #2c6fad; border: 2px solid #2c6fad; padding: 10px 24px; border-radius: 6px; font-size: 1rem; font-weight: 600; cursor: pointer; }
-.btn-gotb-secondary:hover { background: #2c6fad; color: #fff; }
-.gotb-unanswered-msg { color: #c00; font-size: .88rem; display: none; }
+/* ── Gate form ──────────────────────────────────────────────────────────────── */
+#step-gate { max-width: 500px; margin: 0 auto; }
+.gate-card { background: #fff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 32px; }
+.gate-card h2 { margin: 0 0 8px; font-size: 20px; }
+.gate-card p { font-size: 14px; color: #666; margin: 0 0 24px; }
+.form-field { margin-bottom: 18px; }
+.form-field label { display: block; font-size: 13px; font-weight: 700; margin-bottom: 6px; color: #2c3e50; }
+.form-field input { width: 100%; padding: 10px 14px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; }
+.form-field input:focus { outline: 2px solid #3a6ea8; border-color: #3a6ea8; }
+#gate-error { color: #c0392b; font-size: 13px; margin-top: 10px; display: none; }
+#submit-btn { width: 100%; margin-top: 6px; padding: 14px; font-size: 16px; }
 
-.gotb-gate { max-width: 520px; margin: 0 auto; }
-.gotb-gate h3 { font-size: 1.5rem; color: #2c3e50; margin-bottom: 8px; }
-.gotb-gate .gate-sub { color: #666; margin-bottom: 24px; font-size: .95rem; }
-.gotb-gate .score-preview { text-align: center; margin: 20px 0 28px; }
-.score-circle { display: inline-block; width: 110px; height: 110px; border-radius: 50%; background: #2c3e50; color: #fff; line-height: 1.1; font-size: 2.4rem; font-weight: 700; text-align: center; padding-top: 24px; box-sizing: border-box; }
-.gotb-gate .score-preview .score-label { font-size: .85rem; color: #888; margin-top: 8px; }
-.gotb-gate label { font-weight: 600; font-size: .9rem; color: #444; display: block; margin-bottom: 4px; margin-top: 14px; }
-.gotb-gate input { width: 100%; padding: 10px 14px; border: 1px solid #ccc; border-radius: 6px; font-size: .95rem; box-sizing: border-box; }
-.gotb-gate input:focus { outline: none; border-color: #2c6fad; box-shadow: 0 0 0 3px rgba(44,111,173,.15); }
-.gate-submit-row { margin-top: 24px; text-align: center; }
-.gate-privacy { font-size: .78rem; color: #999; margin-top: 10px; }
-.btn-gotb-submit { background: #e8a000; color: #fff; border: none; padding: 14px 36px; border-radius: 6px; font-size: 1.05rem; font-weight: 700; cursor: pointer; width: 100%; }
-.btn-gotb-submit:hover { background: #cc8c00; }
-.btn-gotb-submit:disabled { background: #ccc; cursor: default; }
-.gate-error { color: #c00; font-size: .88rem; margin-top: 8px; display: none; }
+/* ── Results ────────────────────────────────────────────────────────────────── */
+#step-results { max-width: 680px; margin: 0 auto; }
+.results-header { background: #2c3e50; color: #fff; border-radius: 10px 10px 0 0; padding: 28px 32px; text-align: center; }
+.results-header h2 { margin: 0 0 4px; font-size: 20px; }
+.results-header p { margin: 0; color: #adc9e8; font-size: 13px; }
+.score-circle { width: 110px; height: 110px; border-radius: 50%; margin: 20px auto 8px; display: flex; align-items: center; justify-content: center; flex-direction: column; font-weight: 800; }
+.score-num { font-size: 42px; line-height: 1; }
+.score-sub { font-size: 11px; opacity: .7; }
+.score-tier { font-size: 16px; font-weight: 700; margin: 4px 0 0; }
+.score-indicative { font-size: 12px; color: #adc9e8; margin: 4px 0 0; font-style: italic; }
 
-.gotb-results { max-width: 680px; margin: 0 auto; }
-.gotb-results h3 { font-size: 1.6rem; color: #2c3e50; margin-bottom: 6px; }
-.gotb-results .results-intro { color: #555; margin-bottom: 28px; }
-.total-score-block { text-align: center; padding: 28px; border-radius: 10px; margin-bottom: 28px; }
-.total-score-block .big-score { font-size: 4rem; font-weight: 800; line-height: 1; }
-.total-score-block .score-out-of { font-size: 1rem; opacity: .75; }
-.total-score-block .score-label { font-size: 1.1rem; font-weight: 600; margin-top: 6px; }
-.total-score-block.ineff { background: #f5cbcc; color: #7a0000; }
-.total-score-block.emerg { background: #fce5cd; color: #7a3800; }
-.total-score-block.effec { background: #d9ead3; color: #1a5c0a; }
-.total-score-block.highe { background: #d0e2f3; color: #0a2d5c; }
+.results-body { background: #fff; border: 1px solid #e0e0e0; border-top: none; border-radius: 0 0 10px 10px; padding: 28px 32px; }
 
-.area-scores { margin-bottom: 28px; }
-.area-score-row { margin-bottom: 14px; }
-.area-score-row .area-name { font-weight: 600; font-size: .92rem; color: #2c3e50; display: flex; justify-content: space-between; margin-bottom: 4px; }
-.area-bar-bg { background: #eee; border-radius: 6px; height: 18px; overflow: hidden; }
-.area-bar-fill { height: 18px; border-radius: 6px; transition: width .8s ease; }
+/* "report emailed" callout */
+.emailed-notice { background: #f0faf4; border: 1px solid #a2d4a7; border-radius: 8px; padding: 14px 18px; margin-bottom: 22px; display: flex; align-items: flex-start; gap: 12px; }
+.emailed-notice .icon { font-size: 20px; flex-shrink: 0; line-height: 1.2; }
+.emailed-notice p { margin: 0; font-size: 13px; color: #1a5c0a; line-height: 1.5; }
 
-.gotb-interpretation { border-left: 4px solid #2c6fad; padding: 16px 20px; background: #f4f8fc; border-radius: 0 8px 8px 0; margin-bottom: 24px; font-size: .93rem; color: #333; }
-.gotb-cta-block { background: #2c3e50; color: #fff; padding: 28px; border-radius: 10px; text-align: center; margin-bottom: 12px; }
-.gotb-cta-block h4 { color: #fff; margin-bottom: 10px; }
-.gotb-cta-block p { color: #ccc; margin-bottom: 18px; font-size: .92rem; }
-.btn-gotb-cta { background: #e8a000; color: #fff; border: none; padding: 12px 28px; border-radius: 6px; font-size: 1rem; font-weight: 700; text-decoration: none; display: inline-block; }
-.btn-gotb-cta:hover { background: #cc8c00; color: #fff; text-decoration: none; }
+/* Gap / strength callouts */
+.gap-strength { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 22px; }
+@media (max-width: 540px) { .gap-strength { grid-template-columns: 1fr; } }
+.gs-card { border-radius: 8px; padding: 14px 16px; }
+.gs-card.gap { background: #fff8e6; border: 1px solid #f5c800; }
+.gs-card.str { background: #f0faf4; border: 1px solid #a2d4a7; }
+.gs-card .gs-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; margin-bottom: 4px; }
+.gs-card.gap .gs-label { color: #7a5500; }
+.gs-card.str .gs-label { color: #1a5c0a; }
+.gs-card .gs-name { font-size: 14px; font-weight: 700; color: #2c3e50; }
 
-.gotb-sending { text-align: center; padding: 40px 20px; color: #555; }
-.gotb-spinner { border: 3px solid #eee; border-top: 3px solid #2c6fad; border-radius: 50%; width: 40px; height: 40px; animation: gotb-spin .8s linear infinite; margin: 0 auto 16px; }
-@keyframes gotb-spin { to { transform: rotate(360deg); } }
+/* Practice area bars */
+.area-bar-row { margin-bottom: 16px; }
+.area-bar-label { display: flex; justify-content: space-between; font-size: 13px; font-weight: 600; color: #2c3e50; margin-bottom: 4px; }
+.area-bar-track { background: #eee; border-radius: 4px; height: 10px; }
+.area-bar-fill { height: 10px; border-radius: 4px; transition: width .6s; }
+
+/* Tier legend */
+.tier-legend { margin: 24px 0 20px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+@media (max-width: 540px) { .tier-legend { grid-template-columns: 1fr 1fr; } }
+.tier-block { border-radius: 6px; padding: 10px 8px; text-align: center; font-size: 12px; }
+.tier-block .tier-name { font-weight: 700; display: block; }
+.tier-block .tier-range { display: block; opacity: .8; margin-top: 3px; }
+.tier-ineff { background: #f5cbcc; color: #7a0000; }
+.tier-emerg { background: #fce5cd; color: #7a3800; }
+.tier-effec { background: #d9ead3; color: #1a5c0a; }
+.tier-highe { background: #d0e2f3; color: #0a2d5c; }
+
+/* Limit-of-self-scoring block */
+.limit-block { background: #f8f8f8; border: 1px solid #ddd; border-radius: 8px; padding: 18px 20px; margin-top: 22px; }
+.limit-block h4 { margin: 0 0 8px; font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: #555; }
+.limit-block p { margin: 0; font-size: 13px; color: #555; line-height: 1.65; }
+
+/* CTA */
+.results-cta { background: #2c3e50; border-radius: 10px; padding: 28px 32px; text-align: center; margin-top: 22px; }
+.results-cta h3 { margin: 0 0 8px; color: #fff; font-size: 18px; }
+.results-cta p { margin: 0 0 18px; color: #adc9e8; font-size: 13px; line-height: 1.6; }
+.btn-cta { display: inline-block; background: #e8a000; color: #fff; text-decoration: none; padding: 13px 28px; border-radius: 8px; font-weight: 700; font-size: 15px; }
+
+/* Disclaimer */
+.disclaimer { font-size: 11px; color: #aaa; line-height: 1.6; margin-top: 18px; text-align: center; }
 </style>
 
-<div id="gotb-app">
+<div class="gotb-wrap">
 
-  <!-- ── STEP: INTRO ── -->
-  <div id="step-intro" class="gotb-step active">
-    <div class="gotb-intro">
-      <p style="font-size:.85rem;text-transform:uppercase;letter-spacing:.08em;color:#2c6fad;margin-bottom:8px;font-weight:600;">Free Self-Assessment</p>
-      <h2>Great On Their Behalf Index:<br><span style="font-size:1.4rem;font-weight:500;color:#555;">Self Assessment</span></h2>
-      <p>Answer 20 questions to get an approximate 0–100 score for your school board's effectiveness across five practice areas. Results are emailed to you instantly — no purchase required.</p>
+<!-- Hero -->
+<div class="gotb-hero">
+  <h1>GOTB Index: Self Assessment</h1>
+  <p>A free 20-question self-assessment for school board members based on the Great On Their Behalf framework.<br>Takes about 10 minutes. Your results are personal and private.</p>
+</div>
 
-      <div class="gotb-score-sample">
-        <div class="score-band ineff">0–39 · Ineffective</div>
-        <div class="score-band emerg">40–69 · Emerging</div>
-        <div class="score-band effec">70–79 · Effective</div>
-        <div class="score-band highe">80–100 · Highly Effective</div>
-      </div>
+<!-- What this covers -->
+<div class="gotb-section" id="intro-section">
+  <h2>What this covers</h2>
+  <p>The Great On Their Behalf (GOTB) framework describes five practice areas that distinguish boards whose behavior consistently improves student outcomes. This self-assessment gives you an indicative read — based on your own perception — of where your board stands today.</p>
+  <ul>
+    <li><strong>Focus Mindset</strong> — whether the board keeps its attention fixed on improving outcomes for students</li>
+    <li><strong>Clarify Priorities</strong> — whether the board has set clear, specific goals for students and guardrails for the superintendent — in writing</li>
+    <li><strong>Monitor Progress</strong> — whether the board regularly checks real evidence of progress toward its goals — and acts on what it sees</li>
+    <li><strong>Align Resources</strong> — whether the board's biggest decisions line up behind its goals</li>
+    <li><strong>Communicate Results</strong> — whether the board reports progress honestly and in plain language to the community it serves</li>
+  </ul>
 
-      <button id="btn-start" class="btn-gotb-primary" style="font-size:1.1rem;padding:14px 40px;">Start the Assessment &rarr;</button>
-      <p style="font-size:.85rem;color:#aaa;margin-top:12px;">Takes about 5–8 minutes</p>
+  <div class="compare-wrap">
+    <div class="compare-col free">
+      <h3>GOTB Index: Self Assessment (this tool)</h3>
+      <ul>
+        <li>Free, individual, anonymous</li>
+        <li>20 questions, ~10 minutes</li>
+        <li>Based on your own perception</li>
+        <li>Results are indicative — a directional read, not a validated measurement</li>
+        <li>Useful for personal reflection and initial orientation</li>
+      </ul>
     </div>
-
-    <!-- What it covers -->
-    <div style="background:#f9f9f9;border-radius:10px;padding:22px 28px;max-width:680px;margin:0 auto 20px;">
-      <h5 style="margin:0 0 12px;color:#2c3e50;">What This Assessment Covers</h5>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
-        <div style="font-size:.87rem;color:#555;"><strong style="color:#2c3e50;">Focus Mindset</strong><br>Training, self-evaluation &amp; outcomes-clarity</div>
-        <div style="font-size:.87rem;color:#555;"><strong style="color:#2c3e50;">Clarify Priorities</strong><br>Goals, guardrails &amp; community voice</div>
-        <div style="font-size:.87rem;color:#555;"><strong style="color:#2c3e50;">Monitor Progress</strong><br>Monitoring calendar, quality &amp; data</div>
-        <div style="font-size:.87rem;color:#555;"><strong style="color:#2c3e50;">Align Resources</strong><br>Role clarity, evaluation &amp; governance</div>
-        <div style="font-size:.87rem;color:#555;"><strong style="color:#2c3e50;">Communicate Results</strong><br>Meeting structure &amp; community engagement</div>
-      </div>
-    </div>
-
-    <!-- Self Assessment vs. Certified Assessment -->
-    <div style="max-width:680px;margin:0 auto 28px;">
-      <h5 style="margin:0 0 12px;color:#2c3e50;text-align:center;">Two Versions of the GOTB Index</h5>
-      <div class="gotb-comparison">
-        <div class="gotb-comparison-col self-col">
-          <span class="col-badge">You are here</span>
-          <h5>Self Assessment</h5>
-          <ul>
-            <li>20 questions, self-administered</li>
-            <li>Completed by an individual board member</li>
-            <li>Provides an approximate score and area breakdown</li>
-            <li>Free — results emailed instantly</li>
-            <li>A useful starting point for self-reflection</li>
-          </ul>
-          <p class="col-note">Scores are based on your own perceptions and may differ from the full board's perspective.</p>
-        </div>
-        <div class="gotb-comparison-col cert-col">
-          <span class="col-badge">Full instrument</span>
-          <h5>Certified Assessment</h5>
-          <ul>
-            <li>Psychometrically validated instrument</li>
-            <li>Administered by a certified Great On Their Behalf Practitioner</li>
-            <li>Completed by the full governing team</li>
-            <li>Produces a validated, defensible board score</li>
-            <li>Foundation for a formal improvement plan</li>
-          </ul>
-          <p class="col-note">Required for official GOTB certification and coaching engagements.</p>
-        </div>
-      </div>
-    </div>
-
-  </div><!-- /step-intro -->
-
-  <!-- ── STEP: QUESTIONS ── -->
-  <div id="step-questions" class="gotb-step">
-    <div class="gotb-progress-wrap"><div class="gotb-progress-bar" id="progress-bar" style="width:0%"></div></div>
-    <div class="gotb-progress-label" id="progress-label">0 of 20 answered</div>
-    <div id="questions-container"></div>
-    <div class="gotb-nav">
-      <button class="btn-gotb-secondary" id="btn-prev" style="display:none">&#8592; Previous</button>
-      <span class="gotb-unanswered-msg" id="unanswered-msg">Please answer all questions before continuing.</span>
-      <button class="btn-gotb-primary" id="btn-next">Next &#8594;</button>
+    <div class="compare-col cert">
+      <h3>GOTB Index: Certified Assessment</h3>
+      <ul>
+        <li>Administered by a Certified Great On Their Behalf Practitioner</li>
+        <li>Whole-board assessment, evidence-based scoring</li>
+        <li>Psychometrically validated instrument</li>
+        <li>Nationally benchmarked results</li>
+        <li>Includes team-level analysis and formal report</li>
+      </ul>
     </div>
   </div>
 
-  <!-- ── STEP: SENDING ── -->
-  <div id="step-sending" class="gotb-step">
-    <div class="gotb-sending">
-      <div class="gotb-spinner"></div>
-      <p>Calculating your score and sending results&hellip;</p>
+  <div class="btn-row" style="margin-top:24px;">
+    <button class="gotb-btn btn-primary" id="start-btn">Start the Assessment</button>
+  </div>
+</div>
+
+<!-- ── STEP: Questions ──────────────────────────────────────────────────────── -->
+<div class="gotb-step" id="step-questions">
+  <div id="progress-bar-wrap">
+    <div id="progress-bar-label">Question <span id="q-current">1</span> of 20</div>
+    <div id="progress-bar"><div id="progress-fill"></div></div>
+  </div>
+  <div id="area-nav" role="navigation" aria-label="Practice area progress"></div>
+  <div id="question-area"></div>
+  <div class="btn-row">
+    <button class="gotb-btn btn-secondary" id="prev-btn">Back</button>
+    <button class="gotb-btn btn-primary" id="next-btn">Next</button>
+  </div>
+</div>
+
+<!-- ── STEP: Gate ──────────────────────────────────────────────────────────── -->
+<div class="gotb-step" id="step-gate">
+  <div class="gate-card">
+    <h2>Almost there!</h2>
+    <p>Enter your details below and we'll email you a full report — including a diagnosis and first-move recommendations for each practice area.</p>
+    <div class="form-field">
+      <label for="gate-name">Your name</label>
+      <input type="text" id="gate-name" placeholder="First and last name" autocomplete="name">
     </div>
+    <div class="form-field">
+      <label for="gate-district">School district</label>
+      <input type="text" id="gate-district" placeholder="e.g. Springfield Unified School District" autocomplete="organization">
+    </div>
+    <div class="form-field">
+      <label for="gate-email">Email address</label>
+      <input type="email" id="gate-email" placeholder="you@example.com" autocomplete="email">
+    </div>
+    <p id="gate-error">Please fill in all fields with a valid email address.</p>
+    <button class="gotb-btn btn-primary" id="submit-btn">Email My Results</button>
+  </div>
+</div>
+
+<!-- ── STEP: Results ───────────────────────────────────────────────────────── -->
+<div class="gotb-step" id="step-results">
+  <div class="results-header">
+    <h2>GOTB Index: Self Assessment Results</h2>
+    <p id="results-district"></p>
+    <div class="score-circle" id="score-circle">
+      <span class="score-num" id="score-num">—</span>
+      <span class="score-sub">out of 100</span>
+    </div>
+    <div class="score-tier" id="score-tier"></div>
+    <div class="score-indicative">Self-reported, indicative read</div>
   </div>
 
-  <!-- ── STEP: GATE ── -->
-  <div id="step-gate" class="gotb-step">
-    <div class="gotb-gate">
-      <h3>You've Completed the Assessment!</h3>
-      <p class="gate-sub">Enter your information below to receive your full results by email and see your score breakdown on screen.</p>
-      <div class="score-preview">
-        <div class="score-circle" id="gate-score-circle">—</div>
-        <div class="score-label">Your score is ready</div>
-      </div>
-      <form id="gate-form" novalidate>
-        <label for="gate-name">Your Name</label>
-        <input type="text" id="gate-name" placeholder="First and last name" required>
-        <label for="gate-district">School District</label>
-        <input type="text" id="gate-district" placeholder="e.g. Lincoln Unified School District" required>
-        <label for="gate-email">Email Address</label>
-        <input type="email" id="gate-email" placeholder="you@example.com" required>
-        <div class="gate-submit-row">
-          <button type="submit" class="btn-gotb-submit" id="gate-submit-btn">Email Me My Results &#8594;</button>
-          <div class="gate-error" id="gate-error"></div>
-          <p class="gate-privacy">We respect your privacy. Your information will only be used to send your results and relevant school board resources.</p>
-        </div>
-      </form>
-    </div>
-  </div>
+  <div class="results-body">
 
-  <!-- ── STEP: RESULTS ── -->
-  <div id="step-results" class="gotb-step">
-    <div class="gotb-results">
-      <h3 id="results-headline">Your School Board Assessment Results</h3>
-      <p class="results-intro" id="results-intro"></p>
-      <div class="total-score-block" id="total-score-block">
-        <div class="big-score" id="result-total-score">—</div>
-        <div class="score-out-of">out of 100</div>
-        <div class="score-label" id="result-rating">—</div>
-      </div>
-      <div class="area-scores" id="area-scores-container"></div>
-      <div class="gotb-interpretation" id="gotb-interpretation"></div>
-      <div class="gotb-cta-block">
-        <h4>Want to Move the Needle?</h4>
-        <p>Most boards go from their starting score to 80+ in about two years — but only with a certified Great On Their Behalf Practitioner. It's not about working harder; it's about working differently.</p>
-        <a href="/consultation" class="btn-gotb-cta">Schedule a Free Consultation</a>
-      </div>
-      <p style="font-size:.82rem;color:#aaa;text-align:center;margin-top:16px;">Results have been sent to the email address you provided. Check your spam folder if you don't see them within a few minutes.</p>
+    <!-- "Report emailed" notice -->
+    <div class="emailed-notice" id="emailed-notice" style="display:none;">
+      <span class="icon">&#10003;</span>
+      <p>Your full report — including a diagnosis and first-move recommendations for each practice area — has been sent to <strong id="emailed-to"></strong>.</p>
     </div>
-  </div>
 
-</div><!-- #gotb-app -->
+    <!-- Gap / Strength -->
+    <div class="gap-strength">
+      <div class="gs-card gap">
+        <div class="gs-label">Your Biggest Gap</div>
+        <div class="gs-name" id="gap-label">—</div>
+      </div>
+      <div class="gs-card str">
+        <div class="gs-label">Your Strength</div>
+        <div class="gs-name" id="strength-label">—</div>
+      </div>
+    </div>
+
+    <!-- Practice area bars -->
+    <div id="area-bars"></div>
+
+    <!-- Tier legend -->
+    <div class="tier-legend">
+      <div class="tier-block tier-ineff"><span class="tier-name">Ineffective (indicative)</span><span class="tier-range">0 – 14</span></div>
+      <div class="tier-block tier-emerg"><span class="tier-name">Emerging (indicative)</span><span class="tier-range">15 – 39</span></div>
+      <div class="tier-block tier-effec"><span class="tier-name">Effective (indicative)</span><span class="tier-range">40 – 74</span></div>
+      <div class="tier-block tier-highe"><span class="tier-name">Highly Effective (indicative)</span><span class="tier-range">75 – 100</span></div>
+    </div>
+
+    <!-- Limit-of-self-scoring block (required) -->
+    <div class="limit-block">
+      <h4>What this free read can't tell you</h4>
+      <p>This is your board's story as you see it — scored by you, in this moment. It can't tell you whether your self-rating matches what a trained observer would score, how your board compares to others nationally, or where your fellow board members quietly see things differently. The Certified Assessment — the same instrument, administered by a Certified Great On Their Behalf Practitioner — gives you a validated, nationally benchmarked measurement of your whole board.</p>
+    </div>
+
+    <!-- CTA -->
+    <div class="results-cta">
+      <h3>Ready for the validated read?</h3>
+      <p>The Certified Assessment is psychometrically validated, whole-board, nationally benchmarked — and administered by a Certified Great On Their Behalf Practitioner. No guessing. No self-scoring.</p>
+      <a class="btn-cta" href="/consultation">Schedule a Free Consultation</a>
+    </div>
+
+    <p class="disclaimer">
+      © Effective School Boards LLC. The GOTB Index: Self Assessment is a self-scored, indicative tool.<br>
+      It is not a validated or benchmarked measurement and should not be used for formal evaluation or accountability decisions.<br>
+      "Student outcomes don't change until adult behaviors change."™
+    </p>
+  </div>
+</div>
+
+</div><!-- /.gotb-wrap -->
 
 <script>
-var GOTB = (function() {
+(function () {
+  'use strict';
 
   var API = 'https://esbcloud.taild49f53.ts.net:8443/gotb/submit';
 
+  // ── Assessment data ────────────────────────────────────────────────────────
   var AREAS = [
-    { id: 'focus',       name: 'Focus Mindset',       max: 10, color: '#4a86c8' },
-    { id: 'priorities',  name: 'Clarify Priorities',  max: 35, color: '#e07b00' },
-    { id: 'monitor',     name: 'Monitor Progress',     max: 30, color: '#3a9c5b' },
-    { id: 'align',       name: 'Align Resources',      max: 20, color: '#8e44ad' },
-    { id: 'communicate', name: 'Communicate Results',  max:  5, color: '#2c3e50' },
+    { id: 'focus',       label: 'Focus Mindset',       desc: 'Keeping the board\'s attention on student outcomes' },
+    { id: 'priorities',  label: 'Clarify Priorities',  desc: 'Setting clear, written goals and guardrails' },
+    { id: 'monitor',     label: 'Monitor Progress',    desc: 'Reviewing real evidence and acting on it' },
+    { id: 'align',       label: 'Align Resources',     desc: 'Connecting big decisions to your goals' },
+    { id: 'communicate', label: 'Communicate Results', desc: 'Honest, plain-language reporting to the community' },
   ];
 
+  // 4 questions per area, 5 areas = 20 questions
   var QUESTIONS = [
-    // Area 1: Focus Mindset
-    { area:0, text:'How has our board engaged with school board governance training?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our board has received no training on effective school board governance in the past 36 months.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board has received training on an effective school board framework within the past 36 months.'},
-      {cls:'effec',label:'Effective',       text:'Board members have both received training and helped facilitate at least one governance training session in the past 12 months.'},
-      {cls:'highe',label:'Highly Effective',text:'Our training program includes students presenting, new members train before their first vote, and framework training is ongoing.'},
-    ]},
-    { area:0, text:'How consistently does our board conduct formal self-evaluations?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our board has not conducted a formal self-evaluation in the past 12 months.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board has self-evaluations scheduled on a regular calendar (quarterly or annually timed near the superintendent evaluation).'},
-      {cls:'effec',label:'Effective',       text:'Our board completed a self-evaluation within the past 12 months using this or an aligned instrument and voted to adopt the results.'},
-      {cls:'highe',label:'Highly Effective',text:'Our self-evaluation was completed within the required timeframe AND board members shared examples of when their behaviors hindered student goal achievement.'},
-    ]},
-    { area:0, text:'How clearly can our board distinguish adult inputs from student outcomes?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'I often cannot clearly tell the difference between adult inputs (what adults do or spend) and student outcomes (what students achieve).'},
-      {cls:'emerg',label:'Emerging',        text:'I can distinguish adult inputs from student outcomes, though our board discussions still frequently center on inputs.'},
-      {cls:'effec',label:'Effective',       text:'I consistently distinguish inputs from outcomes and regularly redirect board conversations to focus on student outcomes.'},
-      {cls:'highe',label:'Highly Effective',text:'Our board reliably focuses on student outcomes, and our tracked meeting-time data confirms this pattern meeting after meeting.'},
-    ]},
-    { area:0, text:'How does our board track and analyze how its meeting time is spent?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our board does not track how meeting time is spent or what percentage focuses on student outcomes.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board tracks and reports quarterly on the percentage of meeting time focused on student outcomes.'},
-      {cls:'effec',label:'Effective',       text:'Our board tracks meeting time AND annually reports the cost of staff governance time during our self-evaluation.'},
-      {cls:'highe',label:'Highly Effective',text:'Our tracking data shows consistent year-over-year improvement in the percentage of meeting time devoted to student outcome discussions.'},
-    ]},
-    // Area 2: Clarify Priorities
-    { area:1, text:'How well-defined are our board\'s student outcome goals?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our board has no adopted student outcome goals, or our goals are vague, input-focused, or not SMART.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board has adopted 1–5 SMART goals focused on student outcomes, developed with input from students, parents, staff, and community members.'},
-      {cls:'effec',label:'Effective',       text:'Our goals are SMART, and the superintendent has adopted 1–3 predictive, influenceable interim goals per board goal — all focused on student outcomes (not adult inputs).'},
-      {cls:'highe',label:'Highly Effective',text:'All goals span 3–5 years with yearly targets; all interim goals span 1–3 years; and every board member can recite all goals and current status from memory.'},
-    ]},
-    { area:1, text:'How inclusive and community-grounded was our goal development process?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our goals were created without meaningful community input, root cause analysis, or comprehensive needs assessment.'},
-      {cls:'emerg',label:'Emerging',        text:'Our goals were developed with diverse community stakeholders and posted for public comment before adoption.'},
-      {cls:'effec',label:'Effective',       text:'Our goal development generated genuine community ownership, and all board members agree the goals require significant organizational behavior change.'},
-      {cls:'highe',label:'Highly Effective',text:'The inclusive process produced goals that authentically represent community voice and present a genuine stretch that challenges our entire organization.'},
-    ]},
-    { area:1, text:'Has our board adopted guardrails defining what approaches the superintendent may NOT use in pursuing goals?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our board has not adopted guardrails — statements describing a single operational approach the superintendent may not use.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board has adopted 1–5 guardrails grounded in community values, each describing a single approach the superintendent may not use.'},
-      {cls:'effec',label:'Effective',       text:'Our board has guardrails, and the superintendent has adopted 1–3 interim guardrails per guardrail with annual targets; all focus on outcomes, not inputs.'},
-      {cls:'highe',label:'Highly Effective',text:'All guardrails span 3–5 years, were adopted through an inclusive process, and our board has also adopted guardrails on its own behavior evaluated quarterly.'},
-    ]},
-    { area:1, text:'How well-structured are our annual interim targets and milestones?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our goals do not include clear annual targets or interim milestones that can be tracked and updated throughout the year.'},
-      {cls:'emerg',label:'Emerging',        text:'Our goals include identified annual targets and yearly ending points through the goal deadline.'},
-      {cls:'effec',label:'Effective',       text:'Interim goal ending points are established for each year through the deadline, and interim goal status can be updated multiple times per year.'},
-      {cls:'highe',label:'Highly Effective',text:'All targets are set, our board and superintendent agree achieving them requires major organizational change, and the targets represent a genuine institutional stretch.'},
-    ]},
-    // Area 3: Monitor Progress
-    { area:2, text:'Does our board have an adopted monitoring calendar that governs how we track goal progress?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our board has no adopted monitoring calendar, or goals are not scheduled for monitoring at least 4 times per year.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board has a monitoring calendar developed with superintendent input — no more than 2 goals per month, every goal monitored at least 4 times annually.'},
-      {cls:'effec',label:'Effective',       text:'Our board formally adopted the monitoring calendar, and goals/guardrails/calendar have been modified no more than once during the current goal span.'},
-      {cls:'highe',label:'Highly Effective',text:'Our monitoring calendar is stable and adopted, and our board invests 50%+ of total monthly public meeting minutes in effective goal monitoring.'},
-    ]},
-    { area:2, text:'How would you rate the quality of our board\'s monitoring conversations?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'During monitoring, board members frequently ask operational questions or make comments rather than using data to examine student results.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board has received training on effective monitoring and has completed at least one practice monitoring session.'},
-      {cls:'effec',label:'Effective',       text:'Our board demonstrated effective monitoring (80%+ quality score) during each monitoring conversation in the past 12 months.'},
-      {cls:'highe',label:'Highly Effective',text:'Our board consistently achieves highly effective monitoring (90%+), with strategy-focused, measure-referenced, open-ended, results-oriented, time-bound questions.'},
-    ]},
-    { area:2, text:'How does our board use monitoring reports and data from the superintendent?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our board does not receive formal monitoring reports on a calendar, or our school system achieved no interim goals in the past 12 months.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board receives monitoring reports per the calendar, and the superintendent\'s team has been trained on creating effective monitoring reports.'},
-      {cls:'effec',label:'Effective',       text:'Our board publicly displays goal status and targets in our regular meeting room and provides time recognizing student and staff accomplishments toward goals.'},
-      {cls:'highe',label:'Highly Effective',text:'Our school system achieved at least half of interim goals in the past 12 months, and monitoring reports are received per calendar with full data.'},
-    ]},
-    { area:2, text:'What share of our public board meeting time is devoted to effective goal monitoring?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Most of our meeting time goes to routine approvals, operational presentations, and non-monitoring topics — goal monitoring is a small fraction.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board monitors goals at every scheduled session, though monitoring may still represent less than a third of total meeting time.'},
-      {cls:'effec',label:'Effective',       text:'Our board consistently prioritizes goal monitoring in public meetings and tracks meeting time use to continually improve.'},
-      {cls:'highe',label:'Highly Effective',text:'Our board has data showing it invests 50% or more of total monthly public meeting minutes in effective goal monitoring.'},
-    ]},
-    // Area 4: Align Resources
-    { area:3, text:'How clearly does our board maintain the distinction between board governance and superintendent management?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Board members sometimes give operational advice to staff, vote on superintendent implementation plans, or serve on operational committees outside proper protocols.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board has discussed the governance vs. management distinction, and members generally agree committees advise the board — not staff.'},
-      {cls:'effec',label:'Effective',       text:'Our board has an Ethics & Conflicts of Interest Statement signed by all current members, committing to no operational advice to staff and recusal from conflicts.'},
-      {cls:'highe',label:'Highly Effective',text:'Our board unanimously affirms annually that all members adhered to governing policies, honored ethical boundaries, and gave no operational advice during the past year.'},
-    ]},
-    { area:3, text:'How is our superintendent\'s evaluation structured?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our superintendent evaluation includes criteria beyond board goals and guardrails — such as personality traits, relationships, or non-goal accomplishments.'},
-      {cls:'emerg',label:'Emerging',        text:'Our superintendent evaluation is based solely on goals, guardrails, and interim goals/guardrails.'},
-      {cls:'effec',label:'Effective',       text:'Our superintendent has never gone more than 12 months without a formal evaluation, and evaluations are completed on schedule.'},
-      {cls:'highe',label:'Highly Effective',text:'Our annual budget is only approved after a deliberate determination that resources are prioritized toward board goals; superintendent evaluation is goals-only and on time.'},
-    ]},
-    { area:3, text:'How robust are our board\'s governance operating procedures and delegation policies?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our board lacks adopted governance operating procedures or delegation policies, or has members with undisclosed conflicts of interest.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board has adopted governance operating procedures, and the superintendent provides implementation plans without requiring board approval (except where legally mandated).'},
-      {cls:'effec',label:'Effective',       text:'Our board has a policy requiring information given to one member to be provided to all members.'},
-      {cls:'highe',label:'Highly Effective',text:'Our board has completed a formal policy diet, reviewing all policies at least once per board member term and removing those outside the four governance categories.'},
-    ]},
-    { area:3, text:'How focused is the content of our public board meetings on governance-level work?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Public board meetings routinely include operational presentations, management approvals, and items that are superintendent — not board — work.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board is making progress separating board work from superintendent work, though meetings still include some operational content.'},
-      {cls:'effec',label:'Effective',       text:'Our board consistently limits public meeting content to governance-level work and has confirmed this through formal self-evaluation.'},
-      {cls:'highe',label:'Highly Effective',text:'Only board-appropriate work is discussed and acted upon in public meetings; our board invests 50%+ of meeting time in goal monitoring and quarterly affirms member conduct.'},
-    ]},
-    // Area 5: Communicate Results
-    { area:4, text:'How efficient is our board\'s meeting structure (frequency, length, agenda discipline)?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our board holds more than 5 public meetings per month, meetings regularly exceed 3 hours, or routine items are not placed on a consent agenda.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board uses a consent agenda for routine items, and members receive final voting materials at least 3 business days before meetings.'},
-      {cls:'effec',label:'Effective',       text:'Our board holds 5 or fewer public meetings monthly, meetings rarely exceed 3 hours, agendas have 5 or fewer topics, and no last-minute edits within 3 business days.'},
-      {cls:'highe',label:'Highly Effective',text:'Our board holds 3 or fewer public meetings monthly, meetings rarely exceed 2 hours, agendas have 3 or fewer topics, and materials arrive 7–14 days in advance.'},
-    ]},
-    { area:4, text:'How disciplined is our board about limiting agenda content to governance matters?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our meeting agendas include a wide mix of governance, management, and operational items with no clear discipline around what belongs at the board table.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board is working to limit agendas to governance-appropriate matters and has begun reducing the number of agenda topics.'},
-      {cls:'effec',label:'Effective',       text:'Our board has removed policies outside the four governance categories, and agenda edits within 3 business days require a declared emergency.'},
-      {cls:'highe',label:'Highly Effective',text:'Our agendas consistently contain 3 or fewer governance-level topics, all materials arrive well in advance, and meeting format transparently demonstrates our focus on student outcomes.'},
-    ]},
-    { area:4, text:'How actively does our board listen to and engage the community around vision and values?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our board has not engaged in meaningful community listening about vision and values in the past 36 months.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board has received training on community vision/values listening and has begun engaging diverse stakeholders.'},
-      {cls:'effec',label:'Effective',       text:'Our board regularly convenes diverse community stakeholders in structured listening sessions that directly inform our goals and guardrails.'},
-      {cls:'highe',label:'Highly Effective',text:'Our goals and guardrails were adopted through an inclusive community process, and stakeholders can trace the direct line from their input to our adopted priorities.'},
-    ]},
-    { area:4, text:'How proactively does our board communicate goal progress and results to the community?', choices:[
-      {cls:'ineff',label:'Ineffective',     text:'Our board does not proactively communicate goal progress or results to the community in systematic, accessible ways.'},
-      {cls:'emerg',label:'Emerging',        text:'Our board makes governance decisions publicly and ensures community access to meeting materials, goals, and monitoring reports.'},
-      {cls:'effec',label:'Effective',       text:'Our board publicly displays goal status and targets and regularly communicates progress through multiple accessible channels.'},
-      {cls:'highe',label:'Highly Effective',text:'Our communication systems help stakeholders distinguish customer-service issues from owner issues and keep the community continuously informed of progress toward student outcome goals.'},
-    ]},
+    // Focus Mindset (area 0)
+    { area: 0, text: 'Our board spends the majority of its meeting time on student outcomes, not operational updates.' },
+    { area: 0, text: 'When we debate a decision, we keep coming back to how it affects what students are actually learning.' },
+    { area: 0, text: 'We hold ourselves — the adults — responsible for changing our own behavior, not just asking staff to change theirs.' },
+    { area: 0, text: 'A visitor watching one of our meetings would walk away knowing students are this board\'s top priority.' },
+    // Clarify Priorities (area 1)
+    { area: 1, text: 'Our board has a small number of clear, written goals for student outcomes.' },
+    { area: 1, text: 'Each of us can name our district\'s most important student outcome goals without looking them up.' },
+    { area: 1, text: 'We have set clear guardrails for what the superintendent may and may not do in pursuing those goals.' },
+    { area: 1, text: 'Our goals are specific and measurable enough that we\'d know whether we hit them.' },
+    // Monitor Progress (area 2)
+    { area: 2, text: 'We regularly review data on whether students are improving toward our goals.' },
+    { area: 2, text: 'We know right now whether our district is on track to meet its student outcome goals.' },
+    { area: 2, text: 'We spend protected time at meetings monitoring progress, not just hearing reports.' },
+    { area: 2, text: 'When the data shows progress has stalled, we ask what we as a board need to change.' },
+    // Align Resources (area 3)
+    { area: 3, text: 'Our budget visibly reflects our top student outcome goals.' },
+    { area: 3, text: 'When we approve a major expenditure, we can point to the goal it advances.' },
+    { area: 3, text: 'We are willing to stop funding things that don\'t move our goals, not just add new things.' },
+    { area: 3, text: 'Our calendar and policy decisions are made with our student outcome goals in mind.' },
+    // Communicate Results (area 4)
+    { area: 4, text: 'We communicate our goals and our progress to the community in plain, jargon-free language.' },
+    { area: 4, text: 'We share results honestly with the community, including where we are falling short.' },
+    { area: 4, text: 'The community has clear, regular ways to hear how the district is doing on its goals.' },
+    { area: 4, text: 'We make decisions based on what the whole community needs, not only the loudest voices in the room.' },
   ];
 
-  var answers = new Array(20).fill(-1);
-  var currentArea = 0;
-  var scores = {};
+  // Response scale (same for every question)
+  var SCALE = [
+    { name: 'Not yet',       desc: 'We don\'t do this',               cls: 'c0' },
+    { name: 'Just starting', desc: 'Beginning to, inconsistently',    cls: 'c1' },
+    { name: 'Mostly',        desc: 'We do this with some consistency', cls: 'c2' },
+    { name: 'Consistently',  desc: 'This is how we operate, every time', cls: 'c3' },
+  ];
 
-  // ── Helpers ──────────────────────────────────────
-  function showStep(id) {
-    document.querySelectorAll('.gotb-step').forEach(function(s){ s.classList.remove('active'); });
-    document.getElementById(id).classList.add('active');
-    window.scrollTo(0,0);
+  // 0/1/5/10 point weights — non-linear per framework spec
+  var POINTS = [0, 1, 5, 10];
+
+  // ── State ──────────────────────────────────────────────────────────────────
+  var answers  = new Array(QUESTIONS.length).fill(-1);
+  var areaIdx  = 0;  // current area (0-4)
+  var qIdxInArea = 0; // current question within area
+
+  // ── Scoring ────────────────────────────────────────────────────────────────
+  function practiceIndex(areaId) {
+    var qs = QUESTIONS.filter(function(q){ return q.area === areaId; });
+    var total = qs.reduce(function(sum, q, i) {
+      var qi = QUESTIONS.indexOf(q);
+      return sum + (answers[qi] >= 0 ? POINTS[answers[qi]] : 0);
+    }, 0);
+    return Math.round(total / (qs.length * 10) * 100);
+  }
+
+  function overallScore() {
+    var sum = 0;
+    for (var i = 0; i < AREAS.length; i++) sum += practiceIndex(i);
+    return Math.round(sum / AREAS.length);
   }
 
   function getRating(s) {
-    if (s>=80) return 'Highly Effective';
-    if (s>=70) return 'Effective';
-    if (s>=40) return 'Emerging';
-    return 'Ineffective';
+    if (s >= 75) return 'Highly Effective (indicative)';
+    if (s >= 40) return 'Effective (indicative)';
+    if (s >= 15) return 'Emerging (indicative)';
+    return 'Ineffective (indicative)';
   }
 
-  function getRatingCls(s) {
-    if (s>=80) return 'highe';
-    if (s>=70) return 'effec';
-    if (s>=40) return 'emerg';
-    return 'ineff';
+  function tierColorClass(s) {
+    if (s >= 75) return 'tier-highe';
+    if (s >= 40) return 'tier-effec';
+    if (s >= 15) return 'tier-emerg';
+    return 'tier-ineff';
   }
 
-  function getInterpretation(s, name) {
-    var first = (name||'Your board').split(' ')[0];
-    if (s>=80) return '<strong>'+first+', your board is operating at a high level.</strong> You\'re in the top tier — focused on student outcomes, monitoring progress rigorously, and governing with discipline. The work now is sustaining quality and closing the remaining gaps.';
-    if (s>=70) return '<strong>'+first+', your board is effective and has a solid foundation.</strong> There are specific areas where deeper focus will make a real difference. A certified Great On Their Behalf Practitioner can help your board push toward 80+ and sustain it.';
-    if (s>=40) return '<strong>'+first+', your board has made a start.</strong> You\'re aware of effective governance principles, but consistent practice across all five areas is still developing. The gap is real — but so is the path forward with the right support.';
-    return '<strong>'+first+', your board has significant room to grow.</strong> Boards that commit to this work and engage a certified practitioner typically move from this range to 60+ within a year. The framework gives you a clear roadmap — the question is whether your board is ready to commit.';
+  function barColor(areaId) {
+    var colors = ['#4a86c8', '#e07b00', '#3a9c5b', '#8e44ad', '#2c3e50'];
+    return colors[areaId];
   }
 
-  // ── Questions rendering ───────────────────────────
-  function renderArea(idx) {
-    var area = AREAS[idx];
-    var areaQs = [], firstIdx = -1;
-    QUESTIONS.forEach(function(q,i){ if(q.area===idx){ if(firstIdx<0) firstIdx=i; areaQs.push({q:q,i:i}); } });
+  // ── Current question index (global) ───────────────────────────────────────
+  function globalQIdx() {
+    var base = 0;
+    for (var a = 0; a < areaIdx; a++) base += QUESTIONS.filter(function(q){ return q.area === a; }).length;
+    return base + qIdxInArea;
+  }
 
-    var html = '<div class="gotb-area-header"><h4>'+area.name+'</h4>'
-      +'<div class="area-weight">Practice Area '+(idx+1)+' of 5 · Up to '+area.max+' points</div></div>';
+  function areaQuestions(a) { return QUESTIONS.filter(function(q){ return q.area === a; }); }
 
-    areaQs.forEach(function(item){
-      var q=item.q, gi=item.i;
-      html += '<div class="gotb-question-card">'
-        +'<div class="q-number">Question '+(gi+1)+' of 20</div>'
-        +'<div class="q-text">'+q.text+'</div>'
-        +'<div class="gotb-choices">';
-      q.choices.forEach(function(c,val){
-        var chk = answers[gi]===val ? 'checked' : '';
-        html += '<div class="gotb-choice '+c.cls+'">'
-          +'<input type="radio" name="q'+gi+'" id="q'+gi+'_'+val+'" value="'+val+'" '+chk+'>'
-          +'<label for="q'+gi+'_'+val+'"><span class="level-name">'+c.label+'</span>'+c.text+'</label>'
-          +'</div>';
+  // ── Render question area ───────────────────────────────────────────────────
+  function renderQuestion() {
+    var area = AREAS[areaIdx];
+    var qs   = areaQuestions(areaIdx);
+    var gIdx = globalQIdx();
+    var q    = QUESTIONS[gIdx];
+
+    document.getElementById('q-current').textContent = gIdx + 1;
+    document.getElementById('progress-fill').style.width = (((gIdx + 1) / QUESTIONS.length) * 100) + '%';
+
+    // Area nav dots
+    var nav = document.getElementById('area-nav');
+    nav.innerHTML = '';
+    for (var a = 0; a < AREAS.length; a++) {
+      var dot = document.createElement('button');
+      dot.className = 'area-dot' + (a < areaIdx ? ' done' : '') + (a === areaIdx ? ' current' : '');
+      dot.setAttribute('aria-label', AREAS[a].label);
+      dot.setAttribute('title', AREAS[a].label);
+      nav.appendChild(dot);
+    }
+
+    // Question content
+    var html = '<div class="area-header">'
+      + '<span class="area-pill">Practice ' + (areaIdx + 1) + ' of 5</span>'
+      + '<span class="area-desc">' + area.label + ' — ' + area.desc + '</span>'
+      + '</div>'
+      + '<div class="question-card">'
+      + '<div class="q-num">Question ' + (qIdxInArea + 1) + ' of ' + qs.length + ' in this section</div>'
+      + '<div class="q-text">' + q.text + '</div>'
+      + '<div class="choices">';
+
+    for (var c = 0; c < SCALE.length; c++) {
+      var sel = answers[gIdx] === c ? ' selected' : '';
+      html += '<label class="choice-label ' + SCALE[c].cls + sel + '" data-choice="' + c + '">'
+        + '<input type="radio" name="q' + gIdx + '" value="' + c + '"' + (answers[gIdx] === c ? ' checked' : '') + '>'
+        + '<span class="choice-dot"></span>'
+        + '<span class="choice-main">'
+        + '<span class="choice-name">' + SCALE[c].name + '</span>'
+        + '<span class="choice-desc">' + SCALE[c].desc + '</span>'
+        + '</span></label>';
+    }
+
+    html += '</div></div>';
+    document.getElementById('question-area').innerHTML = html;
+
+    // Attach choice handlers
+    var labels = document.querySelectorAll('.choice-label');
+    labels.forEach(function(lbl) {
+      lbl.addEventListener('click', function() {
+        var ci = parseInt(this.getAttribute('data-choice'));
+        answers[globalQIdx()] = ci;
+        labels.forEach(function(l){ l.classList.remove('selected'); });
+        this.classList.add('selected');
+        var radio = this.querySelector('input[type=radio]');
+        if (radio) radio.checked = true;
       });
-      html += '</div></div>';
     });
 
-    document.getElementById('questions-container').innerHTML = html;
-
-    // Attach change handlers after render
-    areaQs.forEach(function(item){
-      var gi = item.i;
-      for(var v=0;v<4;v++){
-        (function(gIdx,val){
-          var el = document.getElementById('q'+gIdx+'_'+val);
-          if(el) el.addEventListener('change', function(){ recordAnswer(gIdx,val); });
-        })(gi,v);
-      }
-    });
-
-    updateProgress();
-    document.getElementById('btn-prev').style.display = idx===0 ? 'none' : 'inline-block';
-    document.getElementById('btn-next').textContent = idx===AREAS.length-1 ? 'See My Score →' : 'Next →';
-    document.getElementById('unanswered-msg').style.display = 'none';
-    window.scrollTo(0,0);
+    // Prev/Next button states
+    document.getElementById('prev-btn').style.display = (areaIdx === 0 && qIdxInArea === 0) ? 'none' : '';
+    document.getElementById('next-btn').textContent =
+      (areaIdx === AREAS.length - 1 && qIdxInArea === qs.length - 1) ? 'See Results' : 'Next';
   }
 
-  function updateProgress() {
-    var n = answers.filter(function(a){ return a>=0; }).length;
-    document.getElementById('progress-bar').style.width = Math.round(n/20*100)+'%';
-    document.getElementById('progress-label').textContent = n+' of 20 answered';
+  // ── Navigation ─────────────────────────────────────────────────────────────
+  function goNext() {
+    var gIdx = globalQIdx();
+    if (answers[gIdx] < 0) {
+      // Highlight unanswered
+      document.querySelectorAll('.question-card').forEach(function(c){ c.style.borderColor = '#e57373'; });
+      return;
+    }
+    var qs = areaQuestions(areaIdx);
+    if (qIdxInArea < qs.length - 1) {
+      qIdxInArea++;
+    } else if (areaIdx < AREAS.length - 1) {
+      areaIdx++;
+      qIdxInArea = 0;
+    } else {
+      showGate();
+      return;
+    }
+    renderQuestion();
   }
 
-  function recordAnswer(gi, val) {
-    answers[gi] = val;
-    updateProgress();
+  function goPrev() {
+    if (qIdxInArea > 0) {
+      qIdxInArea--;
+    } else if (areaIdx > 0) {
+      areaIdx--;
+      qIdxInArea = areaQuestions(areaIdx).length - 1;
+    }
+    renderQuestion();
   }
 
-  // ── Scoring ───────────────────────────────────────
-  function computeScores() {
-    var total = 0;
-    scores = {};
-    AREAS.forEach(function(area, ai){
-      var areaQs = QUESTIONS.map(function(q,i){ return {q:q,i:i}; }).filter(function(x){ return x.q.area===ai; });
-      var raw = areaQs.reduce(function(s,x){ return s+answers[x.i]; }, 0);
-      var aScore = Math.round(raw/(areaQs.length*3)*area.max*10)/10;
-      scores[area.id] = aScore;
-      total += aScore;
-    });
-    scores.total = Math.round(total);
+  // ── Show sections ──────────────────────────────────────────────────────────
+  function showStep(id) {
+    document.querySelectorAll('.gotb-step').forEach(function(s){ s.classList.remove('active'); });
+    document.getElementById(id).classList.add('active');
+    document.getElementById('intro-section').style.display = 'none';
   }
 
-  // ── Navigation ────────────────────────────────────
   function startAssessment() {
+    document.getElementById('intro-section').style.display = 'none';
     showStep('step-questions');
-    renderArea(0);
-  }
-
-  function prevArea() {
-    if(currentArea>0){ currentArea--; renderArea(currentArea); }
-  }
-
-  function nextArea() {
-    var areaQs = QUESTIONS.map(function(q,i){return{q:q,i:i};}).filter(function(x){return x.q.area===currentArea;});
-    var allDone = areaQs.every(function(x){ return answers[x.i]>=0; });
-    if(!allDone){ document.getElementById('unanswered-msg').style.display='inline'; return; }
-    document.getElementById('unanswered-msg').style.display='none';
-    if(currentArea<AREAS.length-1){ currentArea++; renderArea(currentArea); }
-    else { computeScores(); showGate(); }
+    renderQuestion();
   }
 
   function showGate() {
-    document.getElementById('gate-score-circle').textContent = scores.total;
     showStep('step-gate');
   }
 
-  // ── Submission ────────────────────────────────────
-  function handleGateSubmit(e) {
-    e.preventDefault();
+  // ── Results display ────────────────────────────────────────────────────────
+  function showResults(name, district, email, emailSent) {
+    showStep('step-results');
+
+    var overall = overallScore();
+    var rating  = getRating(overall);
+    var tcc     = tierColorClass(overall);
+
+    // Score circle
+    var circle = document.getElementById('score-circle');
+    circle.className = 'score-circle';
+    circle.classList.add(tcc);
+    document.getElementById('score-num').textContent = overall;
+    var tierEl = document.getElementById('score-tier');
+    tierEl.textContent = rating;
+    tierEl.className = 'score-tier';
+    // use the tier classes for color
+    if (overall >= 75) tierEl.style.color = '#adc9e8';
+    else if (overall >= 40) tierEl.style.color = '#a8d5b5';
+    else if (overall >= 15) tierEl.style.color = '#fce5cd';
+    else tierEl.style.color = '#f5cbcc';
+
+    document.getElementById('results-district').textContent = district;
+
+    // Emailed notice
+    if (emailSent) {
+      var notice = document.getElementById('emailed-notice');
+      notice.style.display = 'flex';
+      document.getElementById('emailed-to').textContent = email;
+    }
+
+    // Gap / Strength
+    var areaScores = AREAS.map(function(a, i){ return { label: a.label, score: practiceIndex(i) }; });
+    var sorted = areaScores.slice().sort(function(a,b){ return a.score - b.score; });
+    document.getElementById('gap-label').textContent = sorted[0].label;
+    document.getElementById('strength-label').textContent = sorted[sorted.length - 1].label;
+
+    // Area bars
+    var barsHtml = '';
+    AREAS.forEach(function(area, i) {
+      var s = practiceIndex(i);
+      var color = barColor(i);
+      barsHtml += '<div class="area-bar-row">'
+        + '<div class="area-bar-label"><span>' + area.label + '</span><span>' + s + ' / 100</span></div>'
+        + '<div class="area-bar-track"><div class="area-bar-fill" style="width:' + s + '%;background:' + color + ';"></div></div>'
+        + '</div>';
+    });
+    document.getElementById('area-bars').innerHTML = barsHtml;
+  }
+
+  // ── Gate submission ────────────────────────────────────────────────────────
+  function submitGate() {
     var name     = document.getElementById('gate-name').value.trim();
     var district = document.getElementById('gate-district').value.trim();
     var email    = document.getElementById('gate-email').value.trim();
     var errEl    = document.getElementById('gate-error');
 
-    if(!name||!district||!email||!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){
-      errEl.textContent = 'Please fill in all fields with a valid email address.';
+    if (!name || !district || !email || !email.includes('@') || !email.includes('.')) {
       errEl.style.display = 'block';
       return;
     }
     errEl.style.display = 'none';
 
-    var btn = document.getElementById('gate-submit-btn');
-    btn.disabled = true;
+    var btn = document.getElementById('submit-btn');
     btn.textContent = 'Sending…';
-    showStep('step-sending');
+    btn.disabled = true;
+
+    var overall = overallScore();
+    var rating  = getRating(overall);
 
     fetch(API, {
       method: 'POST',
-      headers: {'Content-Type':'application/json'},
+      headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        name: name, district: district, email: email,
-        total_score: scores.total, rating: getRating(scores.total),
-        score_focus: scores.focus, score_priorities: scores.priorities,
-        score_monitor: scores.monitor, score_align: scores.align,
-        score_communicate: scores.communicate,
-      })
+        name: name,
+        district: district,
+        email: email,
+        total_score: overall,
+        rating: rating,
+        score_focus:       practiceIndex(0),
+        score_priorities:  practiceIndex(1),
+        score_monitor:     practiceIndex(2),
+        score_align:       practiceIndex(3),
+        score_communicate: practiceIndex(4),
+      }),
     })
     .then(function(r){ return r.json(); })
-    .catch(function(){ return {}; })
-    .then(function(){ showResults(name, district); });
-  }
-
-  // ── Results display ───────────────────────────────
-  function showResults(name, district) {
-    var s = scores.total;
-    var cls = getRatingCls(s);
-    document.getElementById('results-headline').textContent = name+"'s School Board Assessment";
-    document.getElementById('results-intro').textContent = 'Results for '+district;
-    document.getElementById('result-total-score').textContent = s;
-    document.getElementById('result-rating').textContent = getRating(s);
-    document.getElementById('total-score-block').className = 'total-score-block '+cls;
-    document.getElementById('gotb-interpretation').innerHTML = getInterpretation(s, name);
-
-    var html = '';
-    AREAS.forEach(function(area){
-      var aScore = scores[area.id];
-      var pct = Math.round(aScore/area.max*100);
-      html += '<div class="area-score-row">'
-        +'<div class="area-name"><span>'+area.name+'</span><span>'+aScore+' / '+area.max+'</span></div>'
-        +'<div class="area-bar-bg"><div class="area-bar-fill" style="width:'+pct+'%;background:'+area.color+'"></div></div>'
-        +'</div>';
+    .then(function(data){
+      showResults(name, district, email, !!(data && data.sent));
+    })
+    .catch(function(){
+      // Still show results even if email fails
+      showResults(name, district, email, false);
     });
-    document.getElementById('area-scores-container').innerHTML = html;
-    showStep('step-results');
   }
 
-  // ── Wire up events after DOM ready ───────────────
-  document.addEventListener('DOMContentLoaded', function(){
-    document.getElementById('btn-start').addEventListener('click', startAssessment);
-    document.getElementById('btn-prev').addEventListener('click', prevArea);
-    document.getElementById('btn-next').addEventListener('click', nextArea);
-    document.getElementById('gate-form').addEventListener('submit', handleGateSubmit);
+  // ── Wire up ────────────────────────────────────────────────────────────────
+  document.addEventListener('DOMContentLoaded', function () {
+    document.getElementById('start-btn').addEventListener('click', startAssessment);
+    document.getElementById('next-btn').addEventListener('click', goNext);
+    document.getElementById('prev-btn').addEventListener('click', goPrev);
+    document.getElementById('submit-btn').addEventListener('click', submitGate);
+    document.getElementById('gate-email').addEventListener('keydown', function(e){
+      if (e.key === 'Enter') submitGate();
+    });
   });
 
-  return { startAssessment: startAssessment };
 })();
 </script>
