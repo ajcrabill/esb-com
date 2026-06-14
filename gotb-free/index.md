@@ -1,58 +1,10 @@
 ---
 layout: base
 title: "Free School Board Self-Assessment"
-description: "Take the free Governing One Team Board (GOTB) Self-Assessment to see how effective your school board is at improving student outcomes. Get your 0–100 score instantly."
+description: "Take the free Great On Their Behalf (GOTB) Self-Assessment to see how effective your school board is at improving student outcomes. Get your 0–100 score instantly."
 summary: "GOTB Self-Assessment"
 toplevel: Resources
 ---
-
-<!--
-  ══════════════════════════════════════════════════════════════
-  GOTB Self-Assessment — Lead Magnet
-  Page: /gotb-free/
-  ══════════════════════════════════════════════════════════════
-
-  EMAIL SETUP — One-time 10-minute setup for results emails:
-
-  1. Create free account at https://www.emailjs.com/
-     (Free tier = 200 emails/month, no credit card required)
-
-  2. Under "Email Services" → Add Service → Gmail (or other)
-     Copy the Service ID (e.g. "service_abc123")
-
-  3. Under "Email Templates" → Create New Template
-     Set To: {{to_email}}
-     Subject: Your School Board Effectiveness Score
-     Body (paste this):
-
-     Hi {{user_name}},
-
-     Thank you for completing the Governing One Team Board (GOTB) Self-Assessment!
-
-     YOUR OVERALL SCORE: {{total_score}} / 100 — {{rating}}
-
-     PRACTICE AREA BREAKDOWN:
-     • Focus Mindset:        {{score_focus}} / 10
-     • Clarify Priorities:   {{score_priorities}} / 35
-     • Monitor Progress:     {{score_monitor}} / 30
-     • Align Resources:      {{score_align}} / 20
-     • Communicate Results:  {{score_communicate}} / 5
-
-     School District: {{district}}
-
-     {{details}}
-
-     Want to see what it looks like when a board moves from where yours is today to 80+?
-     Visit effectiveschoolboards.com to learn about coaching and workshops.
-
-     — The Effective School Boards Team
-
-  4. Under Account → General → copy your Public Key
-
-  5. Fill in the three constants below (search for EMAILJS_CONFIG):
-
-  ══════════════════════════════════════════════════════════════
--->
 
 <style>
 #gotb-app { margin: 0 -15px; }
@@ -180,12 +132,12 @@ toplevel: Resources
     <div class="gotb-intro">
       <p style="font-size:0.85rem;text-transform:uppercase;letter-spacing:0.08em;color:#2c6fad;margin-bottom:8px;font-weight:600;">Free Self-Assessment</p>
       <h2>How Effective Is Your School Board?</h2>
-      <p>The <strong>Governing One Team Board (GOTB) Self-Assessment</strong> is a 20-question instrument based on the Effective School Boards framework. Answer honestly — there are no right or wrong grades, only a clearer picture of where your board stands.</p>
+      <p>The <strong>Great On Their Behalf (GOTB) Self-Assessment</strong> is a 20-question instrument based on the Effective School Boards framework. Answer honestly — there are no right or wrong grades, only a clearer picture of where your board stands.</p>
 
       <div class="gotb-score-sample">
         <div class="score-band ineff">0–39: Ineffective</div>
-        <div class="score-band emerg">40–59: Emerging</div>
-        <div class="score-band effec">60–79: Effective</div>
+        <div class="score-band emerg">40–69: Emerging</div>
+        <div class="score-band effec">70–79: Effective</div>
         <div class="score-band highe">80–100: Highly Effective</div>
       </div>
 
@@ -226,7 +178,7 @@ toplevel: Resources
   <div id="step-sending" class="gotb-step">
     <div class="gotb-sending">
       <div class="gotb-spinner"></div>
-      <p>Calculating your score and sending results…</p>
+      <p>Calculating your score and sending results&hellip;</p>
     </div>
   </div>
 
@@ -288,24 +240,11 @@ toplevel: Resources
 
 </div><!-- #gotb-app -->
 
-<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 <script>
 (function(){
-// ══════════════════════════════════════════════════
-// EMAILJS_CONFIG — fill these in after setup
-// ══════════════════════════════════════════════════
-var EMAILJS_PUBLIC_KEY  = '';   // e.g. 'abc123XYZ'
-var EMAILJS_SERVICE_ID  = '';   // e.g. 'service_abc123'
-var EMAILJS_TEMPLATE_ID = '';   // e.g. 'template_abc123'
-// Formspree endpoint for lead capture (sent to site owner)
-var FORMSPREE_ENDPOINT  = 'https://formspree.io/f/xayzdydv';
-// ══════════════════════════════════════════════════
 
-if (EMAILJS_PUBLIC_KEY) {
-  emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
-}
+var API_ENDPOINT = 'https://esbcloud.taild49f53.ts.net:8443/gotb/submit';
 
-// ── Questions data ──────────────────────────────
 var AREAS = [
   { id: 'focus',       name: 'Focus Mindset',       max: 10, color: '#4a86c8' },
   { id: 'priorities',  name: 'Clarify Priorities',  max: 35, color: '#e07b00' },
@@ -522,20 +461,18 @@ var QUESTIONS = [
   },
 ];
 
-// ── State ────────────────────────────────────────
+// ── State ─────────────────────────────────────────
 var answers = new Array(20).fill(-1);
 var currentArea = 0;
 var scores = {};
 
-// ── Rendering ────────────────────────────────────
+// ── Rendering ─────────────────────────────────────
 function renderArea(areaIdx) {
   var area = AREAS[areaIdx];
   var areaQs = QUESTIONS.filter(function(q){ return q.area === areaIdx; });
   var firstQIdx = QUESTIONS.findIndex(function(q){ return q.area === areaIdx; });
-
   var html = '';
   html += '<div class="gotb-area-header"><h4>' + area.name + '</h4><div class="area-weight">Practice Area ' + (areaIdx+1) + ' of 5 &nbsp;·&nbsp; Up to ' + area.max + ' points</div></div>';
-
   areaQs.forEach(function(q, localIdx){
     var globalIdx = firstQIdx + localIdx;
     html += '<div class="gotb-question-card">';
@@ -551,10 +488,8 @@ function renderArea(areaIdx) {
     });
     html += '</div></div>';
   });
-
   document.getElementById('questions-container').innerHTML = html;
   updateProgress();
-
   document.getElementById('btn-prev').style.display = (areaIdx === 0) ? 'none' : 'inline-block';
   document.getElementById('btn-next').textContent = (areaIdx === AREAS.length - 1) ? 'See My Score →' : 'Next →';
   document.getElementById('unanswered-msg').style.display = 'none';
@@ -568,49 +503,31 @@ function updateProgress() {
   document.getElementById('progress-label').textContent = 'Question ' + answered + ' of 20 answered';
 }
 
-// ── Answer recording ─────────────────────────────
 function recordAnswer(qIdx, val) {
   answers[qIdx] = val;
   updateProgress();
 }
 
-// ── Navigation ───────────────────────────────────
 function startAssessment() {
   showStep('step-questions');
   renderArea(0);
 }
 
 function prevArea() {
-  if (currentArea > 0) {
-    currentArea--;
-    renderArea(currentArea);
-  }
+  if (currentArea > 0) { currentArea--; renderArea(currentArea); }
 }
 
 function nextArea() {
-  // Check all questions in current area are answered
-  var area = AREAS[currentArea];
   var firstIdx = QUESTIONS.findIndex(function(q){ return q.area === currentArea; });
   var areaQs = QUESTIONS.filter(function(q){ return q.area === currentArea; });
   var allAnswered = areaQs.every(function(_, i){ return answers[firstIdx + i] >= 0; });
-
-  if (!allAnswered) {
-    document.getElementById('unanswered-msg').style.display = 'inline';
-    return;
-  }
+  if (!allAnswered) { document.getElementById('unanswered-msg').style.display = 'inline'; return; }
   document.getElementById('unanswered-msg').style.display = 'none';
-
-  if (currentArea < AREAS.length - 1) {
-    currentArea++;
-    renderArea(currentArea);
-  } else {
-    // Done — show gate
-    computeScores();
-    showGate();
-  }
+  if (currentArea < AREAS.length - 1) { currentArea++; renderArea(currentArea); }
+  else { computeScores(); showGate(); }
 }
 
-// ── Scoring ──────────────────────────────────────
+// ── Scoring ────────────────────────────────────────
 function computeScores() {
   scores = {};
   var total = 0;
@@ -628,116 +545,84 @@ function computeScores() {
 
 function getRating(score) {
   if (score >= 80) return 'Highly Effective';
-  if (score >= 60) return 'Effective';
+  if (score >= 70) return 'Effective';
   if (score >= 40) return 'Emerging';
   return 'Ineffective';
 }
 
 function getRatingClass(score) {
   if (score >= 80) return 'highe';
-  if (score >= 60) return 'effec';
+  if (score >= 70) return 'effec';
   if (score >= 40) return 'emerg';
   return 'ineff';
 }
 
 function getInterpretation(score, name) {
   var first = name ? name.split(' ')[0] : 'Your board';
-  if (score >= 80) return '<strong>' + first + ', your board is operating at a high level.</strong> You\'re in the top tier — boards at this level are focused on student outcomes, monitoring progress rigorously, and governing with discipline. The work now is about sustaining quality and closing the remaining gaps.';
-  if (score >= 60) return '<strong>' + first + ', your board has a solid foundation.</strong> You\'re doing meaningful governance work, but there are specific areas where deeper focus will make a real difference in student outcomes. A certified coach can help your board close the gap to 80+.';
+  if (score >= 80) return '<strong>' + first + ', your board is operating at a high level.</strong> You\'re in the top tier — focused on student outcomes, monitoring progress rigorously, and governing with discipline. The work now is about sustaining quality and closing the remaining gaps.';
+  if (score >= 70) return '<strong>' + first + ', your board is effective and has a solid foundation.</strong> There are specific areas where deeper focus will make a real difference in student outcomes. A certified coach can help your board close the gap to 80+ and sustain it.';
   if (score >= 40) return '<strong>' + first + ', your board has made a start.</strong> You\'re aware of effective governance principles, but consistent practice across all five areas is still developing. The gap to where you want to be is real — but so is the path forward with the right support.';
   return '<strong>' + first + ', your board has significant room to grow.</strong> The good news: boards that commit to this work and engage a certified coach typically move from this range to 60+ within a year. The framework gives you a clear roadmap — the question is whether your board is ready to commit.';
 }
 
-// ── Gate display ─────────────────────────────────
+// ── Gate display ───────────────────────────────────
 function showGate() {
   document.getElementById('gate-score-circle').textContent = scores.total;
   showStep('step-gate');
 }
 
-// ── Form submission ──────────────────────────────
+// ── Form submission ────────────────────────────────
 function handleGateSubmit(e) {
   e.preventDefault();
   var name = document.getElementById('gate-name').value.trim();
   var district = document.getElementById('gate-district').value.trim();
   var email = document.getElementById('gate-email').value.trim();
-
-  if (!name || !district || !email) return;
-  if (!email.includes('@')) {
+  if (!name || !district || !email || !email.includes('@')) {
     document.getElementById('gate-error').style.display = 'block';
-    document.getElementById('gate-error').textContent = 'Please enter a valid email address.';
+    document.getElementById('gate-error').textContent = 'Please fill in all fields with a valid email address.';
     return;
   }
-
   var btn = document.getElementById('gate-submit-btn');
   btn.disabled = true;
   btn.textContent = 'Sending…';
   document.getElementById('gate-error').style.display = 'none';
+  showStep('step-sending');
 
   var rating = getRating(scores.total);
-  var detailLines = AREAS.map(function(a){ return a.name + ': ' + scores[a.id] + ' / ' + a.max; }).join('\n');
-
-  var promises = [];
-
-  // 1. Formspree — lead capture to site owner
-  promises.push(
-    fetch(FORMSPREE_ENDPOINT, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-      body: JSON.stringify({
-        form: 'GOTB Self-Assessment Lead',
-        name: name,
-        email: email,
-        district: district,
-        total_score: scores.total,
-        rating: rating,
-        score_focus: scores.focus,
-        score_priorities: scores.priorities,
-        score_monitor: scores.monitor,
-        score_align: scores.align,
-        score_communicate: scores.communicate,
-        details: detailLines,
-      })
-    }).catch(function(){ return null; })
-  );
-
-  // 2. EmailJS — results to user (if configured)
-  if (EMAILJS_PUBLIC_KEY && EMAILJS_SERVICE_ID && EMAILJS_TEMPLATE_ID) {
-    promises.push(
-      emailjs.send(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, {
-        to_email: email,
-        user_name: name,
-        district: district,
-        total_score: scores.total,
-        rating: rating,
-        score_focus: scores.focus,
-        score_priorities: scores.priorities,
-        score_monitor: scores.monitor,
-        score_align: scores.align,
-        score_communicate: scores.communicate,
-        details: detailLines,
-      }).catch(function(){ return null; })
-    );
-  }
-
-  Promise.all(promises).then(function(){
-    showResults(name, district, email);
-  }).catch(function(){
-    showResults(name, district, email);
+  fetch(API_ENDPOINT, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      name: name,
+      district: district,
+      email: email,
+      total_score: scores.total,
+      rating: rating,
+      score_focus: scores.focus,
+      score_priorities: scores.priorities,
+      score_monitor: scores.monitor,
+      score_align: scores.align,
+      score_communicate: scores.communicate,
+    })
+  })
+  .then(function(r){ return r.json(); })
+  .then(function(){ showResults(name, district); })
+  .catch(function(){
+    // Show results even if the API call fails
+    showResults(name, district);
   });
 }
 
-// ── Results display ───────────────────────────────
+// ── Results display ────────────────────────────────
 function showResults(name, district) {
   var rating = getRating(scores.total);
   var ratingCls = getRatingClass(scores.total);
-
   document.getElementById('results-headline').textContent = name + '\'s School Board Assessment';
   document.getElementById('results-intro').textContent = 'Results for ' + district;
   document.getElementById('result-total-score').textContent = scores.total;
   document.getElementById('result-rating').textContent = rating;
   document.getElementById('total-score-block').className = 'total-score-block ' + ratingCls;
   document.getElementById('gotb-interpretation').innerHTML = getInterpretation(scores.total, name);
-
   var barsHtml = '';
   AREAS.forEach(function(area){
     var areaScore = scores[area.id];
@@ -748,14 +633,11 @@ function showResults(name, district) {
     barsHtml += '</div>';
   });
   document.getElementById('area-scores-container').innerHTML = barsHtml;
-
   showStep('step-results');
 }
 
-// ── Utility ──────────────────────────────────────
 function showStep(stepId) {
-  var steps = document.querySelectorAll('.gotb-step');
-  steps.forEach(function(s){ s.classList.remove('active'); });
+  document.querySelectorAll('.gotb-step').forEach(function(s){ s.classList.remove('active'); });
   document.getElementById(stepId).classList.add('active');
   window.scrollTo(0, 0);
 }
