@@ -113,6 +113,8 @@ body { margin: 0; padding: 0; }
 .form-field input:focus { outline: 2px solid #3a6ea8; border-color: #3a6ea8; }
 #gate-error { color: #c0392b; font-size: 13px; margin-top: 10px; display: none; }
 #submit-btn { width: 100%; margin-top: 6px; padding: 14px; font-size: 16px; }
+.privacy-note { font-size: 12px; color: #888; text-align: center; margin-top: 14px; line-height: 1.5; }
+.privacy-note a { color: #3a6ea8; }
 
 /* ── Results ────────────────────────────────────────────────────────────────── */
 #step-results { max-width: 680px; margin: 0 auto; }
@@ -256,6 +258,7 @@ body { margin: 0; padding: 0; }
     </div>
     <p id="gate-error">Please fill in all fields with a valid email address.</p>
     <button class="gotb-btn btn-primary" id="submit-btn">Email My Results</button>
+    <p class="privacy-note">By submitting, you agree to receive your results and occasional governance resources from Effective School Boards, LLC. We never sell your information. <a href="/privacy-policy/">Privacy Policy</a></p>
   </div>
 </div>
 
