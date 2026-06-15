@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "GOTB Index: Self Assessment"
-description: "A free 20-question self-assessment for school board members based on the Great On Their Behalf framework. Get an indicative read of where your board stands across five practice areas."
+description: "A free 20-question self-assessment for school board members based on the Great On Their Behalf index. Get an indicative read of where your board stands across five practice areas."
 toplevel: "gotb-free"
 ---
 
@@ -182,13 +182,13 @@ body { margin: 0; padding: 0; }
 <!-- Hero -->
 <div class="gotb-hero">
   <h1>GOTB Index: Self Assessment</h1>
-  <p>A free 20-question self-assessment for school board members based on the Great On Their Behalf framework.<br>Takes about 10 minutes. Your results are personal and private.</p>
+  <p>A free 20-question self-assessment for school board members based on the Great On Their Behalf index.<br>Takes about 10 minutes. Your results are personal and private.</p>
 </div>
 
 <!-- What this covers -->
 <div class="gotb-section" id="intro-section">
   <h2>What this covers</h2>
-  <p>The Great On Their Behalf (GOTB) framework describes five practice areas that distinguish boards whose behavior consistently improves student outcomes. This self-assessment gives you an indicative read — based on your own perception — of where your board stands today.</p>
+  <p>The Great On Their Behalf (GOTB) index describes five practice areas that distinguish boards whose behavior creates the conditions for improving student outcomes. This self-assessment gives you an indicative read — based on your own perception — of where your board stands today.</p>
   <ul>
     <li><strong>Focus Mindset</strong> — whether the board keeps its attention fixed on improving outcomes for students</li>
     <li><strong>Clarify Priorities</strong> — whether the board has set clear, specific goals for students and guardrails for the superintendent — in writing</li>
