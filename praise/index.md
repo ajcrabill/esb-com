@@ -8,7 +8,7 @@ toplevel: Praise
 
 <h3>Praise for, "<em>Great On Their Behalf</em>":</h3>
 <ul>
-<li>"If you truly want to move your schools forward transformatively, my strongest recommendation is to set up a workshop with AJ Crabill for your leadership team. Two days of working with AJ on mindset and the framework for Student Outcome Focused Governance provided more forward movement for our district than our previous six months of work."
+<li>"If you truly want to move your schools forward transformatively, my strongest recommendation is to set up a workshop with AJ Crabill for your leadership team. Two days of working with AJ on mindset and the framework  provided more forward movement for our district than our previous six months of work."
 —Jay Mann, Superintendent, Creighton Elementary School District, Phoenix, AZ <br/><br/></li>
 
   <li>"Anyone with a real heart to serve students well on a local school board will find this book compelling and propelling. It makes crystal clear why we have been blind to the need and asleep at the wheel in school district after school district across the country."
