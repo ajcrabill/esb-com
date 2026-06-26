@@ -29,6 +29,21 @@
   })(window,document,'script','dataLayer','GTM-KRRMB7R2');</script>
   <!-- End Google Tag Manager -->
 
+  <!-- Block Formspree submissions on localhost (dev previews) -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var host = window.location.hostname;
+      if (host === 'localhost' || host === '127.0.0.1' || host.startsWith('192.168.') || host.startsWith('10.')) {
+        document.querySelectorAll('form[action*="formspree.io"]').forEach(function(form) {
+          form.addEventListener('submit', function(e) {
+            e.preventDefault();
+            alert('Form submissions are disabled on local previews.');
+          });
+        });
+      }
+    });
+  </script>
+
   <!-- Google Search Console Verification -->
   <meta name="google-site-verification" content="lW6jsBnhXqHUQnt-Lxb42ahoTakEshVDelrEiZ485m0" />
 
