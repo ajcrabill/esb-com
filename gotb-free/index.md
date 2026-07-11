@@ -334,6 +334,7 @@ body { margin: 0; padding: 0; }
   'use strict';
 
   var API = 'https://esbcloud.taild49f53.ts.net:8443/gotb/submit';
+  var FUNNEL_API = 'https://api.gotb.effectiveschoolboards.com/api/funnel/inbound/gotb-free';
 
   // ── Assessment data ────────────────────────────────────────────────────────
   // max: weighted contribution to the 100-point total (from the ESB framework instrument)
@@ -623,22 +624,31 @@ body { margin: 0; padding: 0; }
 
     var overall = overallScore();
     var rating  = getRating(overall);
+    var payload = {
+      name: name,
+      district: district,
+      email: email,
+      total_score: overall,
+      rating: rating,
+      score_focus:       areaPercent(0),
+      score_priorities:  areaPercent(1),
+      score_monitor:     areaPercent(2),
+      score_align:       areaPercent(3),
+      score_communicate: areaPercent(4),
+    };
+
+    // Fire-and-forget into the GOTB portal's lead funnel -- best-effort,
+    // never blocks or affects the emailed-results flow below.
+    fetch(FUNNEL_API, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+    }).catch(function(){ /* funnel capture is best-effort */ });
 
     fetch(API, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        name: name,
-        district: district,
-        email: email,
-        total_score: overall,
-        rating: rating,
-        score_focus:       areaPercent(0),
-        score_priorities:  areaPercent(1),
-        score_monitor:     areaPercent(2),
-        score_align:       areaPercent(3),
-        score_communicate: areaPercent(4),
-      }),
+      body: JSON.stringify(payload),
     })
     .then(function(r){ return r.json(); })
     .then(function(data){
