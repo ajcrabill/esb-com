@@ -283,3 +283,12 @@ NEVER words/phrases: Any AI-tell words, sentence-initial transitions, or AI-hall
 Avoided language: Any banned governance term or power-over framing (section 12)?
 
 No named organizations: CGCS or any individual school system? Genericize.
+
+14. ADDITIONAL RESOURCES - What To Compare Everything Against
+
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Core Grounding Documents/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Templates/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/anti-slop-skill/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/content generation guides/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/voice-profiles/
