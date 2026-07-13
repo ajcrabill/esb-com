@@ -166,6 +166,14 @@ What is the one conviction? (this is about student outcomes)
 
 What distinction is central? (monitoring vs. managing? board vs. supt work?)
 
+10. ADDITIONAL RESOURCES - What To Compare Everything Against
+
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Core Grounding Documents/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Templates/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/anti-slop-skill/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/content generation guides/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/voice-profiles/
 What ESB terms must appear? (Goals, Guardrails, any Reasonable Interpretation?)
 
 If you follow these rules, the content will sound like it was written by someone who knows and lives the ESB framework.
