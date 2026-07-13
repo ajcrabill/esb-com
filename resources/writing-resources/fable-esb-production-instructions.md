@@ -48,47 +48,26 @@ Grounding Documents — Read These First
 
 Primary (Required for All Workstreams)
 
-~/Downloads/canonical-content-generation-guides-7.7.26/AJC-content-generation-guide.md — Complete content generation guide with voice, architecture, quality gates, anti-slop rules
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/esb-context-injection.md — ESB terminology, voice, banned words, structural moves
 
-~/Downloads/canonical-content-generation-guides-7.7.26/esb-context-injection.md — ESB terminology, voice, banned words, structural moves
-
-~/Downloads/ESB Source Documents/Effective_School_Boards_Framework_-_Implementation_Guide.pdf — Framework overview
-
-~/Downloads/ESB Source Documents/Glossary.docx — ESB glossary
-
-~/Downloads/ESB Source Documents/Inputs, Outputs, & Outcomes Deep Dive (6).docx — Three-level framework details
-
-~/Downloads/ESB Source Documents/Effective Strategic Planning (8).docx — Outcomes/Outputs/Inputs planning framework
-
-Reference (For Voice and Story)
-
-~/Downloads/ESB Source Documents/GOTB 3rd Edition (manuscript).docx — Great On Their Behalf, 3rd edition. AJ's signature book. Primary voice reference.
-
-~/Downloads/ESB Source Documents/Text of AJ Crabill Writings - 5.6.25.txt — Additional AJ writing samples
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Core Grounding Documents/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Core Grounding Documents/ESB Official Glossary - 7.1.26.md— ESB glossary
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Core Grounding Documents/Effective School Boards Framework - Implementation Guide.md — Framework overview
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Core Grounding Documents/Effective Strategic Planning.md — Outcomes/Outputs/Inputs planning framework
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Core Grounding Documents/GOTB 3rd Edition (manuscript).md — Great On Their Behalf, 3rd edition. AJ's signature book. Primary voice reference.
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Core Grounding Documents/Governance Language ESB Coaches Avoid.md
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Core Grounding Documents/Inputs, Outputs, & Outcomes Deep Dive.md — Three-level framework details
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Core Grounding Documents/great-on-their-behalf.md — Great On Their Behalf, 3rd edition. AJ's signature book. Primary voice reference.
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/Templates/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/anti-slop-skill/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/voice-profiles/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/content generation guides/
+https://github.com/ajcrabill/esb-com/tree/main/resources/writing-resources/content generation guides/AJC-content-generation-guide.md — Complete content generation guide with voice, architecture, quality gates, anti-slop rules
 
 Workbook Format Reference
 
 ~/Downloads/ESB Workbooks/ — All 6 produced workbooks. Use as format templates.
-
-Source Drafts for New Workbooks
-
-~/Downloads/ESB Source Documents/09 - Align Resources - Policy Diet.docx — Draft for Three Diets workbook
-
-~/Downloads/ESB Source Documents/10 - Align Resources - Agenda Diet.docx — Draft for Three Diets workbook
-
-~/Downloads/ESB Source Documents/11 - Align Resources - Committee Diet.docx — Draft for Three Diets workbook
-
-~/Downloads/ESB Source Documents/14 - Communicate Results - Building Community Trust.docx — Draft for Community Engagement workbook
-
-~/Downloads/ESB Source Documents/15 - Communicate Results - Community Outreach and Engagement.docx — Draft for Community Engagement workbook
-
-~/Downloads/ESB Source Documents/01 - Focus Mindset - The Board Member_s Internal Work.docx — Draft for Focus Mindset workbook
-
-~/Downloads/ESB Source Documents/02 - Focus Mindset - Onboarding New Board Members.docx — Draft for Focus Mindset workbook
-
-~/Downloads/ESB Source Documents/03 - Focus Mindset - Creating Student Outcomes Culture.docx — Draft for Focus Mindset workbook
-
-~/Downloads/ESB Source Documents/07 - Monitor Progress - Evaluating Goal and Guardrail Improvement.docx — Draft for Monitor Progress workbook
 
 ESB Framework Rules (Binding)
 
