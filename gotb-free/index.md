@@ -316,7 +316,7 @@ body { margin: 0; padding: 0; }
     <div class="results-cta">
       <h3>Ready for the validated read?</h3>
       <p>The Certified Assessment is psychometrically validated, whole-board, nationally benchmarked — and administered by a Certified Great On Their Behalf Practitioner. No guessing. No self-scoring.</p>
-      <a class="btn-cta" href="/consultation">Schedule a Free Consultation</a>
+      <a class="btn-cta" href="/consultation" id="consultation-cta">Schedule a Free Consultation</a>
     </div>
 
     <p class="disclaimer">
@@ -662,12 +662,27 @@ body { margin: 0; padding: 0; }
     };
 
     // Fire-and-forget into the GOTB portal's lead funnel -- best-effort,
-    // never blocks or affects the emailed-results flow below.
+    // never blocks or affects the emailed-results flow below. Once it
+    // resolves, carry the resulting lead_id forward into the "Schedule a
+    // Free Consultation" CTA so a follow-up consultation request from the
+    // SAME person merges into this same funnel row instead of creating a
+    // disconnected second one (AJ, 2026-07-15).
     fetch(FUNNEL_API, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(payload),
-    }).catch(function(){ /* funnel capture is best-effort */ });
+    })
+    .then(function(r){ return r.json(); })
+    .then(function(data){
+      if (!data || !data.lead_id) return;
+      var cta = document.getElementById('consultation-cta');
+      if (!cta) return;
+      var params = new URLSearchParams({
+        lead_id: data.lead_id, name: name, email: email, district: district,
+      });
+      cta.href = '/consultation?' + params.toString();
+    })
+    .catch(function(){ /* funnel capture is best-effort */ });
 
     fetch(API, {
       method: 'POST',
