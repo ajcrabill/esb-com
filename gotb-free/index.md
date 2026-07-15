@@ -300,7 +300,7 @@ body { margin: 0; padding: 0; }
 
     <!-- Tier legend -->
     <div class="tier-legend">
-      <div class="tier-block tier-ineff"><span class="tier-name">Ineffective (indicative)</span><span class="tier-range">0 – 39</span></div>
+      <div class="tier-block tier-ineff"><span class="tier-name">Beginning (indicative)</span><span class="tier-range">0 – 39</span></div>
       <div class="tier-block tier-emerg"><span class="tier-name">Emerging (indicative)</span><span class="tier-range">40 – 69</span></div>
       <div class="tier-block tier-effec"><span class="tier-name">Effective (indicative)</span><span class="tier-range">70 – 79</span></div>
       <div class="tier-block tier-highe"><span class="tier-name">Highly Effective (indicative)</span><span class="tier-range">80 – 100</span></div>
@@ -377,7 +377,7 @@ body { margin: 0; padding: 0; }
 
   // Response scale (same for every question)
   var SCALE = [
-    { name: 'Ineffective',      desc: 'We don\'t do this',                cls: 'c0' },
+    { name: 'Beginning',        desc: 'We don\'t do this',                cls: 'c0' },
     { name: 'Emerging',         desc: 'We do this sometimes',             cls: 'c1' },
     { name: 'Effective',        desc: 'We do this consistently',          cls: 'c2' },
     { name: 'Highly Effective', desc: 'This is how we always operate',    cls: 'c3' },
@@ -418,7 +418,13 @@ body { margin: 0; padding: 0; }
     if (s >= 80) return 'Highly Effective (indicative)';
     if (s >= 70) return 'Effective (indicative)';
     if (s >= 40) return 'Emerging (indicative)';
-    return 'Ineffective (indicative)';
+    return 'Beginning (indicative)';
+  }
+
+  // Whatever the quiz page's own URL carries -- no deeper visit instrumentation upstream of this.
+  function getUtmParams() {
+    var p = new URLSearchParams(location.search);
+    return { source: p.get('utm_source'), medium: p.get('utm_medium'), campaign: p.get('utm_campaign') };
   }
 
   function tierColorClass(s) {
@@ -624,6 +630,18 @@ body { margin: 0; padding: 0; }
 
     var overall = overallScore();
     var rating  = getRating(overall);
+    var utm = getUtmParams();
+    // Every individual response, self-describing (question text + area + the
+    // chosen scale label) so the funnel admin can review exactly how someone
+    // answered, not just their rolled-up scores (AJ, 2026-07-14: "grab every
+    // single answer/entry they made").
+    var fullAnswers = QUESTIONS.map(function (q, i) {
+      return {
+        area: AREAS[q.area].label,
+        question: q.text,
+        answer: answers[i] >= 0 ? SCALE[answers[i]].name : null,
+      };
+    });
     var payload = {
       name: name,
       district: district,
@@ -635,6 +653,12 @@ body { margin: 0; padding: 0; }
       score_monitor:     areaPercent(2),
       score_align:       areaPercent(3),
       score_communicate: areaPercent(4),
+      answers:       fullAnswers,
+      referrer:      document.referrer || null,
+      landing_path:  location.pathname + location.search,
+      utm_source:    utm.source,
+      utm_medium:    utm.medium,
+      utm_campaign:  utm.campaign,
     };
 
     // Fire-and-forget into the GOTB portal's lead funnel -- best-effort,
