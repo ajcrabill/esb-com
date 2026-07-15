@@ -656,6 +656,7 @@ body { margin: 0; padding: 0; }
       answers:       fullAnswers,
       referrer:      document.referrer || null,
       landing_path:  location.pathname + location.search,
+      source_site:   location.hostname,
       utm_source:    utm.source,
       utm_medium:    utm.medium,
       utm_campaign:  utm.campaign,
