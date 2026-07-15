@@ -31,7 +31,6 @@ Teachers need coaches to be their best. Principals need coaches to be their best
 (function () {
   'use strict';
 
-  var FORMSPREE_URL = 'https://formspree.io/f/xayzdydv';
   var FUNNEL_API = 'https://api.gotb.effectiveschoolboards.com/api/directory/leads/inbound/consultation';
 
   // If this page was reached from the gotb-free results screen's "Schedule a
@@ -44,6 +43,26 @@ Teachers need coaches to be their best. Principals need coaches to be their best
   if (params.get('name')) document.getElementById('c-name').value = params.get('name');
   if (params.get('email')) document.getElementById('c-email').value = params.get('email');
   if (params.get('district')) document.getElementById('c-schoolsystem').value = params.get('district');
+
+  // The CTA itself is labeled "Schedule a Free Consultation" -- clicking it
+  // should register as requesting one, not require also filling out and
+  // sending the form below (AJ, 2026-07-15: "even though i click on
+  // consultation, in funnel it says requested consultation: no"). Fire the
+  // moment we land here with enough from the query string; the form submit
+  // below still fires its own call on top of this if they go on to send it,
+  // carrying whatever title/message they typed (the backend merge is
+  // idempotent on the boilerplate note line + timestamp, so this doesn't
+  // double up -- see funnel.record_consultation_request).
+  if (leadId && params.get('name') && params.get('email')) {
+    fetch(FUNNEL_API, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        name: params.get('name'), email: params.get('email'),
+        schoolsystem: params.get('district') || '', lead_id: leadId,
+      }),
+    }).catch(function(){ /* best-effort */ });
+  }
 
   function submitForm(e) {
     e.preventDefault();
@@ -67,16 +86,10 @@ Teachers need coaches to be their best. Principals need coaches to be their best
     var payload = { name: name, email: email, title: title, schoolsystem: schoolsystem, message: message };
     if (leadId) payload.lead_id = leadId;
 
-    // Formspree keeps working exactly as it always has (AJ's existing
-    // notification channel); the funnel POST is the new addition, best-effort
-    // and non-blocking, matching the gotb-free quiz's own dual-POST pattern.
-    fetch(FORMSPREE_URL, {
-      method: 'POST',
-      headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
-      body: JSON.stringify({ name: name, email: email, title: title, schoolsystem: schoolsystem,
-                              message: message, form: 'esb.com consultation form' }),
-    }).catch(function(){ /* best-effort */ });
-
+    // Formspree removed (AJ, 2026-07-15: "you can remove formspree") -- the
+    // portal itself now emails staff on a consultation request (see
+    // esb-portal's directory/router.py _notify_consultation_request), so this
+    // funnel POST is the only notification path left.
     fetch(FUNNEL_API, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
