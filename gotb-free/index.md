@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "GOTB Index: Self Assessment"
-description: "A free 20-question self-assessment for school board members based on the Great On Their Behalf index. Get an indicative read of where your board stands across five practice areas."
+description: "A free 18-question self-assessment for school board members based on the Great On Their Behalf index. Get an indicative read of where your board stands across five practice areas."
 toplevel: "gotb-free"
 ---
 
@@ -182,7 +182,7 @@ body { margin: 0; padding: 0; }
 <!-- Hero -->
 <div class="gotb-hero">
   <h1>GOTB Index: Self Assessment</h1>
-  <p>A free 20-question self-assessment for school board members based on the Great On Their Behalf index.<br>Takes about 10 minutes. Your results are personal and private.</p>
+  <p>A free 18-question self-assessment for school board members based on the Great On Their Behalf index.<br>Takes about 5 minutes. Your results are personal and private.</p>
 </div>
 
 <!-- What this covers -->
@@ -202,7 +202,7 @@ body { margin: 0; padding: 0; }
       <h3>GOTB Index: Self Assessment (this tool)</h3>
       <ul>
         <li>Free, individual, anonymous</li>
-        <li>20 questions, ~10 minutes</li>
+        <li>18 questions, ~5 minutes</li>
         <li>Based on your own perception</li>
         <li>Results are indicative — a directional read, not a validated measurement</li>
         <li>Useful for personal reflection and initial orientation</li>
@@ -228,7 +228,7 @@ body { margin: 0; padding: 0; }
 <!-- ── STEP: Questions ──────────────────────────────────────────────────────── -->
 <div class="gotb-step" id="step-questions">
   <div id="progress-bar-wrap">
-    <div id="progress-bar-label">Question <span id="q-current">1</span> of 20</div>
+    <div id="progress-bar-label">Question <span id="q-current">1</span> of 18</div>
     <div id="progress-bar"><div id="progress-fill"></div></div>
   </div>
   <div id="area-nav" role="navigation" aria-label="Practice area progress"></div>
@@ -330,386 +330,377 @@ body { margin: 0; padding: 0; }
 </div><!-- /.gotb-wrap -->
 
 <script>
-(function () {
-  'use strict';
+  (function () {
+    'use strict';
+    var API = 'https://esbcloud.taild49f53.ts.net:8443/gotb/submit';
+    var FUNNEL_API = 'https://api.gotb.effectiveschoolboards.com/api/directory/leads/inbound/gotb-free';
+    var QUIZ_VERSION = 'free-v2';
 
-  var API = 'https://esbcloud.taild49f53.ts.net:8443/gotb/submit';
-  var FUNNEL_API = 'https://api.gotb.effectiveschoolboards.com/api/funnel/inbound/gotb-free';
+    // Six sections mirroring the validated instrument's six rows, presented
+    // under the five-practice brand (Clarify Priorities split into two
+    // labeled sub-sections). Each question is a first-person rendering of
+    // exactly one named validated indicator (crosswalk kept server-side).
+    var AREAS = [
+      { id: 'focus',       practice: 1, label: 'Focus Mindset',                              desc: "Keeping the board's attention on student outcomes" },
+      { id: 'vg',          practice: 2, label: 'Clarify Priorities: Vision & Goals',         desc: 'Clear, measurable student-outcome goals' },
+      { id: 'gg',          practice: 2, label: 'Clarify Priorities: Values & Guardrails',    desc: 'Clear limits that protect the community’s values' },
+      { id: 'monitor',     practice: 3, label: 'Monitor Progress',                           desc: 'Reviewing real evidence and acting on it' },
+      { id: 'align',       practice: 4, label: 'Align Resources',                            desc: 'Connecting time, talent, and treasure to your goals' },
+      { id: 'communicate', practice: 5, label: 'Communicate Results',                        desc: 'Honest, plain-language reporting to the community' },
+    ];
 
-  // ── Assessment data ────────────────────────────────────────────────────────
-  // max: weighted contribution to the 100-point total (from the ESB framework instrument)
-  var AREAS = [
-    { id: 'focus',       label: 'Focus Mindset',       desc: 'Keeping the board\'s attention on student outcomes',  max: 10 },
-    { id: 'priorities',  label: 'Clarify Priorities',  desc: 'Setting clear, written goals and guardrails',         max: 35 },
-    { id: 'monitor',     label: 'Monitor Progress',    desc: 'Reviewing real evidence and acting on it',            max: 30 },
-    { id: 'align',       label: 'Align Resources',     desc: 'Connecting big decisions to your goals',              max: 20 },
-    { id: 'communicate', label: 'Communicate Results', desc: 'Honest, plain-language reporting to the community',   max: 5  },
-  ];
+    // Three questions per section in ladder order: Emerging, Effective,
+    // Highly Effective anchors.
+    var QUESTIONS = [
+      { area: 0, id: 'focus.e',   level: 'Emerging',         text: "When we discuss how the district is doing, we talk about students' results, not adult activity." },
+      { area: 0, id: 'focus.eff', level: 'Effective',        text: 'The majority of our substantive board discussion centers on student outcomes, not operations.' },
+      { area: 0, id: 'focus.he',  level: 'Highly Effective', text: 'When progress stalls, we hold ourselves — the board — accountable, not staff or outside factors.' },
+      { area: 1, id: 'vg.e',      level: 'Emerging',         text: 'We have a small, focused set of written student-outcome goals each of us can name.' },
+      { area: 1, id: 'vg.eff',    level: 'Effective',        text: 'Each goal names a measurable student outcome with a baseline, a numeric target, and a date.' },
+      { area: 1, id: 'vg.he',     level: 'Highly Effective', text: 'We routinely tie board decisions back to a specific goal.' },
+      { area: 2, id: 'gg.e',      level: 'Emerging',         text: "We have written guardrails stating what the superintendent may not do — and we leave the 'how' alone." },
+      { area: 2, id: 'gg.eff',    level: 'Effective',        text: 'Our guardrails describe observable operating limits, not vague values.' },
+      { area: 2, id: 'gg.he',     level: 'Highly Effective', text: 'We check proposed actions against our guardrails before approving them.' },
+      { area: 3, id: 'mon.e',     level: 'Emerging',         text: 'We follow a monitoring calendar, reviewing the goal or guardrail scheduled for that meeting.' },
+      { area: 3, id: 'mon.eff',   level: 'Effective',        text: 'At least half of our meeting time goes to monitoring progress toward student-outcome goals.' },
+      { area: 3, id: 'mon.he',    level: 'Highly Effective', text: 'Our monitoring ends with a judgment: is progress sufficient, and what is the board’s next step?' },
+      { area: 4, id: 'al.e',      level: 'Emerging',         text: 'When we approve a major expenditure, we ask which goal it advances.' },
+      { area: 4, id: 'al.eff',    level: 'Effective',        text: "The superintendent's evaluation is tied to progress on our goals and guardrails." },
+      { area: 4, id: 'al.he',     level: 'Highly Effective', text: "We decline or defer items that don't advance a goal or guardrail." },
+      { area: 5, id: 'com.e',     level: 'Emerging',         text: 'We share goals and progress with the community in plain, jargon-free language.' },
+      { area: 5, id: 'com.eff',   level: 'Effective',        text: 'We communicate gaps as honestly as gains, on a regular cadence.' },
+      { area: 5, id: 'com.he',    level: 'Highly Effective', text: 'We invite the community to hold us accountable for progress toward our goals.' },
+    ];
 
-  // 4 questions per area, 5 areas = 20 questions
-  var QUESTIONS = [
-    // Focus Mindset (area 0)
-    { area: 0, text: 'Our board spends the majority of its meeting time on student outcomes, not operational updates.' },
-    { area: 0, text: 'When we debate a decision, we keep coming back to how it affects what students are actually learning.' },
-    { area: 0, text: 'We hold ourselves — the adults — responsible for changing our own behavior, not just asking staff to change theirs.' },
-    { area: 0, text: 'A visitor watching one of our meetings would walk away knowing students are this board\'s top priority.' },
-    // Clarify Priorities (area 1)
-    { area: 1, text: 'Our board has a small number of clear, written goals for student outcomes.' },
-    { area: 1, text: 'Each of us can name our district\'s most important student outcome goals without looking them up.' },
-    { area: 1, text: 'We have set clear guardrails for what the superintendent may and may not do in pursuing those goals.' },
-    { area: 1, text: 'Our goals are specific and measurable enough that we\'d know whether we hit them.' },
-    // Monitor Progress (area 2)
-    { area: 2, text: 'We regularly review data on whether students are improving toward our goals.' },
-    { area: 2, text: 'We know right now whether our district is on track to meet its student outcome goals.' },
-    { area: 2, text: 'We spend protected time at meetings monitoring progress, not just hearing reports.' },
-    { area: 2, text: 'When the data shows progress has stalled, we ask what we as a board need to change.' },
-    // Align Resources (area 3)
-    { area: 3, text: 'Our budget visibly reflects our top student outcome goals.' },
-    { area: 3, text: 'When we approve a major expenditure, we can point to the goal it advances.' },
-    { area: 3, text: 'We are willing to stop funding things that don\'t move our goals, not just add new things.' },
-    { area: 3, text: 'Our calendar and policy decisions are made with our student outcome goals in mind.' },
-    // Communicate Results (area 4)
-    { area: 4, text: 'We communicate our goals and our progress to the community in plain, jargon-free language.' },
-    { area: 4, text: 'We share results honestly with the community, including where we are falling short.' },
-    { area: 4, text: 'The community has clear, regular ways to hear how the district is doing on its goals.' },
-    { area: 4, text: 'We make decisions based on what the whole community needs, not only the loudest voices in the room.' },
-  ];
+    var SCALE = [
+      { name: 'Beginning',        desc: 'We don’t do this',             cls: 'c0' },
+      { name: 'Emerging',         desc: 'We do this sometimes',          cls: 'c1' },
+      { name: 'Effective',        desc: 'We do this consistently',       cls: 'c2' },
+      { name: 'Highly Effective', desc: 'This is how we always operate', cls: 'c3' },
+    ];
+    var BAND_NAMES = ['Beginning', 'Emerging', 'Effective', 'Highly Effective'];
 
-  // Response scale (same for every question)
-  var SCALE = [
-    { name: 'Beginning',        desc: 'We don\'t do this',                cls: 'c0' },
-    { name: 'Emerging',         desc: 'We do this sometimes',             cls: 'c1' },
-    { name: 'Effective',        desc: 'We do this consistently',          cls: 'c2' },
-    { name: 'Highly Effective', desc: 'This is how we always operate',    cls: 'c3' },
-  ];
+    var answers    = [];
+    var areaIdx    = 0;
+    var qIdxInArea = 0;
 
-  // ── State ──────────────────────────────────────────────────────────────────
-  var answers    = new Array(QUESTIONS.length).fill(-1);
-  var areaIdx    = 0;  // current area (0-4)
-  var qIdxInArea = 0;  // current question within area
+    function areaQuestions(a) { return QUESTIONS.filter(function(q){ return q.area === a; }); }
 
-  // ── Scoring ────────────────────────────────────────────────────────────────
-  // answers[i] is 0-3 (linear). Area score = (rawSum / maxRaw) * area.max.
-  // Overall = sum of area scores → 0-100.
-  function areaRawSum(ai) {
-    return QUESTIONS.reduce(function(sum, q, qi) {
-      return q.area === ai ? sum + (answers[qi] >= 0 ? answers[qi] : 0) : sum;
-    }, 0);
-  }
+    // --- v2 scoring: same skeleton as the validated instrument ---
+    // Row points 0-9; a level is confirmed when its anchor scores >= 2
+    // ("we do this consistently"); row band climbs the ladder cumulatively;
+    // total = points/54 x 100 unweighted; composite = lower median of the six
+    // row bands, capped at Monitor Progress band + 1 (the Monitor gate).
+    function rowPoints(ai) {
+      var qs = areaQuestions(ai), sum = 0;
+      qs.forEach(function(q){ var gi = QUESTIONS.indexOf(q); if (answers[gi] >= 0) sum += answers[gi]; });
+      return sum;
+    }
+    function rowBand(ai) {
+      var qs = areaQuestions(ai);
+      function conf(levelIdx) { var gi = QUESTIONS.indexOf(qs[levelIdx]); return answers[gi] >= 2; }
+      if (!conf(0)) return 0;
+      if (!conf(1)) return 1;
+      if (!conf(2)) return 2;
+      return 3;
+    }
+    function allBands() { return AREAS.map(function(_, i){ return rowBand(i); }); }
+    function lowerMedian(bands) {
+      var s = bands.slice().sort(function(a,b){ return a-b; });
+      return s[Math.floor((s.length - 1) / 2)];
+    }
+    function monitorBand() { return rowBand(3); }
+    function compositeBand() {
+      return Math.min(lowerMedian(allBands()), monitorBand() + 1);
+    }
+    function compositeCapped() {
+      return compositeBand() < lowerMedian(allBands());
+    }
+    function totalPoints() {
+      var sum = 0;
+      for (var i = 0; i < AREAS.length; i++) sum += rowPoints(i);
+      return sum;
+    }
+    function overallScore() { return Math.round(100 * totalPoints() / 54); }
+    function getRating() { return BAND_NAMES[compositeBand()] + ' (indicative)'; }
 
-  function areaScore(ai) {
-    var qs = QUESTIONS.filter(function(q){ return q.area === ai; });
-    return Math.round((areaRawSum(ai) / (qs.length * 3)) * AREAS[ai].max * 10) / 10;
-  }
-
-  // 0-100 percentage for this area (used for backend API + bar widths)
-  function areaPercent(ai) {
-    var qs = QUESTIONS.filter(function(q){ return q.area === ai; });
-    return Math.round(areaRawSum(ai) / (qs.length * 3) * 100);
-  }
-
-  function overallScore() {
-    var sum = 0;
-    for (var i = 0; i < AREAS.length; i++) sum += areaScore(i);
-    return Math.round(sum);
-  }
-
-  function getRating(s) {
-    if (s >= 80) return 'Highly Effective (indicative)';
-    if (s >= 70) return 'Effective (indicative)';
-    if (s >= 40) return 'Emerging (indicative)';
-    return 'Beginning (indicative)';
-  }
-
-  // Whatever the quiz page's own URL carries -- no deeper visit instrumentation upstream of this.
-  function getUtmParams() {
-    var p = new URLSearchParams(location.search);
-    return { source: p.get('utm_source'), medium: p.get('utm_medium'), campaign: p.get('utm_campaign') };
-  }
-
-  function tierColorClass(s) {
-    if (s >= 80) return 'tier-highe';
-    if (s >= 70) return 'tier-effec';
-    if (s >= 40) return 'tier-emerg';
-    return 'tier-ineff';
-  }
-
-  function barColor(areaId) {
-    var colors = ['#4a86c8', '#e07b00', '#3a9c5b', '#8e44ad', '#2c3e50'];
-    return colors[areaId];
-  }
-
-  // ── Current question index (global) ───────────────────────────────────────
-  function globalQIdx() {
-    var base = 0;
-    for (var a = 0; a < areaIdx; a++) base += QUESTIONS.filter(function(q){ return q.area === a; }).length;
-    return base + qIdxInArea;
-  }
-
-  function areaQuestions(a) { return QUESTIONS.filter(function(q){ return q.area === a; }); }
-
-  // ── Render question area ───────────────────────────────────────────────────
-  function renderQuestion() {
-    var area = AREAS[areaIdx];
-    var qs   = areaQuestions(areaIdx);
-    var gIdx = globalQIdx();
-    var q    = QUESTIONS[gIdx];
-
-    document.getElementById('q-current').textContent = gIdx + 1;
-    document.getElementById('progress-fill').style.width = (((gIdx + 1) / QUESTIONS.length) * 100) + '%';
-
-    // Area nav dots
-    var nav = document.getElementById('area-nav');
-    nav.innerHTML = '';
-    for (var a = 0; a < AREAS.length; a++) {
-      var dot = document.createElement('button');
-      dot.className = 'area-dot' + (a < areaIdx ? ' done' : '') + (a === areaIdx ? ' current' : '');
-      dot.setAttribute('aria-label', AREAS[a].label);
-      dot.setAttribute('title', AREAS[a].label);
-      nav.appendChild(dot);
+    function getUtmParams() {
+      var p = new URLSearchParams(location.search);
+      return { source: p.get('utm_source'), medium: p.get('utm_medium'), campaign: p.get('utm_campaign') };
     }
 
-    // Question content
-    var html = '<div class="area-header">'
-      + '<span class="area-pill">Practice ' + (areaIdx + 1) + ' of 5</span>'
-      + '<span class="area-desc">' + area.label + ' — ' + area.desc + '</span>'
-      + '</div>'
-      + '<div class="question-card">'
-      + '<div class="q-num">Question ' + (qIdxInArea + 1) + ' of ' + qs.length + ' in this section</div>'
-      + '<div class="q-text">' + q.text + '</div>'
-      + '<div class="choices">';
-
-    for (var c = 0; c < SCALE.length; c++) {
-      var sel = answers[gIdx] === c ? ' selected' : '';
-      html += '<label class="choice-label ' + SCALE[c].cls + sel + '" data-choice="' + c + '">'
-        + '<input type="radio" name="q' + gIdx + '" value="' + c + '"' + (answers[gIdx] === c ? ' checked' : '') + '>'
-        + '<span class="choice-dot"></span>'
-        + '<span class="choice-main">'
-        + '<span class="choice-name">' + SCALE[c].name + '</span>'
-        + '<span class="choice-desc">' + SCALE[c].desc + '</span>'
-        + '</span></label>';
+    function tierColorClass(band) {
+      return ['tier-ineff', 'tier-emerg', 'tier-effec', 'tier-highe'][band] || 'tier-ineff';
     }
 
-    html += '</div></div>';
-    document.getElementById('question-area').innerHTML = html;
+    function barColor(areaId) {
+      var colors = ['#4a86c8', '#e07b00', '#d4941e', '#3a9c5b', '#8e44ad', '#2c3e50'];
+      return colors[areaId];
+    }
 
-    // Attach choice handlers
-    var labels = document.querySelectorAll('.choice-label');
-    labels.forEach(function(lbl) {
-      lbl.addEventListener('click', function() {
-        var ci = parseInt(this.getAttribute('data-choice'));
-        answers[globalQIdx()] = ci;
-        labels.forEach(function(l){ l.classList.remove('selected'); });
-        this.classList.add('selected');
-        var radio = this.querySelector('input[type=radio]');
-        if (radio) radio.checked = true;
+    function globalQIdx() {
+      var base = 0;
+      for (var a = 0; a < areaIdx; a++) base += areaQuestions(a).length;
+      return base + qIdxInArea;
+    }
+
+    function renderQuestion() {
+      var area = AREAS[areaIdx];
+      var qs   = areaQuestions(areaIdx);
+      var gIdx = globalQIdx();
+
+      document.getElementById('q-current').textContent = gIdx + 1;
+      document.getElementById('progress-fill').style.width = (((gIdx + 1) / QUESTIONS.length) * 100) + '%';
+
+      var nav = document.getElementById('area-nav');
+      nav.innerHTML = '';
+      for (var a = 0; a < AREAS.length; a++) {
+        var dot = document.createElement('button');
+        dot.className = 'area-dot' + (a < areaIdx ? ' done' : '') + (a === areaIdx ? ' current' : '');
+        dot.setAttribute('aria-label', AREAS[a].label);
+        dot.setAttribute('title', AREAS[a].label);
+        nav.appendChild(dot);
+      }
+
+      var html = '<div class="area-header">'
+        + '<span class="area-pill">Practice ' + area.practice + ' of 5</span>'
+        + '<span class="area-desc">' + area.label + ' — ' + area.desc + '</span>'
+        + '</div>'
+        + '<div class="question-card">'
+        + '<div class="q-num">Question ' + (qIdxInArea + 1) + ' of ' + qs.length + ' in this section</div>'
+        + '<div class="q-text">' + qs[qIdxInArea].text + '</div>'
+        + '<div class="choices">';
+
+      for (var c = 0; c < SCALE.length; c++) {
+        var sel = answers[gIdx] === c ? ' selected' : '';
+        html += '<label class="choice-label ' + SCALE[c].cls + sel + '" data-choice="' + c + '">'
+          + '<input type="radio" name="q' + gIdx + '" value="' + c + '"' + (answers[gIdx] === c ? ' checked' : '') + '>'
+          + '<span class="choice-dot"></span>'
+          + '<span class="choice-main">'
+          + '<span class="choice-name">' + SCALE[c].name + '</span>'
+          + '<span class="choice-desc">' + SCALE[c].desc + '</span>'
+          + '</span></label>';
+      }
+
+      html += '</div></div>';
+      document.getElementById('question-area').innerHTML = html;
+
+      var labels = document.querySelectorAll('.choice-label');
+      labels.forEach(function(lbl) {
+        lbl.addEventListener('click', function() {
+          var ci = parseInt(this.getAttribute('data-choice'));
+          answers[globalQIdx()] = ci;
+          labels.forEach(function(l){ l.classList.remove('selected'); });
+          this.classList.add('selected');
+          var radio = this.querySelector('input[type=radio]');
+          if (radio) radio.checked = true;
+        });
       });
-    });
 
-    // Prev/Next button states
-    document.getElementById('prev-btn').style.display = (areaIdx === 0 && qIdxInArea === 0) ? 'none' : '';
-    document.getElementById('next-btn').textContent =
-      (areaIdx === AREAS.length - 1 && qIdxInArea === qs.length - 1) ? 'See Results' : 'Next';
-  }
-
-  // ── Navigation ─────────────────────────────────────────────────────────────
-  function goNext() {
-    var gIdx = globalQIdx();
-    if (answers[gIdx] < 0) {
-      // Highlight unanswered
-      document.querySelectorAll('.question-card').forEach(function(c){ c.style.borderColor = '#e57373'; });
-      return;
-    }
-    var qs = areaQuestions(areaIdx);
-    if (qIdxInArea < qs.length - 1) {
-      qIdxInArea++;
-    } else if (areaIdx < AREAS.length - 1) {
-      areaIdx++;
-      qIdxInArea = 0;
-    } else {
-      showGate();
-      return;
-    }
-    renderQuestion();
-  }
-
-  function goPrev() {
-    if (qIdxInArea > 0) {
-      qIdxInArea--;
-    } else if (areaIdx > 0) {
-      areaIdx--;
-      qIdxInArea = areaQuestions(areaIdx).length - 1;
-    }
-    renderQuestion();
-  }
-
-  // ── Show sections ──────────────────────────────────────────────────────────
-  function showStep(id) {
-    document.querySelectorAll('.gotb-step').forEach(function(s){ s.classList.remove('active'); });
-    document.getElementById(id).classList.add('active');
-    document.getElementById('intro-section').style.display = 'none';
-  }
-
-  function startAssessment() {
-    document.getElementById('intro-section').style.display = 'none';
-    showStep('step-questions');
-    renderQuestion();
-  }
-
-  function showGate() {
-    showStep('step-gate');
-  }
-
-  // ── Results display ────────────────────────────────────────────────────────
-  function showResults(name, district, email, emailSent) {
-    showStep('step-results');
-
-    var overall = overallScore();
-    var rating  = getRating(overall);
-    var tcc     = tierColorClass(overall);
-
-    // Score circle
-    var circle = document.getElementById('score-circle');
-    circle.className = 'score-circle';
-    circle.classList.add(tcc);
-    document.getElementById('score-num').textContent = overall;
-    var tierEl = document.getElementById('score-tier');
-    tierEl.textContent = rating;
-    tierEl.className = 'score-tier';
-    // use the tier classes for color
-    if (overall >= 75) tierEl.style.color = '#adc9e8';
-    else if (overall >= 40) tierEl.style.color = '#a8d5b5';
-    else if (overall >= 15) tierEl.style.color = '#fce5cd';
-    else tierEl.style.color = '#f5cbcc';
-
-    document.getElementById('results-district').textContent = district;
-
-    // Emailed notice
-    if (emailSent) {
-      var notice = document.getElementById('emailed-notice');
-      notice.style.display = 'flex';
-      document.getElementById('emailed-to').textContent = email;
+      document.getElementById('prev-btn').style.display = (areaIdx === 0 && qIdxInArea === 0) ? 'none' : '';
+      document.getElementById('next-btn').textContent =
+        (areaIdx === AREAS.length - 1 && qIdxInArea === qs.length - 1) ? 'See Results' : 'Next';
     }
 
-    // Gap / Strength (compare by percentage so different-max areas are comparable)
-    var areaPcts = AREAS.map(function(a, i){ return { label: a.label, pct: areaPercent(i) }; });
-    var sorted = areaPcts.slice().sort(function(a,b){ return a.pct - b.pct; });
-    document.getElementById('gap-label').textContent = sorted[0].label;
-    document.getElementById('strength-label').textContent = sorted[sorted.length - 1].label;
-
-    // Area bars — display weighted score / max; bar width is percentage of max
-    var barsHtml = '';
-    AREAS.forEach(function(area, i) {
-      var s   = areaScore(i);
-      var pct = areaPercent(i);
-      var color = barColor(i);
-      barsHtml += '<div class="area-bar-row">'
-        + '<div class="area-bar-label"><span>' + area.label + '</span><span>' + s + ' / ' + area.max + '</span></div>'
-        + '<div class="area-bar-track"><div class="area-bar-fill" style="width:' + pct + '%;background:' + color + ';"></div></div>'
-        + '</div>';
-    });
-    document.getElementById('area-bars').innerHTML = barsHtml;
-  }
-
-  // ── Gate submission ────────────────────────────────────────────────────────
-  function submitGate() {
-    var name     = document.getElementById('gate-name').value.trim();
-    var district = document.getElementById('gate-district').value.trim();
-    var email    = document.getElementById('gate-email').value.trim();
-    var errEl    = document.getElementById('gate-error');
-
-    if (!name || !district || !email || !email.includes('@') || !email.includes('.')) {
-      errEl.style.display = 'block';
-      return;
+    function goNext() {
+      var gIdx = globalQIdx();
+      if (answers[gIdx] < 0) {
+        document.querySelectorAll('.question-card').forEach(function(c){ c.style.borderColor = '#e57373'; });
+        return;
+      }
+      var qs = areaQuestions(areaIdx);
+      if (qIdxInArea < qs.length - 1) {
+        qIdxInArea++;
+      } else if (areaIdx < AREAS.length - 1) {
+        areaIdx++;
+        qIdxInArea = 0;
+      } else {
+        showGate();
+        return;
+      }
+      renderQuestion();
     }
-    errEl.style.display = 'none';
 
-    var btn = document.getElementById('submit-btn');
-    btn.textContent = 'Sending…';
-    btn.disabled = true;
+    function goPrev() {
+      if (qIdxInArea > 0) {
+        qIdxInArea--;
+      } else if (areaIdx > 0) {
+        areaIdx--;
+        qIdxInArea = areaQuestions(areaIdx).length - 1;
+      }
+      renderQuestion();
+    }
 
-    var overall = overallScore();
-    var rating  = getRating(overall);
-    var utm = getUtmParams();
-    // Every individual response, self-describing (question text + area + the
-    // chosen scale label) so the funnel admin can review exactly how someone
-    // answered, not just their rolled-up scores (AJ, 2026-07-14: "grab every
-    // single answer/entry they made").
-    var fullAnswers = QUESTIONS.map(function (q, i) {
-      return {
-        area: AREAS[q.area].label,
-        question: q.text,
-        answer: answers[i] >= 0 ? SCALE[answers[i]].name : null,
+    function showStep(id) {
+      document.querySelectorAll('.gotb-step').forEach(function(s){ s.classList.remove('active'); });
+      document.getElementById(id).classList.add('active');
+      document.getElementById('intro-section').style.display = 'none';
+    }
+
+    function startAssessment() {
+      showStep('step-questions');
+      renderQuestion();
+    }
+
+    function showGate() {
+      showStep('step-gate');
+    }
+
+    function showResults(name, district, email, emailSent) {
+      showStep('step-results');
+
+      var overall = overallScore();
+      var band    = compositeBand();
+      var rating  = getRating();
+
+      var circle = document.getElementById('score-circle');
+      circle.className = 'score-circle';
+      circle.classList.add(tierColorClass(band));
+      document.getElementById('score-num').textContent = overall;
+      var tierEl = document.getElementById('score-tier');
+      tierEl.textContent = rating;
+      tierEl.className = 'score-tier';
+      tierEl.style.color = ['#f5cbcc', '#fce5cd', '#a8d5b5', '#adc9e8'][band];
+
+      // Monitor-gate annotation: the composite band never sits more than one
+      // band above Monitor Progress.
+      var capNote = document.getElementById('cap-note');
+      if (!capNote) {
+        capNote = document.createElement('p');
+        capNote.id = 'cap-note';
+        capNote.style.cssText = 'font-size:0.85rem;color:#666;margin:0.5rem auto 0;max-width:480px;text-align:center;';
+        tierEl.parentNode.insertBefore(capNote, tierEl.nextSibling);
+      }
+      capNote.textContent = compositeCapped()
+        ? 'Your overall band is capped by Monitor Progress — monitoring is the practice everything else depends on, so your board’s overall level can sit at most one band above it.'
+        : '';
+
+      document.getElementById('results-district').textContent = district;
+
+      if (emailSent) {
+        var notice = document.getElementById('emailed-notice');
+        notice.style.display = 'flex';
+        document.getElementById('emailed-to').textContent = email;
+      }
+
+      var rows = AREAS.map(function(a, i){ return { label: a.label, pts: rowPoints(i), band: rowBand(i) }; });
+      var sorted = rows.slice().sort(function(a,b){ return a.pts - b.pts; });
+      document.getElementById('gap-label').textContent = sorted[0].label;
+      document.getElementById('strength-label').textContent = sorted[sorted.length - 1].label;
+
+      var barsHtml = '';
+      rows.forEach(function(row, i) {
+        var pct = Math.round(row.pts / 9 * 100);
+        barsHtml += '<div class="area-bar-row">'
+          + '<div class="area-bar-label"><span>' + row.label + '</span><span>' + BAND_NAMES[row.band] + ' · ' + row.pts + ' / 9</span></div>'
+          + '<div class="area-bar-track"><div class="area-bar-fill" style="width:' + pct + '%;background:' + barColor(i) + ';"></div></div>'
+          + '</div>';
+      });
+      document.getElementById('area-bars').innerHTML = barsHtml;
+    }
+
+    function submitGate() {
+      var name     = document.getElementById('gate-name').value.trim();
+      var district = document.getElementById('gate-district').value.trim();
+      var email    = document.getElementById('gate-email').value.trim();
+      var errEl    = document.getElementById('gate-error');
+
+      if (!name || !district || !email || !email.includes('@') || !email.includes('.')) {
+        errEl.style.display = 'block';
+        return;
+      }
+      errEl.style.display = 'none';
+
+      var btn = document.getElementById('submit-btn');
+      btn.textContent = 'Sending…';
+      btn.disabled = true;
+
+      var overall = overallScore();
+      var rating  = getRating();
+      var utm = getUtmParams();
+      var bands = allBands();
+
+      // Element 0 is a version/meta record; the rest are every individual
+      // response, self-describing (question text + section + level + chosen
+      // scale label) so the funnel admin sees exactly how someone answered.
+      var fullAnswers = [{
+        version: QUIZ_VERSION,
+        row_points: { focus: rowPoints(0), clarify_vision_goals: rowPoints(1), clarify_values_guardrails: rowPoints(2), monitor: rowPoints(3), align: rowPoints(4), communicate: rowPoints(5) },
+        row_bands: { focus: bands[0], clarify_vision_goals: bands[1], clarify_values_guardrails: bands[2], monitor: bands[3], align: bands[4], communicate: bands[5] },
+        composite_band: compositeBand(),
+        composite_capped_by_monitor: compositeCapped(),
+        total_points: totalPoints(),
+      }].concat(QUESTIONS.map(function (q, i) {
+        return {
+          id: q.id,
+          area: AREAS[q.area].label,
+          level: q.level,
+          question: q.text,
+          answer: answers[i] >= 0 ? SCALE[answers[i]].name : null,
+          value: answers[i] >= 0 ? answers[i] : null,
+        };
+      }));
+
+      var payload = {
+        name: name,
+        district: district,
+        email: email,
+        total_score: overall,
+        rating: rating,
+        score_focus:       Math.round(rowPoints(0) / 9 * 100),
+        score_priorities:  Math.round((rowPoints(1) + rowPoints(2)) / 18 * 100),
+        score_monitor:     Math.round(rowPoints(3) / 9 * 100),
+        score_align:       Math.round(rowPoints(4) / 9 * 100),
+        score_communicate: Math.round(rowPoints(5) / 9 * 100),
+        answers:       fullAnswers,
+        referrer:      document.referrer || null,
+        landing_path:  location.pathname + location.search,
+        source_site:   location.hostname,
+        utm_source:    utm.source,
+        utm_medium:    utm.medium,
+        utm_campaign:  utm.campaign,
       };
-    });
-    var payload = {
-      name: name,
-      district: district,
-      email: email,
-      total_score: overall,
-      rating: rating,
-      score_focus:       areaPercent(0),
-      score_priorities:  areaPercent(1),
-      score_monitor:     areaPercent(2),
-      score_align:       areaPercent(3),
-      score_communicate: areaPercent(4),
-      answers:       fullAnswers,
-      referrer:      document.referrer || null,
-      landing_path:  location.pathname + location.search,
-      source_site:   location.hostname,
-      utm_source:    utm.source,
-      utm_medium:    utm.medium,
-      utm_campaign:  utm.campaign,
-    };
 
-    // Fire-and-forget into the GOTB portal's lead funnel -- best-effort,
-    // never blocks or affects the emailed-results flow below. Once it
-    // resolves, carry the resulting lead_id forward into the "Schedule a
-    // Free Consultation" CTA so a follow-up consultation request from the
-    // SAME person merges into this same funnel row instead of creating a
-    // disconnected second one (AJ, 2026-07-15).
-    fetch(FUNNEL_API, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(payload),
-    })
-    .then(function(r){ return r.json(); })
-    .then(function(data){
-      if (!data || !data.lead_id) return;
-      var cta = document.getElementById('consultation-cta');
-      if (!cta) return;
-      var params = new URLSearchParams({
-        lead_id: data.lead_id, name: name, email: email, district: district,
+      fetch(FUNNEL_API, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      })
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        if (!data || !data.lead_id) return;
+        var cta = document.getElementById('consultation-cta');
+        if (!cta) return;
+        var params = new URLSearchParams({
+          lead_id: data.lead_id, name: name, email: email, district: district,
+        });
+        cta.href = '/consultation?' + params.toString();
+      })
+      .catch(function(){ /* funnel capture is best-effort */ });
+
+      fetch(API, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      })
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        showResults(name, district, email, !!(data && data.sent));
+      })
+      .catch(function(){
+        showResults(name, district, email, false);
       });
-      cta.href = '/consultation?' + params.toString();
-    })
-    .catch(function(){ /* funnel capture is best-effort */ });
+    }
 
-    fetch(API, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(payload),
-    })
-    .then(function(r){ return r.json(); })
-    .then(function(data){
-      showResults(name, district, email, !!(data && data.sent));
-    })
-    .catch(function(){
-      // Still show results even if email fails
-      showResults(name, district, email, false);
+    document.addEventListener('DOMContentLoaded', function () {
+      document.getElementById('next-btn').addEventListener('click', goNext);
+      document.getElementById('prev-btn').addEventListener('click', goPrev);
+      document.getElementById('submit-btn').addEventListener('click', submitGate);
+      document.getElementById('gate-email').addEventListener('keydown', function(e){
+        if (e.key === 'Enter') submitGate();
+      });
+      answers = new Array(QUESTIONS.length).fill(-1);
+      document.getElementById('start-btn').addEventListener('click', startAssessment);
     });
-  }
-
-  // ── Wire up ────────────────────────────────────────────────────────────────
-  document.addEventListener('DOMContentLoaded', function () {
-    document.getElementById('start-btn').addEventListener('click', startAssessment);
-    document.getElementById('next-btn').addEventListener('click', goNext);
-    document.getElementById('prev-btn').addEventListener('click', goPrev);
-    document.getElementById('submit-btn').addEventListener('click', submitGate);
-    document.getElementById('gate-email').addEventListener('keydown', function(e){
-      if (e.key === 'Enter') submitGate();
-    });
-  });
-
-})();
-</script>
+  })();
+  </script>
