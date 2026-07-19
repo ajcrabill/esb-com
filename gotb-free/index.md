@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "GOTB Index: Self Assessment"
+title: "GOTB Index — Self Assessment"
 description: "A free 18-question self-assessment for school board members based on the Great On Their Behalf index. Get an indicative read of where your board stands across five practice areas."
 toplevel: "gotb-free"
 ---
@@ -181,7 +181,7 @@ body { margin: 0; padding: 0; }
 
 <!-- Hero -->
 <div class="gotb-hero">
-  <h1>GOTB Index: Self Assessment</h1>
+  <h1>GOTB Index — Self Assessment</h1>
   <p>A free 18-question self-assessment for school board members based on the Great On Their Behalf index.<br>Takes about 5 minutes. Your results are personal and private.</p>
 </div>
 
@@ -199,7 +199,7 @@ body { margin: 0; padding: 0; }
 
   <div class="compare-wrap">
     <div class="compare-col free">
-      <h3>GOTB Index: Self Assessment (this tool)</h3>
+      <h3>GOTB Index — Self Assessment (this tool)</h3>
       <ul>
         <li>Free, individual, anonymous</li>
         <li>18 questions, ~5 minutes</li>
@@ -209,11 +209,11 @@ body { margin: 0; padding: 0; }
       </ul>
     </div>
     <div class="compare-col cert">
-      <h3>GOTB Index: Certified Assessment</h3>
+      <h3>GOTB Index — Certified Assessment</h3>
       <ul>
         <li>Administered by a Certified Great On Their Behalf Practitioner</li>
         <li>Whole-board assessment, evidence-based scoring</li>
-        <li>Psychometrically validated instrument</li>
+        <li>Evidence-based, observable-behavior scoring</li>
         <li>Nationally benchmarked results</li>
         <li>Includes team-level analysis and formal report</li>
       </ul>
@@ -265,7 +265,7 @@ body { margin: 0; padding: 0; }
 <!-- ── STEP: Results ───────────────────────────────────────────────────────── -->
 <div class="gotb-step" id="step-results">
   <div class="results-header">
-    <h2>GOTB Index: Self Assessment Results</h2>
+    <h2>GOTB Index — Self Assessment Results</h2>
     <p id="results-district"></p>
     <div class="score-circle" id="score-circle">
       <span class="score-num" id="score-num">—</span>
@@ -309,18 +309,18 @@ body { margin: 0; padding: 0; }
     <!-- Limit-of-self-scoring block (required) -->
     <div class="limit-block">
       <h4>What this free read can't tell you</h4>
-      <p>This is your board's story as you see it — scored by you, in this moment. It can't tell you whether your self-rating matches what a trained observer would score, how your board compares to others nationally, or where your fellow board members quietly see things differently. The Certified Assessment — the same instrument, administered by a Certified Great On Their Behalf Practitioner — gives you a validated, nationally benchmarked measurement of your whole board.</p>
+      <p>This is your board's story as you see it — scored by you, in this moment. It can't tell you whether your self-rating matches what a trained observer would score, how your board compares to others nationally, or where your fellow board members quietly see things differently. The Certified Assessment — the same instrument, administered by a Certified Great On Their Behalf Practitioner — gives you an evidence-based, nationally benchmarked measurement of your whole board.</p>
     </div>
 
     <!-- CTA -->
     <div class="results-cta">
-      <h3>Ready for the validated read?</h3>
-      <p>The Certified Assessment is psychometrically validated, whole-board, nationally benchmarked — and administered by a Certified Great On Their Behalf Practitioner. No guessing. No self-scoring.</p>
+      <h3>Ready for the certified read?</h3>
+      <p>The Certified Assessment is evidence-based, whole-board, nationally benchmarked — and administered by a Certified Great On Their Behalf Practitioner. No guessing. No self-scoring.</p>
       <a class="btn-cta" href="/consultation" id="consultation-cta">Schedule a Free Consultation</a>
     </div>
 
     <p class="disclaimer">
-      © Effective School Boards LLC. The GOTB Index: Self Assessment is a self-scored, indicative tool.<br>
+      © Effective School Boards LLC. The GOTB Index — Self Assessment is a self-scored, indicative tool.<br>
       It is not a validated or benchmarked measurement and should not be used for formal evaluation or accountability decisions.<br>
       "Student outcomes don't change until adult behaviors change."™
     </p>
@@ -336,10 +336,10 @@ body { margin: 0; padding: 0; }
     var FUNNEL_API = 'https://api.gotb.effectiveschoolboards.com/api/directory/leads/inbound/gotb-free';
     var QUIZ_VERSION = 'free-v2';
 
-    // Six sections mirroring the validated instrument's six rows, presented
+    // Six sections mirroring the Certified Assessment's six rows, presented
     // under the five-practice brand (Clarify Priorities split into two
     // labeled sub-sections). Each question is a first-person rendering of
-    // exactly one named validated indicator (crosswalk kept server-side).
+    // exactly one named Certified Assessment indicator (crosswalk kept server-side).
     var AREAS = [
       { id: 'focus',       practice: 1, label: 'Focus Mindset',                              desc: "Keeping the board's attention on student outcomes" },
       { id: 'vg',          practice: 2, label: 'Clarify Priorities: Vision & Goals',         desc: 'Clear, measurable student-outcome goals' },
@@ -386,7 +386,7 @@ body { margin: 0; padding: 0; }
 
     function areaQuestions(a) { return QUESTIONS.filter(function(q){ return q.area === a; }); }
 
-    // --- v2 scoring: same skeleton as the validated instrument ---
+    // --- v2 scoring: same skeleton as the Certified Assessment ---
     // Row points 0-9; a level is confirmed when its anchor scores >= 2
     // ("we do this consistently"); row band climbs the ladder cumulatively;
     // total = points/54 x 100 unweighted; composite = lower median of the six
