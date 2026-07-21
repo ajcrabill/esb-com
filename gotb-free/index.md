@@ -227,15 +227,22 @@ body { margin: 0; padding: 0; }
 
 <!-- ── STEP: Questions ──────────────────────────────────────────────────────── -->
 <div class="gotb-step" id="step-questions">
-  <div id="progress-bar-wrap">
-    <div id="progress-bar-label">Question <span id="q-current">1</span> of 18</div>
-    <div id="progress-bar"><div id="progress-fill"></div></div>
+  <div id="load-status" style="padding:32px 16px; text-align:center; color:#4A7A9E;">Loading the assessment…</div>
+  <div id="load-error" style="display:none; padding:32px 16px; text-align:center; color:#7a0000;">
+    <p style="font-weight:700; margin:0 0 8px;">We couldn't load the assessment right now.</p>
+    <p style="margin:0;">Please refresh the page or try again in a few minutes.</p>
   </div>
-  <div id="area-nav" role="navigation" aria-label="Practice area progress"></div>
-  <div id="question-area"></div>
-  <div class="btn-row">
-    <button class="gotb-btn btn-secondary" id="prev-btn">Back</button>
-    <button class="gotb-btn btn-primary" id="next-btn">Next</button>
+  <div id="quiz-body" style="display:none;">
+    <div id="progress-bar-wrap">
+      <div id="progress-bar-label">Question <span id="q-current">1</span> of <span id="q-total">18</span></div>
+      <div id="progress-bar"><div id="progress-fill"></div></div>
+    </div>
+    <div id="area-nav" role="navigation" aria-label="Practice area progress"></div>
+    <div id="question-area"></div>
+    <div class="btn-row">
+      <button class="gotb-btn btn-secondary" id="prev-btn">Back</button>
+      <button class="gotb-btn btn-primary" id="next-btn">Next</button>
+    </div>
   </div>
 </div>
 
@@ -336,49 +343,96 @@ body { margin: 0; padding: 0; }
     var FUNNEL_API = 'https://api.gotb.effectiveschoolboards.com/api/directory/leads/inbound/gotb-free';
     var QUIZ_VERSION = 'free-v2';
 
-    // Six sections mirroring the Certified Assessment's six rows, presented
-    // under the five-practice brand (Clarify Priorities split into two
-    // labeled sub-sections). Each question is a first-person rendering of
-    // exactly one named Certified Assessment indicator (crosswalk kept server-side).
-    var AREAS = [
-      { id: 'focus',       practice: 1, label: 'Focus Mindset',                              desc: "Keeping the board's attention on student outcomes" },
-      { id: 'vg',          practice: 2, label: 'Clarify Priorities: Vision & Goals',         desc: 'Clear, measurable student-outcome goals' },
-      { id: 'gg',          practice: 2, label: 'Clarify Priorities: Values & Guardrails',    desc: 'Clear limits that protect the community’s values' },
-      { id: 'monitor',     practice: 3, label: 'Monitor Progress',                           desc: 'Reviewing real evidence and acting on it' },
-      { id: 'align',       practice: 4, label: 'Align Resources',                            desc: 'Connecting time, talent, and treasure to your goals' },
-      { id: 'communicate', practice: 5, label: 'Communicate Results',                        desc: 'Honest, plain-language reporting to the community' },
-    ];
+    // ZERO-DRIFT: questions, scale, band names, and scoring rules are drawn from
+    // the portal's canonical instrument endpoint. There is NO hardcoded copy of
+    // the questions in this page — the only local copy is a short-lived
+    // localStorage cache populated solely from the endpoint (never a bundled
+    // fallback array). The instrument is prefetched on load; when the user clicks
+    // Start we render from a fresh cache instantly, and fall back to the
+    // last-known-good cache if the portal is briefly down. A hard error only
+    // shows on a true cold-start outage (fetch fails AND no cache exists at all).
+    var INSTRUMENT_URL = 'https://api.gotb.effectiveschoolboards.com/api/assessments/instruments/free_self_assessment';
+    var CACHE_KEY = 'gotb_free_instrument_v1';
+    var CACHE_TTL_MS = 10 * 60 * 1000; // 10 minutes
 
-    // Three questions per section in ladder order: Emerging, Effective,
-    // Highly Effective anchors.
-    var QUESTIONS = [
-      { area: 0, id: 'focus.e',   level: 'Emerging',         text: "When we discuss how the school system is doing, we talk about students' results, not adult activity." },
-      { area: 0, id: 'focus.eff', level: 'Effective',        text: 'Our substantive board discussion centers on student outcomes, not operations.' },
-      { area: 0, id: 'focus.he',  level: 'Highly Effective', text: 'When progress stalls, we hold ourselves — the board — accountable, not staff or outside factors.' },
-      { area: 1, id: 'vg.e',      level: 'Emerging',         text: 'We work from a small, focused set of written student-outcome goals we can name.' },
-      { area: 1, id: 'vg.eff',    level: 'Effective',        text: 'Each goal names a measurable student outcome with a baseline, a numeric target, and a date.' },
-      { area: 1, id: 'vg.he',     level: 'Highly Effective', text: 'We tie board decisions back to a specific goal.' },
-      { area: 2, id: 'gg.e',      level: 'Emerging',         text: "When we set guardrails, we state what the superintendent may not do — and leave the 'how' alone." },
-      { area: 2, id: 'gg.eff',    level: 'Effective',        text: 'Our guardrails describe observable operating limits, not vague values.' },
-      { area: 2, id: 'gg.he',     level: 'Highly Effective', text: 'We check proposed actions against our guardrails before approving them.' },
-      { area: 3, id: 'mon.e',     level: 'Emerging',         text: 'We follow a monitoring calendar, reviewing the goal or guardrail scheduled for that meeting.' },
-      { area: 3, id: 'mon.eff',   level: 'Effective',        text: 'We devote at least half of each meeting to monitoring progress toward student-outcome goals.' },
-      { area: 3, id: 'mon.he',    level: 'Highly Effective', text: 'Our monitoring ends with a judgment: is progress sufficient, and what is the board’s next step?' },
-      { area: 4, id: 'al.e',      level: 'Emerging',         text: 'When we approve an expenditure, we ask how it supports our goals.' },
-      { area: 4, id: 'al.eff',    level: 'Effective',        text: "We tie the superintendent's evaluation to progress on our goals and guardrails." },
-      { area: 4, id: 'al.he',     level: 'Highly Effective', text: "We decline or defer items that don't advance a goal or guardrail." },
-      { area: 5, id: 'com.e',     level: 'Emerging',         text: 'We share goals and progress with the community in plain, jargon-free language.' },
-      { area: 5, id: 'com.eff',   level: 'Effective',        text: 'We communicate gaps as honestly as gains, not only good news.' },
-      { area: 5, id: 'com.he',    level: 'Highly Effective', text: 'We invite the community to hold us accountable for progress toward our goals.' },
-    ];
+    var quizStarted = false;      // true once questions are actually on screen
+    var instrumentLoaded = false; // true once AREAS/QUESTIONS are populated
+    var pendingStart = false;     // user clicked Start before the instrument was ready
 
-    var SCALE = [
-      { name: 'Beginning',        desc: 'We don’t do this',             cls: 'c0' },
-      { name: 'Emerging',         desc: 'We do this sometimes',          cls: 'c1' },
-      { name: 'Effective',        desc: 'We do this consistently',       cls: 'c2' },
-      { name: 'Highly Effective', desc: 'This is how we always operate', cls: 'c3' },
-    ];
-    var BAND_NAMES = ['Beginning', 'Emerging', 'Effective', 'Highly Effective'];
+    function readInstrumentCache() {
+      try {
+        var raw = localStorage.getItem(CACHE_KEY);
+        if (!raw) return null;
+        var obj = JSON.parse(raw);
+        if (obj && obj.data) return obj; // { ts, data }
+      } catch (e) {}
+      return null;
+    }
+    function writeInstrumentCache(data) {
+      try {
+        localStorage.setItem(CACHE_KEY, JSON.stringify({ ts: Date.now(), data: data }));
+      } catch (e) {}
+    }
+
+    // Populated from the endpoint by buildFromInstrument(). Empty until then.
+    var AREAS = [];      // { id, practice, label, desc }
+    var QUESTIONS = [];  // { area, id, level, text }
+    var SCALE = [];      // { name, desc, cls }
+    var BAND_NAMES = [];
+    var MAX_POINTS = 54;         // overridden by instrument.max_points
+    var LADDER_THRESHOLD = 2;    // overridden by instrument.scoring.ladder_threshold
+    var MONITOR_IDX = 3;         // row index of the monitor gate (found by key)
+
+    // Build all local state from the canonical instrument JSON.
+    function buildFromInstrument(inst) {
+      var scoring = inst.scoring || {};
+      BAND_NAMES = (inst.band_names || scoring.band_names || []).slice();
+      MAX_POINTS = inst.max_points || MAX_POINTS;
+      LADDER_THRESHOLD = (scoring.ladder_threshold != null) ? scoring.ladder_threshold : LADDER_THRESHOLD;
+      var monitorKey = inst.monitor_row_key || scoring.monitor_row_key || 'monitor';
+      if (inst.instrument_version) QUIZ_VERSION = inst.instrument_version;
+
+      // Scale, ordered by value; cls c0..c3 keyed to the scale value.
+      SCALE = (inst.scale || []).slice()
+        .sort(function (a, b) { return a.value - b.value; })
+        .map(function (s) { return { name: s.name, desc: s.desc, cls: 'c' + s.value }; });
+
+      // One AREA per row (in endpoint order), one QUESTION per item.
+      AREAS = [];
+      QUESTIONS = [];
+      MONITOR_IDX = 0;
+      (inst.rows || []).forEach(function (row, ai) {
+        AREAS.push({ id: row.key, practice: row.practice, label: row.label, desc: row.description });
+        if (row.key === monitorKey) MONITOR_IDX = ai;
+        (row.items || []).forEach(function (item, li) {
+          QUESTIONS.push({
+            area: ai,
+            id: item.id,
+            // Display level name from the band ladder (item li -> band li+1),
+            // falling back to the raw endpoint level string.
+            level: BAND_NAMES[li + 1] || item.level,
+            text: item.text,
+          });
+        });
+      });
+
+      // Sync static band-name labels in the results tier legend to the endpoint,
+      // preserving any trailing parenthetical suffix (e.g. "(indicative)").
+      var legendNames = document.querySelectorAll('.tier-legend .tier-name');
+      for (var i = 0; i < legendNames.length; i++) {
+        if (!BAND_NAMES[i]) continue;
+        var m = legendNames[i].textContent.match(/\s*(\([^)]*\))\s*$/);
+        legendNames[i].textContent = BAND_NAMES[i] + (m ? ' ' + m[1] : '');
+      }
+      var qTotal = document.getElementById('q-total');
+      if (qTotal) qTotal.textContent = QUESTIONS.length;
+    }
+
+    // Populate local state from an instrument payload (cache or fetch).
+    function applyInstrument(inst) {
+      buildFromInstrument(inst);
+      instrumentLoaded = QUESTIONS.length > 0;
+    }
 
     var answers    = [];
     var areaIdx    = 0;
@@ -398,7 +452,7 @@ body { margin: 0; padding: 0; }
     }
     function rowBand(ai) {
       var qs = areaQuestions(ai);
-      function conf(levelIdx) { var gi = QUESTIONS.indexOf(qs[levelIdx]); return answers[gi] >= 2; }
+      function conf(levelIdx) { var gi = QUESTIONS.indexOf(qs[levelIdx]); return answers[gi] >= LADDER_THRESHOLD; }
       if (!conf(0)) return 0;
       if (!conf(1)) return 1;
       if (!conf(2)) return 2;
@@ -409,7 +463,7 @@ body { margin: 0; padding: 0; }
       var s = bands.slice().sort(function(a,b){ return a-b; });
       return s[Math.floor((s.length - 1) / 2)];
     }
-    function monitorBand() { return rowBand(3); }
+    function monitorBand() { return rowBand(MONITOR_IDX); }
     function compositeBand() {
       return Math.min(lowerMedian(allBands()), monitorBand() + 1);
     }
@@ -421,7 +475,7 @@ body { margin: 0; padding: 0; }
       for (var i = 0; i < AREAS.length; i++) sum += rowPoints(i);
       return sum;
     }
-    function overallScore() { return Math.round(100 * totalPoints() / 54); }
+    function overallScore() { return Math.round(100 * totalPoints() / MAX_POINTS); }
     function getRating() { return BAND_NAMES[compositeBand()] + ' (indicative)'; }
 
     function getUtmParams() {
@@ -489,6 +543,7 @@ body { margin: 0; padding: 0; }
       labels.forEach(function(lbl) {
         lbl.addEventListener('click', function() {
           var ci = parseInt(this.getAttribute('data-choice'));
+          quizStarted = true;
           answers[globalQIdx()] = ci;
           labels.forEach(function(l){ l.classList.remove('selected'); });
           this.classList.add('selected');
@@ -537,9 +592,37 @@ body { margin: 0; padding: 0; }
       document.getElementById('intro-section').style.display = 'none';
     }
 
+    // Render the questions from the loaded instrument (marks the quiz as started
+    // so a late fetch never rebuilds the instrument out from under the user).
+    function beginQuizNow() {
+      quizStarted = true;
+      answers = new Array(QUESTIONS.length).fill(-1);
+      areaIdx = 0;
+      qIdxInArea = 0;
+      document.getElementById('load-status').style.display = 'none';
+      document.getElementById('load-error').style.display = 'none';
+      document.getElementById('quiz-body').style.display = '';
+      renderQuestion();
+    }
+
+    function showLoadError() {
+      document.getElementById('load-status').style.display = 'none';
+      document.getElementById('quiz-body').style.display = 'none';
+      document.getElementById('load-error').style.display = '';
+    }
+
     function startAssessment() {
       showStep('step-questions');
-      renderQuestion();
+      if (instrumentLoaded) {
+        beginQuizNow();
+      } else {
+        // Instrument not ready yet: show a loading state; render once it arrives
+        // (or fall back / error out) via the fetch handlers below.
+        pendingStart = true;
+        document.getElementById('quiz-body').style.display = 'none';
+        document.getElementById('load-error').style.display = 'none';
+        document.getElementById('load-status').style.display = '';
+      }
     }
 
     function showGate() {
@@ -699,8 +782,34 @@ body { margin: 0; padding: 0; }
       document.getElementById('gate-email').addEventListener('keydown', function(e){
         if (e.key === 'Enter') submitGate();
       });
-      answers = new Array(QUESTIONS.length).fill(-1);
       document.getElementById('start-btn').addEventListener('click', startAssessment);
+
+      // Cache-backed prefetch of the canonical instrument (the intro screen is
+      // showing, so we populate state now and render when the user hits Start).
+      // A fresh cache (<10 min) is applied instantly; we always re-fetch to
+      // refresh it. On failure we fall back to any cache (even stale); a hard
+      // error only appears on a true cold start (no cache) if the user is waiting.
+      var cached = readInstrumentCache();
+      if (cached && (Date.now() - cached.ts) < CACHE_TTL_MS) {
+        applyInstrument(cached.data);
+      }
+
+      fetch(INSTRUMENT_URL, { headers: { 'Accept': 'application/json' } })
+        .then(function (r) {
+          if (!r.ok) throw new Error('HTTP ' + r.status);
+          return r.json();
+        })
+        .then(function (inst) {
+          writeInstrumentCache(inst);
+          if (!quizStarted) applyInstrument(inst);
+          if (pendingStart && instrumentLoaded && !quizStarted) beginQuizNow();
+        })
+        .catch(function () {
+          if (!instrumentLoaded && cached) applyInstrument(cached.data); // stale fallback
+          if (pendingStart && !quizStarted) {
+            if (instrumentLoaded) beginQuizNow(); else showLoadError();
+          }
+        });
     });
   })();
   </script>
